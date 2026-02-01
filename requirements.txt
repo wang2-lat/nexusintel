@@ -1,0 +1,15 @@
+# NexusIntel 自动更新脚本依赖
+
+# 核心依赖
+requests>=2.31.0
+google-generativeai>=0.3.0
+
+# RSS 解析（可选，用于免费新闻源）
+feedparser>=6.0.10
+
+# 网页爬虫（可选）
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# 数据处理
+python-dateutil>=2.8.2
