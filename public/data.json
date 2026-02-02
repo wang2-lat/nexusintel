@@ -1,818 +1,813 @@
 {
-  "generated_at": "2026-02-01T01:42:29.225968",
+  "generated_at": "2026-02-02T02:30:06.899103",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "欧元走强威胁ECB通胀前景",
-        "fullTitle": "欧元飙升成为欧洲央行年初政策会议主要风险",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "欧元汇率近期大幅上涨，可能对欧洲央行的通胀前景构成威胁。这将成为欧洲央行本年度首次政策会议的核心议题。强势欧元会通过降低进口商品价格来抑制通胀，可能影响央行未来的利率决策路径。",
+        "title": "印尼股市因金属疲软大跌",
+        "fullTitle": "印尼股市因金属疲软及监管层改组下跌超5%",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "印尼股市周一暴跌超过5%，主要受大宗商品价格疲软引发的区域性抛售影响。尽管分析师认为金融监管机构的领导层改组和新改革措施应能改善前景，但市场短期仍受情绪主导。此次下跌凸显了资源依赖型经济体对全球商品周期的敏感性。",
         "relations": [
           {
-            "label": "欧洲央行",
+            "label": "印尼股市",
             "type": "entity",
-            "desc": "欧元区货币政策制定机构"
+            "desc": "受大宗商品价格波动影响显著的东南亚市场"
           },
           {
-            "label": "欧元",
-            "type": "asset",
-            "desc": "欧元区统一货币"
+            "label": "大宗商品",
+            "type": "resource",
+            "desc": "价格疲软引发区域性抛售的关键驱动因素"
           },
           {
-            "label": "通胀",
+            "label": "金融监管机构",
+            "type": "entity",
+            "desc": "领导层改组，旨在推出新改革措施"
+          },
+          {
+            "label": "改革措施",
             "type": "risk",
-            "desc": "物价持续上涨的经济现象"
-          },
-          {
-            "label": "货币政策",
-            "type": "risk",
-            "desc": "央行调控经济的利率及流动性工具"
+            "desc": "被分析师视为改善市场长期前景的潜在因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "欧元走强可能迫使欧洲央行在降息路径上更加谨慎，以平衡汇率对通胀的抑制作用与国内经济需求。",
-            "此举可能加剧全球主要央行（尤其是美联储与欧央行）之间的货币政策分歧，影响全球资本流动。"
+            "印尼作为资源出口国，其资本市场与全球金属价格周期高度绑定，需关注其经济结构转型进展。",
+            "监管层在动荡时期进行改组，可能意在稳定市场并推动结构性改革，但短期市场信心修复需要时间。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "欧元区银行股 / 欧元兑美元汇率",
+          "asset": "印尼雅加达综合指数相关ETF或期货",
           "risk": "MEDIUM",
-          "thesis": "若欧央行因欧元强势而推迟或放缓降息，可能不利于依赖宽松货币环境的银行股；同时，政策分歧可能限制欧元进一步上行空间。"
+          "thesis": "短期内，全球金属价格疲软及市场避险情绪可能继续压制印尼股市，监管改革的利好兑现需要时间。"
+        },
+        "confidence": 85,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1576166130618?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "铜价续跌，中国交易员观望",
+        "fullTitle": "铜价延续跌势，中国交易员在剧烈波动后暂时离场",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "铜价在周五大幅下跌后继续走低。此前几天，中国市场的买卖浪潮引发了金属市场的剧烈震荡。目前交易员正在评估后续走势，部分选择暂时离场观望。这反映了市场在经历极端波动后的谨慎情绪。",
+        "relations": [
+          {
+            "label": "铜",
+            "type": "resource",
+            "desc": "核心工业金属，价格受中国需求与投机活动影响巨大"
+          },
+          {
+            "label": "中国交易员",
+            "type": "entity",
+            "desc": "近期市场剧烈波动的主要驱动力量"
+          },
+          {
+            "label": "金属市场",
+            "type": "entity",
+            "desc": "经历由资金流动引发的动荡"
+          },
+          {
+            "label": "价格波动",
+            "type": "risk",
+            "desc": "市场流动性及情绪快速转变的标志"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "中国资本对全球基础金属市场的定价影响力凸显，其交易行为可能引发全球连锁反应。",
+            "市场在剧烈波动后进入冷静期，表明投机潮可能暂歇，基本面因素将重新主导价格方向。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "铜期货或相关矿业股",
+          "risk": "HIGH",
+          "thesis": "市场情绪转向谨慎，前期投机性买盘退潮，且全球宏观经济不确定性仍存，铜价短期面临调整压力。"
+        },
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1667913511541?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "甲骨文拟融资500亿扩建云设施",
+        "fullTitle": "甲骨文计划2026年融资高达500亿美元以扩建AI云设施",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "甲骨文公司计划今年通过债务和股权销售相结合的方式筹集450亿至500亿美元。融资目的是建设额外的云基础设施容量，以满足人工智能增长带来的巨大需求。这反映了AI竞赛已进入白热化的资本开支阶段。如此大规模的融资将显著影响其资产负债表和未来战略。",
+        "relations": [
+          {
+            "label": "甲骨文",
+            "type": "entity",
+            "desc": "传统软件巨头，正大力投资云计算以追赶竞争对手"
+          },
+          {
+            "label": "云计算基础设施",
+            "type": "tech",
+            "desc": "AI发展的核心底层资源，资本密集型投资领域"
+          },
+          {
+            "label": "人工智能",
+            "type": "tech",
+            "desc": "驱动本轮云计算资本开支狂潮的核心需求"
+          },
+          {
+            "label": "大规模融资",
+            "type": "risk",
+            "desc": "涉及巨额债务与股权稀释，将影响公司财务结构"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "科技巨头为争夺AI主导权进行的“军备竞赛”已从算法模型层面延伸至底层基础设施的规模竞争。",
+            "甲骨文此举旨在缩小与AWS、Azure等云巨头的差距，但巨额融资带来的财务压力和市场执行风险不容忽视。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "甲骨文公司股票",
+          "risk": "MEDIUM",
+          "thesis": "公司展现出全力押注AI云计算的决心，若执行成功，可能改变其在云市场的竞争格局，带来长期增长潜力。"
         },
         "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1502163270233?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1561488866756?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "俄摩尔曼斯克港口恢复运营",
-        "fullTitle": "俄罗斯摩尔曼斯克港口在电力中断后恢复运营",
+        "title": "AI裁员潮还是“AI洗白”？",
+        "fullTitle": "近期裁员公司是否只是以AI为借口进行“AI洗白”？",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "据国际文传电讯社报道，俄罗斯摩尔曼斯克散货码头和商业海港在周六早些时候因电力中断暂停运营后，于晚间恢复作业。该港口是俄罗斯北极地区重要的能源和货物出口枢纽。事件原因尚不明确，但凸显了关键基础设施的脆弱性。",
+        "summary": "近期多家公司宣布裁员，并声称与转向人工智能有关。这引发了市场质疑：有多少公司是真正进行AI转型，而有多少只是以AI为时髦借口来削减成本或重塑形象？这种现象被称为“AI-washing”（AI洗白）。",
         "relations": [
           {
-            "label": "摩尔曼斯克港",
-            "type": "entity",
-            "desc": "俄罗斯北极地区关键港口"
-          },
-          {
-            "label": "俄罗斯",
-            "type": "entity",
-            "desc": "事件发生国"
-          },
-          {
-            "label": "能源出口",
-            "type": "resource",
-            "desc": "俄罗斯经济命脉"
-          },
-          {
-            "label": "基础设施风险",
+            "label": "AI-washing",
             "type": "risk",
-            "desc": "关键设施中断对供应链的影响"
+            "desc": "企业利用AI概念进行炒作或掩饰其他动机的行为"
+          },
+          {
+            "label": "企业裁员",
+            "type": "risk",
+            "desc": "结构性调整或成本削减措施"
+          },
+          {
+            "label": "人工智能转型",
+            "type": "tech",
+            "desc": "企业声称的裁员背后的战略方向"
+          },
+          {
+            "label": "公司治理",
+            "type": "entity",
+            "desc": "涉及信息披露的真实性与透明度问题"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件虽短暂，但暴露了俄罗斯关键能源出口节点在面对突发中断时的脆弱性，可能影响全球能源市场对俄供应稳定性的评估。",
-            "在俄乌冲突背景下，此类事件需关注是否为孤立的技术故障，还是更广泛基础设施压力或潜在干扰的迹象。"
+            "“AI洗白”现象可能损害AI技术的长期信誉，并误导投资者对相关公司真实战略价值的判断。",
+            "投资者需仔细甄别企业AI战略的实质内容与执行能力，而非仅听信口号，避免投资于概念炒作型公司。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "全球能源运输与物流公司",
-          "risk": "LOW",
-          "thesis": "关键出口节点间歇性中断风险，可能促使能源进口国和贸易商寻求更分散、更具韧性的供应链和物流方案，利好相关服务商。"
+          "action": "SHORT",
+          "asset": "涉嫌“AI洗白”且基本面薄弱的公司股票",
+          "risk": "HIGH",
+          "thesis": "市场可能逐渐识破仅以AI为裁员借口的公司，其缺乏实质转型进展将导致股价回调。"
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1698342108183?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1626771828650?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "美政府入股私企引争议",
-        "fullTitle": "美国政府直接入股私企引发对市场竞争与创新的担忧",
+        "title": "Tether CEO高调现身引关注",
+        "fullTitle": "Tether CEO结束海外避居，近期频繁公开露面",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "特朗普政府正通过直接入股英特尔、MP材料等私营公司，重塑政府与市场关系。此举以国家安全为由，但引发了关于政府“挑选赢家”对市场竞争、创新和自由市场信任度影响的广泛辩论。专家对此举的利弊进行了权衡。",
+        "summary": "多年来，Tether的CEO一直避免前往美国，在海外观望监管机构的审查和检察官的调查。如今，这种情况已经改变，他近期频繁出现在公众视野中。这一转变可能暗示着公司与美国监管机构的关系或法律处境发生了重大变化。",
         "relations": [
           {
-            "label": "美国政府",
+            "label": "Tether",
             "type": "entity",
-            "desc": "政策制定与执行主体"
+            "desc": "发行最大稳定币USDT的加密公司"
           },
           {
-            "label": "产业政策",
-            "type": "risk",
-            "desc": "政府干预特定产业发展的策略"
+            "label": "稳定币",
+            "type": "tech",
+            "desc": "加密货币市场的关键基础设施，受全球监管高度关注"
           },
           {
-            "label": "国家安全",
-            "type": "risk",
-            "desc": "政府干预市场的常见理由"
+            "label": "美国监管机构",
+            "type": "entity",
+            "desc": "对加密行业，尤其是稳定币发行商，进行持续审查"
           },
           {
-            "label": "自由市场",
+            "label": "法律风险",
             "type": "risk",
-            "desc": "强调市场自主调节的经济体系"
+            "desc": "曾是公司及高管面临的主要不确定性来源"
           }
         ],
         "analysis": {
           "strategic": [
-            "此举标志着美国产业政策向更直接的国家干预转变，可能引发盟友及竞争对手的效仿，加剧全球产业链的政府主导色彩。",
-            "长期可能扭曲资本配置效率，削弱私营部门创新动力，并引发关于“国家资本主义”与“自由市场”界限的意识形态冲突。"
+            "Tether CEO行为模式的转变，可能意味着公司已与美国当局达成某种和解或协议，试图走向合规化。",
+            "作为加密市场流动性的核心提供者，Tether的合规进展将极大影响整个加密货币行业的稳定性和监管前景。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "受政府扶持的关键技术/材料公司（如半导体、稀土）",
-          "risk": "MEDIUM",
-          "thesis": "短期内，被选中的“国家队”企业将获得资金和政策倾斜，确定性增强。但需警惕长期效率低下和市场扭曲风险。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1659647427096?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Waymo拟融资160亿美元",
-        "fullTitle": "Waymo据悉正进行160亿美元融资，估值达1100亿",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "自动驾驶公司Waymo据悉即将完成新一轮大规模融资，金额高达160亿美元。此轮融资将使这家机器人出租车公司的估值达到1100亿美元。这表明资本市场对高级别自动驾驶商业化前景仍抱有极高期望和估值。",
-        "relations": [
-          {
-            "label": "Waymo",
-            "type": "entity",
-            "desc": "Alphabet旗下自动驾驶公司"
-          },
-          {
-            "label": "自动驾驶",
-            "type": "tech",
-            "desc": "车辆自主行驶技术"
-          },
-          {
-            "label": "机器人出租车",
-            "type": "tech",
-            "desc": "自动驾驶出租车服务"
-          },
-          {
-            "label": "融资",
-            "type": "risk",
-            "desc": "企业获取资金的行为"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "巨额融资显示了头部玩家在“烧钱”的自动驾驶赛道中进一步巩固资金壁垒，行业马太效应加剧，中小玩家生存空间被挤压。",
-            "高估值也意味着市场对Waymo商业化时间表和盈利能力的预期极高，任何进展不及预期都可能引发估值剧烈调整。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet (GOOGL) / 自动驾驶产业链龙头",
+          "asset": "比特币或与Tether流动性高度相关的加密资产",
           "risk": "HIGH",
-          "thesis": "Waymo的成功将直接提升母公司Alphabet的估值，并带动激光雷达、高精地图、芯片等整个自动驾驶产业链的发展。但技术落地与法规风险仍高。"
+          "thesis": "若Tether法律风险显著降低，将消除加密市场一大不确定性，有利于市场情绪和流动性的改善。"
         },
         "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1588777010209?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "SpaceX申请发射百万卫星数据中心",
-        "fullTitle": "SpaceX寻求批准发射百万太阳能卫星数据中心",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "SpaceX向联邦机构提交申请，计划发射多达一百万颗太阳能卫星，构建太空数据中心网络。该公司宣称这是迈向“卡尔达肖夫II型文明”（能利用太阳全部能量）的第一步。此举将太空基础设施竞赛推向新高度。",
-        "relations": [
-          {
-            "label": "SpaceX",
-            "type": "entity",
-            "desc": "太空探索技术公司"
-          },
-          {
-            "label": "卫星互联网",
-            "type": "tech",
-            "desc": "通过卫星星座提供网络服务"
-          },
-          {
-            "label": "太空基础设施",
-            "type": "tech",
-            "desc": "在太空部署的永久性设施"
-          },
-          {
-            "label": "卡尔达肖夫文明等级",
-            "type": "tech",
-            "desc": "衡量文明技术水平的理论"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "计划若实施，将使SpaceX从发射服务商转变为垄断性太空基础设施和算力运营商，掌控未来数字经济的“太空层”，重塑地缘科技格局。",
-            "百万卫星星座将引发严峻的太空交通管理、轨道碎片和频谱资源争夺问题，可能加速全球太空治理规则的重塑与冲突。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "SpaceX（非上市）/ 太空基础设施与数据服务相关公司",
-          "risk": "HIGH",
-          "thesis": "这是对下一代计算和通信基础设施的终极押注，成功将带来颠覆性回报。但面临技术、成本、监管和太空环境的极高不确定性。"
-        },
-        "confidence": 85,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1562551019504?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1621504464006?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "英伟达CEO否认与OpenAI投资停滞",
-        "fullTitle": "英伟达CEO驳斥其公司千亿美元OpenAI投资停滞报道",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "英伟达CEO黄仁勋驳斥了关于该公司对OpenAI的1000亿美元投资陷入停滞的报道，称其为“无稽之谈”。此举旨在平息市场对两家AI巨头合作关系出现裂痕的猜测，维护英伟达作为AI算力核心供应商的稳定形象。",
+        "title": "亚马逊梅拉尼娅纪录片票房超预期",
+        "fullTitle": "亚马逊梅拉尼娅纪录片首周末票房700万美元超预期",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "亚马逊出品的关于美国前第一夫人梅拉尼娅·特朗普的纪录片在首周末获得了700万美元的票房，超出了市场预期。然而，尽管开局良好，分析认为该片仅靠影院放映很可能无法实现盈利。这反映了流媒体公司传统电影发行策略的局限性。",
         "relations": [
           {
-            "label": "英伟达",
+            "label": "亚马逊",
             "type": "entity",
-            "desc": "GPU与AI算力芯片龙头"
+            "desc": "科技与流媒体巨头，涉足内容制作与发行"
           },
           {
-            "label": "OpenAI",
+            "label": "纪录片",
             "type": "entity",
-            "desc": "领先的人工智能研究公司"
+            "desc": "以政治人物为主题的内容产品"
           },
           {
-            "label": "AI算力",
-            "type": "resource",
-            "desc": "人工智能训练与推理所需的计算资源"
+            "label": "影院票房",
+            "type": "entity",
+            "desc": "传统电影收入来源，对流媒体公司非核心"
           },
           {
-            "label": "战略合作",
+            "label": "内容战略",
             "type": "risk",
-            "desc": "企业间重要的协作关系"
+            "desc": "流媒体平台平衡影院窗口期与平台直接上线的策略"
           }
         ],
         "analysis": {
           "strategic": [
-            "黄仁勋的快速否认凸显了维持与OpenAI这一标杆客户/合作伙伴关系对英伟达市场信心和叙事的重要性。",
-            "传闻本身反映了市场对AI巨头（如OpenAI）自研芯片可能削弱对英伟达依赖的深层担忧，这是英伟达长期面临的结构性风险。"
+            "此次发行更多是亚马逊内容品牌营销和获取奖项资格的策略，而非纯粹的商业盈利行为。",
+            "事件凸显了流媒体平台在传统电影发行模式中的试水，其最终目标仍是驱动平台订阅和影响力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "英伟达 (NVDA)",
-          "risk": "MEDIUM",
-          "thesis": "短期看，CEO澄清有助于稳定情绪。英伟达在AI训练市场的统治地位依然稳固，与主要AI公司的深度绑定是其护城河。但需持续关注客户自研芯片进展。"
+          "asset": "亚马逊公司股票",
+          "risk": "LOW",
+          "thesis": "单部影片的票房盈亏对亚马逊整体业绩影响微乎其微，但其在内容多样性和话题性上的尝试有助于维持平台热度。"
         },
         "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1607420344793?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1575831891879?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Euro Surge Risks ECB Inflation",
-        "fullTitle": "Euro Rally Poses Risk to ECB's Inflation Outlook",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The recent surge in the euro's value presents a significant challenge for the European Central Bank's upcoming policy meeting. A stronger euro can dampen import-driven inflation, complicating the ECB's efforts to manage price stability. This development may influence the timing and scale of future monetary policy adjustments, particularly regarding interest rates. The currency's strength is a key variable in the ECB's inflation forecasting models.",
-        "relations": [
-          {
-            "label": "European Central Bank (ECB)",
-            "type": "entity",
-            "desc": "Central bank for the eurozone"
-          },
-          {
-            "label": "Euro (EUR)",
-            "type": "entity",
-            "desc": "European single currency"
-          },
-          {
-            "label": "Inflation",
-            "type": "risk",
-            "desc": "Primary macroeconomic risk target"
-          },
-          {
-            "label": "Monetary Policy",
-            "type": "risk",
-            "desc": "Central bank's primary tool"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "A sustained euro rally could force the ECB to adopt a more dovish stance or delay planned rate hikes to counteract disinflationary pressure from a stronger currency.",
-            "This dynamic creates a policy dilemma where managing currency strength conflicts with domestic inflation targets, potentially weakening the ECB's control over its mandate."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "EUR/USD",
-          "risk": "MEDIUM",
-          "thesis": "Expect potential verbal or policy intervention from the ECB to curb euro strength, creating downward pressure on the currency pair in the near term."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1687390187026?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Murmansk Ports Resume Operations",
-        "fullTitle": "Russia's Murmansk Ports Resume After Power Disruptions",
+        "title": "Indonesia Stocks Tumble",
+        "fullTitle": "Indonesian Stocks Fall on Metals Weakness After Reshuffle",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Key Russian ports in Murmansk, including the Bulk Terminal and Commercial Seaport, have resumed operations following temporary suspensions due to power disruptions. The interruptions, though resolved, highlight vulnerabilities in critical infrastructure supporting Russia's commodity exports. The ports are crucial for Arctic shipping lanes and the export of raw materials. Such disruptions can cause temporary volatility in global supply chains for bulk commodities.",
+        "summary": "Indonesian stocks fell over 5% on Monday, tracking a regional selloff driven by weakness in commodity prices. The decline occurred despite analysts noting that a leadership reshuffle at the financial regulator and new reform measures should improve the market's long-term outlook. The selloff highlights the market's sensitivity to global commodity cycles and regional sentiment.",
         "relations": [
           {
-            "label": "Murmansk Port",
+            "label": "Indonesia",
             "type": "entity",
-            "desc": "Strategic Russian Arctic port"
+            "desc": "Sovereign nation; market impacted by commodity prices and regulatory changes."
           },
           {
-            "label": "Russia",
-            "type": "entity",
-            "desc": "Commodity exporting nation"
-          },
-          {
-            "label": "Supply Chain Disruption",
-            "type": "risk",
-            "desc": "Operational risk to commodity flows"
-          },
-          {
-            "label": "Bulk Commodities",
+            "label": "Commodity Prices",
             "type": "resource",
-            "desc": "Primary goods exported via port"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The incident underscores the fragility of Russia's export infrastructure, which remains susceptible to technical and possibly geopolitical disruptions, affecting global commodity markets.",
-            "It reinforces the strategic importance of the Northern Sea Route and the infrastructure supporting it, a key area of focus for Russian economic and military strategy."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Dry Bulk Shipping ETFs (e.g., BDRY)",
-          "risk": "MEDIUM",
-          "thesis": "Recurring disruptions at key export hubs support volatility and potential rate increases in the dry bulk shipping market, benefiting related equities."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1627888781924?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "US Gov't Picks Corporate Winners",
-        "fullTitle": "US Government Takes Stakes in Intel, MP Materials",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The US administration is taking direct ownership stakes in private companies like Intel and MP Materials, citing national security. This represents a significant shift towards a more interventionist industrial policy. The move raises questions about market competition, innovation, and the long-term trust in free market principles. It reflects a broader global trend of state involvement in strategic sectors.",
-        "relations": [
+            "desc": "Key driver of regional market selloff, particularly metals."
+          },
           {
-            "label": "US Government",
+            "label": "Financial Regulator",
             "type": "entity",
-            "desc": "Intervening state actor"
-          },
-          {
-            "label": "Intel",
-            "type": "entity",
-            "desc": "Chipmaker receiving investment"
-          },
-          {
-            "label": "MP Materials",
-            "type": "entity",
-            "desc": "Rare earths producer"
-          },
-          {
-            "label": "Industrial Policy",
-            "type": "risk",
-            "desc": "Strategic government intervention"
-          },
-          {
-            "label": "National Security",
-            "type": "risk",
-            "desc": "Justification for intervention"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This policy marks a structural shift from regulator to strategic investor, potentially distorting capital allocation and creating 'national champion' firms with implicit state backing.",
-            "It could trigger retaliatory or emulative actions by other nations, leading to a fragmented global market where geopolitical alignment outweighs commercial efficiency."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "US Semiconductor & Rare Earths ETFs",
-          "risk": "MEDIUM",
-          "thesis": "Direct government capital and implicit support de-risk investments in these strategically targeted sectors, likely leading to preferential access to contracts and subsidies."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1515009576160?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Waymo Raising $16B at $110B Valuation",
-        "fullTitle": "Waymo Reportedly Raising $16B Funding Round",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Alphabet's autonomous vehicle unit, Waymo, is finalizing a massive $16 billion funding round that would value the company at approximately $110 billion. This signifies immense investor confidence in the robotaxi business model and its long-term potential. The capital injection will fuel expansion, technology development, and competitive positioning against rivals like Cruise and Tesla. It represents one of the largest private funding rounds in the tech sector.",
-        "relations": [
-          {
-            "label": "Waymo",
-            "type": "entity",
-            "desc": "Alphabet's autonomous vehicle unit"
-          },
-          {
-            "label": "Robotaxi",
-            "type": "tech",
-            "desc": "Core business model"
-          },
-          {
-            "label": "Autonomous Vehicles",
-            "type": "tech",
-            "desc": "Underlying technology sector"
-          },
-          {
-            "label": "Venture Capital",
-            "type": "risk",
-            "desc": "Source of funding and valuation pressure"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The funding round accelerates the capital-intensive race for AV dominance, potentially forcing consolidation among less-funded competitors and raising the barrier to entry significantly.",
-            "A successful fundraise at this valuation sets a public market benchmark for the entire AV sector, influencing future IPOs and M&A activity."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet (GOOGL)",
-          "risk": "LOW",
-          "thesis": "A high external valuation for Waymo highlights the embedded, unrealized value within Alphabet's 'Other Bets' segment, reducing downside risk and providing optionality on a future spin-off."
-        },
-        "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1650592156754?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "SpaceX Seeks 1M Satellite Data Centers",
-        "fullTitle": "SpaceX Seeks Approval for Solar Satellite Data Centers",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "SpaceX has filed for federal approval to launch up to one million solar-powered satellite data centers into orbit. The ambitious proposal frames the project as a step towards a Kardashev Type II civilization capable of harnessing the sun's full energy output. This represents a radical expansion of SpaceX's business beyond Starlink into orbital computing and energy infrastructure. The scale of the proposal presents significant regulatory, technical, and orbital debris challenges.",
-        "relations": [
-          {
-            "label": "SpaceX",
-            "type": "entity",
-            "desc": "Private aerospace company"
-          },
-          {
-            "label": "Satellite Data Centers",
-            "type": "tech",
-            "desc": "Proposed orbital computing infrastructure"
-          },
-          {
-            "label": "Solar Power",
-            "type": "resource",
-            "desc": "Primary energy source for proposal"
-          },
-          {
-            "label": "FCC/Regulatory Approval",
-            "type": "risk",
-            "desc": "Key hurdle for deployment"
-          },
-          {
-            "label": "Orbital Debris",
-            "type": "risk",
-            "desc": "Significant environmental and operational risk"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The proposal aims to create a monopolistic first-mover advantage in the nascent field of orbital computing, potentially controlling a new layer of global digital infrastructure.",
-            "It signals a long-term strategic pivot for SpaceX from transportation and communications to becoming a primary provider of space-based energy and compute resources, aligning with Musk's Mars colonization vision."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "SpaceX (Private) / Related Public Comps (ASTS)",
-          "risk": "HIGH",
-          "thesis": "Successful development of this platform would create an entirely new asset class (orbital data centers) with massive potential, though execution risk is extremely high."
-        },
-        "confidence": 82,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1661459200866?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Nvidia CEO Denies OpenAI Friction",
-        "fullTitle": "Nvidia CEO Denies Report of Stalled OpenAI Investment",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Nvidia CEO Jensen Huang has publicly denied a report claiming friction had stalled a potential $100 billion investment in OpenAI. Huang labeled the report 'nonsense,' aiming to quell market concerns about the strategic relationship between the two AI giants. The denial seeks to maintain confidence in the symbiotic partnership where Nvidia supplies critical hardware to OpenAI's models. Such rumors can significantly impact the sentiment and valuation of companies in the AI ecosystem.",
-        "relations": [
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "AI chipmaker"
-          },
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "AI research and deployment company"
-          },
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "Nvidia CEO"
-          },
-          {
-            "label": "AI Hardware",
-            "type": "tech",
-            "desc": "Core of Nvidia's business relationship"
+            "desc": "Underwent leadership reshuffle, seen as a positive reform measure."
           },
           {
             "label": "Market Sentiment",
             "type": "risk",
-            "desc": "Risk from speculative reporting"
+            "desc": "Regional risk-off sentiment impacting equities."
           }
         ],
         "analysis": {
           "strategic": [
-            "The swift, forceful denial indicates Nvidia's acute awareness of its valuation's dependence on narrative control and its perceived centrality to the AI revolution, particularly with key partners like OpenAI.",
-            "It highlights the extreme sensitivity of the AI investment ecosystem to rumors, where perceived shifts in alliances between major players can cause significant capital reallocation."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA)",
-          "risk": "LOW",
-          "thesis": "The CEO's denial reinforces the strength of the foundational partnership with OpenAI, a key demand driver, and helps stabilize near-term sentiment, supporting the stock's premium valuation."
-        },
-        "confidence": 92,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1500460683705?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
-      }
-    ],
-    "es": [
-      {
-        "title": "Euro amenaza inflación BCE",
-        "fullTitle": "Fuerte euro, riesgo para inflación BCE en reunión",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El fuerte repunte del euro representa un nuevo riesgo para las perspectivas de inflación del Banco Central Europeo. Este factor será central en la primera reunión de política monetaria del año del BCE. Una moneda más fuerte puede reducir la inflación importada, complicando los esfuerzos del banco central. La situación requiere un manejo cuidadoso de la comunicación para evitar volatilidad excesiva en los mercados.",
-        "relations": [
-          {
-            "label": "Euro (EUR)",
-            "type": "entity",
-            "desc": "Divisa europea en fuerte apreciación"
-          },
-          {
-            "label": "Banco Central Europeo (BCE)",
-            "type": "entity",
-            "desc": "Autoridad monetaria de la zona euro"
-          },
-          {
-            "label": "Inflación",
-            "type": "risk",
-            "desc": "Riesgo a la baja por euro fuerte"
-          },
-          {
-            "label": "Política monetaria",
-            "type": "risk",
-            "desc": "Decisión próxima del BCE"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El BCE enfrenta dilema entre inflación controlada y competitividad exportadora.",
-            "La fortaleza del euro podría acelerar recortes de tasas, afectando flujos de capital."
+            "The market reaction suggests short-term commodity price movements are currently outweighing positive domestic regulatory developments.",
+            "Indonesia's equity market remains a high-beta play on global commodity cycles, indicating vulnerability to external shocks."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "EUR/USD",
+          "asset": "IDX Composite Index / Indonesian Mining/Commodity Stocks",
           "risk": "MEDIUM",
-          "thesis": "Posible intervención verbal del BCE para frenar apreciación excesiva del euro."
+          "thesis": "Near-term pressure from continued commodity weakness and regional risk aversion may outweigh positive regulatory news, presenting a tactical short opportunity."
         },
-        "confidence": 88,
+        "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1518513635447?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1526227076512?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Puertos rusos reanudan operaciones",
-        "fullTitle": "Puertos de Murmansk retoman actividad tras cortes energía",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Las operaciones en el Terminal de Graneles de Murmansk y el Puerto Comercial de Murmansk se reanudaron el sábado por la noche tras una suspensión temporal. La interrupción fue causada por problemas de suministro eléctrico. Estos puertos son cruciales para la exportación de commodities rusos, especialmente productos energéticos. La rápida resolución minimizó el impacto en las cadenas de suministro globales.",
+        "title": "Copper Slump Deepens",
+        "fullTitle": "Copper Slump Deepens as Chinese Traders Step Back",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Copper prices extended their decline following steep losses, as traders assessed the market's direction after a period of high volatility. The recent tumult was fueled by waves of coordinated buying and selling activity originating from Chinese traders. The current pullback indicates a pause or repositioning by these key market participants.",
         "relations": [
           {
-            "label": "Murmansk Bulk Terminal",
-            "type": "entity",
-            "desc": "Principal terminal de graneles ruso"
-          },
-          {
-            "label": "Murmansk Commercial Seaport",
-            "type": "entity",
-            "desc": "Puerto comercial estratégico"
-          },
-          {
-            "label": "Energía",
+            "label": "Copper",
             "type": "resource",
-            "desc": "Infraestructura crítica afectada"
+            "desc": "Industrial metal experiencing significant price volatility and decline."
           },
           {
-            "label": "Exportaciones rusas",
+            "label": "Chinese Traders",
             "type": "entity",
-            "desc": "Flujos comerciales impactados"
+            "desc": "Key market participants whose coordinated actions recently fueled volatility."
+          },
+          {
+            "label": "Metals Market",
+            "type": "entity",
+            "desc": "Broad market sector undergoing a correction and reassessment."
+          },
+          {
+            "label": "Market Volatility",
+            "type": "risk",
+            "desc": "High price swings driven by concentrated trading activity."
           }
         ],
         "analysis": {
           "strategic": [
-            "Vulnerabilidad de infraestructura crítica rusa a interrupciones energéticas.",
-            "Resiliencia operativa limitada en puertos árticos con importancia geopolítica."
+            "The pullback by Chinese traders suggests a tactical pause, potentially to assess fundamentals or regulatory signals, rather than a structural shift in demand.",
+            "Copper's price action reveals its vulnerability to speculative flows from a concentrated group of actors, adding a layer of geopolitical and regulatory risk to its fundamental story."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Futuros de petróleo Brent",
-          "risk": "LOW",
-          "thesis": "Interrupciones menores en exportaciones rusas podrían generar presión alcista temporal."
+          "action": "SHORT",
+          "asset": "Copper Futures (HG)",
+          "risk": "HIGH",
+          "thesis": "Momentum is negative following the breakdown, and the withdrawal of a key buying cohort (Chinese traders) removes a primary support, suggesting further near-term downside."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1642210000959?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1535150053846?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "EEUU toma participaciones empresas",
-        "fullTitle": "Gobierno EEUU toma participaciones en empresas estratégicas",
+        "title": "Oracle's Massive $50B Raise",
+        "fullTitle": "Oracle to Raise Up to $50 Billion for Cloud Buildup",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "La administración Trump está tomando participaciones directas en empresas del sector privado, desde el fabricante de chips Intel hasta el productor de tierras raras MP Materials. Esta política redefine la relación entre el gobierno y los mercados, justificándose en razones de seguridad nacional. Expertos debaten las implicaciones para la competencia, innovación y confianza en los mercados libres. El modelo de 'picking winners' podría distorsionar la asignación eficiente de capital.",
+        "summary": "Oracle Corp. plans to raise $45-$50 billion in 2026 through debt and equity to fund a massive expansion of its cloud infrastructure capacity. This unprecedented capital raise highlights the enormous financing requirements driven by the competitive race in artificial intelligence. The move signals Oracle's aggressive commitment to capturing AI-related cloud market share.",
         "relations": [
           {
-            "label": "Administración Trump",
+            "label": "Oracle Corp.",
             "type": "entity",
-            "desc": "Gobierno estadounidense actual"
+            "desc": "Technology firm planning a historic capital raise for cloud expansion."
           },
           {
-            "label": "Intel",
-            "type": "entity",
-            "desc": "Fabricante de chips con participación estatal"
+            "label": "Cloud Infrastructure",
+            "type": "tech",
+            "desc": "Core focus of the capital expenditure, essential for AI growth."
           },
           {
-            "label": "MP Materials",
-            "type": "entity",
-            "desc": "Productor de tierras raras estratégicas"
+            "label": "Artificial Intelligence (AI)",
+            "type": "tech",
+            "desc": "Primary growth driver necessitating massive infrastructure investment."
           },
           {
-            "label": "Seguridad nacional",
+            "label": "Capital Markets",
+            "type": "entity",
+            "desc": "Source of $45-50B in funding via debt and equity sales."
+          },
+          {
+            "label": "Capex Race",
             "type": "risk",
-            "desc": "Justificación para intervención estatal"
+            "desc": "Competitive risk of overspending in a capital-intensive industry."
           }
         ],
         "analysis": {
           "strategic": [
-            "Cambio estructural en relación estado-mercado hacia modelo intervencionista.",
-            "Riesgo de distorsiones competitivas y fricciones comerciales internacionales."
+            "The scale of the raise underscores that the AI infrastructure build-out is entering a hyper-capital-intensive phase, potentially squeezing smaller players.",
+            "Oracle's move is a defensive-offensive play to avoid being permanently left behind by larger cloud rivals (AWS, Azure, GCP) in the AI era."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Sector defensa/tecnología estratégica",
+          "asset": "Oracle Corp. (ORCL)",
           "risk": "MEDIUM",
-          "thesis": "Empresas con participación estatal podrían recibir contratos y protección preferencial."
+          "thesis": "The massive investment, while dilutive near-term, is a necessary and decisive step to remain relevant in the AI cloud race, positioning the company for long-term growth. Market may reward the strategic commitment."
+        },
+        "confidence": 83,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1697610534390?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "AI Layoffs or AI-Washing?",
+        "fullTitle": "AI Layoffs or 'AI-washing'? Scrutiny on Corporate Motives",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Questions are arising about whether companies announcing recent layoffs are genuinely restructuring for AI efficiency or simply using 'AI' as a convenient public relations narrative to justify cost-cutting. This trend, termed 'AI-washing,' creates skepticism among investors and employees. It complicates the analysis of true AI-driven productivity gains versus cyclical corporate belt-tightening.",
+        "relations": [
+          {
+            "label": "AI-washing",
+            "type": "risk",
+            "desc": "The practice of overstating AI adoption or impact for PR/financial motives."
+          },
+          {
+            "label": "Corporate Restructuring",
+            "type": "entity",
+            "desc": "Broad trend of layoffs and operational changes, potentially misattributed to AI."
+          },
+          {
+            "label": "Labor Markets",
+            "type": "entity",
+            "desc": "Impacted by layoffs justified by technological change."
+          },
+          {
+            "label": "Investor Sentiment",
+            "type": "risk",
+            "desc": "Risk of mispricing companies based on overstated AI transformation claims."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The 'AI-washing' phenomenon introduces noise into the market, making it harder to identify companies with genuine AI competitive advantages versus those engaging in narrative-driven financial engineering.",
+            "This trend could lead to a regulatory and reputational backlash, prompting stricter disclosures around the actual role of AI in corporate strategy and job impacts."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Sectors/Companies with Vague AI-Layoff Announcements",
+          "risk": "HIGH",
+          "thesis": "Companies using AI as a vague justification for layoffs, without clear technological implementation plans, may face scrutiny, reputational damage, and reveal underlying operational weaknesses, leading to underperformance."
         },
         "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1531290895261?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Waymo busca financiación $16B",
-        "fullTitle": "Waymo finaliza ronda $16B con valoración $110B",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Waymo está finalizando una nueva ronda de financiación de 16.000 millones de dólares que valorará la compañía de robotaxis en 110.000 millones. Esta valoración refleja la confianza en el crecimiento del transporte autónomo. La inyección de capital acelerará la expansión comercial y tecnológica de la empresa. El movimiento consolida a Waymo como líder en la carrera por la movilidad autónoma.",
-        "relations": [
-          {
-            "label": "Waymo",
-            "type": "entity",
-            "desc": "Compañía líder de robotaxis autónomos"
-          },
-          {
-            "label": "Financiación",
-            "type": "resource",
-            "desc": "Ronda de 16.000 millones de dólares"
-          },
-          {
-            "label": "Transporte autónomo",
-            "type": "tech",
-            "desc": "Sector tecnológico en crecimiento"
-          },
-          {
-            "label": "Valoración",
-            "type": "risk",
-            "desc": "Valoración de 110.000 millones"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Consolidación de liderazgo en mercado de movilidad autónoma con guerra de capital.",
-            "Presión competitiva sobre otros actores del sector que necesitarán financiación similar."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet (GOOGL)",
-          "risk": "MEDIUM",
-          "thesis": "Waymo como subsidiaria de Alphabet representa valor estratégico no completamente descontado."
-        },
-        "confidence": 86,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1534105460445?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1677908916930?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "SpaceX: satélites centros datos solares",
-        "fullTitle": "SpaceX solicita aprobación para satélites centros datos solares",
+        "title": "Tether CEO's High Profile",
+        "fullTitle": "Why Tether's CEO is Everywhere Right Now",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "SpaceX ha presentado una solicitud para lanzar 1 millón de satélites que funcionarán como centros de datos con energía solar. La compañía afirma que este proyecto es un primer paso hacia una civilización de Tipo II en la escala de Kardashev, capaz de aprovechar toda la energía del Sol. Esta iniciativa revolucionaría las infraestructuras de computación y conectividad global. Representa una expansión ambiciosa más allá del negocio actual de lanzamientos y Starlink.",
+        "summary": "Tether's CEO, who long avoided the United States amid regulatory and legal scrutiny, has ended his low-profile stance and is now engaging in widespread public appearances. This shift suggests a strategic change in dealing with regulators and the market, potentially indicating increased confidence or a finalized settlement posture. It marks a new phase for the dominant stablecoin issuer.",
         "relations": [
           {
-            "label": "SpaceX",
+            "label": "Tether (USDT)",
             "type": "entity",
-            "desc": "Compañía aeroespacial de Elon Musk"
+            "desc": "Dominant stablecoin issuer, subject of long-running regulatory scrutiny."
           },
           {
-            "label": "Satélites centros datos",
-            "type": "tech",
-            "desc": "Nueva infraestructura orbital"
+            "label": "CEO Paolo Ardoino",
+            "type": "entity",
+            "desc": "Tether's CEO, changing public engagement strategy."
           },
           {
-            "label": "Energía solar espacial",
-            "type": "resource",
-            "desc": "Fuente energética propuesta"
+            "label": "US Regulators (DOJ, CFTC)",
+            "type": "entity",
+            "desc": "Primary investigative bodies previously circled Tether."
           },
           {
-            "label": "Escala Kardashev",
-            "type": "tech",
-            "desc": "Concepto de civilización avanzada"
+            "label": "Stablecoin Regulation",
+            "type": "risk",
+            "desc": "Evolving regulatory landscape for digital asset pegs."
+          },
+          {
+            "label": "Market Confidence",
+            "type": "risk",
+            "desc": "Stablecoin credibility is paramount; CEO's visibility impacts perception."
           }
         ],
         "analysis": {
           "strategic": [
-            "SpaceX busca dominar próxima frontera de infraestructura computacional orbital.",
-            "Proyecto con implicaciones geopolíticas y de seguridad en control del espacio."
+            "The CEO's newfound visibility strongly implies a major shift in Tether's legal/regulatory status, likely a resolved or manageable settlement, reducing a key systemic risk for crypto markets.",
+            "This is a reputational offensive to legitimize Tether and position it favorably in the coming era of formal stablecoin regulation, aiming to secure its market dominance."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Sector espacial/tecnología satelital",
-          "risk": "HIGH",
-          "thesis": "Proyecto disruptivo que podría crear nuevo mercado de computación orbital."
+          "asset": "Cryptocurrency Market (Broad Exposure via BTC/ETH)",
+          "risk": "MEDIUM",
+          "thesis": "The reduction of a longstanding, massive regulatory overhang on the largest stablecoin (a core piece of crypto infrastructure) is a net positive for overall market sentiment and stability, reducing a key tail risk."
         },
-        "confidence": 84,
+        "confidence": 88,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1525141935838?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1530088816444?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Nvidia niega problemas inversión OpenAI",
-        "fullTitle": "CEO Nvidia desmiente fricciones con inversión OpenAI $100B",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Jensen Huang, CEO de Nvidia, ha calificado de 'tonterías' un informe reciente sobre fricciones en la inversión de 100.000 millones de dólares de su compañía en OpenAI. El desmentido busca calmar los mercados y mantener la confianza en la relación estratégica entre ambas empresas. Nvidia sigue siendo proveedor crítico de chips para el desarrollo de IA de OpenAI. La clarificación es importante para la percepción del ecosistema de inteligencia artificial.",
+        "title": "Amazon's 'Melania' Doc Profit Doubt",
+        "fullTitle": "Amazon's 'Melania' Documentary Unlikely Profitable in Theaters",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "A documentary about Melania Trump, produced by Amazon, earned $7 million on its opening weekend, exceeding modest box office expectations. However, analysts note that the theatrical run is unlikely to be profitable on its own. The release appears to be a marketing and brand-building exercise for Amazon's studio, with profitability expected from downstream streaming and licensing.",
         "relations": [
           {
-            "label": "Nvidia",
+            "label": "Amazon Studios",
             "type": "entity",
-            "desc": "Fabricante líder de chips para IA"
+            "desc": "Production arm of Amazon, releasing documentary for strategic/marketing purposes."
           },
           {
-            "label": "OpenAI",
+            "label": "Documentary Film",
             "type": "entity",
-            "desc": "Compañía de investigación en IA"
+            "desc": "Niche theatrical content often used for prestige or platform promotion."
           },
           {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "CEO de Nvidia"
+            "label": "Streaming Economics",
+            "type": "tech",
+            "desc": "Primary profitability model for such content, not theatrical box office."
           },
           {
-            "label": "Inversión $100B",
-            "type": "resource",
-            "desc": "Importante transacción estratégica"
+            "label": "Content Marketing",
+            "type": "entity",
+            "desc": "Strategic use of content to generate buzz for a broader platform."
           }
         ],
         "analysis": {
           "strategic": [
-            "Nvidia protege relación simbiótica con cliente clave en ecosistema IA.",
-            "Rumores afectan percepción de estabilidad en alianzas tecnológicas críticas."
+            "Amazon's release strategy confirms that for streaming giants, theatrical runs for certain content are loss-leaders aimed at generating prestige, awards buzz, and marketing for their primary streaming platforms.",
+            "This model de-emphasizes traditional box office profitability metrics for studios owned by tech conglomerates, focusing instead on ecosystem synergy and subscriber engagement."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Nvidia (NVDA)",
+          "asset": "Amazon.com Inc. (AMZN)",
           "risk": "LOW",
-          "thesis": "Relación sólida con OpenAI consolida posición dominante en cadena de valor IA."
+          "thesis": "The documentary's performance is irrelevant to Amazon's investment thesis. It is a minor, low-cost content play within a vast ecosystem. The focus remains on AWS, retail, and overall Prime subscriber growth, not box office receipts."
+        },
+        "confidence": 95,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1587483410824?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+      }
+    ],
+    "es": [
+      {
+        "title": "Acciones Indonesia caen por metales",
+        "fullTitle": "Acciones indonesias caen más del 5% tras debilidad en metales y cambio regulatorio",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Las acciones indonesias cayeron más del 5% el lunes, siguiendo una venta regional impulsada por la debilidad de los precios de las materias primas. Los analistas señalan que un cambio de liderazgo en el regulador financiero y nuevas medidas de reforma deberían mejorar las perspectivas. La caída refleja la alta sensibilidad del mercado indonesio a los ciclos de las materias primas. El evento subraya la volatilidad en mercados emergentes dependientes de recursos.",
+        "relations": [
+          {
+            "label": "Bolsa de Indonesia",
+            "type": "entity",
+            "desc": "Mercado bursátil sensible a materias primas"
+          },
+          {
+            "label": "Metales Industriales",
+            "type": "resource",
+            "desc": "Recursos clave para la economía indonesia"
+          },
+          {
+            "label": "Regulador Financiero",
+            "type": "entity",
+            "desc": "Entidad con cambio de liderazgo mencionado"
+          },
+          {
+            "label": "Mercados Emergentes",
+            "type": "risk",
+            "desc": "Categoría de riesgo para inversores"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La dependencia de Indonesia de las exportaciones de recursos la hace vulnerable a shocks de precios de materias primas, requiriendo diversificación estratégica.",
+            "Los cambios regulatorios podrían indicar una respuesta proactiva del gobierno para estabilizar los mercados financieros y atraer inversión a largo plazo."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "IDX Composite (Índice bursátil indonesio)",
+          "risk": "MEDIUM",
+          "thesis": "Presión a corto plazo por debilidad en metales y volatilidad regional, aunque las reformas podrían ofrecer un piso más adelante."
+        },
+        "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1692585002365?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Cobre cae tras retroceso chino",
+        "fullTitle": "Caída del cobre se profundiza mientras traders chinos se retiran temporalmente",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El precio del cobre extendió sus pérdidas tras una fuerte caída el viernes. Los operadores evalúan el próximo movimiento después de unos días tumultuosos en los mercados de metales, alimentados por oleadas de compra y venta en China. La actividad de los traders chinos es un factor clave en la volatilidad actual. Este retroceso sugiere un posible agotamiento del impulso alcista reciente.",
+        "relations": [
+          {
+            "label": "Cobre",
+            "type": "resource",
+            "desc": "Metal industrial clave, indicador económico"
+          },
+          {
+            "label": "Traders Chinos",
+            "type": "entity",
+            "desc": "Actores principales en el mercado de metales"
+          },
+          {
+            "label": "Mercado de Futuros de Metales",
+            "type": "entity",
+            "desc": "Mercado donde se desarrolla la volatilidad"
+          },
+          {
+            "label": "Demanda China",
+            "type": "risk",
+            "desc": "Factor determinante para los precios de las materias primas"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La influencia de los traders chinos en los precios globales del cobre subraya el poder de mercado de China y su papel como formador de precios.",
+            "La volatilidad actual puede indicar una transición entre fases del ciclo de materias primas, con implicaciones para países exportadores."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Futuros de Cobre (HG)",
+          "risk": "HIGH",
+          "thesis": "Momentum bajista y posible agotamiento de la demanda especulativa a corto plazo desde China, con alto riesgo de reversión."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1662583149655?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Oracle busca $50B para nube e IA",
+        "fullTitle": "Oracle planea recaudar hasta $50 mil millones en 2026 para expansión en la nube",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Oracle Corp. planea recaudar entre $45 y $50 mil millones este año mediante una combinación de deuda y venta de acciones. El objetivo es construir capacidad adicional de infraestructura en la nube. Esta movida refleja la escala de financiamiento necesaria para alimentar el crecimiento de la Inteligencia Artificial. La decisión marca una apuesta agresiva por competir en el mercado de infraestructura cloud.",
+        "relations": [
+          {
+            "label": "Oracle Corp.",
+            "type": "entity",
+            "desc": "Compañía de software y cloud que busca financiamiento masivo"
+          },
+          {
+            "label": "Infraestructura en la Nube",
+            "type": "tech",
+            "desc": "Sector objetivo de la inversión"
+          },
+          {
+            "label": "Financiamiento de Deuda/Equity",
+            "type": "risk",
+            "desc": "Método de recaudación de capital"
+          },
+          {
+            "label": "Carrera por la IA",
+            "type": "tech",
+            "desc": "Contexto competitivo que impulsa el gasto"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La necesidad de capital a esta escala confirma que la competencia en infraestructura cloud/IA es una guerra de capital, favoreciendo a los jugadores más grandes y con mejor balance.",
+            "Esta emisión de deuda/equity podría diluir accionistas o aumentar el apalancamiento, impactando la valoración a corto plazo frente a los beneficios a largo plazo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Oracle Corp. (ORCL)",
+          "risk": "MEDIUM",
+          "thesis": "Apuesta estratégica clara en un mercado de alto crecimiento (cloud/IA). El financiamiento, aunque dilutivo, es necesario para mantener competitividad."
+        },
+        "confidence": 88,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1680210847554?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "¿Despidos por IA o 'AI-washing'?",
+        "fullTitle": "Cuestionan si despidos recientes usan la IA como excusa",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Se cuestiona cuántas compañías con despidos recientes están utilizando la Inteligencia Artificial simplemente como una excusa para recortes de personal. Este fenómeno, potencialmente llamado 'AI-washing', podría enmascarar problemas operativos o financieros más profundos. Plantea riesgos de reputación y regulatorios para las empresas. Es un tema emergente en la narrativa corporativa y de mercado.",
+        "relations": [
+          {
+            "label": "AI-washing",
+            "type": "risk",
+            "desc": "Uso de la IA como narrativa para encubrir otros motivos"
+          },
+          {
+            "label": "Reestructuraciones Corporativas",
+            "type": "entity",
+            "desc": "Contexto donde ocurren los despidos"
+          },
+          {
+            "label": "Narrativa de Mercado",
+            "type": "risk",
+            "desc": "Historia que impulsa valoraciones y percepciones"
+          },
+          {
+            "label": "Riesgo Reputacional",
+            "type": "risk",
+            "desc": "Posible consecuencia para las empresas involucradas"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El 'AI-washing' podría generar escepticismo del mercado, penalizando a empresas legítimas que usan IA para ganancias de eficiencia reales.",
+            "Los reguladores podrían aumentar el escrutinio sobre las declaraciones corporativas relacionadas con IA, llevando a riesgos de cumplimiento."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "ETF de Tecnología (ej. XLK) o empresas con anuncios sospechosos",
+          "risk": "HIGH",
+          "thesis": "Posible corrección sectorial si se descubre que el hype de la IA encierra debilidades operativas fundamentales en varias empresas."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1683321229190?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "CEO de Tether cambia perfil público",
+        "fullTitle": "El CEO de Tether ahora es visible, tras años evitando EE.UU.",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El CEO de Tether, quien durante años evitó los Estados Unidos mientras reguladores y fiscales investigaban, ha cambiado su postura. Ahora tiene una alta visibilidad pública. Este cambio sugiere un posible giro en la estrategia legal y de relaciones de la empresa. Podría indicar mayor confianza tras resolver o manejar disputas regulatorias.",
+        "relations": [
+          {
+            "label": "Tether (USDT)",
+            "type": "entity",
+            "desc": "Empresa emisora de la stablecoin más grande"
+          },
+          {
+            "label": "CEO Paolo Ardoino",
+            "type": "entity",
+            "desc": "Ejecutivo que cambia su perfil público"
+          },
+          {
+            "label": "Reguladores EE.UU.",
+            "type": "entity",
+            "desc": "Entidades que anteriormente investigaban"
+          },
+          {
+            "label": "Establecoins",
+            "type": "tech",
+            "desc": "Categoría de criptoactivos críticos para el mercado"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La mayor visibilidad del CEO podría ser una señal de que Tether busca legitimación y estabilidad a largo plazo dentro del marco regulatorio tradicional.",
+            "Este movimiento podría presagiar una fase de mayor competencia institucional en el espacio de las stablecoins, donde la percepción de cumplimiento es clave."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Bitcoin (BTC) / Ecosistema Crypto",
+          "risk": "MEDIUM",
+          "thesis": "Una Tether más estable y con mejor percepción regulatoria reduce el riesgo sistémico para todo el ecosistema cripto, beneficiando al activo líder (BTC)."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1535909575779?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Documental 'Melania' de Amazon tiene debut sólido",
+        "fullTitle": "Documental 'Melania' de Amazon recauda $7M en fin de semana inaugural",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "El documental 'Melania' de Amazon superó las expectativas de taquilla, recaudando $7 millones en su fin de semana de estreno. Sin embargo, es poco probable que la película genere ganancias en su exhibición teatral. El desempeño muestra el poder de las marcas y temas controversiales para atraer audiencias. Es un caso de estudio sobre estrategias de contenido y ventanas de distribución.",
+        "relations": [
+          {
+            "label": "Amazon Studios",
+            "type": "entity",
+            "desc": "División de contenido de Amazon detrás del documental"
+          },
+          {
+            "label": "Contenido Documental",
+            "type": "entity",
+            "desc": "Categoría de producto mediático"
+          },
+          {
+            "label": "Estrategia de Taquilla",
+            "type": "risk",
+            "desc": "Decisión de lanzamiento en cines a pesar de bajo margen"
+          },
+          {
+            "label": "Marketing y Controversia",
+            "type": "risk",
+            "desc": "Posible motor del desempeño inicial"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Para Amazon, este lanzamiento puede ser más una jugada de marketing y posicionamiento de marca (Prime Video) que un negocio puramente cinematográfico.",
+            "Refleja una tendencia donde los streamers usan lanzamientos teatrales limitados para generar hype, priorizando el valor a largo plazo en sus plataformas."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Amazon.com Inc. (AMZN)",
+          "risk": "LOW",
+          "thesis": "El impacto financiero directo es mínimo, pero refuerza la narrativa de Amazon como creador de contenido relevante para su ecosistema Prime, apoyando la tesis de suscripción."
         },
         "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1618975399671?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1594110002423?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
