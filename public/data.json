@@ -1,813 +1,833 @@
 {
-  "generated_at": "2026-02-05T02:16:34.162850",
+  "generated_at": "2026-02-06T02:16:40.903305",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "松下股价飙升",
-        "fullTitle": "松下股价因重组预期创2014年以来最大涨幅",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "松下控股公司股价在东京交易中飙升15%，创下自2014年以来的最大单日涨幅。投资者对公司长期重组努力将在下一财年开始见效充满信心。此次股价异动反映了市场对松下战略转型成果的积极预期。",
-        "relations": [
-          {
-            "label": "松下控股",
-            "type": "entity",
-            "desc": "日本跨国电子公司，正在进行重大重组"
-          },
-          {
-            "label": "东京证券交易所",
-            "type": "entity",
-            "desc": "松下股票交易的主要市场"
-          },
-          {
-            "label": "企业重组",
-            "type": "risk",
-            "desc": "松下正在进行的战略调整，旨在提升盈利能力"
-          },
-          {
-            "label": "投资者信心",
-            "type": "risk",
-            "desc": "市场对公司未来业绩的积极情绪"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "松下通过重组优化业务结构，可能提升长期竞争力与盈利能力。",
-            "市场对重组成效的提前反应，表明投资者对日本传统电子巨头转型抱有较高期待。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "松下控股 (6752.T)",
-          "risk": "MEDIUM",
-          "thesis": "基于市场对松下重组计划即将产生积极财务影响的强烈预期，短期内股价可能继续受到情绪推动。但需关注重组具体执行细节及未来财报验证。"
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1681560409313?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "百胜中国利润超预期",
-        "fullTitle": "百胜中国Q4利润超预期，无视外卖价格战",
-        "classification": "CONFIDENTIAL",
+        "title": "味之素股价大涨10%",
+        "fullTitle": "味之素因咖啡与调味品业务提振利润，股价飙升10%",
+        "classification": "UNCLASSIFIED",
         "impactLevel": "MEDIUM",
-        "summary": "百胜中国控股有限公司公布第四季度业绩，运营利润超出市场预期。这一表现是在中国外卖市场激烈的价格战背景下取得的。公司成功抵御了行业竞争压力，展示了其运营韧性。",
+        "summary": "日本调味品制造商味之素公布优于预期的季度业绩，并上调了营业利润展望，推动其股价创下自2024年11月以来的最大单日涨幅，最高涨幅达10%。咖啡和调味品业务的强劲表现是主要驱动因素。这表明特定消费必需品公司在当前市场环境下仍能实现稳健增长。",
         "relations": [
           {
-            "label": "百胜中国",
+            "label": "味之素",
             "type": "entity",
-            "desc": "肯德基、必胜客等品牌在中国的运营者"
+            "desc": "日本主要调味品与食品制造商"
           },
           {
-            "label": "外卖市场",
-            "type": "entity",
-            "desc": "竞争激烈，正经历价格战"
-          },
-          {
-            "label": "运营利润",
+            "label": "咖啡业务",
             "type": "resource",
-            "desc": "衡量公司核心业务盈利能力的关键指标"
+            "desc": "推动公司利润增长的关键业务线"
           },
           {
-            "label": "价格战",
+            "label": "消费必需品",
             "type": "risk",
-            "desc": "行业竞争加剧导致利润空间受压的风险"
+            "desc": "在经济波动中具有防御性特征的板块"
+          },
+          {
+            "label": "日本股市",
+            "type": "entity",
+            "desc": "事件发生的具体市场"
           }
         ],
         "analysis": {
           "strategic": [
-            "百胜中国在激烈的价格竞争中保持利润增长，显示其强大的品牌护城河和成本控制能力。",
-            "这表明中国消费市场对头部餐饮品牌仍有韧性，但行业整体利润率压力将持续存在。"
+            "消费必需品龙头在通胀或经济不确定性时期可能表现出更强的盈利韧性和防御性，值得关注。",
+            "企业上调业绩展望是重要的积极信号，可能预示着行业或公司基本面的结构性改善。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "百胜中国 (YUMC)",
+          "asset": "味之素 (2802.T)",
           "risk": "MEDIUM",
-          "thesis": "公司证明了其在不利市场环境下的盈利韧性，超出预期的业绩可能提振投资者信心。但需持续关注中国消费复苏力度及行业竞争态势。"
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1574602160629?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "印度套利交易受税收冲击",
-        "fullTitle": "印度提高衍生品税，冲击360亿美元套利交易",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "印度政府意外提高股票衍生品税收，对规模达360亿美元的快速增长的套利基金行业构成威胁。基金经理们正准备应对回报率下降的局面。这一政策变化可能重塑印度金融市场的交易结构。",
-        "relations": [
-          {
-            "label": "印度政府",
-            "type": "entity",
-            "desc": "政策制定者，意外提高衍生品税收"
-          },
-          {
-            "label": "套利基金",
-            "type": "entity",
-            "desc": "管理约360亿美元资产，依赖衍生品交易"
-          },
-          {
-            "label": "股票衍生品",
-            "type": "resource",
-            "desc": "套利交易的主要工具，税收成本增加"
-          },
-          {
-            "label": "政策风险",
-            "type": "risk",
-            "desc": "政府监管变化对特定金融策略的冲击"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "印度政府此举旨在增加税收并可能抑制市场过度投机，但会直接打击依赖衍生品的套利策略，导致资本流向变化。",
-            "这反映了新兴市场监管环境的不确定性，可能促使国际套利资本重新评估在印度的风险敞口。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "印度主要套利基金及相关衍生品产品",
-          "risk": "HIGH",
-          "thesis": "税收成本直接侵蚀套利策略的利润空间，可能导致该行业规模收缩、资金流出及部分基金表现下滑。政策冲击具有直接性和确定性。"
+          "thesis": "基于其超预期的业绩和上调的展望，公司基本面强劲，且属于防御性板块，在市场波动中可能提供相对稳定的回报。"
         },
         "confidence": 88,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1595920054548?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1604621187751?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "奥特曼抨击竞争对手广告",
-        "fullTitle": "山姆·奥特曼激烈抨击Claude的超级碗广告",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "OpenAI的CEO山姆·奥特曼发表长篇激烈言论，抨击竞争对手Anthropic公司为Claude模型制作的超级碗广告。他的言论最终升级为指责对手“不诚实”和“专制”。这反映了AI行业领导者之间日益公开化的紧张关系。",
+        "title": "全球股市延续跌势",
+        "fullTitle": "全球股市延续跌势，比特币企稳",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "HIGH",
+        "summary": "受美国科技股大幅下跌拖累，全球股市的抛售潮延续至亚洲交易时段，市场风险偏好受到抑制。比特币和白银价格在早前下跌后趋于稳定。这表明市场情绪正从科技股等高增长板块转向避险。",
         "relations": [
           {
-            "label": "山姆·奥特曼",
+            "label": "全球股市",
             "type": "entity",
-            "desc": "OpenAI CEO，公开批评竞争对手"
+            "desc": "整体风险资产市场"
           },
           {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "Claude AI的创建公司，奥特曼的批评对象"
-          },
-          {
-            "label": "Claude",
-            "type": "tech",
-            "desc": "Anthropic开发的大型语言模型，是ChatGPT的竞争对手"
-          },
-          {
-            "label": "行业竞争",
+            "label": "美国科技股",
             "type": "risk",
-            "desc": "AI巨头之间从技术到市场的全方位竞争加剧"
+            "desc": "本轮市场抛售的主要源头"
+          },
+          {
+            "label": "比特币",
+            "type": "asset",
+            "desc": "数字资产，风险偏好指标之一"
+          },
+          {
+            "label": "市场风险偏好",
+            "type": "risk",
+            "desc": "驱动资产价格波动的关键情绪因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI行业顶尖公司之间的竞争已从技术研发延伸至品牌营销和公众舆论领域，竞争日趋白热化。",
-            "领导人的公开激烈言论可能加剧行业对立，影响合作生态，但也可能为各自阵营吸引更多关注和资源。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "与OpenAI或Anthropic有深度合作的科技公司",
-          "risk": "HIGH",
-          "thesis": "头部AI公司间的激烈竞争凸显了该赛道的价值和热度，可能推动整个生态的估值。但领导人情绪化言论也增加了行业的不确定性和声誉风险。"
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1677448023209?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Snap营收增长但用户下降",
-        "fullTitle": "Snap Q4营收增长但日活用户减少，押注Spectacles",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Snap公司第四季度财报显示营收实现增长，但每日活跃用户数量出现下降。公司正推进收入来源多元化战略，并为面向大众市场推出Spectacles智能眼镜做准备。这反映了社交平台在用户增长放缓下的转型努力。",
-        "relations": [
-          {
-            "label": "Snap Inc.",
-            "type": "entity",
-            "desc": "Snapchat母公司，面临用户增长压力"
-          },
-          {
-            "label": "Spectacles",
-            "type": "tech",
-            "desc": "Snap的智能眼镜产品，被寄予增长厚望"
-          },
-          {
-            "label": "每日活跃用户",
-            "type": "resource",
-            "desc": "社交平台核心指标，本季度出现下滑"
-          },
-          {
-            "label": "收入多元化",
-            "type": "risk",
-            "desc": "公司降低对单一广告收入依赖的战略尝试"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Snap在核心社交用户增长见顶时，试图通过硬件（Spectacles）和AR技术开辟新增长曲线，是典型的突围策略。",
-            "营收增长与用户下降并存，表明其货币化能力提升，但长期增长动力仍需观察新业务能否成功接棒。"
+            "科技股领跌可能标志着市场风格从高估值成长股向价值或防御性板块轮动的开始。",
+            "风险资产普跌时，传统避险资产（如国债、黄金）和部分企稳的另类资产（如比特币）的后续表现需密切关注，以判断资金流向。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Snap Inc. (SNAP)",
+          "asset": "纳斯达克100指数期货",
           "risk": "HIGH",
-          "thesis": "核心用户指标的疲软是根本性挑战，尽管营收增长，但市场可能更担忧其未来增长故事。押注硬件成功具有高风险，且面临激烈竞争。"
+          "thesis": "科技股疲软拖累整体市场情绪，且抛售潮蔓延至亚洲，显示下跌动能可能持续，做空高贝塔的科技指数以对冲风险或获取收益。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1583650542717?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "美债收益率曲线趋陡",
+        "fullTitle": "美债收益率曲线逼近四年最陡水平",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "由于利率下调、对持续通胀的担忧以及财政赤字问题共同作用，美国国债收益率曲线正接近四年多来的最陡峭水平。短端利率受政策影响下降更快，而长端利率因通胀和赤字担忧保持相对高位。",
+        "relations": [
+          {
+            "label": "美国国债收益率曲线",
+            "type": "entity",
+            "desc": "关键的经济和金融市场指标"
+          },
+          {
+            "label": "利率下调",
+            "type": "risk",
+            "desc": "货币政策宽松，影响曲线短端"
+          },
+          {
+            "label": "持续通胀",
+            "type": "risk",
+            "desc": "推高长端收益率的主要压力"
+          },
+          {
+            "label": "财政赤字",
+            "type": "risk",
+            "desc": "增加长债供应，施压长端利率"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "收益率曲线陡峭化通常预示着市场预期未来经济增长和通胀，但也可能反映对长期财政可持续性的担忧。",
+            "这种环境对银行净息差可能有利，但对长期资产估值（如成长股）构成压力，并可能加剧市场波动。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "金融板块ETF (如XLF)",
+          "risk": "MEDIUM",
+          "thesis": "陡峭的收益率曲线通常有利于银行的借贷利差，从而提升其盈利能力，金融板块可能受益。"
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1502199494903?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Sapiom融资$1500万",
+        "fullTitle": "Sapiom获$1500万融资，为AI代理构建金融层",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "初创公司Sapiom在Accel等机构支持下，完成了1500万美元的融资。该公司致力于构建一个金融层，以处理AI代理（AI agents）在购买技术工具时所需的身份验证和小额支付问题。这瞄准了AI自主经济活动中的基础设施缺口。",
+        "relations": [
+          {
+            "label": "Sapiom",
+            "type": "entity",
+            "desc": "专注于AI代理金融层的初创公司"
+          },
+          {
+            "label": "AI代理",
+            "type": "tech",
+            "desc": "能够自主执行任务的AI实体"
+          },
+          {
+            "label": "金融层/支付基础设施",
+            "type": "tech",
+            "desc": "支持AI经济活动的关键底层技术"
+          },
+          {
+            "label": "Accel",
+            "type": "entity",
+            "desc": "知名风险投资机构，项目背书方"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI代理的普及将催生对专用金融和支付基础设施的强烈需求，这是一个新兴的、具有战略意义的赛道。",
+            "头部风投（如Accel）的押注表明，资本正从AI模型层向应用层和支撑性基础设施层扩散，寻找下一个增长点。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI基础设施与支付相关初创公司及公募股",
+          "risk": "HIGH",
+          "thesis": "AI代理的规模化应用需要可靠的支付和金融协议支持，早期布局该基础设施领域的公司可能获得先发优势和高增长潜力。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1609215621254?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Reddit押注AI搜索",
+        "fullTitle": "Reddit将AI搜索视为下一个重大机遇",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Reddit在第四季度财报电话会议上更新了其将传统搜索与AI搜索相结合的计划。公司暗示，尽管搜索功能尚未货币化，但这是一个巨大的市场和机会。这显示了Reddit试图利用其独特的社区内容和对话数据，在AI搜索领域开辟新增长曲线。",
+        "relations": [
+          {
+            "label": "Reddit",
+            "type": "entity",
+            "desc": "美国社交媒体和网络论坛公司"
+          },
+          {
+            "label": "AI搜索",
+            "type": "tech",
+            "desc": "下一代信息检索技术，Reddit的战略方向"
+          },
+          {
+            "label": "社区数据",
+            "type": "resource",
+            "desc": "Reddit用于训练和差异化AI搜索的核心资产"
+          },
+          {
+            "label": "货币化",
+            "type": "risk",
+            "desc": "新业务面临的挑战与潜在增长点"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "拥有独特、高质量数据生态的平台（如Reddit、维基百科）在AI时代价值重估，它们可能成为垂直AI应用的关键数据源或入口。",
+            "科技公司正积极将AI能力融入现有产品以寻找第二增长曲线，这可能导致传统互联网格局的重塑和新的竞争。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Reddit (RDDT)",
+          "risk": "HIGH",
+          "thesis": "其庞大的、结构化的社区对话数据是训练专业领域AI模型的宝贵资产，若AI搜索战略成功，可能打开巨大的估值上行空间。"
         },
         "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1634492718646?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1503527839870?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Mundi Ventures募资7.5亿欧元",
-        "fullTitle": "Mundi Ventures旗下Kembara基金完成7.5亿欧元首关",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "西班牙深度科技和气候基金Kembara完成了7.5亿欧元的首次关账，其目标规模为10亿欧元。该基金由Mundi Ventures管理，专注于深度科技和气候技术领域的投资。这笔巨额资金显示了欧洲对气候科技投资的强劲需求。",
+        "title": "AWS营收持续飙升",
+        "fullTitle": "AI驱动需求，AWS营收增长创13个季度新高",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "HIGH",
+        "summary": "亚马逊云科技（AWS）在2025年第四季度实现了13个季度以来最快的营收增长，创下最佳季度表现。强劲增长主要由人工智能（AI）应用推动的云需求所带动。这证实了AI不仅是技术趋势，更是当前云基础设施市场的核心增长引擎。",
         "relations": [
           {
-            "label": "Mundi Ventures",
+            "label": "AWS",
             "type": "entity",
-            "desc": "风险投资公司，管理Kembara基金"
+            "desc": "亚马逊旗下云计算服务部门，市场领导者"
           },
           {
-            "label": "Kembara基金",
+            "label": "人工智能",
+            "type": "tech",
+            "desc": "驱动本季度云需求增长的首要因素"
+          },
+          {
+            "label": "云计算",
             "type": "resource",
-            "desc": "目标10亿欧元的深度科技与气候主题基金"
+            "desc": "数字经济的核心基础设施"
           },
           {
-            "label": "深度科技",
-            "type": "tech",
-            "desc": "基金的核心投资领域之一"
-          },
-          {
-            "label": "气候技术",
-            "type": "tech",
-            "desc": "基金的另一核心投资领域，关注减碳与可持续发展"
+            "label": "企业IT支出",
+            "type": "risk",
+            "desc": "云市场增长的宏观基础"
           }
         ],
         "analysis": {
           "strategic": [
-            "大规模专项基金的成立，表明欧洲资本正系统性加码深度科技和气候赛道，这将加速相关技术的商业化进程。",
-            "此举可能吸引更多创业公司和人才涌入欧洲的气候科技生态，与北美和亚洲形成竞争格局。"
+            "AI竞赛正直接转化为对云计算（尤其是IaaS和PaaS）的巨额资本支出，云巨头是确定性的受益者。",
+            "AWS的强劲表现可能预示着整个云基础设施板块进入新一轮增长周期，并可能带动上游半导体、硬件等产业链。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "欧洲深度科技及气候科技领域的初创公司",
+          "asset": "亚马逊 (AMZN)",
           "risk": "MEDIUM",
-          "thesis": "巨额新资金的注入将为该领域的优秀初创公司提供充足弹药，有望催生一批行业领导者。可关注可能获得该基金投资的标的。"
+          "thesis": "AWS作为AI浪潮的核心基础设施提供商，其增长加速将显著改善亚马逊的整体盈利能力，是投资AI算力需求的优质标的。"
         },
-        "confidence": 86,
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1547175395097?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1696910766613?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Panasonic Soars on Restructuring",
-        "fullTitle": "Panasonic Soars Most Since 2014 on Restructuring Hopes",
+        "title": "Ajinomoto Shares Rally on Earnings",
+        "fullTitle": "Ajinomoto Shares Rally 10% as Coffee, Seasonings Fuel Profit",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Panasonic Holdings Corp. shares surged 15% in Tokyo trading, marking their largest single-day gain since 2014. The rally is driven by investor confidence that the company's prolonged restructuring efforts will begin to yield tangible financial benefits starting next fiscal year. This significant market movement reflects a major shift in sentiment towards the Japanese electronics and industrial conglomerate.",
+        "summary": "Ajinomoto Co. shares surged up to 10% following better-than-expected quarterly earnings. The Japanese seasoning maker raised its business profit outlook. The rally was the steepest since November 2024. Strong performance was driven by its coffee and seasonings businesses.",
         "relations": [
           {
-            "label": "Panasonic Holdings Corp.",
+            "label": "Ajinomoto Co.",
             "type": "entity",
-            "desc": "Japanese electronics and industrial conglomerate undergoing restructuring."
+            "desc": "Japanese food and seasoning manufacturer"
           },
           {
-            "label": "Tokyo Stock Exchange",
+            "label": "Consumer Staples",
+            "type": "resource",
+            "desc": "Sector showing defensive strength"
+          },
+          {
+            "label": "Earnings Surprise",
+            "type": "risk",
+            "desc": "Positive catalyst for stock price movement"
+          },
+          {
+            "label": "Japan Equities",
             "type": "entity",
-            "desc": "Primary exchange where the stock surge occurred."
-          },
-          {
-            "label": "Corporate Restructuring",
-            "type": "risk",
-            "desc": "Strategic operational and financial reorganization."
-          },
-          {
-            "label": "Investor Sentiment",
-            "type": "risk",
-            "desc": "Market confidence driving stock price volatility."
+            "desc": "Regional market with specific corporate performance"
           }
         ],
         "analysis": {
           "strategic": [
-            "Panasonic's restructuring narrative is gaining credibility with investors, potentially signaling a turnaround phase for legacy industrial firms.",
-            "The market reaction suggests a re-rating based on future profitability expectations rather than current fundamentals, indicating a sentiment-driven opportunity."
+            "Highlights resilience and pricing power in the consumer staples sector during broader market volatility.",
+            "Suggests potential for selective outperformance in defensive, cash-generative businesses with strong brands."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Panasonic Holdings Corp. (6752.T)",
+          "asset": "Ajinomoto Co. (2802.T)",
           "risk": "MEDIUM",
-          "thesis": "Momentum trade on successful restructuring narrative and anticipated improved financial performance in the coming fiscal year."
+          "thesis": "Strong earnings beat and raised guidance indicate operational strength and potential for continued re-rating, supported by a defensive business model."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1596687632925?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1570331495885?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Yum China Profit Beats Estimates",
-        "fullTitle": "Yum China Surges After Profit Beats Despite Delivery Discounts",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Yum China Holdings Inc. reported better-than-expected operating profit for Q4, leading to a rise in its share price. This performance defied intense competitive pressures and a price war within China's food delivery market. The results demonstrate the company's operational resilience and effective cost management in a challenging consumer environment.",
+        "title": "Global Stock Selloff Extends",
+        "fullTitle": "Stock Selloff Extends, Bitcoin Steadies After Fall: Markets Wrap",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Global stock declines extended into Asian trading following heavy losses in US tech stocks. The selloff sapped overall risk appetite across markets. Bitcoin and silver prices stabilized after earlier significant tumbles. The move indicates a broad-based risk-off sentiment.",
         "relations": [
           {
-            "label": "Yum China Holdings Inc.",
+            "label": "US Tech Stocks",
             "type": "entity",
-            "desc": "Operator of KFC, Pizza Hut, and other brands in China."
+            "desc": "Primary catalyst for global risk-off move"
           },
           {
-            "label": "Food Delivery Market",
-            "type": "entity",
-            "desc": "Highly competitive sector in China experiencing a price war."
-          },
-          {
-            "label": "Price War",
+            "label": "Risk Appetite",
             "type": "risk",
-            "desc": "Intense competition through discounting, pressuring margins."
+            "desc": "Key market driver currently in decline"
           },
           {
-            "label": "Operational Resilience",
+            "label": "Bitcoin",
+            "type": "asset",
+            "desc": "Cryptocurrency showing stabilization after selloff"
+          },
+          {
+            "label": "Silver",
             "type": "resource",
-            "desc": "Ability to maintain profitability amid sector headwinds."
+            "desc": "Commodity mirroring risk asset volatility"
           }
         ],
         "analysis": {
           "strategic": [
-            "Yum China's ability to beat profit expectations during a price war highlights superior brand strength and operational efficiency versus peers.",
-            "This signals potential market share consolidation, where larger, well-managed players can withstand margin pressure better than smaller competitors."
+            "Signals a potential rotation or correction, particularly in overvalued growth/tech segments, impacting global capital flows.",
+            "Highlights increased correlation between traditional risk assets (equities) and alternative assets (crypto) during stress periods."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Yum China Holdings Inc. (YUMC)",
-          "risk": "MEDIUM",
-          "thesis": "Investment in a market leader demonstrating resilience and operational excellence in a tough competitive landscape."
+          "action": "SHORT",
+          "asset": "NASDAQ 100 Index (NDX)",
+          "risk": "HIGH",
+          "thesis": "Momentum from the US tech-led selloff is spreading globally, suggesting further downside as risk appetite deteriorates and valuations compress."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1657930580900?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1616065053782?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "India Tax Shakes Arbitrage Trade",
-        "fullTitle": "Tax Increase Shakes India’s $36 Billion Arbitrage Trade",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The Indian government unexpectedly raised taxes on equity derivatives, sending shockwaves through the country's $36 billion arbitrage fund sector. Fund managers are anticipating significantly lower returns as a result of this regulatory change. This move directly threatens a fast-growing segment of India's financial markets and could trigger capital reallocation.",
+        "title": "US Yield Curve Steepens Sharply",
+        "fullTitle": "US Treasury Yield Curve Heads for Steepest Level in Four Years",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "The US Treasury yield curve is approaching its steepest level in over four years. This steepening is driven by a combination of interest rate cuts and persistent concerns over inflation and the fiscal deficit. The dynamic reflects conflicting monetary and fiscal policy signals. Such curve movements are critical indicators of economic expectations and banking sector health.",
         "relations": [
           {
-            "label": "Government of India",
-            "type": "entity",
-            "desc": "Regulatory body implementing the tax policy change."
-          },
-          {
-            "label": "Arbitrage Funds",
-            "type": "entity",
-            "desc": "$36 billion sector specializing in equity derivatives arbitrage."
-          },
-          {
-            "label": "Regulatory Risk",
+            "label": "US Treasury Yield Curve",
             "type": "risk",
-            "desc": "Sudden policy changes impacting financial strategy viability."
+            "desc": "Key macroeconomic and financial stability indicator"
           },
           {
-            "label": "Equity Derivatives",
-            "type": "resource",
-            "desc": "Financial instruments (futures, options) targeted by the tax hike."
+            "label": "Inflation",
+            "type": "risk",
+            "desc": "Persistent concern driving long-end yields higher"
+          },
+          {
+            "label": "Fiscal Deficit",
+            "type": "risk",
+            "desc": "Government borrowing concern impacting bond supply/demand"
+          },
+          {
+            "label": "Interest Rate Cuts",
+            "type": "entity",
+            "desc": "Monetary policy action impacting short-end yields"
           }
         ],
         "analysis": {
           "strategic": [
-            "The tax hike represents a significant regulatory intervention aimed at cooling speculative activity, potentially altering the risk-reward calculus for a major asset class.",
-            "This could lead to capital flight from arbitrage strategies into other market segments, increasing volatility and disrupting established trading ecosystems."
+            "Indicates market expectation of 'stagflation-lite' scenario: growth concerns (rate cuts) coupled with enduring inflation/fiscal worries.",
+            "Poses a significant risk to financial institutions, particularly those reliant on traditional maturity transformation, and could tighten credit conditions."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Indian Arbitrage Fund Sector / Nifty Index Volatility",
-          "risk": "HIGH",
-          "thesis": "Regulatory headwind directly eroding the profitability core of a major market strategy, likely leading to fund outflows and increased market volatility."
+          "action": "LONG",
+          "asset": "Financial Select Sector SPDR Fund (XLF)",
+          "risk": "MEDIUM",
+          "thesis": "A steeper yield curve typically improves net interest margins for banks, boosting profitability, provided credit quality does not deteriorate."
         },
         "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1602665969939?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1552354848180?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Altman Rants Over Claude Ads",
-        "fullTitle": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "OpenAI CEO Sam Altman posted an extensive, critical rant targeting rival AI company Anthropic's Claude Super Bowl advertisements. Altman's comments escalated to personally labeling Anthropic's leadership as 'dishonest' and 'authoritarian.' This public outburst highlights the intense personal and competitive rivalry at the highest levels of the AI industry.",
+        "title": "Sapiom Raises $15M for AI Agent Finance",
+        "fullTitle": "Sapiom raises $15M to help AI agents buy their own tech tools",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Startup Sapiom raised $15 million in funding with backing from Accel. The company is building a financial layer designed for autonomous AI agents. This layer handles authentication and micro-payments required for AI agents to procure their own technology tools. The funding underscores investor interest in the infrastructure supporting autonomous AI economies.",
         "relations": [
           {
-            "label": "Sam Altman",
+            "label": "Sapiom",
             "type": "entity",
-            "desc": "CEO of OpenAI, involved in public rivalry."
+            "desc": "Startup building financial infrastructure for AI agents"
           },
           {
-            "label": "Anthropic (Claude)",
+            "label": "AI Agents",
+            "type": "tech",
+            "desc": "Autonomous software entities requiring economic capabilities"
+          },
+          {
+            "label": "Accel",
             "type": "entity",
-            "desc": "AI company and developer of Claude, rival to OpenAI."
+            "desc": "Venture capital firm leading the investment"
           },
           {
-            "label": "Super Bowl Advertising",
-            "type": "resource",
-            "desc": "High-profile marketing channel used by Anthropic."
-          },
-          {
-            "label": "Industry Rivalry",
-            "type": "risk",
-            "desc": "Public and personal competition between AI leaders."
+            "label": "Micro-payments",
+            "type": "tech",
+            "desc": "Key enabling technology for agent-to-agent commerce"
           }
         ],
         "analysis": {
           "strategic": [
-            "The public feud signals a shift from technical competition to intense brand and market perception warfare in the AI sector.",
-            "Such personal attacks from a CEO can increase regulatory and public scrutiny on the entire industry, posing a reputational risk."
+            "Represents early-stage development of the economic and transactional layer for a future ecosystem of autonomous AI agents.",
+            "Highlights a growing investment theme in 'AI infrastructure beyond compute,' focusing on autonomy, identity, and value transfer."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Market Neutral AI Sector Exposure",
-          "risk": "LOW",
-          "thesis": "Sector growth remains intact despite leadership drama; volatility from public spats may create entry points for long-term holdings."
+          "asset": "Venture Capital / Private Equity funds focused on AI infrastructure",
+          "risk": "HIGH",
+          "thesis": "Early investment in foundational layers for AI agent economies could capture significant value as autonomy becomes more prevalent."
         },
         "confidence": 82,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1694481896900?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1630124167743?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Snap Grows Revenue, Loses Users",
-        "fullTitle": "Snap’s Q4 shows revenue growth but fewer daily users",
+        "title": "Reddit Eyes AI Search Opportunity",
+        "fullTitle": "Reddit looks to AI search as its next big opportunity",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Snap Inc. reported Q4 revenue growth while experiencing a decline in daily active users. The company is actively pursuing a strategy to diversify its revenue sources beyond its core advertising business. This comes as Snap prepares for a broader launch of its augmented reality Spectacles product.",
+        "summary": "Reddit provided an update on its plans to merge traditional and AI-powered search during its Q4 earnings call. The company hinted that search represents an enormous, yet currently unmonetized, market opportunity. This move positions Reddit to leverage its unique, community-generated data corpus. It is a strategic attempt to diversify revenue beyond advertising.",
         "relations": [
           {
-            "label": "Snap Inc.",
+            "label": "Reddit",
             "type": "entity",
-            "desc": "Social media company facing user growth challenges."
+            "desc": "Social media platform leveraging its data for AI search"
           },
           {
-            "label": "Spectacles (AR)",
+            "label": "AI Search",
             "type": "tech",
-            "desc": "Snap's augmented reality glasses product line."
+            "desc": "Next-generation search technology combining LLMs and data"
           },
           {
-            "label": "Revenue Diversification",
+            "label": "Data Monetization",
             "type": "resource",
-            "desc": "Strategic shift to reduce reliance on advertising."
+            "desc": "Key strategy for social media and content platforms"
           },
           {
-            "label": "User Engagement",
-            "type": "risk",
-            "desc": "Declining daily active users threatening platform vitality."
+            "label": "Earnings Call",
+            "type": "entity",
+            "desc": "Forum for strategic communication to investors"
           }
         ],
         "analysis": {
           "strategic": [
-            "Snap's pivot towards hardware (Spectacles) and revenue diversification is a critical attempt to redefine its business model amid stagnating user growth.",
-            "The divergence between rising revenue and falling users suggests increased monetization of a shrinking base, a potentially unsustainable long-term trend."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Snap Inc. (SNAP)",
-          "risk": "HIGH",
-          "thesis": "Structural challenges with user decline outweigh near-term revenue gains; diversification into hardware is a high-risk, capital-intensive endeavor with uncertain payoff."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1552914973437?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Mundi Ventures Closes €750M Fund",
-        "fullTitle": "Mundi Ventures closes on €750M for Kembara deep tech fund",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Spain-based Mundi Ventures has completed a €750 million first close for its 'Kembara' deep tech and climate fund, targeting a final size of €1 billion. This marks the firm's largest fund to date, focused on investing in advanced technology and climate solutions. The substantial capital raise signals strong institutional investor appetite for deeptech and climate-themed ventures.",
-        "relations": [
-          {
-            "label": "Mundi Ventures",
-            "type": "entity",
-            "desc": "Spanish venture capital firm managing the Kembara fund."
-          },
-          {
-            "label": "Kembara Fund",
-            "type": "resource",
-            "desc": "€750M+ deep tech and climate investment fund."
-          },
-          {
-            "label": "Deep Technology",
-            "type": "tech",
-            "desc": "Advanced, innovation-driven technology sectors."
-          },
-          {
-            "label": "Climate Tech",
-            "type": "resource",
-            "desc": "Technologies focused on climate change mitigation and adaptation."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The successful fundraise underscores Europe's growing capacity and ambition to fund capital-intensive deep tech and climate innovation, challenging traditional US dominance.",
-            "This large pool of dedicated capital will accelerate the commercialization of European deep tech, potentially creating new market leaders in niche sectors."
+            "Signals Reddit's strategy to monetize its vast, niche, and real-time data asset through AI-native interfaces, competing with larger players.",
+            "Reflects a broader trend of content platforms seeking to become AI data and service providers, not just destinations."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "European Deep Tech & Climate Tech Ecosystem",
-          "risk": "MEDIUM",
-          "thesis": "Large, focused fund deployments create tailwinds for the entire sector, driving valuations and providing exit opportunities for early-stage investors."
+          "asset": "Reddit Inc. (RDDT)",
+          "risk": "HIGH",
+          "thesis": "Successful development and monetization of AI search could unlock a significant new revenue stream and justify a higher valuation multiple."
         },
-        "confidence": 89,
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1588763513294?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "AWS Revenue Soars on AI Demand",
+        "fullTitle": "AWS revenue continues to soar as cloud demand remains high",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Amazon Web Services (AWS) recorded its best quarter for revenue growth in 13 quarters during Q4 2025. The strong performance was driven by continued high cloud demand. Artificial Intelligence adoption is cited as a primary catalyst for AWS growth. This underscores the central role of cloud infrastructure in the AI boom.",
+        "relations": [
+          {
+            "label": "Amazon Web Services (AWS)",
+            "type": "entity",
+            "desc": "Leading cloud service provider, part of Amazon.com"
+          },
+          {
+            "label": "Cloud Computing",
+            "type": "tech",
+            "desc": "Core infrastructure sector experiencing sustained growth"
+          },
+          {
+            "label": "AI Adoption",
+            "type": "tech",
+            "desc": "Major demand driver for cloud compute and services"
+          },
+          {
+            "label": "Infrastructure-as-a-Service (IaaS)",
+            "type": "resource",
+            "desc": "Critical layer in the technology stack"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Confirms that generative AI adoption is translating directly into accelerated revenue for leading cloud infrastructure providers.",
+            "Solidifies the 'picks and shovels' investment thesis within AI, where infrastructure providers capture value early and reliably."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Amazon.com Inc. (AMZN)",
+          "risk": "MEDIUM",
+          "thesis": "AWS's re-acceleration, powered by AI, is a major profit driver for Amazon and supports a premium valuation for the conglomerate."
+        },
+        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1694091577640?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1666188281069?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Panasonic sube 15% en Tokio",
-        "fullTitle": "Panasonic sube más desde 2014 por esperanzas de reestructuración",
+        "title": "Ajinomoto sube 10% por ganancias",
+        "fullTitle": "Ajinomoto sube 10% tras ganancias y pronóstico mejorado",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Panasonic Holdings Corp. subieron un 15% en la negociación de Tokio, el mayor aumento desde 2014. La confianza de los inversores se basa en que el prolongado esfuerzo de reestructuración comenzará a dar frutos el próximo año fiscal. Esto refleja un cambio significativo en el sentimiento del mercado hacia la empresa.",
+        "summary": "Las acciones de Ajinomoto Co. subieron hasta un 10%, su mayor alza desde noviembre de 2024, tras reportar ganancias trimestrales superiores a lo esperado. La empresa fabricante de condimentos japonesa elevó su perspectiva de beneficio operativo. El repunte fue impulsado por el fuerte desempeño de sus negocios de café y condimentos. Esto refleja una demanda resiliente y una gestión de costos efectiva en un entorno económico desafiante.",
         "relations": [
           {
-            "label": "Panasonic Holdings Corp.",
+            "label": "Ajinomoto Co.",
             "type": "entity",
-            "desc": "Empresa japonesa de electrónica y automoción"
+            "desc": "Fabricante japonés de condimentos y alimentos."
           },
           {
-            "label": "Reestructuración Corporativa",
+            "label": "Café",
+            "type": "resource",
+            "desc": "Segmento de negocio clave impulsando el crecimiento."
+          },
+          {
+            "label": "Condimentos",
+            "type": "resource",
+            "desc": "Negocio principal con demanda estable."
+          },
+          {
+            "label": "Ganancias Trimestrales",
             "type": "risk",
-            "desc": "Proceso de cambio organizacional para mejorar eficiencia"
+            "desc": "Indicador de salud financiera y desempeño operativo."
           },
           {
-            "label": "Mercado de Valores de Tokio",
+            "label": "Mercado de Valores de Japón",
             "type": "entity",
-            "desc": "Bolsa de valores principal de Japón"
-          },
-          {
-            "label": "Inversores Institucionales",
-            "type": "entity",
-            "desc": "Actores clave que impulsan el movimiento del precio"
+            "desc": "Mercado donde cotiza Ajinomoto."
           }
         ],
         "analysis": {
           "strategic": [
-            "La revalorización sugiere que el mercado está anticipando una mejora fundamental en la rentabilidad y la estructura de costos de Panasonic.",
-            "El éxito de la reestructuración podría posicionar a Panasonic de manera más competitiva en sectores clave como las baterías para vehículos eléctricos y soluciones para el hogar."
+            "La fortaleza en segmentos básicos como condimentos sugiere resiliencia ante volatilidad económica.",
+            "La mejora del pronóstico indica confianza de la gestión en tendencias de consumo y eficiencia operativa continua."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "6752.T (Panasonic Holdings Corp.)",
+          "asset": "Ajinomoto Co. (2802.T)",
           "risk": "MEDIUM",
-          "thesis": "El impulso positivo y la expectativa de resultados tangibles de la reestructuración en el próximo año fiscal podrían sostener la revalorización. Es una apuesta a la ejecución exitosa del plan de transformación."
+          "thesis": "Empresa defensiva con ganancias sólidas, pronóstico mejorado y exposición a categorías de consumo básico resilientes."
         },
-        "confidence": 82,
+        "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1639681843566?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1621503783719?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Yum China supera expectativas de beneficio",
-        "fullTitle": "Yum China sube tras superar expectativas de beneficio operativo",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Yum China Holdings Inc. subieron después de que la compañía reportara un beneficio operativo del cuarto trimestre mejor de lo esperado. Este resultado se logró a pesar de la guerra de precios en el mercado de entrega de comida de China. Demuestra la resiliencia de su modelo operativo y gestión de costos.",
+        "title": "Venta masiva global, Bitcoin se estabiliza",
+        "fullTitle": "Venta masiva en acciones globales se extiende, Bitcoin se estabiliza",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "La venta masiva de acciones globales se extendió a la negociación asiática del viernes, tras fuertes pérdidas en acciones tecnológicas estadounidenses que redujeron el apetito por el riesgo. Bitcoin y la plata se estabilizaron después de caer anteriormente. El movimiento refleja una rotación fuera de activos de riesgo y preocupaciones sobre valoraciones. La estabilización de las criptomonedas sugiere que parte de la venta por pánico podría haber terminado.",
         "relations": [
           {
-            "label": "Yum China Holdings Inc.",
+            "label": "Acciones Tecnológicas EE.UU.",
             "type": "entity",
-            "desc": "Operador de KFC, Pizza Hut y Taco Bell en China"
+            "desc": "Sector clave impulsando la venta masiva global."
           },
           {
-            "label": "Guerra de Precios en Delivery",
-            "type": "risk",
-            "desc": "Competencia intensa por descuentos en plataformas de comida a domicilio"
-          },
-          {
-            "label": "Beneficio Operativo",
+            "label": "Bitcoin",
             "type": "resource",
-            "desc": "Métrica clave de rentabilidad del negocio principal"
+            "desc": "Activo de riesgo que se estabiliza tras caída."
           },
           {
-            "label": "Mercado de Consumo Chino",
+            "label": "Apetito por el Riesgo",
+            "type": "risk",
+            "desc": "Sentimiento del mercado que afecta a todos los activos."
+          },
+          {
+            "label": "Mercados Asiáticos",
             "type": "entity",
-            "desc": "Entorno económico y competitivo clave para la empresa"
+            "desc": "Mercados afectados por el contagio de ventas de EE.UU."
+          },
+          {
+            "label": "Plata",
+            "type": "resource",
+            "desc": "Activo refugio/metálico que sigue la volatilidad."
           }
         ],
         "analysis": {
           "strategic": [
-            "La capacidad de Yum China para generar beneficios superiores en un entorno de descuentos agresivos subraya su ventaja en escala, eficiencia de cadena de suministro y lealtad de marca.",
-            "Este desempeño puede indicar una estrategia exitosa para equilibrar el crecimiento de volumen (vía promociones) con la rentabilidad, un desafío crítico en el sector."
+            "La venta masiva iniciada en la tecnología de EE.UU. se está globalizando, indicando un repricing del riesgo sistémico.",
+            "La estabilización de activos especulativos como Bitcoin puede ser temporal si persiste la aversión al riesgo en acciones."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "YUMC (Yum China Holdings Inc.)",
-          "risk": "MEDIUM",
-          "thesis": "La empresa ha demostrado resiliencia en un trimestre difícil, superando expectativas. Su ejecución sólida y posición de mercado dominante la convierten en un refugio de calidad dentro del volátil sector de consumo discrecional en China."
+          "action": "SHORT",
+          "asset": "ETF de Tecnología (ej. XLK) o Nasdaq 100 (QQQ)",
+          "risk": "HIGH",
+          "thesis": "El contagio de la venta masiva desde EE.UU. a Asia sugiere más debilidad en el sector tecnológico, muy sensible al apetito por el riesgo."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1572680344152?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1563996718287?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Aumento de impuestos sacude arbitraje en India",
-        "fullTitle": "Aumento de impuestos sacuda comercio de arbitraje de $36B en India",
+        "title": "Curva de rendimientos EE.UU. se empina",
+        "fullTitle": "Curva de rendimientos del Tesoro EE.UU. se acerca a máximo de 4 años",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Los gestores de fondos de arbitraje en India se preparan para rendimientos más bajos después de que el gobierno elevara inesperadamente los impuestos sobre los derivados de acciones. Esta medida amenaza un sector de rápido crecimiento que gestiona $36 mil millones en activos. Cambia fundamentalmente la ecuación de rentabilidad para estas estrategias.",
+        "summary": "La curva de rendimientos del Tesoro de EE.UU. está cerca de su nivel más empinado en más de cuatro años. Este movimiento es resultado de una combinación de recortes de tasas de interés y preocupación por la inflación persistente y el déficit fiscal. Un mayor diferencial (curva más empinada) sugiere expectativas de crecimiento e inflación a largo plazo. También refleja preocupaciones del mercado sobre la sostenibilidad de la deuda.",
         "relations": [
           {
-            "label": "Gobierno de la India",
+            "label": "Tesoro de EE.UU.",
             "type": "entity",
-            "desc": "Autoridad regulatoria que implementó el cambio fiscal"
+            "desc": "Emisor de deuda soberana estadounidense."
           },
           {
-            "label": "Fondos de Arbitraje",
-            "type": "entity",
-            "desc": "Vehiculos de inversión que explotan ineficiencias de precios"
-          },
-          {
-            "label": "Derivados de Acciones",
-            "type": "resource",
-            "desc": "Instrumentos financieros como futuros y opciones sobre acciones"
-          },
-          {
-            "label": "Riesgo Regulatorio",
+            "label": "Curva de Rendimientos",
             "type": "risk",
-            "desc": "Riesgo de cambios adversos en leyes o políticas"
+            "desc": "Indicador clave de expectativas económicas y riesgo."
           },
           {
-            "label": "$36 mil millones",
-            "type": "resource",
-            "desc": "Volumen de activos en el sector afectado"
+            "label": "Inflación Persistente",
+            "type": "risk",
+            "desc": "Factor clave que presiona los rendimientos a largo plazo."
+          },
+          {
+            "label": "Déficit Fiscal",
+            "type": "risk",
+            "desc": "Preocupación sobre la oferta de deuda y sostenibilidad."
+          },
+          {
+            "label": "Recortes de Tasas",
+            "type": "entity",
+            "desc": "Política de la Fed que afecta el extremo corto de la curva."
           }
         ],
         "analysis": {
           "strategic": [
-            "La acción del gobierno introduce una incertidumbre regulatoria significativa y puede provocar una salida de capitales o una reasignación masiva dentro del sector financiero indio.",
-            "Este movimiento podría estar destinado a desincentivar la actividad especulativa de alto volumen en derivados y dirigir la inversión hacia el mercado de contado (cash equity), considerando más estable."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Fondos/ETFs de Arbitraje indios o brokers especializados",
-          "risk": "HIGH",
-          "thesis": "El aumento de impuestos reduce directamente la rentabilidad de las estrategias de arbitraje, lo que podría llevar a rescates de inversores y a la contracción del sector. Es una apuesta a un impacto negativo inmediato en la valoración de estos vehículos."
-        },
-        "confidence": 88,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1656803742888?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Altman critica duramente anuncios de Claude",
-        "fullTitle": "Sam Altman se irrita excepcionalmente por anuncios de Claude en Super Bowl",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Sam Altman, CEO de OpenAI, publicó una extensa queja en redes sociales dirigida a su rival Anthropic. La diatriba, de gran longitud, degeneró en acusaciones de ser \"deshonesto\" y \"autoritario\" relacionadas con los anuncios de Claude durante el Super Bowl. Refleja una rivalidad intensa y personal en el sector de la IA.",
-        "relations": [
-          {
-            "label": "Sam Altman",
-            "type": "entity",
-            "desc": "CEO de OpenAI"
-          },
-          {
-            "label": "Anthropic / Claude",
-            "type": "entity",
-            "desc": "Empresa rival de IA y su modelo de lenguaje"
-          },
-          {
-            "label": "Super Bowl",
-            "type": "entity",
-            "desc": "Evento deportivo con anuncios publicitarios de alto costo"
-          },
-          {
-            "label": "Guerra de Marketing en IA",
-            "type": "risk",
-            "desc": "Competencia agresiva por atención y percepción del mercado"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La reacción emocional pública de Altman puede indicar una presión competitiva creciente por parte de Anthropic, percibiendo sus tácticas de marketing como una amenaza significativa.",
-            "Este tipo de confrontación pública podría dañar la imagen de los líderes y desviar la atención del progreso tecnológico, aunque también genera una enorme cobertura mediática gratuita para ambos."
+            "Una curva más empinada puede presagiar presiones inflacionarias futuras y desafíos para el financiamiento del gobierno.",
+            "Refleja un conflicto de políticas: la Fed recorta para suavizar la economía, pero los mercados exigen prima por riesgo fiscal/inflación a largo plazo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas de infraestructura de IA (NVIDIA, proveedores de nube)",
-          "risk": "LOW",
-          "thesis": "La intensificación de la rivalidad entre los principales actores de IA generativa (OpenAI vs. Anthropic) impulsa una mayor inversión en capacidades, marketing y adopción, beneficiando a los proveedores de hardware y plataforma subyacentes independientemente del ganador."
+          "asset": "ETF de bonos largos (ej. TLT) o bancos (ej. KBE)",
+          "risk": "MEDIUM",
+          "thesis": "Una curva más empinada beneficia a los bancos (mayor margen de interés) y puede ofrecer oportunidades en bonos largos si la economía se desacelera."
         },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1628826042809?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1509972174539?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Snap crece en ingresos pero pierde usuarios",
-        "fullTitle": "Snap muestra crecimiento de ingresos en Q4 pero menos usuarios diarios",
+        "title": "Sapiom recauda $15M para IA",
+        "fullTitle": "Sapiom recauda $15M para capa financiera para agentes de IA",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Snap Inc. reportó crecimiento de ingresos en el cuarto trimestre, pero una disminución en sus usuarios activos diarios. La compañía está inmersa en una estrategia para diversificar sus fuentes de ingresos de cara al nuevo año. Esto incluye la preparación de sus gafas Spectacles para el mercado masivo.",
+        "summary": "La startup Sapiom ha recaudado $15 millones en una ronda de financiación respaldada por Accel. La empresa está construyendo una capa financiera que maneja la autenticación y los micropagos requeridos para que los agentes de IA operen de forma autónoma. Esto permite a las IA comprar sus propias herramientas tecnológicas. El financiamiento valida el creciente campo de la economía autónoma de los agentes de IA.",
         "relations": [
           {
-            "label": "Snap Inc.",
+            "label": "Sapiom",
             "type": "entity",
-            "desc": "Compañía matriz de Snapchat"
+            "desc": "Startup que construye infraestructura financiera para IA."
           },
           {
-            "label": "Usuarios Activos Diarios (DAU)",
-            "type": "resource",
-            "desc": "Métrica clave de crecimiento y participación de la plataforma"
-          },
-          {
-            "label": "Diversificación de Ingresos",
-            "type": "strategy",
-            "desc": "Estrategia para reducir dependencia de la publicidad"
-          },
-          {
-            "label": "Snap Spectacles",
+            "label": "Agentes de IA",
             "type": "tech",
-            "desc": "Gafas inteligentes de realidad aumentada"
+            "desc": "Entidades de software autónomas que requieren transacciones."
+          },
+          {
+            "label": "Micropagos",
+            "type": "tech",
+            "desc": "Tecnología de pago esencial para la economía de agentes."
+          },
+          {
+            "label": "Accel",
+            "type": "entity",
+            "desc": "Firma de capital de riesgo inversora."
+          },
+          {
+            "label": "Capa Financiera",
+            "type": "tech",
+            "desc": "Infraestructura backend para transacciones autónomas de IA."
           }
         ],
         "analysis": {
           "strategic": [
-            "La divergencia entre ingresos crecientes y base de usuarios en contracción sugiere que Snap está monetizando mejor a su audiencia restante, pero enfrenta desafíos de crecimiento orgánico frente a competidores como TikTok e Instagram.",
-            "La apuesta por Spectacles y la diversificación de ingresos es un intento de alto riesgo/alto rendimiento de reinventar la empresa más allá de una aplicación de redes sociales, buscando liderar en hardware de AR."
+            "La inversión señala una tendencia hacia la creación de infraestructura para economías autónomas dirigidas por IA.",
+            "Sapiom se posiciona como un facilitador clave para la adopción comercial a gran escala de agentes de IA autónomos."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "SNAP (Snap Inc.)",
+          "action": "LONG",
+          "asset": "Capital Privado / VC en infraestructura de IA",
           "risk": "HIGH",
-          "thesis": "La pérdida de usuarios activos diarios es una señal de alerta fundamental para una plataforma social, que pone en duda su crecimiento futuro a largo plazo. La diversificación hacia hardware (Spectacles) es un mercado notoriamente difícil y competitivo."
+          "thesis": "La financiación de Sapiom por parte de un VC líder como Accel indica un interés creciente en la infraestructura financiera de IA, un sector de alto crecimiento potencial."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1680381759762?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Reddit apuesta por búsqueda con IA",
+        "fullTitle": "Reddit ve la búsqueda con IA como su próxima gran oportunidad",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Durante la llamada de resultados del cuarto trimestre, Reddit actualizó sus planes para fusionar la búsqueda tradicional y la búsqueda con IA. La compañía insinuó que, aunque la búsqueda aún no está monetizada, representa 'un mercado y una oportunidad enormes'. Esto forma parte de su estrategia para diversificar ingresos más allá de la publicidad tradicional. Reddit busca aprovechar su vasto contenido generado por usuarios para IA.",
+        "relations": [
+          {
+            "label": "Reddit",
+            "type": "entity",
+            "desc": "Plataforma de redes sociales y foros en línea."
+          },
+          {
+            "label": "Búsqueda con IA",
+            "type": "tech",
+            "desc": "Nuevo producto estratégico para Reddit."
+          },
+          {
+            "label": "Monetización",
+            "type": "risk",
+            "desc": "Objetivo clave para nuevos flujos de ingresos."
+          },
+          {
+            "label": "Contenido Generado por Usuarios",
+            "type": "resource",
+            "desc": "Activo de datos valioso para entrenar modelos de búsqueda."
+          },
+          {
+            "label": "Mercado de Búsqueda",
+            "type": "entity",
+            "desc": "Mercado dominado por Google que Reddit busca abordar."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Reddit intenta competir en el espacio de búsqueda utilizando su nicho único de datos conversacionales y comunitarios.",
+            "La monetización de la búsqueda podría ser un multiplicador de ingresos significativo si captura incluso una pequeña parte del mercado."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Reddit (RDDT)",
+          "risk": "HIGH",
+          "thesis": "Si Reddit ejecuta con éxito su estrategia de búsqueda con IA, podría desbloquear un nuevo y sustancial flujo de ingresos, revalorizando la acción."
         },
         "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1575170478542?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1628105220953?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Mundi Ventures cierra €750M para fondo Kembara",
-        "fullTitle": "Mundi Ventures cierra €750M para su mayor fondo de deep tech y clima",
+        "title": "Ingresos de AWS continúan subiendo",
+        "fullTitle": "Ingresos de AWS alcanzan mejor trimestre en 13 trimestres",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El megafondo español de deep tech y clima, Kembara, ha completado un primer cierre de 750 millones de euros, acercándose a su objetivo de 1.000 millones. El fondo es gestionado por Mundi Ventures. Este cierre refleja un fuerte apetito de los inversores por tecnologías profundas y soluciones climáticas.",
+        "impactLevel": "HIGH",
+        "summary": "AWS registró su mejor trimestre en términos de crecimiento de ingresos en 13 trimestres durante el Q4 de 2025. La demanda de la nube sigue siendo alta, impulsada en gran medida por la adopción de tecnologías de IA. Este desempeño sólido subraya el papel de AWS como un pilar fundamental para Amazon. La IA está actuando como un catalizador clave para la migración y el uso de la infraestructura en la nube.",
         "relations": [
           {
-            "label": "Mundi Ventures",
+            "label": "AWS",
             "type": "entity",
-            "desc": "Firma de capital de riesgo española"
+            "desc": "Plataforma de computación en la nube de Amazon."
           },
           {
-            "label": "Fondo Kembara",
-            "type": "resource",
-            "desc": "Megafondo de €750M-€1000M para deep tech y clima"
-          },
-          {
-            "label": "Deep Tech",
+            "label": "Inteligencia Artificial (IA)",
             "type": "tech",
-            "desc": "Tecnologías basadas en avances científicos o de ingeniería significativos"
+            "desc": "Catalizador principal del crecimiento de la nube."
           },
           {
-            "label": "Tecnología Climática (Climate Tech)",
+            "label": "Computación en la Nube",
             "type": "tech",
-            "desc": "Soluciones para mitigar o adaptarse al cambio climático"
+            "desc": "Mercado en crecimiento con alta demanda."
           },
           {
-            "label": "Capital de Riesgo Europeo",
+            "label": "Amazon",
             "type": "entity",
-            "desc": "Ecosistema de inversión en etapas tempranas"
+            "desc": "Compañía matriz de AWS."
+          },
+          {
+            "label": "Migración a la Nube",
+            "type": "risk",
+            "desc": "Tendencia estructural que beneficia a los proveedores."
           }
         ],
         "analysis": {
           "strategic": [
-            "El tamaño del fondo posiciona a Mundi Ventures y a España como un actor significativo en el panorama europeo de venture capital para deep tech, compitiendo con fondos tradicionales de Londres o Berlín.",
-            "La concentración en deep tech y clima alinea la estrategia de inversión con las megatendencias globales y las prioridades de financiación de la UE (ej. Green Deal), lo que podría atraer coinversión pública y corporativa."
+            "La IA está impulsando un nuevo ciclo de crecimiento superpuesto a la tendencia secular de adopción de la nube.",
+            "El dominio de AWS en infraestructura para IA fortalece su posición competitiva y crea un efecto de red con los desarrolladores."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Portafolio de empresas de deep tech/clima europeas",
+          "asset": "Amazon (AMZN)",
           "risk": "MEDIUM",
-          "thesis": "La disponibilidad de un pool de capital tan grande (€750M+) para deep tech y clima en Europa acelerará la inversión en el sector. Se puede obtener exposición indirecta invirtiendo en empresas prometedoras que sean candidatas probables a recibir financiación de este y fondos similares."
+          "thesis": "AWS es el motor de rentabilidad de Amazon, y su aceleración impulsada por IA debería traducirse en un fuerte crecimiento de los beneficios y una revalorización de las acciones."
         },
-        "confidence": 87,
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1582924771521?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1674542889493?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
