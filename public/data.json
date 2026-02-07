@@ -1,833 +1,804 @@
 {
-  "generated_at": "2026-02-06T02:16:40.903305",
+  "generated_at": "2026-02-07T02:12:22.791134",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "味之素股价大涨10%",
-        "fullTitle": "味之素因咖啡与调味品业务提振利润，股价飙升10%",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "日本调味品制造商味之素公布优于预期的季度业绩，并上调了营业利润展望，推动其股价创下自2024年11月以来的最大单日涨幅，最高涨幅达10%。咖啡和调味品业务的强劲表现是主要驱动因素。这表明特定消费必需品公司在当前市场环境下仍能实现稳健增长。",
-        "relations": [
-          {
-            "label": "味之素",
-            "type": "entity",
-            "desc": "日本主要调味品与食品制造商"
-          },
-          {
-            "label": "咖啡业务",
-            "type": "resource",
-            "desc": "推动公司利润增长的关键业务线"
-          },
-          {
-            "label": "消费必需品",
-            "type": "risk",
-            "desc": "在经济波动中具有防御性特征的板块"
-          },
-          {
-            "label": "日本股市",
-            "type": "entity",
-            "desc": "事件发生的具体市场"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "消费必需品龙头在通胀或经济不确定性时期可能表现出更强的盈利韧性和防御性，值得关注。",
-            "企业上调业绩展望是重要的积极信号，可能预示着行业或公司基本面的结构性改善。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "味之素 (2802.T)",
-          "risk": "MEDIUM",
-          "thesis": "基于其超预期的业绩和上调的展望，公司基本面强劲，且属于防御性板块，在市场波动中可能提供相对稳定的回报。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1604621187751?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "全球股市延续跌势",
-        "fullTitle": "全球股市延续跌势，比特币企稳",
-        "classification": "UNCLASSIFIED",
+        "title": "美拟对台军售或影响习特会",
+        "fullTitle": "美媒称美拟在习特会前对台军售，中方不满",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "受美国科技股大幅下跌拖累，全球股市的抛售潮延续至亚洲交易时段，市场风险偏好受到抑制。比特币和白银价格在早前下跌后趋于稳定。这表明市场情绪正从科技股等高增长板块转向避险。",
+        "summary": "据《金融时报》报道，美国正在准备新一轮对台军售，此举已令中国官员感到不安，并可能危及特朗普总统原定于四月对中国的访问。这反映了中美关系在核心议题上的持续紧张。地缘政治风险可能影响市场情绪。",
         "relations": [
           {
-            "label": "全球股市",
+            "label": "美国",
             "type": "entity",
-            "desc": "整体风险资产市场"
+            "desc": "军售发起方，地缘政治主要参与方"
           },
           {
-            "label": "美国科技股",
+            "label": "中国",
+            "type": "entity",
+            "desc": "核心利益方，反应强烈"
+          },
+          {
+            "label": "台湾地区",
+            "type": "entity",
+            "desc": "军售接收方，地缘政治焦点"
+          },
+          {
+            "label": "地缘政治风险",
             "type": "risk",
-            "desc": "本轮市场抛售的主要源头"
+            "desc": "中美关系紧张，影响市场稳定"
           },
           {
-            "label": "比特币",
-            "type": "asset",
-            "desc": "数字资产，风险偏好指标之一"
-          },
-          {
-            "label": "市场风险偏好",
-            "type": "risk",
-            "desc": "驱动资产价格波动的关键情绪因素"
+            "label": "国防工业",
+            "type": "resource",
+            "desc": "军售直接受益方"
           }
         ],
         "analysis": {
           "strategic": [
-            "科技股领跌可能标志着市场风格从高估值成长股向价值或防御性板块轮动的开始。",
-            "风险资产普跌时，传统避险资产（如国债、黄金）和部分企稳的另类资产（如比特币）的后续表现需密切关注，以判断资金流向。"
+            "此举是美国维持对华战略博弈的常规手段，意在施压并测试中方底线。",
+            "事件可能暂时冲击双边高层外交氛围，但预计不会导致全面关系脱轨，双方均有管控分歧的动机。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "纳斯达克100指数期货",
+          "asset": "与中国市场高度相关的ETF（如FXI）或依赖稳定中美关系的公司",
+          "risk": "MEDIUM",
+          "thesis": "地缘政治紧张情绪升温，短期内可能打压市场风险偏好，尤其是与中国相关的资产。"
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1645522700406?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "美政府考虑调查房屋建筑商",
+        "fullTitle": "白宫考虑对美房屋建筑商发起反垄断调查",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "特朗普政府官员正在探讨对美国房屋建筑商发起反垄断调查，以应对住房可负担性危机。司法部可能在数周内启动调查，但最终决定尚未做出，计划也可能被放弃。此举表明政府试图从供给侧寻找房价高企的解决方案。",
+        "relations": [
+          {
+            "label": "美国司法部",
+            "type": "entity",
+            "desc": "潜在调查执行机构"
+          },
+          {
+            "label": "美国房屋建筑商",
+            "type": "entity",
+            "desc": "潜在被调查对象"
+          },
+          {
+            "label": "反垄断风险",
+            "type": "risk",
+            "desc": "监管政策不确定性增加"
+          },
+          {
+            "label": "住房市场",
+            "type": "resource",
+            "desc": "政策干预的核心领域"
+          },
+          {
+            "label": "特朗普政府",
+            "type": "entity",
+            "desc": "政策推动方"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "这是美国政府将住房问题政治化并寻求政策工具的体现，意在回应国内民生压力。",
+            "调查若启动，将向房地产行业释放强监管信号，可能改变行业竞争格局与定价行为。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "大型上市房屋建筑商股票（如LEN, DHI, PHM）",
           "risk": "HIGH",
-          "thesis": "科技股疲软拖累整体市场情绪，且抛售潮蔓延至亚洲，显示下跌动能可能持续，做空高贝塔的科技指数以对冲风险或获取收益。"
+          "thesis": "反垄断调查传闻将带来巨大的政策不确定性，可能导致相关公司股价承压，直至政策意图明朗化。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1583650542717?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1612280796306?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "美债收益率曲线趋陡",
-        "fullTitle": "美债收益率曲线逼近四年最陡水平",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "由于利率下调、对持续通胀的担忧以及财政赤字问题共同作用，美国国债收益率曲线正接近四年多来的最陡峭水平。短端利率受政策影响下降更快，而长端利率因通胀和赤字担忧保持相对高位。",
+        "title": "标普指数创数月最大涨幅",
+        "fullTitle": "标普500指数录得自5月以来最大单日涨幅",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "标普500指数在当日交易中表现强劲，有望创下自去年5月以来的最大单日涨幅。彭博电视收盘节目邀请了多位资产管理、金融及企业界人士进行市场分析与评论。这反映了市场在特定交易日内的积极情绪和资金流向。",
         "relations": [
           {
-            "label": "美国国债收益率曲线",
+            "label": "标普500指数",
             "type": "entity",
-            "desc": "关键的经济和金融市场指标"
+            "desc": "市场核心宽基指数，反映整体情绪"
           },
           {
-            "label": "利率下调",
-            "type": "risk",
-            "desc": "货币政策宽松，影响曲线短端"
+            "label": "资产管理机构",
+            "type": "entity",
+            "desc": "市场主要参与者和评论方"
           },
           {
-            "label": "持续通胀",
+            "label": "市场情绪",
             "type": "risk",
-            "desc": "推高长端收益率的主要压力"
+            "desc": "短期乐观，但需关注持续性"
           },
           {
-            "label": "财政赤字",
-            "type": "risk",
-            "desc": "增加长债供应，施压长端利率"
+            "label": "彭博社",
+            "type": "entity",
+            "desc": "信息发布与传播渠道"
           }
         ],
         "analysis": {
           "strategic": [
-            "收益率曲线陡峭化通常预示着市场预期未来经济增长和通胀，但也可能反映对长期财政可持续性的担忧。",
-            "这种环境对银行净息差可能有利，但对长期资产估值（如成长股）构成压力，并可能加剧市场波动。"
+            "单日大涨通常是多种因素（如宏观数据、企业财报、流动性）共同作用的结果，需分析其驱动力的可持续性。",
+            "主流财经媒体集中报道市场上涨，可能强化短期乐观叙事，但也需警惕情绪过热后的回调风险。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "金融板块ETF (如XLF)",
-          "risk": "MEDIUM",
-          "thesis": "陡峭的收益率曲线通常有利于银行的借贷利差，从而提升其盈利能力，金融板块可能受益。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1502199494903?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Sapiom融资$1500万",
-        "fullTitle": "Sapiom获$1500万融资，为AI代理构建金融层",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "初创公司Sapiom在Accel等机构支持下，完成了1500万美元的融资。该公司致力于构建一个金融层，以处理AI代理（AI agents）在购买技术工具时所需的身份验证和小额支付问题。这瞄准了AI自主经济活动中的基础设施缺口。",
-        "relations": [
-          {
-            "label": "Sapiom",
-            "type": "entity",
-            "desc": "专注于AI代理金融层的初创公司"
-          },
-          {
-            "label": "AI代理",
-            "type": "tech",
-            "desc": "能够自主执行任务的AI实体"
-          },
-          {
-            "label": "金融层/支付基础设施",
-            "type": "tech",
-            "desc": "支持AI经济活动的关键底层技术"
-          },
-          {
-            "label": "Accel",
-            "type": "entity",
-            "desc": "知名风险投资机构，项目背书方"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "AI代理的普及将催生对专用金融和支付基础设施的强烈需求，这是一个新兴的、具有战略意义的赛道。",
-            "头部风投（如Accel）的押注表明，资本正从AI模型层向应用层和支撑性基础设施层扩散，寻找下一个增长点。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI基础设施与支付相关初创公司及公募股",
-          "risk": "HIGH",
-          "thesis": "AI代理的规模化应用需要可靠的支付和金融协议支持，早期布局该基础设施领域的公司可能获得先发优势和高增长潜力。"
+          "asset": "标普500指数ETF（如SPY）",
+          "risk": "LOW",
+          "thesis": "在确认上涨趋势和积极动能的初期，跟随主要指数是捕捉市场beta收益的有效策略。"
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1609215621254?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1604225831593?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Reddit押注AI搜索",
-        "fullTitle": "Reddit将AI搜索视为下一个重大机遇",
+        "title": "AI创始人拟办“亿万富翁游行”",
+        "fullTitle": "AI初创创始人计划组织游行抗议加州财富税",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Reddit在第四季度财报电话会议上更新了其将传统搜索与AI搜索相结合的计划。公司暗示，尽管搜索功能尚未货币化，但这是一个巨大的市场和机会。这显示了Reddit试图利用其独特的社区内容和对话数据，在AI搜索领域开辟新增长曲线。",
+        "impactLevel": "INFO",
+        "summary": "一位人工智能初创公司的创始人声称，他正在计划组织一场“亿万富翁游行”，以抗议加利福尼亚州可能推出的财富税。活动组织者坚称这不是一个玩笑。这反映了高净值人群对特定税收政策的强烈反对和潜在的政治动员。",
         "relations": [
           {
-            "label": "Reddit",
+            "label": "AI初创创始人",
             "type": "entity",
-            "desc": "美国社交媒体和网络论坛公司"
+            "desc": "事件发起人，高净值个体代表"
           },
           {
-            "label": "AI搜索",
-            "type": "tech",
-            "desc": "下一代信息检索技术，Reddit的战略方向"
-          },
-          {
-            "label": "社区数据",
-            "type": "resource",
-            "desc": "Reddit用于训练和差异化AI搜索的核心资产"
-          },
-          {
-            "label": "货币化",
+            "label": "财富税",
             "type": "risk",
-            "desc": "新业务面临的挑战与潜在增长点"
+            "desc": "政策风险，影响资本流动与富人居住地选择"
+          },
+          {
+            "label": "加利福尼亚州",
+            "type": "entity",
+            "desc": "潜在征税方，科技与财富集中地"
+          },
+          {
+            "label": "政治游说",
+            "type": "risk",
+            "desc": "财富阶层试图影响公共政策"
           }
         ],
         "analysis": {
           "strategic": [
-            "拥有独特、高质量数据生态的平台（如Reddit、维基百科）在AI时代价值重估，它们可能成为垂直AI应用的关键数据源或入口。",
-            "科技公司正积极将AI能力融入现有产品以寻找第二增长曲线，这可能导致传统互联网格局的重塑和新的竞争。"
+            "事件凸显了财富再分配政策在科技与资本密集地区引发的尖锐矛盾，可能影响当地人才与资本的留存。",
+            "这是一种非传统的政治表达方式，表明科技新贵阶层正试图以更公开、更吸引眼球的方式参与政策博弈。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Reddit (RDDT)",
+          "action": "SHORT",
+          "asset": "对加州财政和商业环境敏感的地方性银行或房地产信托",
           "risk": "HIGH",
-          "thesis": "其庞大的、结构化的社区对话数据是训练专业领域AI模型的宝贵资产，若AI搜索战略成功，可能打开巨大的估值上行空间。"
+          "thesis": "财富税争议若持续发酵，可能引发高净值人群和资本外流，长期损害加州经济活力，利空相关资产。"
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1505212594839?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "《投行风云》新季聚焦科技欺诈",
+        "fullTitle": "《投行风云》第四季深度刻画科技金融欺诈",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "电视剧《投行风云》第四季通过一位金融科技巨头的视角，审视金钱与权力的世界。评论认为该剧对科技欺诈的刻画比当前任何电视节目都更为深刻。这反映了流行文化对金融科技领域风险与道德问题的关注。",
+        "relations": [
+          {
+            "label": "金融科技",
+            "type": "tech",
+            "desc": "剧情核心背景，新兴高风险领域"
+          },
+          {
+            "label": "欺诈风险",
+            "type": "risk",
+            "desc": "行业潜在的系统性风险之一"
+          },
+          {
+            "label": "流行文化叙事",
+            "type": "entity",
+            "desc": "影响公众对行业认知的媒介"
+          },
+          {
+            "label": "监管关注",
+            "type": "risk",
+            "desc": "文艺作品可能间接引发更严格的审视"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "流行文化作品是公众情绪的晴雨表，该剧的热播可能预示着社会对金融科技泡沫和道德风险的担忧加剧。",
+            "这种文化叙事可能潜移默化地影响投资者情绪和监管机构的舆论环境，对行业形象构成软性压力。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "估值过高、商业模式存在争议的上市金融科技公司",
+          "risk": "MEDIUM",
+          "thesis": "公众和舆论对行业负面形象的关注度提升，可能加剧市场对相关公司治理和合规性的质疑，打压估值。"
         },
         "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1503527839870?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1617064147408?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "AWS营收持续飙升",
-        "fullTitle": "AI驱动需求，AWS营收增长创13个季度新高",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "HIGH",
-        "summary": "亚马逊云科技（AWS）在2025年第四季度实现了13个季度以来最快的营收增长，创下最佳季度表现。强劲增长主要由人工智能（AI）应用推动的云需求所带动。这证实了AI不仅是技术趋势，更是当前云基础设施市场的核心增长引擎。",
+        "title": "苹果CarPlay将兼容AI聊天机器人",
+        "fullTitle": "苹果正致力于使CarPlay兼容ChatGPT等AI聊天机器人",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "苹果公司的工程师正在努力，计划在未来几个月内使CarPlay车载系统支持AI聊天机器人应用，例如ChatGPT。这表明苹果正加速将生成式AI集成到其核心生态系统和用户体验中，特别是在汽车场景。",
         "relations": [
           {
-            "label": "AWS",
+            "label": "苹果公司",
             "type": "entity",
-            "desc": "亚马逊旗下云计算服务部门，市场领导者"
+            "desc": "技术集成与生态主导方"
           },
           {
-            "label": "人工智能",
+            "label": "CarPlay",
             "type": "tech",
-            "desc": "驱动本季度云需求增长的首要因素"
+            "desc": "苹果车载信息系统，重要生态入口"
           },
           {
-            "label": "云计算",
+            "label": "AI聊天机器人",
+            "type": "tech",
+            "desc": "生成式AI的典型应用，如ChatGPT"
+          },
+          {
+            "label": "智能汽车生态",
             "type": "resource",
-            "desc": "数字经济的核心基础设施"
+            "desc": "科技巨头竞争的下一个关键战场"
           },
           {
-            "label": "企业IT支出",
-            "type": "risk",
-            "desc": "云市场增长的宏观基础"
+            "label": "用户体验",
+            "type": "resource",
+            "desc": "竞争的核心，通过AI增强交互"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI竞赛正直接转化为对云计算（尤其是IaaS和PaaS）的巨额资本支出，云巨头是确定性的受益者。",
-            "AWS的强劲表现可能预示着整个云基础设施板块进入新一轮增长周期，并可能带动上游半导体、硬件等产业链。"
+            "这是苹果应对生成式AI浪潮的关键落子，旨在巩固并扩展其在车载场景的生态优势，避免被竞争对手超越。",
+            "通过开放兼容主流AI模型，苹果采取了更灵活的策略，既能快速引入AI能力，又可能为未来自研模型铺路。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "亚马逊 (AMZN)",
-          "risk": "MEDIUM",
-          "thesis": "AWS作为AI浪潮的核心基础设施提供商，其增长加速将显著改善亚马逊的整体盈利能力，是投资AI算力需求的优质标的。"
+          "asset": "苹果公司股票（AAPL）",
+          "risk": "LOW",
+          "thesis": "此举展示了苹果在关键生态领域积极拥抱AI趋势，有助于缓解市场对其AI战略落后的担忧，巩固其生态护城河。"
         },
         "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1696910766613?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1636360027631?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Ajinomoto Shares Rally on Earnings",
-        "fullTitle": "Ajinomoto Shares Rally 10% as Coffee, Seasonings Fuel Profit",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Ajinomoto Co. shares surged up to 10% following better-than-expected quarterly earnings. The Japanese seasoning maker raised its business profit outlook. The rally was the steepest since November 2024. Strong performance was driven by its coffee and seasonings businesses.",
-        "relations": [
-          {
-            "label": "Ajinomoto Co.",
-            "type": "entity",
-            "desc": "Japanese food and seasoning manufacturer"
-          },
-          {
-            "label": "Consumer Staples",
-            "type": "resource",
-            "desc": "Sector showing defensive strength"
-          },
-          {
-            "label": "Earnings Surprise",
-            "type": "risk",
-            "desc": "Positive catalyst for stock price movement"
-          },
-          {
-            "label": "Japan Equities",
-            "type": "entity",
-            "desc": "Regional market with specific corporate performance"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Highlights resilience and pricing power in the consumer staples sector during broader market volatility.",
-            "Suggests potential for selective outperformance in defensive, cash-generative businesses with strong brands."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Ajinomoto Co. (2802.T)",
-          "risk": "MEDIUM",
-          "thesis": "Strong earnings beat and raised guidance indicate operational strength and potential for continued re-rating, supported by a defensive business model."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1570331495885?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Global Stock Selloff Extends",
-        "fullTitle": "Stock Selloff Extends, Bitcoin Steadies After Fall: Markets Wrap",
+        "title": "US Weighs New Taiwan Arms Sale",
+        "fullTitle": "US Weighing New Taiwan Arms Sale Before Trump-Xi Summit",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Global stock declines extended into Asian trading following heavy losses in US tech stocks. The selloff sapped overall risk appetite across markets. Bitcoin and silver prices stabilized after earlier significant tumbles. The move indicates a broad-based risk-off sentiment.",
+        "impactLevel": "CRITICAL",
+        "summary": "The Financial Times reports the US is preparing new arms sales to Taiwan, a move that has unsettled Chinese officials. This development could jeopardize President Donald Trump's planned visit to China in April. The timing, just before a potential summit, indicates a high-stakes geopolitical maneuver. It directly challenges the One-China policy and risks a significant diplomatic rupture.",
         "relations": [
           {
-            "label": "US Tech Stocks",
+            "label": "United States",
             "type": "entity",
-            "desc": "Primary catalyst for global risk-off move"
+            "desc": "Primary actor initiating arms sale"
           },
           {
-            "label": "Risk Appetite",
+            "label": "Taiwan",
+            "type": "entity",
+            "desc": "Recipient of potential US arms"
+          },
+          {
+            "label": "China",
+            "type": "entity",
+            "desc": "Adversarial party, opposes arms sale"
+          },
+          {
+            "label": "Trump-Xi Summit",
             "type": "risk",
-            "desc": "Key market driver currently in decline"
+            "desc": "High-level diplomatic event at risk"
           },
           {
-            "label": "Bitcoin",
-            "type": "asset",
-            "desc": "Cryptocurrency showing stabilization after selloff"
-          },
-          {
-            "label": "Silver",
-            "type": "resource",
-            "desc": "Commodity mirroring risk asset volatility"
+            "label": "One-China Policy",
+            "type": "risk",
+            "desc": "Core geopolitical principle under tension"
           }
         ],
         "analysis": {
           "strategic": [
-            "Signals a potential rotation or correction, particularly in overvalued growth/tech segments, impacting global capital flows.",
-            "Highlights increased correlation between traditional risk assets (equities) and alternative assets (crypto) during stress periods."
+            "This action represents a deliberate escalation in US-China strategic competition, using Taiwan as a leverage point. It tests China's red lines and could force a recalibration of bilateral relations.",
+            "The potential cancellation of the summit would signal a severe deterioration in great power diplomacy, moving from managed competition toward overt confrontation, impacting global stability."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "NASDAQ 100 Index (NDX)",
+          "asset": "Chinese Yuan (CNY) / US Aerospace & Defense ETFs (e.g., ITA, PPA)",
           "risk": "HIGH",
-          "thesis": "Momentum from the US tech-led selloff is spreading globally, suggesting further downside as risk appetite deteriorates and valuations compress."
+          "thesis": "Geopolitical escalation risks capital flight from China and potential sanctions, pressuring CNY. Defense stocks may see short-term volatility on headline risk, despite potential long-term order book benefits from tensions."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1545483748950?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "White House Eyes Homebuilder Antitrust Probe",
+        "fullTitle": "White House Explores Antitrust Probe on Homebuilders",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "The Trump administration is considering an antitrust investigation into US homebuilders as part of its focus on housing affordability. The Department of Justice could launch the probe in the coming weeks, though no final decision has been made. This signals a potential regulatory crackdown on the residential construction sector. The outcome could significantly impact home prices and builder margins.",
+        "relations": [
+          {
+            "label": "US Homebuilders",
+            "type": "entity",
+            "desc": "Potential targets of DOJ antitrust investigation"
+          },
+          {
+            "label": "Department of Justice (DOJ)",
+            "type": "entity",
+            "desc": "Agency potentially leading the probe"
+          },
+          {
+            "label": "Housing Affordability Crisis",
+            "type": "risk",
+            "desc": "Core political and economic driver"
+          },
+          {
+            "label": "Antitrust Regulation",
+            "type": "risk",
+            "desc": "Primary regulatory tool being considered"
+          },
+          {
+            "label": "Residential Construction",
+            "type": "resource",
+            "desc": "Sector under scrutiny"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This move represents a populist economic policy shift, using antitrust tools to address voter concerns over cost-of-living, potentially disrupting a key sector of the US economy.",
+            "A probe could fragment the homebuilding industry, lower barriers to entry, and increase supply, but may also deter investment and consolidation, creating long-term market uncertainty."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Homebuilder ETFs (e.g., ITB, XHB) / Major Public Homebuilders (e.g., DHI, LEN, NVR)",
+          "risk": "MEDIUM",
+          "thesis": "Regulatory overhang and potential for forced divestitures or pricing constraints pose a direct threat to homebuilder profitability and valuation multiples. Sentiment will turn negative until clarity emerges."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1616065053782?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1593696909722?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "US Yield Curve Steepens Sharply",
-        "fullTitle": "US Treasury Yield Curve Heads for Steepest Level in Four Years",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "The US Treasury yield curve is approaching its steepest level in over four years. This steepening is driven by a combination of interest rate cuts and persistent concerns over inflation and the fiscal deficit. The dynamic reflects conflicting monetary and fiscal policy signals. Such curve movements are critical indicators of economic expectations and banking sector health.",
+        "title": "S&P Poised for Biggest Gain Since May",
+        "fullTitle": "S&P Poised for Biggest Advance Since May | The Close 2/6/2026",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Bloomberg Television's market close analysis highlights the S&P 500 is on track for its largest single-day gain since May. The segment features commentary from a wide range of financial experts, including asset managers and company executives. This indicates a significant bullish sentiment shift in the market. The breadth of guest perspectives suggests a broad-based rally is underway.",
         "relations": [
           {
-            "label": "US Treasury Yield Curve",
-            "type": "risk",
-            "desc": "Key macroeconomic and financial stability indicator"
-          },
-          {
-            "label": "Inflation",
-            "type": "risk",
-            "desc": "Persistent concern driving long-end yields higher"
-          },
-          {
-            "label": "Fiscal Deficit",
-            "type": "risk",
-            "desc": "Government borrowing concern impacting bond supply/demand"
-          },
-          {
-            "label": "Interest Rate Cuts",
+            "label": "S&P 500 Index",
             "type": "entity",
-            "desc": "Monetary policy action impacting short-end yields"
+            "desc": "Benchmark equity index experiencing major rally"
+          },
+          {
+            "label": "Bloomberg Television",
+            "type": "entity",
+            "desc": "Source of market analysis and commentary"
+          },
+          {
+            "label": "Market Sentiment",
+            "type": "risk",
+            "desc": "Shift towards bullish outlook"
+          },
+          {
+            "label": "Asset Management",
+            "type": "entity",
+            "desc": "Sector providing expert analysis"
           }
         ],
         "analysis": {
           "strategic": [
-            "Indicates market expectation of 'stagflation-lite' scenario: growth concerns (rate cuts) coupled with enduring inflation/fiscal worries.",
-            "Poses a significant risk to financial institutions, particularly those reliant on traditional maturity transformation, and could tighten credit conditions."
+            "A surge of this magnitude suggests a potential inflection point, possibly driven by macroeconomic data, corporate earnings, or a resolution of prior market uncertainties, warranting close monitoring of follow-through.",
+            "The participation of diverse guests from finance and corporate leadership implies institutional validation of the move, reducing the likelihood it is a purely technical or retail-driven bounce."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Financial Select Sector SPDR Fund (XLF)",
-          "risk": "MEDIUM",
-          "thesis": "A steeper yield curve typically improves net interest margins for banks, boosting profitability, provided credit quality does not deteriorate."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1552354848180?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Sapiom Raises $15M for AI Agent Finance",
-        "fullTitle": "Sapiom raises $15M to help AI agents buy their own tech tools",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Startup Sapiom raised $15 million in funding with backing from Accel. The company is building a financial layer designed for autonomous AI agents. This layer handles authentication and micro-payments required for AI agents to procure their own technology tools. The funding underscores investor interest in the infrastructure supporting autonomous AI economies.",
-        "relations": [
-          {
-            "label": "Sapiom",
-            "type": "entity",
-            "desc": "Startup building financial infrastructure for AI agents"
-          },
-          {
-            "label": "AI Agents",
-            "type": "tech",
-            "desc": "Autonomous software entities requiring economic capabilities"
-          },
-          {
-            "label": "Accel",
-            "type": "entity",
-            "desc": "Venture capital firm leading the investment"
-          },
-          {
-            "label": "Micro-payments",
-            "type": "tech",
-            "desc": "Key enabling technology for agent-to-agent commerce"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Represents early-stage development of the economic and transactional layer for a future ecosystem of autonomous AI agents.",
-            "Highlights a growing investment theme in 'AI infrastructure beyond compute,' focusing on autonomy, identity, and value transfer."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Venture Capital / Private Equity funds focused on AI infrastructure",
-          "risk": "HIGH",
-          "thesis": "Early investment in foundational layers for AI agent economies could capture significant value as autonomy becomes more prevalent."
+          "asset": "S&P 500 Index ETFs (e.g., SPY, IVV)",
+          "risk": "LOW",
+          "thesis": "A confirmed breakout on high volume and broad participation suggests sustained upward momentum. Following institutional sentiment, a long position in the broad index captures the trend while mitigating single-stock risk."
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1630124167743?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1658965586486?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Reddit Eyes AI Search Opportunity",
-        "fullTitle": "Reddit looks to AI search as its next big opportunity",
-        "classification": "RESTRICTED",
+        "title": "AI Founder Plans 'March for Billionaires'",
+        "fullTitle": "AI Startup Founder Plans 'March for Billionaires' Protest",
+        "classification": "UNCLASSIFIED",
         "impactLevel": "MEDIUM",
-        "summary": "Reddit provided an update on its plans to merge traditional and AI-powered search during its Q4 earnings call. The company hinted that search represents an enormous, yet currently unmonetized, market opportunity. This move positions Reddit to leverage its unique, community-generated data corpus. It is a strategic attempt to diversify revenue beyond advertising.",
+        "summary": "An AI startup founder is organizing a 'March for Billionaires' to protest California's proposed wealth tax. The organizer insists the event is serious, not a joke. This highlights growing political tension between the tech elite and state fiscal policy. It signals potential capital and talent flight risk from high-tax jurisdictions.",
         "relations": [
           {
-            "label": "Reddit",
+            "label": "AI Startup Founder",
             "type": "entity",
-            "desc": "Social media platform leveraging its data for AI search"
+            "desc": "Organizer of the protest event"
           },
           {
-            "label": "AI Search",
-            "type": "tech",
-            "desc": "Next-generation search technology combining LLMs and data"
+            "label": "California Wealth Tax",
+            "type": "risk",
+            "desc": "Proposed policy driving the protest"
           },
           {
-            "label": "Data Monetization",
-            "type": "resource",
-            "desc": "Key strategy for social media and content platforms"
-          },
-          {
-            "label": "Earnings Call",
+            "label": "Tech Elite / Billionaires",
             "type": "entity",
-            "desc": "Forum for strategic communication to investors"
+            "desc": "Protest's target demographic and participants"
+          },
+          {
+            "label": "Fiscal Policy",
+            "type": "risk",
+            "desc": "Area of political and economic conflict"
           }
         ],
         "analysis": {
           "strategic": [
-            "Signals Reddit's strategy to monetize its vast, niche, and real-time data asset through AI-native interfaces, competing with larger players.",
-            "Reflects a broader trend of content platforms seeking to become AI data and service providers, not just destinations."
+            "This protest is a visible manifestation of the backlash against progressive taxation targeting capital, indicating that wealth concentration in tech is becoming a politically mobilized force.",
+            "If such movements gain traction, they could accelerate migration of high-net-worth individuals and corporate HQs to low-tax states, eroding California's tax base and economic primacy."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Reddit Inc. (RDDT)",
-          "risk": "HIGH",
-          "thesis": "Successful development and monetization of AI search could unlock a significant new revenue stream and justify a higher valuation multiple."
+          "action": "SHORT",
+          "asset": "California Muni Bond ETFs / California-focused REITs",
+          "risk": "MEDIUM",
+          "thesis": "Political mobilization against wealth taxes increases the risk of outmigration, threatening long-term state revenue stability. This could pressure California's creditworthiness and reduce demand for high-value real estate."
         },
         "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1588763513294?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1615161167415?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "AWS Revenue Soars on AI Demand",
-        "fullTitle": "AWS revenue continues to soar as cloud demand remains high",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Amazon Web Services (AWS) recorded its best quarter for revenue growth in 13 quarters during Q4 2025. The strong performance was driven by continued high cloud demand. Artificial Intelligence adoption is cited as a primary catalyst for AWS growth. This underscores the central role of cloud infrastructure in the AI boom.",
+        "title": "'Industry' Season 4 Depicts Tech Fraud",
+        "fullTitle": "'Industry' Season 4 Captures Tech Fraud in Finance",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The latest season of the TV show 'Industry' explores money and power through the lens of a fintech baron. The season is noted for its accurate portrayal of tech fraud within the financial industry. This reflects growing cultural awareness and scrutiny of misconduct in the fintech and startup funding space. It may influence public perception and regulatory attention.",
         "relations": [
           {
-            "label": "Amazon Web Services (AWS)",
+            "label": "Fintech",
+            "type": "tech",
+            "desc": "Industry sector central to the show's plot"
+          },
+          {
+            "label": "Tech Fraud",
+            "type": "risk",
+            "desc": "Primary thematic focus of the season"
+          },
+          {
+            "label": "Venture Capital / Startup Funding",
             "type": "entity",
-            "desc": "Leading cloud service provider, part of Amazon.com"
+            "desc": "Ecosystem where fraud often occurs"
           },
           {
-            "label": "Cloud Computing",
-            "type": "tech",
-            "desc": "Core infrastructure sector experiencing sustained growth"
-          },
-          {
-            "label": "AI Adoption",
-            "type": "tech",
-            "desc": "Major demand driver for cloud compute and services"
-          },
-          {
-            "label": "Infrastructure-as-a-Service (IaaS)",
-            "type": "resource",
-            "desc": "Critical layer in the technology stack"
+            "label": "Public Perception",
+            "type": "risk",
+            "desc": "Influenced by media portrayals"
           }
         ],
         "analysis": {
           "strategic": [
-            "Confirms that generative AI adoption is translating directly into accelerated revenue for leading cloud infrastructure providers.",
-            "Solidifies the 'picks and shovels' investment thesis within AI, where infrastructure providers capture value early and reliably."
+            "Mainstream media accurately depicting fintech fraud increases systemic awareness, potentially leading to more skeptical due diligence from investors and partners, raising the cost of capital for risky ventures.",
+            "This cultural moment could prefigure or parallel increased regulatory scrutiny on private markets, SPACs, and crypto-adjacent fintech, as seen in past cycles after major scandals."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Highly-Valued, Pre-Profit Fintech SPACs / Late-Stage Private Tech Unicorns (via secondary markets)",
+          "risk": "HIGH",
+          "thesis": "Increased scrutiny and skepticism around growth-at-all-costs narratives and fraud risks could lead to valuation compression and funding difficulties for the most speculative segments of the fintech and private tech market."
+        },
+        "confidence": 81,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1696332220053?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Apple Making CarPlay AI Chatbot Compatible",
+        "fullTitle": "Apple Working to Make CarPlay AI Chatbot Compatible",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Apple engineers are working to integrate support for AI chatbot apps like ChatGPT into its CarPlay infotainment system. The development is slated for completion within the next few months. This move represents Apple's strategic response to the generative AI race, extending its ecosystem into the automotive interface. It aims to enhance in-car user experience and maintain platform relevance.",
+        "relations": [
+          {
+            "label": "Apple",
+            "type": "entity",
+            "desc": "Company developing the integration"
+          },
+          {
+            "label": "CarPlay",
+            "type": "tech",
+            "desc": "Apple's automotive infotainment platform"
+          },
+          {
+            "label": "AI Chatbots (e.g., ChatGPT)",
+            "type": "tech",
+            "desc": "Third-party AI services to be integrated"
+          },
+          {
+            "label": "Automotive Software",
+            "type": "tech",
+            "desc": "Competitive landscape for in-car systems"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This is a defensive-aggressive move by Apple to co-opt leading AI capabilities into its walled garden, preventing rivals (e.g., Android Auto, Tesla, OEM-native systems) from gaining a decisive edge in the smart car interface war.",
+            "By outsourcing cutting-edge AI development while controlling the integration layer, Apple mitigates its perceived lag in generative AI while strengthening its core platform stickiness and data aggregation point."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Amazon.com Inc. (AMZN)",
-          "risk": "MEDIUM",
-          "thesis": "AWS's re-acceleration, powered by AI, is a major profit driver for Amazon and supports a premium valuation for the conglomerate."
+          "asset": "Apple (AAPL)",
+          "risk": "LOW",
+          "thesis": "The integration demonstrates Apple's adaptive strategy, leveraging partnerships to enhance its ecosystem without bearing full R&D risk. It reinforces CarPlay's value proposition, protecting a key growth segment (Services) and user lock-in."
         },
-        "confidence": 92,
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1666188281069?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1515010685951?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Ajinomoto sube 10% por ganancias",
-        "fullTitle": "Ajinomoto sube 10% tras ganancias y pronóstico mejorado",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Ajinomoto Co. subieron hasta un 10%, su mayor alza desde noviembre de 2024, tras reportar ganancias trimestrales superiores a lo esperado. La empresa fabricante de condimentos japonesa elevó su perspectiva de beneficio operativo. El repunte fue impulsado por el fuerte desempeño de sus negocios de café y condimentos. Esto refleja una demanda resiliente y una gestión de costos efectiva en un entorno económico desafiante.",
-        "relations": [
-          {
-            "label": "Ajinomoto Co.",
-            "type": "entity",
-            "desc": "Fabricante japonés de condimentos y alimentos."
-          },
-          {
-            "label": "Café",
-            "type": "resource",
-            "desc": "Segmento de negocio clave impulsando el crecimiento."
-          },
-          {
-            "label": "Condimentos",
-            "type": "resource",
-            "desc": "Negocio principal con demanda estable."
-          },
-          {
-            "label": "Ganancias Trimestrales",
-            "type": "risk",
-            "desc": "Indicador de salud financiera y desempeño operativo."
-          },
-          {
-            "label": "Mercado de Valores de Japón",
-            "type": "entity",
-            "desc": "Mercado donde cotiza Ajinomoto."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La fortaleza en segmentos básicos como condimentos sugiere resiliencia ante volatilidad económica.",
-            "La mejora del pronóstico indica confianza de la gestión en tendencias de consumo y eficiencia operativa continua."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Ajinomoto Co. (2802.T)",
-          "risk": "MEDIUM",
-          "thesis": "Empresa defensiva con ganancias sólidas, pronóstico mejorado y exposición a categorías de consumo básico resilientes."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1621503783719?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Venta masiva global, Bitcoin se estabiliza",
-        "fullTitle": "Venta masiva en acciones globales se extiende, Bitcoin se estabiliza",
+        "title": "EEUU evalúa venta de armas a Taiwán",
+        "fullTitle": "EEUU prepara nueva venta de armas a Taiwán antes de cumbre Trump-Xi",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "La venta masiva de acciones globales se extendió a la negociación asiática del viernes, tras fuertes pérdidas en acciones tecnológicas estadounidenses que redujeron el apetito por el riesgo. Bitcoin y la plata se estabilizaron después de caer anteriormente. El movimiento refleja una rotación fuera de activos de riesgo y preocupaciones sobre valoraciones. La estabilización de las criptomonedas sugiere que parte de la venta por pánico podría haber terminado.",
+        "summary": "Según el Financial Times, Estados Unidos está preparando una nueva venta de armas a Taiwán, lo que ha inquietado a los funcionarios chinos. Esta situación podría poner en peligro la visita planificada del presidente Donald Trump a China en abril. La venta de armas representa una nueva escalada en las tensiones entre las dos potencias.",
         "relations": [
           {
-            "label": "Acciones Tecnológicas EE.UU.",
+            "label": "Estados Unidos",
             "type": "entity",
-            "desc": "Sector clave impulsando la venta masiva global."
+            "desc": "País preparando la venta de armas"
           },
           {
-            "label": "Bitcoin",
-            "type": "resource",
-            "desc": "Activo de riesgo que se estabiliza tras caída."
+            "label": "Taiwán",
+            "type": "entity",
+            "desc": "Territorio receptor de armamento"
           },
           {
-            "label": "Apetito por el Riesgo",
+            "label": "China",
+            "type": "entity",
+            "desc": "País opuesto a la venta de armas"
+          },
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Presidente de EEUU"
+          },
+          {
+            "label": "Relaciones EEUU-China",
             "type": "risk",
-            "desc": "Sentimiento del mercado que afecta a todos los activos."
-          },
-          {
-            "label": "Mercados Asiáticos",
-            "type": "entity",
-            "desc": "Mercados afectados por el contagio de ventas de EE.UU."
-          },
-          {
-            "label": "Plata",
-            "type": "resource",
-            "desc": "Activo refugio/metálico que sigue la volatilidad."
+            "desc": "Tensión geopolítica creciente"
           }
         ],
         "analysis": {
           "strategic": [
-            "La venta masiva iniciada en la tecnología de EE.UU. se está globalizando, indicando un repricing del riesgo sistémico.",
-            "La estabilización de activos especulativos como Bitcoin puede ser temporal si persiste la aversión al riesgo en acciones."
+            "La venta de armas podría deteriorar significativamente las relaciones sino-estadounidenses en un momento delicado.",
+            "Taiwán se convierte en un punto de fricción estratégico que podría afectar la estabilidad regional."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "ETF de Tecnología (ej. XLK) o Nasdaq 100 (QQQ)",
+          "asset": "Empresas con exposición significativa a China",
           "risk": "HIGH",
-          "thesis": "El contagio de la venta masiva desde EE.UU. a Asia sugiere más debilidad en el sector tecnológico, muy sensible al apetito por el riesgo."
+          "thesis": "El aumento de tensiones geopolíticas podría generar volatilidad en mercados y afectar empresas con negocios en China."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1673672074707?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Casa Blanca explora investigación antimonopolio a constructoras",
+        "fullTitle": "Administración Trump explora investigación antimonopolio a constructoras de viviendas",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Funcionarios de la administración Trump están explorando abrir una investigación antimonopolio contra las constructoras de viviendas estadounidenses. El Departamento de Justicia podría abrir la investigación en las próximas semanas. Esta medida forma parte del enfoque de la Casa Blanca para abordar la crisis de asequibilidad de la vivienda. No se ha tomado ninguna decisión y la administración podría abandonar el esfuerzo.",
+        "relations": [
+          {
+            "label": "Constructoras de viviendas",
+            "type": "entity",
+            "desc": "Sector objetivo de investigación"
+          },
+          {
+            "label": "Departamento de Justicia",
+            "type": "entity",
+            "desc": "Agencia que podría llevar a cabo la investigación"
+          },
+          {
+            "label": "Crisis de asequibilidad",
+            "type": "risk",
+            "desc": "Problema económico subyacente"
+          },
+          {
+            "label": "Ley antimonopolio",
+            "type": "risk",
+            "desc": "Riesgo regulatorio para el sector"
+          },
+          {
+            "label": "Mercado inmobiliario",
+            "type": "resource",
+            "desc": "Sector económico afectado"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Una investigación antimonopolio podría presionar a la baja los precios de las acciones del sector de la construcción.",
+            "Refleja un enfoque intervencionista del gobierno en mercados específicos para abordar problemas sociales."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Acciones de grandes constructoras de viviendas (D.R. Horton, Lennar, PulteGroup)",
+          "risk": "MEDIUM",
+          "thesis": "La amenaza de una investigación antimonopolio y mayor escrutinio regulatorio podría generar presión sobre las valoraciones del sector."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1563996718287?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1613649835033?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Curva de rendimientos EE.UU. se empina",
-        "fullTitle": "Curva de rendimientos del Tesoro EE.UU. se acerca a máximo de 4 años",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "La curva de rendimientos del Tesoro de EE.UU. está cerca de su nivel más empinado en más de cuatro años. Este movimiento es resultado de una combinación de recortes de tasas de interés y preocupación por la inflación persistente y el déficit fiscal. Un mayor diferencial (curva más empinada) sugiere expectativas de crecimiento e inflación a largo plazo. También refleja preocupaciones del mercado sobre la sostenibilidad de la deuda.",
+        "title": "S&P registra mayor avance desde mayo",
+        "fullTitle": "Índice S&P 500 registra su mayor avance desde mayo de 2026",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "El índice S&P 500 está listo para registrar su mayor avance desde mayo. Bloomberg Television presenta el último análisis antes y después del cierre de Wall Street. El programa contó con la participación de múltiples expertos y gestores de fondos de inversión. El repunte sugiere un posible cambio en el sentimiento del mercado.",
         "relations": [
           {
-            "label": "Tesoro de EE.UU.",
+            "label": "S&P 500",
             "type": "entity",
-            "desc": "Emisor de deuda soberana estadounidense."
+            "desc": "Índice bursátil de referencia"
           },
           {
-            "label": "Curva de Rendimientos",
-            "type": "risk",
-            "desc": "Indicador clave de expectativas económicas y riesgo."
-          },
-          {
-            "label": "Inflación Persistente",
-            "type": "risk",
-            "desc": "Factor clave que presiona los rendimientos a largo plazo."
-          },
-          {
-            "label": "Déficit Fiscal",
-            "type": "risk",
-            "desc": "Preocupación sobre la oferta de deuda y sostenibilidad."
-          },
-          {
-            "label": "Recortes de Tasas",
+            "label": "Bloomberg Television",
             "type": "entity",
-            "desc": "Política de la Fed que afecta el extremo corto de la curva."
+            "desc": "Fuente de la información"
+          },
+          {
+            "label": "Wall Street",
+            "type": "entity",
+            "desc": "Mercado financiero principal"
+          },
+          {
+            "label": "Sentimiento del mercado",
+            "type": "risk",
+            "desc": "Indicador de comportamiento inversor"
           }
         ],
         "analysis": {
           "strategic": [
-            "Una curva más empinada puede presagiar presiones inflacionarias futuras y desafíos para el financiamiento del gobierno.",
-            "Refleja un conflicto de políticas: la Fed recorta para suavizar la economía, pero los mercados exigen prima por riesgo fiscal/inflación a largo plazo."
+            "Un fuerte avance en el S&P 500 podría indicar una recuperación del apetito por el riesgo tras un período de incertidumbre.",
+            "La participación de múltiples gestores sugiere un consenso creciente sobre oportunidades de valoración."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF de bonos largos (ej. TLT) o bancos (ej. KBE)",
-          "risk": "MEDIUM",
-          "thesis": "Una curva más empinada beneficia a los bancos (mayor margen de interés) y puede ofrecer oportunidades en bonos largos si la economía se desacelera."
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1509972174539?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Sapiom recauda $15M para IA",
-        "fullTitle": "Sapiom recauda $15M para capa financiera para agentes de IA",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La startup Sapiom ha recaudado $15 millones en una ronda de financiación respaldada por Accel. La empresa está construyendo una capa financiera que maneja la autenticación y los micropagos requeridos para que los agentes de IA operen de forma autónoma. Esto permite a las IA comprar sus propias herramientas tecnológicas. El financiamiento valida el creciente campo de la economía autónoma de los agentes de IA.",
-        "relations": [
-          {
-            "label": "Sapiom",
-            "type": "entity",
-            "desc": "Startup que construye infraestructura financiera para IA."
-          },
-          {
-            "label": "Agentes de IA",
-            "type": "tech",
-            "desc": "Entidades de software autónomas que requieren transacciones."
-          },
-          {
-            "label": "Micropagos",
-            "type": "tech",
-            "desc": "Tecnología de pago esencial para la economía de agentes."
-          },
-          {
-            "label": "Accel",
-            "type": "entity",
-            "desc": "Firma de capital de riesgo inversora."
-          },
-          {
-            "label": "Capa Financiera",
-            "type": "tech",
-            "desc": "Infraestructura backend para transacciones autónomas de IA."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La inversión señala una tendencia hacia la creación de infraestructura para economías autónomas dirigidas por IA.",
-            "Sapiom se posiciona como un facilitador clave para la adopción comercial a gran escala de agentes de IA autónomos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Capital Privado / VC en infraestructura de IA",
-          "risk": "HIGH",
-          "thesis": "La financiación de Sapiom por parte de un VC líder como Accel indica un interés creciente en la infraestructura financiera de IA, un sector de alto crecimiento potencial."
+          "asset": "ETF que siga al S&P 500 (SPY, IVV)",
+          "risk": "LOW",
+          "thesis": "El impulso alcista y el mayor avance desde mayo podrían indicar el inicio de una tendencia positiva sostenida para el índice amplio."
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1680381759762?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1644920345094?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Reddit apuesta por búsqueda con IA",
-        "fullTitle": "Reddit ve la búsqueda con IA como su próxima gran oportunidad",
+        "title": "Fundador de startup planea 'Marcha de los multimillonarios'",
+        "fullTitle": "Fundador de startup de IA planea 'Marcha de los multimillonarios' contra impuesto a la riqueza",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Un fundador de una startup de inteligencia artificial afirma que está planeando una 'Marcha de los Multimillonarios' en protesta por el impuesto a la riqueza de California. El organizador del evento jura que no es una broma. La protesta refleja la creciente tensión entre las políticas fiscales progresistas y la comunidad de alta riqueza. El evento podría generar debate público sobre la desigualdad y la tributación.",
+        "relations": [
+          {
+            "label": "Startup de IA",
+            "type": "entity",
+            "desc": "Empresa del organizador"
+          },
+          {
+            "label": "Multimillonarios",
+            "type": "entity",
+            "desc": "Grupo objetivo de la protesta"
+          },
+          {
+            "label": "Impuesto a la riqueza",
+            "type": "risk",
+            "desc": "Política fiscal controvertida"
+          },
+          {
+            "label": "California",
+            "type": "entity",
+            "desc": "Estado que propone el impuesto"
+          },
+          {
+            "label": "Protesta fiscal",
+            "type": "risk",
+            "desc": "Riesgo de inestabilidad política"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La protesta destaca la resistencia de las élites económicas a políticas redistributivas, lo que podría influir en futuras legislaciones.",
+            "Un movimiento organizado de multimillonarios podría alterar el panorama político y de lobbying en California y otros estados."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Bonos municipales de California a largo plazo",
+          "risk": "HIGH",
+          "thesis": "La fricción política y la posible salida de contribuyentes de alta riqueza podrían afectar la base fiscal y la calidad crediticia del estado."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1536519928645?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Apple trabaja en compatibilidad de CarPlay con chatbots de IA",
+        "fullTitle": "Apple trabaja para hacer CarPlay compatible con chatbots de IA como ChatGPT",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Durante la llamada de resultados del cuarto trimestre, Reddit actualizó sus planes para fusionar la búsqueda tradicional y la búsqueda con IA. La compañía insinuó que, aunque la búsqueda aún no está monetizada, representa 'un mercado y una oportunidad enormes'. Esto forma parte de su estrategia para diversificar ingresos más allá de la publicidad tradicional. Reddit busca aprovechar su vasto contenido generado por usuarios para IA.",
+        "summary": "Los ingenieros de Apple están trabajando para hacer que CarPlay sea compatible con aplicaciones de chatbots de IA como ChatGPT. El desarrollo tendrá lugar en los próximos meses. Esta integración representa un paso significativo en la incorporación de IA generativa en la experiencia del automóvil. Apple busca mantener la competitividad de su ecosistema en el espacio automotriz.",
         "relations": [
           {
-            "label": "Reddit",
+            "label": "Apple",
             "type": "entity",
-            "desc": "Plataforma de redes sociales y foros en línea."
+            "desc": "Empresa desarrolladora"
           },
           {
-            "label": "Búsqueda con IA",
+            "label": "CarPlay",
             "type": "tech",
-            "desc": "Nuevo producto estratégico para Reddit."
+            "desc": "Sistema de infoentretenimiento"
           },
           {
-            "label": "Monetización",
-            "type": "risk",
-            "desc": "Objetivo clave para nuevos flujos de ingresos."
+            "label": "Chatbots de IA",
+            "type": "tech",
+            "desc": "Tecnología a integrar (ej. ChatGPT)"
           },
           {
-            "label": "Contenido Generado por Usuarios",
+            "label": "IA Generativa",
+            "type": "tech",
+            "desc": "Tendencia tecnológica clave"
+          },
+          {
+            "label": "Mercado automotriz",
             "type": "resource",
-            "desc": "Activo de datos valioso para entrenar modelos de búsqueda."
-          },
-          {
-            "label": "Mercado de Búsqueda",
-            "type": "entity",
-            "desc": "Mercado dominado por Google que Reddit busca abordar."
+            "desc": "Sector de aplicación"
           }
         ],
         "analysis": {
           "strategic": [
-            "Reddit intenta competir en el espacio de búsqueda utilizando su nicho único de datos conversacionales y comunitarios.",
-            "La monetización de la búsqueda podría ser un multiplicador de ingresos significativo si captura incluso una pequeña parte del mercado."
+            "La integración de IA en CarPlay fortalece el ecosistema de Apple en el automóvil, una frontera crucial para la retención de usuarios.",
+            "Esto presiona a los fabricantes de automóviles y competidores (Google Android Auto) a acelerar sus propias ofertas de IA."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Reddit (RDDT)",
-          "risk": "HIGH",
-          "thesis": "Si Reddit ejecuta con éxito su estrategia de búsqueda con IA, podría desbloquear un nuevo y sustancial flujo de ingresos, revalorizando la acción."
+          "asset": "Acciones de Apple (AAPL)",
+          "risk": "LOW",
+          "thesis": "La expansión de las capacidades de CarPlay con IA de vanguardia podría aumentar su valor para los consumidores y reforzar la lealtad al ecosistema Apple."
         },
-        "confidence": 83,
+        "confidence": 87,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1628105220953?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Ingresos de AWS continúan subiendo",
-        "fullTitle": "Ingresos de AWS alcanzan mejor trimestre en 13 trimestres",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "AWS registró su mejor trimestre en términos de crecimiento de ingresos en 13 trimestres durante el Q4 de 2025. La demanda de la nube sigue siendo alta, impulsada en gran medida por la adopción de tecnologías de IA. Este desempeño sólido subraya el papel de AWS como un pilar fundamental para Amazon. La IA está actuando como un catalizador clave para la migración y el uso de la infraestructura en la nube.",
-        "relations": [
-          {
-            "label": "AWS",
-            "type": "entity",
-            "desc": "Plataforma de computación en la nube de Amazon."
-          },
-          {
-            "label": "Inteligencia Artificial (IA)",
-            "type": "tech",
-            "desc": "Catalizador principal del crecimiento de la nube."
-          },
-          {
-            "label": "Computación en la Nube",
-            "type": "tech",
-            "desc": "Mercado en crecimiento con alta demanda."
-          },
-          {
-            "label": "Amazon",
-            "type": "entity",
-            "desc": "Compañía matriz de AWS."
-          },
-          {
-            "label": "Migración a la Nube",
-            "type": "risk",
-            "desc": "Tendencia estructural que beneficia a los proveedores."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La IA está impulsando un nuevo ciclo de crecimiento superpuesto a la tendencia secular de adopción de la nube.",
-            "El dominio de AWS en infraestructura para IA fortalece su posición competitiva y crea un efecto de red con los desarrolladores."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Amazon (AMZN)",
-          "risk": "MEDIUM",
-          "thesis": "AWS es el motor de rentabilidad de Amazon, y su aceleración impulsada por IA debería traducirse en un fuerte crecimiento de los beneficios y una revalorización de las acciones."
-        },
-        "confidence": 90,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1674542889493?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1511396168749?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       }
     ]
   }
