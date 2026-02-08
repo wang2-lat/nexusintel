@@ -1,804 +1,838 @@
 {
-  "generated_at": "2026-02-07T02:12:22.791134",
+  "generated_at": "2026-02-08T02:45:26.102401",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "美拟对台军售或影响习特会",
-        "fullTitle": "美媒称美拟在习特会前对台军售，中方不满",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "据《金融时报》报道，美国正在准备新一轮对台军售，此举已令中国官员感到不安，并可能危及特朗普总统原定于四月对中国的访问。这反映了中美关系在核心议题上的持续紧张。地缘政治风险可能影响市场情绪。",
+        "title": "Block裁员10%以提升效率",
+        "fullTitle": "Dorsey旗下Block裁员10%以推动效率提升",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "由Jack Dorsey创立的支付公司Block Inc.正在通知数百名员工，其职位可能在年度绩效评估中被裁撤。这是该公司更广泛业务重组的一部分，旨在提升运营效率。此举反映了金融科技行业在宏观经济压力下对成本控制的关注。裁员可能影响公司短期运营，但长期旨在优化结构。",
         "relations": [
           {
-            "label": "美国",
+            "label": "Block Inc.",
             "type": "entity",
-            "desc": "军售发起方，地缘政治主要参与方"
+            "desc": "支付与金融服务公司"
           },
           {
-            "label": "中国",
+            "label": "Jack Dorsey",
             "type": "entity",
-            "desc": "核心利益方，反应强烈"
+            "desc": "Block创始人兼前CEO"
           },
           {
-            "label": "台湾地区",
-            "type": "entity",
-            "desc": "军售接收方，地缘政治焦点"
-          },
-          {
-            "label": "地缘政治风险",
+            "label": "裁员",
             "type": "risk",
-            "desc": "中美关系紧张，影响市场稳定"
+            "desc": "企业重组与成本控制措施"
           },
           {
-            "label": "国防工业",
+            "label": "金融科技",
+            "type": "entity",
+            "desc": "行业板块"
+          },
+          {
+            "label": "运营效率",
             "type": "resource",
-            "desc": "军售直接受益方"
+            "desc": "企业战略目标"
           }
         ],
         "analysis": {
           "strategic": [
-            "此举是美国维持对华战略博弈的常规手段，意在施压并测试中方底线。",
-            "事件可能暂时冲击双边高层外交氛围，但预计不会导致全面关系脱轨，双方均有管控分歧的动机。"
+            "金融科技行业面临增长放缓与盈利压力，头部公司通过裁员优化成本结构，可能预示行业进入整合期。",
+            "Block此举可能旨在向市场传递财务纪律信号，以应对投资者对盈利能力的关注，短期股价可能承压但长期或受益于效率提升。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "与中国市场高度相关的ETF（如FXI）或依赖稳定中美关系的公司",
+          "asset": "SQ (Block Inc.)",
           "risk": "MEDIUM",
-          "thesis": "地缘政治紧张情绪升温，短期内可能打压市场风险偏好，尤其是与中国相关的资产。"
+          "thesis": "裁员消息短期内可能引发市场对公司增长放缓及重组不确定性的担忧，对股价构成压力。但需关注后续成本节约效果及业务重组进展。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1645522700406?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1690479693642?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "美政府考虑调查房屋建筑商",
-        "fullTitle": "白宫考虑对美房屋建筑商发起反垄断调查",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "特朗普政府官员正在探讨对美国房屋建筑商发起反垄断调查，以应对住房可负担性危机。司法部可能在数周内启动调查，但最终决定尚未做出，计划也可能被放弃。此举表明政府试图从供给侧寻找房价高企的解决方案。",
+        "title": "美国就业与通胀数据将公布",
+        "fullTitle": "美国就业与通胀数据将密集公布",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "投资者和政策制定者正准备迎接一系列美国经济报告，其中最重要的是就业和通胀数据。这些数据将对美联储的货币政策路径产生关键影响。市场波动性可能因此显著上升。数据结果将直接塑造未来几个月的利率预期和市场情绪。",
         "relations": [
           {
-            "label": "美国司法部",
-            "type": "entity",
-            "desc": "潜在调查执行机构"
-          },
-          {
-            "label": "美国房屋建筑商",
-            "type": "entity",
-            "desc": "潜在被调查对象"
-          },
-          {
-            "label": "反垄断风险",
-            "type": "risk",
-            "desc": "监管政策不确定性增加"
-          },
-          {
-            "label": "住房市场",
+            "label": "美国就业数据",
             "type": "resource",
-            "desc": "政策干预的核心领域"
+            "desc": "关键宏观经济指标"
           },
           {
-            "label": "特朗普政府",
+            "label": "美国通胀数据",
+            "type": "resource",
+            "desc": "关键宏观经济指标"
+          },
+          {
+            "label": "美联储",
             "type": "entity",
-            "desc": "政策推动方"
+            "desc": "美国中央银行"
+          },
+          {
+            "label": "货币政策",
+            "type": "risk",
+            "desc": "影响市场流动性的关键政策"
+          },
+          {
+            "label": "市场波动",
+            "type": "risk",
+            "desc": "数据发布期间的主要风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "这是美国政府将住房问题政治化并寻求政策工具的体现，意在回应国内民生压力。",
-            "调查若启动，将向房地产行业释放强监管信号，可能改变行业竞争格局与定价行为。"
+            "就业与通胀数据是美联储利率决策的核心依据，超预期的数据可能引发市场对利率路径的剧烈重估，导致全球资产价格波动。",
+            "数据公布前后，交易策略应侧重于风险管理，避免在关键数据前持有过度方向性头寸，可考虑波动率相关资产进行对冲。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "大型上市房屋建筑商股票（如LEN, DHI, PHM）",
+          "asset": "美国国债ETF (如TLT)",
           "risk": "HIGH",
-          "thesis": "反垄断调查传闻将带来巨大的政策不确定性，可能导致相关公司股价承压，直至政策意图明朗化。"
+          "thesis": "若就业或通胀数据强于预期，将强化美联储维持高利率或推迟降息的预期，导致国债价格下跌、收益率上升。此为基于数据风险的战术性交易。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1612280796306?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1643546874128?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "标普指数创数月最大涨幅",
-        "fullTitle": "标普500指数录得自5月以来最大单日涨幅",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "标普500指数在当日交易中表现强劲，有望创下自去年5月以来的最大单日涨幅。彭博电视收盘节目邀请了多位资产管理、金融及企业界人士进行市场分析与评论。这反映了市场在特定交易日内的积极情绪和资金流向。",
+        "title": "阿波罗等机构要求驳回Altice诉讼",
+        "fullTitle": "阿波罗等债权人要求驳回对Altice的诉讼",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Altice USA Inc.的债权人，包括阿波罗资本管理、贝莱德金融管理和橡树资本管理，已要求联邦法官驳回一项诉讼。该诉讼指控这些债权人合谋将Altice排除在美国信贷市场之外。此案涉及高杠杆公司的债务重组与债权人权利。法律结果将影响未来类似债务纠纷的解决方式。",
         "relations": [
           {
-            "label": "标普500指数",
+            "label": "Apollo Capital Management",
             "type": "entity",
-            "desc": "市场核心宽基指数，反映整体情绪"
+            "desc": "全球另类投资管理公司"
           },
           {
-            "label": "资产管理机构",
+            "label": "BlackRock Financial Management",
             "type": "entity",
-            "desc": "市场主要参与者和评论方"
+            "desc": "全球最大资产管理公司"
           },
           {
-            "label": "市场情绪",
+            "label": "Oaktree Capital Management",
+            "type": "entity",
+            "desc": "全球另类投资管理公司"
+          },
+          {
+            "label": "Altice USA Inc.",
+            "type": "entity",
+            "desc": "美国有线电视与通信服务提供商"
+          },
+          {
+            "label": "信贷市场准入",
             "type": "risk",
-            "desc": "短期乐观，但需关注持续性"
-          },
-          {
-            "label": "彭博社",
-            "type": "entity",
-            "desc": "信息发布与传播渠道"
+            "desc": "企业融资的关键风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "单日大涨通常是多种因素（如宏观数据、企业财报、流动性）共同作用的结果，需分析其驱动力的可持续性。",
-            "主流财经媒体集中报道市场上涨，可能强化短期乐观叙事，但也需警惕情绪过热后的回调风险。"
+            "此案凸显了在高利率环境下，高负债公司与债权人之间日益紧张的关系，可能成为观察困境债务重组和债权人集体行动的先例。",
+            "大型资产管理公司联合应对诉讼，表明其在保护自身债权利益上的协调性，这可能影响未来其他陷入财务困境的借款人的融资谈判。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "标普500指数ETF（如SPY）",
-          "risk": "LOW",
-          "thesis": "在确认上涨趋势和积极动能的初期，跟随主要指数是捕捉市场beta收益的有效策略。"
+          "action": "SHORT",
+          "asset": "ATUS (Altice USA)",
+          "risk": "HIGH",
+          "thesis": "诉讼本身及其反映出的债权人关系紧张，加剧了公司再融资和债务管理的不确定性，可能对其股价和信用利差构成持续压力。"
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1604225831593?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1619734731616?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "AI创始人拟办“亿万富翁游行”",
-        "fullTitle": "AI初创创始人计划组织游行抗议加州财富税",
+        "title": "YouTube与苹果CEO将出席超级碗",
+        "fullTitle": "YouTube与苹果CEO预计将出席超级碗",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "一位人工智能初创公司的创始人声称，他正在计划组织一场“亿万富翁游行”，以抗议加利福尼亚州可能推出的财富税。活动组织者坚称这不是一个玩笑。这反映了高净值人群对特定税收政策的强烈反对和潜在的政治动员。",
+        "summary": "据报道，YouTube首席执行官Neal Mohan和苹果公司首席执行官Tim Cook预计将出席超级碗赛事。科技巨头高管出席此类顶级体育娱乐活动，通常涉及品牌营销、商务合作或内容分发谈判。这反映了体育赛事作为高端商务社交平台的重要性。",
         "relations": [
           {
-            "label": "AI初创创始人",
+            "label": "Neal Mohan",
             "type": "entity",
-            "desc": "事件发起人，高净值个体代表"
+            "desc": "YouTube首席执行官"
           },
           {
-            "label": "财富税",
-            "type": "risk",
-            "desc": "政策风险，影响资本流动与富人居住地选择"
-          },
-          {
-            "label": "加利福尼亚州",
+            "label": "Tim Cook",
             "type": "entity",
-            "desc": "潜在征税方，科技与财富集中地"
+            "desc": "苹果公司首席执行官"
           },
           {
-            "label": "政治游说",
-            "type": "risk",
-            "desc": "财富阶层试图影响公共政策"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "事件凸显了财富再分配政策在科技与资本密集地区引发的尖锐矛盾，可能影响当地人才与资本的留存。",
-            "这是一种非传统的政治表达方式，表明科技新贵阶层正试图以更公开、更吸引眼球的方式参与政策博弈。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "对加州财政和商业环境敏感的地方性银行或房地产信托",
-          "risk": "HIGH",
-          "thesis": "财富税争议若持续发酵，可能引发高净值人群和资本外流，长期损害加州经济活力，利空相关资产。"
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1505212594839?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "《投行风云》新季聚焦科技欺诈",
-        "fullTitle": "《投行风云》第四季深度刻画科技金融欺诈",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "电视剧《投行风云》第四季通过一位金融科技巨头的视角，审视金钱与权力的世界。评论认为该剧对科技欺诈的刻画比当前任何电视节目都更为深刻。这反映了流行文化对金融科技领域风险与道德问题的关注。",
-        "relations": [
-          {
-            "label": "金融科技",
-            "type": "tech",
-            "desc": "剧情核心背景，新兴高风险领域"
-          },
-          {
-            "label": "欺诈风险",
-            "type": "risk",
-            "desc": "行业潜在的系统性风险之一"
-          },
-          {
-            "label": "流行文化叙事",
+            "label": "超级碗",
             "type": "entity",
-            "desc": "影响公众对行业认知的媒介"
+            "desc": "美国职业橄榄球大联盟总决赛"
           },
           {
-            "label": "监管关注",
-            "type": "risk",
-            "desc": "文艺作品可能间接引发更严格的审视"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "流行文化作品是公众情绪的晴雨表，该剧的热播可能预示着社会对金融科技泡沫和道德风险的担忧加剧。",
-            "这种文化叙事可能潜移默化地影响投资者情绪和监管机构的舆论环境，对行业形象构成软性压力。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "估值过高、商业模式存在争议的上市金融科技公司",
-          "risk": "MEDIUM",
-          "thesis": "公众和舆论对行业负面形象的关注度提升，可能加剧市场对相关公司治理和合规性的质疑，打压估值。"
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1617064147408?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "苹果CarPlay将兼容AI聊天机器人",
-        "fullTitle": "苹果正致力于使CarPlay兼容ChatGPT等AI聊天机器人",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "苹果公司的工程师正在努力，计划在未来几个月内使CarPlay车载系统支持AI聊天机器人应用，例如ChatGPT。这表明苹果正加速将生成式AI集成到其核心生态系统和用户体验中，特别是在汽车场景。",
-        "relations": [
-          {
-            "label": "苹果公司",
-            "type": "entity",
-            "desc": "技术集成与生态主导方"
-          },
-          {
-            "label": "CarPlay",
-            "type": "tech",
-            "desc": "苹果车载信息系统，重要生态入口"
-          },
-          {
-            "label": "AI聊天机器人",
-            "type": "tech",
-            "desc": "生成式AI的典型应用，如ChatGPT"
-          },
-          {
-            "label": "智能汽车生态",
+            "label": "品牌营销",
             "type": "resource",
-            "desc": "科技巨头竞争的下一个关键战场"
+            "desc": "企业战略活动"
           },
           {
-            "label": "用户体验",
+            "label": "商务合作",
             "type": "resource",
-            "desc": "竞争的核心，通过AI增强交互"
+            "desc": "潜在商业机会"
           }
         ],
         "analysis": {
           "strategic": [
-            "这是苹果应对生成式AI浪潮的关键落子，旨在巩固并扩展其在车载场景的生态优势，避免被竞争对手超越。",
-            "通过开放兼容主流AI模型，苹果采取了更灵活的策略，既能快速引入AI能力，又可能为未来自研模型铺路。"
+            "科技公司高管参与顶级体育赛事，往往伴随着高价值的广告投放、内容版权谈判或战略合作意向，是观察行业动态的非正式窗口。",
+            "此类活动强化了体育娱乐与科技/媒体产业的融合趋势，可能预示着在流媒体直播、广告技术或沉浸式体验方面的新合作。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "苹果公司股票（AAPL）",
+          "asset": "GOOGL (Alphabet)",
           "risk": "LOW",
-          "thesis": "此举展示了苹果在关键生态领域积极拥抱AI趋势，有助于缓解市场对其AI战略落后的担忧，巩固其生态护城河。"
+          "thesis": "YouTube CEO的出席可能关联平台在体育直播或广告领域的战略动向，长期看好Alphabet在视频内容与广告市场的持续整合能力。此为长期主题性投资。"
         },
-        "confidence": 90,
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1628938608066?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "NBA球星投资预测平台Kalshi",
+        "fullTitle": "NBA球星字母哥投资预测市场平台Kalshi",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "NBA明星球员Giannis Antetokounmpo已作为投资者加入预测市场平台Kalshi。他是首位直接投资Kalshi的NBA球员。这体现了名人资本对金融科技和另类投资平台的兴趣日益增长。此类投资有助于提升初创公司的公众知名度。",
+        "relations": [
+          {
+            "label": "Giannis Antetokounmpo",
+            "type": "entity",
+            "desc": "NBA篮球明星"
+          },
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "受CFTC监管的预测市场平台"
+          },
+          {
+            "label": "名人投资",
+            "type": "resource",
+            "desc": "初创企业融资与营销渠道"
+          },
+          {
+            "label": "预测市场",
+            "type": "tech",
+            "desc": "金融科技细分领域"
+          },
+          {
+            "label": "另类投资",
+            "type": "resource",
+            "desc": "投资类别"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "体育和娱乐界名人正成为金融科技初创公司重要的天使投资者和品牌大使，这种趋势为初创公司带来了资金以外的流量和信誉价值。",
+            "预测市场作为小众金融科技领域，获得高知名度投资者背书，可能吸引更多主流关注和用户，但该行业仍面临监管和市场规模挑战。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "金融科技风险投资基金/ETF",
+          "risk": "HIGH",
+          "thesis": "名人投资趋势凸显了金融科技创新的吸引力，尤其是面向消费者的平台。可通过分散投资于该领域的早期或成长型基金来捕捉增长机会，但风险较高。"
+        },
+        "confidence": 81,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1621419184366?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "纽约州提议暂停新建数据中心三年",
+        "fullTitle": "纽约州立法者提议暂停新建数据中心三年",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "纽约州立法者提出一项法案，建议暂停新的数据中心建设三年。尽管该法案前景不确定，但纽约已成为至少第六个考虑暂停数据中心建设的州。此举主要出于对电网负荷、水资源使用和环境影响（如碳排放）的担忧。这可能影响科技公司和云服务提供商的基础设施扩张计划。",
+        "relations": [
+          {
+            "label": "纽约州",
+            "type": "entity",
+            "desc": "美国州级行政区域"
+          },
+          {
+            "label": "数据中心",
+            "type": "tech",
+            "desc": "数字基础设施"
+          },
+          {
+            "label": "电网负荷",
+            "type": "risk",
+            "desc": "能源供应风险"
+          },
+          {
+            "label": "环境影响",
+            "type": "risk",
+            "desc": "ESG相关风险"
+          },
+          {
+            "label": "基础设施扩张",
+            "type": "resource",
+            "desc": "科技公司增长瓶颈"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "美国多州对数据中心建设的审查趋严，反映了AI算力需求激增与地方能源、环境承载力之间的矛盾，可能成为科技巨头基础设施布局的新瓶颈。",
+            "此类政策若广泛推行，可能推高现有数据中心的资产价值，并迫使云服务商向监管更宽松或绿色能源丰富的地区转移投资，重塑全球数据中心地理格局。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "数据中心REITs (如EQIX, DLR)",
+          "risk": "MEDIUM",
+          "thesis": "新建数据中心面临的监管阻力增加，可能限制未来供应，而AI驱动的需求持续增长，有利于现有优质数据中心资产的租金和利用率，提升其长期价值。"
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1636360027631?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1652821563081?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "US Weighs New Taiwan Arms Sale",
-        "fullTitle": "US Weighing New Taiwan Arms Sale Before Trump-Xi Summit",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "The Financial Times reports the US is preparing new arms sales to Taiwan, a move that has unsettled Chinese officials. This development could jeopardize President Donald Trump's planned visit to China in April. The timing, just before a potential summit, indicates a high-stakes geopolitical maneuver. It directly challenges the One-China policy and risks a significant diplomatic rupture.",
-        "relations": [
-          {
-            "label": "United States",
-            "type": "entity",
-            "desc": "Primary actor initiating arms sale"
-          },
-          {
-            "label": "Taiwan",
-            "type": "entity",
-            "desc": "Recipient of potential US arms"
-          },
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Adversarial party, opposes arms sale"
-          },
-          {
-            "label": "Trump-Xi Summit",
-            "type": "risk",
-            "desc": "High-level diplomatic event at risk"
-          },
-          {
-            "label": "One-China Policy",
-            "type": "risk",
-            "desc": "Core geopolitical principle under tension"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This action represents a deliberate escalation in US-China strategic competition, using Taiwan as a leverage point. It tests China's red lines and could force a recalibration of bilateral relations.",
-            "The potential cancellation of the summit would signal a severe deterioration in great power diplomacy, moving from managed competition toward overt confrontation, impacting global stability."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Chinese Yuan (CNY) / US Aerospace & Defense ETFs (e.g., ITA, PPA)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical escalation risks capital flight from China and potential sanctions, pressuring CNY. Defense stocks may see short-term volatility on headline risk, despite potential long-term order book benefits from tensions."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1545483748950?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "White House Eyes Homebuilder Antitrust Probe",
-        "fullTitle": "White House Explores Antitrust Probe on Homebuilders",
+        "title": "Block Cuts Staff 10%",
+        "fullTitle": "Block Inc. to cut up to 10% of staff in efficiency push",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "The Trump administration is considering an antitrust investigation into US homebuilders as part of its focus on housing affordability. The Department of Justice could launch the probe in the coming weeks, though no final decision has been made. This signals a potential regulatory crackdown on the residential construction sector. The outcome could significantly impact home prices and builder margins.",
+        "impactLevel": "MEDIUM",
+        "summary": "Block Inc., the payments company founded by Jack Dorsey, is planning to eliminate up to 10% of its workforce as part of a broader business overhaul. The cuts are being communicated during annual performance reviews, indicating a strategic shift towards operational efficiency. This move reflects ongoing cost pressures in the fintech sector and could signal a focus on profitability over growth. The restructuring may impact the company's operational capacity and near-term project timelines.",
         "relations": [
           {
-            "label": "US Homebuilders",
+            "label": "Block Inc.",
             "type": "entity",
-            "desc": "Potential targets of DOJ antitrust investigation"
+            "desc": "Payments and financial services company (formerly Square)"
           },
           {
-            "label": "Department of Justice (DOJ)",
+            "label": "Jack Dorsey",
             "type": "entity",
-            "desc": "Agency potentially leading the probe"
+            "desc": "Co-founder and former CEO of Block/Twitter"
           },
           {
-            "label": "Housing Affordability Crisis",
+            "label": "Fintech Sector",
             "type": "risk",
-            "desc": "Core political and economic driver"
+            "desc": "Sector facing profitability and cost pressures"
           },
           {
-            "label": "Antitrust Regulation",
-            "type": "risk",
-            "desc": "Primary regulatory tool being considered"
-          },
-          {
-            "label": "Residential Construction",
+            "label": "Operational Efficiency",
             "type": "resource",
-            "desc": "Sector under scrutiny"
+            "desc": "Strategic focus on cost reduction and streamlining"
           }
         ],
         "analysis": {
           "strategic": [
-            "This move represents a populist economic policy shift, using antitrust tools to address voter concerns over cost-of-living, potentially disrupting a key sector of the US economy.",
-            "A probe could fragment the homebuilding industry, lower barriers to entry, and increase supply, but may also deter investment and consolidation, creating long-term market uncertainty."
+            "The staff reduction signals a strategic pivot from aggressive growth to profitability and operational discipline, a trend observed across the tech and fintech sectors.",
+            "This move may temporarily disrupt operations but is aimed at improving long-term margins and investor sentiment, potentially freeing capital for higher-return initiatives."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Homebuilder ETFs (e.g., ITB, XHB) / Major Public Homebuilders (e.g., DHI, LEN, NVR)",
+          "asset": "SQ (Block Inc.)",
           "risk": "MEDIUM",
-          "thesis": "Regulatory overhang and potential for forced divestitures or pricing constraints pose a direct threat to homebuilder profitability and valuation multiples. Sentiment will turn negative until clarity emerges."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1593696909722?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "S&P Poised for Biggest Gain Since May",
-        "fullTitle": "S&P Poised for Biggest Advance Since May | The Close 2/6/2026",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Bloomberg Television's market close analysis highlights the S&P 500 is on track for its largest single-day gain since May. The segment features commentary from a wide range of financial experts, including asset managers and company executives. This indicates a significant bullish sentiment shift in the market. The breadth of guest perspectives suggests a broad-based rally is underway.",
-        "relations": [
-          {
-            "label": "S&P 500 Index",
-            "type": "entity",
-            "desc": "Benchmark equity index experiencing major rally"
-          },
-          {
-            "label": "Bloomberg Television",
-            "type": "entity",
-            "desc": "Source of market analysis and commentary"
-          },
-          {
-            "label": "Market Sentiment",
-            "type": "risk",
-            "desc": "Shift towards bullish outlook"
-          },
-          {
-            "label": "Asset Management",
-            "type": "entity",
-            "desc": "Sector providing expert analysis"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "A surge of this magnitude suggests a potential inflection point, possibly driven by macroeconomic data, corporate earnings, or a resolution of prior market uncertainties, warranting close monitoring of follow-through.",
-            "The participation of diverse guests from finance and corporate leadership implies institutional validation of the move, reducing the likelihood it is a purely technical or retail-driven bounce."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "S&P 500 Index ETFs (e.g., SPY, IVV)",
-          "risk": "LOW",
-          "thesis": "A confirmed breakout on high volume and broad participation suggests sustained upward momentum. Following institutional sentiment, a long position in the broad index captures the trend while mitigating single-stock risk."
+          "thesis": "Near-term negative sentiment due to restructuring uncertainty and potential operational disruption, despite the long-term efficiency rationale. The market may react negatively to the scale of cuts and the implication of growth challenges."
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1658965586486?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1651349613115?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "AI Founder Plans 'March for Billionaires'",
-        "fullTitle": "AI Startup Founder Plans 'March for Billionaires' Protest",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "An AI startup founder is organizing a 'March for Billionaires' to protest California's proposed wealth tax. The organizer insists the event is serious, not a joke. This highlights growing political tension between the tech elite and state fiscal policy. It signals potential capital and talent flight risk from high-tax jurisdictions.",
+        "title": "US Jobs & Inflation Data",
+        "fullTitle": "Key US jobs and inflation data due this week",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The upcoming week features critical US economic data releases, including employment and inflation figures. These reports are highly consequential for both financial markets and Federal Reserve policy decisions. Strong data could reinforce expectations of a 'higher for longer' interest rate environment, while weaker data might fuel speculation about earlier rate cuts. Market volatility is likely to increase around these releases.",
         "relations": [
           {
-            "label": "AI Startup Founder",
+            "label": "Federal Reserve",
             "type": "entity",
-            "desc": "Organizer of the protest event"
+            "desc": "Central bank of the United States"
           },
           {
-            "label": "California Wealth Tax",
+            "label": "Non-Farm Payrolls",
+            "type": "resource",
+            "desc": "Key monthly US employment report"
+          },
+          {
+            "label": "CPI/PCE Inflation",
+            "type": "resource",
+            "desc": "Primary measures of US consumer price inflation"
+          },
+          {
+            "label": "Market Volatility",
             "type": "risk",
-            "desc": "Proposed policy driving the protest"
-          },
-          {
-            "label": "Tech Elite / Billionaires",
-            "type": "entity",
-            "desc": "Protest's target demographic and participants"
-          },
-          {
-            "label": "Fiscal Policy",
-            "type": "risk",
-            "desc": "Area of political and economic conflict"
+            "desc": "Expected increase in asset price swings"
           }
         ],
         "analysis": {
           "strategic": [
-            "This protest is a visible manifestation of the backlash against progressive taxation targeting capital, indicating that wealth concentration in tech is becoming a politically mobilized force.",
-            "If such movements gain traction, they could accelerate migration of high-net-worth individuals and corporate HQs to low-tax states, eroding California's tax base and economic primacy."
+            "This data cluster represents a major inflection point for monetary policy expectations, directly impacting global capital flows and asset valuations across equities, fixed income, and currencies.",
+            "Discrepancies between jobs strength and inflation moderation will create complex signals for the Fed, leading to potential policy uncertainty and sustained market volatility."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "California Muni Bond ETFs / California-focused REITs",
-          "risk": "MEDIUM",
-          "thesis": "Political mobilization against wealth taxes increases the risk of outmigration, threatening long-term state revenue stability. This could pressure California's creditworthiness and reduce demand for high-value real estate."
+          "asset": "Long-duration US Treasuries (e.g., TLT)",
+          "risk": "HIGH",
+          "thesis": "If jobs and inflation data come in hotter than expected, it will crush expectations for imminent Fed rate cuts, leading to a sell-off in bonds (yields rising) and particularly impacting long-duration assets."
         },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1615161167415?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1642725061862?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "'Industry' Season 4 Depicts Tech Fraud",
-        "fullTitle": "'Industry' Season 4 Captures Tech Fraud in Finance",
+        "title": "Lenders Seek Altice Suit Dismissal",
+        "fullTitle": "Apollo, BlackRock, Oaktree seek dismissal of Altice USA lawsuit",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Major lenders to Altice USA, including Apollo, BlackRock, and Oaktree, have filed a motion to dismiss a lawsuit accusing them of colluding to exclude the cable company from the US credit market. The lawsuit alleges the lenders acted in concert to harm Altice's refinancing efforts. The defendants are now seeking a legal dismissal, arguing the claims lack merit. The outcome could influence lender behavior and litigation risk in leveraged finance.",
+        "relations": [
+          {
+            "label": "Apollo Capital Management",
+            "type": "entity",
+            "desc": "Global alternative asset manager"
+          },
+          {
+            "label": "BlackRock Financial Management",
+            "type": "entity",
+            "desc": "World's largest asset manager"
+          },
+          {
+            "label": "Oaktree Capital Management",
+            "type": "entity",
+            "desc": "Leading distressed debt investor"
+          },
+          {
+            "label": "Altice USA Inc.",
+            "type": "entity",
+            "desc": "Cable television and broadband services company"
+          },
+          {
+            "label": "Lender Collusion Risk",
+            "type": "risk",
+            "desc": "Legal and reputational risk for credit providers"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The lawsuit and its defense highlight increasing tensions and legal risks in the leveraged loan and high-yield bond markets, particularly for distressed or highly leveraged borrowers.",
+            "A successful dismissal would reinforce the legal boundaries for creditor coordination, while a proceeding could chill lender syndicate activity and increase financing costs for risky corporates."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "ATUS (Altice USA)",
+          "risk": "HIGH",
+          "thesis": "The company remains in a precarious financial position with high debt. Even if the lawsuit proceeds, the core business and debt burden challenges persist, and legal uncertainty is an overhang."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1687939387520?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Super Bowl Attracts Tech CEOs",
+        "fullTitle": "YouTube and Apple CEOs to attend Super Bowl",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "The latest season of the TV show 'Industry' explores money and power through the lens of a fintech baron. The season is noted for its accurate portrayal of tech fraud within the financial industry. This reflects growing cultural awareness and scrutiny of misconduct in the fintech and startup funding space. It may influence public perception and regulatory attention.",
+        "summary": "YouTube CEO Neal Mohan and Apple CEO Tim Cook are among the high-profile technology executives expected to attend the upcoming Super Bowl. Their attendance underscores the event's significance as a premier networking and marketing venue for corporate leaders. The Super Bowl itself is a major advertising and cultural moment. This is a soft signal of the event's continued importance in the corporate landscape.",
         "relations": [
           {
-            "label": "Fintech",
-            "type": "tech",
-            "desc": "Industry sector central to the show's plot"
-          },
-          {
-            "label": "Tech Fraud",
-            "type": "risk",
-            "desc": "Primary thematic focus of the season"
-          },
-          {
-            "label": "Venture Capital / Startup Funding",
+            "label": "Neal Mohan",
             "type": "entity",
-            "desc": "Ecosystem where fraud often occurs"
+            "desc": "CEO of YouTube"
           },
           {
-            "label": "Public Perception",
-            "type": "risk",
-            "desc": "Influenced by media portrayals"
+            "label": "Tim Cook",
+            "type": "entity",
+            "desc": "CEO of Apple Inc."
+          },
+          {
+            "label": "Super Bowl",
+            "type": "resource",
+            "desc": "Major US sporting and advertising event"
+          },
+          {
+            "label": "Corporate Networking",
+            "type": "resource",
+            "desc": "High-level executive relationship building"
           }
         ],
         "analysis": {
           "strategic": [
-            "Mainstream media accurately depicting fintech fraud increases systemic awareness, potentially leading to more skeptical due diligence from investors and partners, raising the cost of capital for risky ventures.",
-            "This cultural moment could prefigure or parallel increased regulatory scrutiny on private markets, SPACs, and crypto-adjacent fintech, as seen in past cycles after major scandals."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Highly-Valued, Pre-Profit Fintech SPACs / Late-Stage Private Tech Unicorns (via secondary markets)",
-          "risk": "HIGH",
-          "thesis": "Increased scrutiny and skepticism around growth-at-all-costs narratives and fraud risks could lead to valuation compression and funding difficulties for the most speculative segments of the fintech and private tech market."
-        },
-        "confidence": 81,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1696332220053?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Apple Making CarPlay AI Chatbot Compatible",
-        "fullTitle": "Apple Working to Make CarPlay AI Chatbot Compatible",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Apple engineers are working to integrate support for AI chatbot apps like ChatGPT into its CarPlay infotainment system. The development is slated for completion within the next few months. This move represents Apple's strategic response to the generative AI race, extending its ecosystem into the automotive interface. It aims to enhance in-car user experience and maintain platform relevance.",
-        "relations": [
-          {
-            "label": "Apple",
-            "type": "entity",
-            "desc": "Company developing the integration"
-          },
-          {
-            "label": "CarPlay",
-            "type": "tech",
-            "desc": "Apple's automotive infotainment platform"
-          },
-          {
-            "label": "AI Chatbots (e.g., ChatGPT)",
-            "type": "tech",
-            "desc": "Third-party AI services to be integrated"
-          },
-          {
-            "label": "Automotive Software",
-            "type": "tech",
-            "desc": "Competitive landscape for in-car systems"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This is a defensive-aggressive move by Apple to co-opt leading AI capabilities into its walled garden, preventing rivals (e.g., Android Auto, Tesla, OEM-native systems) from gaining a decisive edge in the smart car interface war.",
-            "By outsourcing cutting-edge AI development while controlling the integration layer, Apple mitigates its perceived lag in generative AI while strengthening its core platform stickiness and data aggregation point."
+            "The presence of top tech CEOs at mass-market events like the Super Bowl highlights the blending of technology, media, and entertainment, and the importance of broad cultural engagement for platform companies.",
+            "Such gatherings often facilitate behind-the-scenes deal-making and partnership discussions that can have material business implications, though these are rarely publicized."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Apple (AAPL)",
+          "asset": "GOOGL (Alphabet/YouTube)",
           "risk": "LOW",
-          "thesis": "The integration demonstrates Apple's adaptive strategy, leveraging partnerships to enhance its ecosystem without bearing full R&D risk. It reinforces CarPlay's value proposition, protecting a key growth segment (Services) and user lock-in."
+          "thesis": "CEO attendance is a non-material event, but reflects ongoing executive engagement in key cultural moments, which is positive for brand and partnership development. No direct investment impact."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1520931821056?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Giannis Invests in Kalshi",
+        "fullTitle": "NBA star Giannis Antetokounmpo invests in prediction market Kalshi",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "NBA superstar Giannis Antetokounmpo has made a direct investment in Kalshi, a regulated prediction market platform. He is the first active NBA player to invest in the company. This move brings significant celebrity endorsement and publicity to the burgeoning prediction market sector. It highlights the growing intersection of sports, finance, and speculative consumer platforms.",
+        "relations": [
+          {
+            "label": "Giannis Antetokounmpo",
+            "type": "entity",
+            "desc": "NBA superstar and investor"
+          },
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "CFTC-regulated prediction market platform"
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Platforms for trading on event outcomes"
+          },
+          {
+            "label": "Celebrity Investing",
+            "type": "risk",
+            "desc": "Trend of celebrities acting as venture investors"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Celebrity investments, especially from influential athletes, serve as powerful marketing and validation tools for fintech and consumer-facing platforms, potentially accelerating user adoption.",
+            "This investment underscores the regulatory progress and mainstreaming of prediction markets, moving them from fringe concepts towards potential broader financial and entertainment products."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Private Market Exposure to Prediction Markets",
+          "risk": "HIGH",
+          "thesis": "Kalshi is private, but this validates the sector. Look for public market proxies or future IPOs in alternative trading platforms and experiential fintech. High risk due to regulatory and adoption uncertainty."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1643463480011?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "NY Pause on Data Centers",
+        "fullTitle": "New York lawmakers propose three-year pause on new data centers",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Lawmakers in New York have proposed legislation that would impose a three-year moratorium on new data center construction. While the bill's passage is uncertain, New York joins at least five other states considering similar pauses. The primary concerns driving these proposals are energy consumption, grid strain, and environmental impact. Such moratoriums could constrain the growth of digital infrastructure in key markets.",
+        "relations": [
+          {
+            "label": "New York State Legislature",
+            "type": "entity",
+            "desc": "Proposing the regulatory moratorium"
+          },
+          {
+            "label": "Data Centers",
+            "type": "resource",
+            "desc": "Critical digital infrastructure for cloud/AI"
+          },
+          {
+            "label": "Energy Grid Strain",
+            "type": "risk",
+            "desc": "Risk posed by high-power-demand facilities"
+          },
+          {
+            "label": "Regulatory Moratorium",
+            "type": "risk",
+            "desc": "Policy risk halting industry development"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Proposed moratoriums represent a significant and growing regulatory headwind for the data center industry, potentially creating supply bottlenecks and increasing costs for cloud and AI service providers.",
+            "This trend will force data center operators and their clients (tech giants) to accelerate investments in energy efficiency, renewable power, and geographic diversification to less restrictive regions."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "DLR (Digital Realty) / EQIX (Equinix)",
+          "risk": "MEDIUM",
+          "thesis": "Incumbent operators with existing, permitted capacity in constrained markets like NY will see the value of their assets rise due to potential supply limitations. They are also best positioned to navigate regulatory hurdles."
         },
         "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1515010685951?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1605115658094?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "EEUU evalúa venta de armas a Taiwán",
-        "fullTitle": "EEUU prepara nueva venta de armas a Taiwán antes de cumbre Trump-Xi",
+        "title": "Block recorta personal",
+        "fullTitle": "Block elimina hasta 10% de empleados en reestructuración",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Según el Financial Times, Estados Unidos está preparando una nueva venta de armas a Taiwán, lo que ha inquietado a los funcionarios chinos. Esta situación podría poner en peligro la visita planificada del presidente Donald Trump a China en abril. La venta de armas representa una nueva escalada en las tensiones entre las dos potencias.",
-        "relations": [
-          {
-            "label": "Estados Unidos",
-            "type": "entity",
-            "desc": "País preparando la venta de armas"
-          },
-          {
-            "label": "Taiwán",
-            "type": "entity",
-            "desc": "Territorio receptor de armamento"
-          },
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "País opuesto a la venta de armas"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EEUU"
-          },
-          {
-            "label": "Relaciones EEUU-China",
-            "type": "risk",
-            "desc": "Tensión geopolítica creciente"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La venta de armas podría deteriorar significativamente las relaciones sino-estadounidenses en un momento delicado.",
-            "Taiwán se convierte en un punto de fricción estratégico que podría afectar la estabilidad regional."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Empresas con exposición significativa a China",
-          "risk": "HIGH",
-          "thesis": "El aumento de tensiones geopolíticas podría generar volatilidad en mercados y afectar empresas con negocios en China."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1673672074707?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Casa Blanca explora investigación antimonopolio a constructoras",
-        "fullTitle": "Administración Trump explora investigación antimonopolio a constructoras de viviendas",
-        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Funcionarios de la administración Trump están explorando abrir una investigación antimonopolio contra las constructoras de viviendas estadounidenses. El Departamento de Justicia podría abrir la investigación en las próximas semanas. Esta medida forma parte del enfoque de la Casa Blanca para abordar la crisis de asequibilidad de la vivienda. No se ha tomado ninguna decisión y la administración podría abandonar el esfuerzo.",
+        "summary": "Block Inc., la empresa de pagos de Jack Dorsey, está notificando a cientos de empleados que sus puestos pueden ser eliminados durante las revisiones de desempeño anuales. Esta medida forma parte de una reestructuración empresarial más amplia. La empresa busca mejorar la eficiencia operativa en un entorno económico desafiante. El recorte afecta aproximadamente al 10% de la plantilla.",
         "relations": [
           {
-            "label": "Constructoras de viviendas",
+            "label": "Block Inc.",
             "type": "entity",
-            "desc": "Sector objetivo de investigación"
+            "desc": "Empresa de pagos y servicios financieros"
           },
           {
-            "label": "Departamento de Justicia",
+            "label": "Jack Dorsey",
             "type": "entity",
-            "desc": "Agencia que podría llevar a cabo la investigación"
+            "desc": "Fundador y figura clave de Block"
           },
           {
-            "label": "Crisis de asequibilidad",
+            "label": "Reestructuración",
             "type": "risk",
-            "desc": "Problema económico subyacente"
+            "desc": "Riesgo operativo y de reputación"
           },
           {
-            "label": "Ley antimonopolio",
-            "type": "risk",
-            "desc": "Riesgo regulatorio para el sector"
-          },
-          {
-            "label": "Mercado inmobiliario",
+            "label": "Eficiencia operativa",
             "type": "resource",
-            "desc": "Sector económico afectado"
+            "desc": "Objetivo estratégico de la empresa"
           }
         ],
         "analysis": {
           "strategic": [
-            "Una investigación antimonopolio podría presionar a la baja los precios de las acciones del sector de la construcción.",
-            "Refleja un enfoque intervencionista del gobierno en mercados específicos para abordar problemas sociales."
+            "Las empresas de fintech enfrentan presión para mejorar la rentabilidad en un entorno de altas tasas de interés.",
+            "Los recortes de personal en grandes firmas tecnológicas pueden indicar una tendencia sectorial hacia la contención de costos."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Acciones de grandes constructoras de viviendas (D.R. Horton, Lennar, PulteGroup)",
+          "asset": "SQ (Block Inc.)",
           "risk": "MEDIUM",
-          "thesis": "La amenaza de una investigación antimonopolio y mayor escrutinio regulatorio podría generar presión sobre las valoraciones del sector."
+          "thesis": "Presión sobre márgenes y posible desaceleración del crecimiento justifican cautela a corto plazo."
         },
         "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1613649835033?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1508513112861?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "S&P registra mayor avance desde mayo",
-        "fullTitle": "Índice S&P 500 registra su mayor avance desde mayo de 2026",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "El índice S&P 500 está listo para registrar su mayor avance desde mayo. Bloomberg Television presenta el último análisis antes y después del cierre de Wall Street. El programa contó con la participación de múltiples expertos y gestores de fondos de inversión. El repunte sugiere un posible cambio en el sentimiento del mercado.",
+        "title": "Datos clave EEUU: empleo e inflación",
+        "fullTitle": "Mercados esperan datos de empleo e inflación en EEUU",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Inversores y responsables políticos se preparan para una semana cargada de informes económicos en Estados Unidos. Los datos de empleo e inflación son considerados los más importantes para evaluar la salud económica. Estos indicadores influirán en las decisiones de la Reserva Federal sobre tasas de interés. La volatilidad del mercado puede aumentar significativamente.",
         "relations": [
           {
-            "label": "S&P 500",
+            "label": "Reserva Federal (Fed)",
             "type": "entity",
-            "desc": "Índice bursátil de referencia"
+            "desc": "Banco central de Estados Unidos"
           },
           {
-            "label": "Bloomberg Television",
+            "label": "Mercados financieros",
             "type": "entity",
-            "desc": "Fuente de la información"
+            "desc": "Renta variable y fija global"
           },
           {
-            "label": "Wall Street",
-            "type": "entity",
-            "desc": "Mercado financiero principal"
-          },
-          {
-            "label": "Sentimiento del mercado",
+            "label": "Volatilidad",
             "type": "risk",
-            "desc": "Indicador de comportamiento inversor"
+            "desc": "Riesgo de mercado por datos macro"
+          },
+          {
+            "label": "Política monetaria",
+            "type": "resource",
+            "desc": "Variable clave para valoraciones"
           }
         ],
         "analysis": {
           "strategic": [
-            "Un fuerte avance en el S&P 500 podría indicar una recuperación del apetito por el riesgo tras un período de incertidumbre.",
-            "La participación de múltiples gestores sugiere un consenso creciente sobre oportunidades de valoración."
+            "Los datos fuertes podrían retrasar los cortes de tasas de la Fed, impactando activos de crecimiento.",
+            "Una divergencia entre empleo fuerte e inflación persistente crearía un dilema complejo para los policy makers."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "ETF que siga al S&P 500 (SPY, IVV)",
-          "risk": "LOW",
-          "thesis": "El impulso alcista y el mayor avance desde mayo podrían indicar el inicio de una tendencia positiva sostenida para el índice amplio."
+          "action": "SHORT",
+          "asset": "ETF Treasury de largo plazo (ej. TLT)",
+          "risk": "HIGH",
+          "thesis": "Datos económicos sólidos pueden presionar al alza los rendimientos, bajando el precio de los bonos."
+        },
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1528206539419?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Lenders piden desestimar demanda a Altice",
+        "fullTitle": "Apollo, BlackRock y Oaktree piden desestimar demanda de Altice USA",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Los prestamistas de Altice USA, incluyendo Apollo, BlackRock y Oaktree, solicitaron a un juez federal desestimar una demanda. La demanda los acusa de conspirar para excluir a la empresa del mercado crediticio estadounidense. Este caso pone de relieve las tensiones entre empresas altamente endeudadas y sus acreedores. El resultado podría afectar las condiciones de préstamo para otras empresas de telecomunicaciones.",
+        "relations": [
+          {
+            "label": "Altice USA Inc.",
+            "type": "entity",
+            "desc": "Proveedor de cable y telecomunicaciones"
+          },
+          {
+            "label": "Apollo / BlackRock / Oaktree",
+            "type": "entity",
+            "desc": "Grandes gestores de activos y prestamistas"
+          },
+          {
+            "label": "Litigio",
+            "type": "risk",
+            "desc": "Riesgo legal y reputacional"
+          },
+          {
+            "label": "Mercado crediticio",
+            "type": "resource",
+            "desc": "Acceso a financiación corporativa"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los gestores de activos están adoptando una postura más agresiva para proteger sus inversiones en empresas con problemas de deuda.",
+            "Un fallo a favor de los prestamistas podría endurecer aún más las condiciones crediticias para empresas con calificaciones bajas."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Bonos de Altice USA / Sector cable de alto rendimiento",
+          "risk": "HIGH",
+          "thesis": "El litigio y las tensiones con los acreedores aumentan el riesgo de refinanciación y el spread crediticio."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1644920345094?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1629757966677?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Fundador de startup planea 'Marcha de los multimillonarios'",
-        "fullTitle": "Fundador de startup de IA planea 'Marcha de los multimillonarios' contra impuesto a la riqueza",
+        "title": "CEO de YouTube y Apple en Super Bowl",
+        "fullTitle": "CEO de YouTube y Apple asisten al Super Bowl",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "Un fundador de una startup de inteligencia artificial afirma que está planeando una 'Marcha de los Multimillonarios' en protesta por el impuesto a la riqueza de California. El organizador del evento jura que no es una broma. La protesta refleja la creciente tensión entre las políticas fiscales progresistas y la comunidad de alta riqueza. El evento podría generar debate público sobre la desigualdad y la tributación.",
+        "summary": "Se espera la asistencia del CEO de YouTube, Neal Mohan, y del CEO de Apple, Tim Cook, al Super Bowl. Este evento es un importante escenario para el networking empresarial y de entretenimiento. La presencia de altos ejecutivos de tecnología subraya la intersección entre deportes, medios y tecnología. Puede facilitar conversaciones estratégicas y acuerdos comerciales.",
         "relations": [
           {
-            "label": "Startup de IA",
+            "label": "Neal Mohan (YouTube)",
             "type": "entity",
-            "desc": "Empresa del organizador"
+            "desc": "CEO de YouTube"
           },
           {
-            "label": "Multimillonarios",
+            "label": "Tim Cook (Apple)",
             "type": "entity",
-            "desc": "Grupo objetivo de la protesta"
+            "desc": "CEO de Apple Inc."
           },
           {
-            "label": "Impuesto a la riqueza",
-            "type": "risk",
-            "desc": "Política fiscal controvertida"
-          },
-          {
-            "label": "California",
+            "label": "Super Bowl",
             "type": "entity",
-            "desc": "Estado que propone el impuesto"
+            "desc": "Evento deportivo y publicitario masivo"
           },
           {
-            "label": "Protesta fiscal",
-            "type": "risk",
-            "desc": "Riesgo de inestabilidad política"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La protesta destaca la resistencia de las élites económicas a políticas redistributivas, lo que podría influir en futuras legislaciones.",
-            "Un movimiento organizado de multimillonarios podría alterar el panorama político y de lobbying en California y otros estados."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Bonos municipales de California a largo plazo",
-          "risk": "HIGH",
-          "thesis": "La fricción política y la posible salida de contribuyentes de alta riqueza podrían afectar la base fiscal y la calidad crediticia del estado."
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1536519928645?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Apple trabaja en compatibilidad de CarPlay con chatbots de IA",
-        "fullTitle": "Apple trabaja para hacer CarPlay compatible con chatbots de IA como ChatGPT",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los ingenieros de Apple están trabajando para hacer que CarPlay sea compatible con aplicaciones de chatbots de IA como ChatGPT. El desarrollo tendrá lugar en los próximos meses. Esta integración representa un paso significativo en la incorporación de IA generativa en la experiencia del automóvil. Apple busca mantener la competitividad de su ecosistema en el espacio automotriz.",
-        "relations": [
-          {
-            "label": "Apple",
-            "type": "entity",
-            "desc": "Empresa desarrolladora"
-          },
-          {
-            "label": "CarPlay",
-            "type": "tech",
-            "desc": "Sistema de infoentretenimiento"
-          },
-          {
-            "label": "Chatbots de IA",
-            "type": "tech",
-            "desc": "Tecnología a integrar (ej. ChatGPT)"
-          },
-          {
-            "label": "IA Generativa",
-            "type": "tech",
-            "desc": "Tendencia tecnológica clave"
-          },
-          {
-            "label": "Mercado automotriz",
+            "label": "Networking ejecutivo",
             "type": "resource",
-            "desc": "Sector de aplicación"
+            "desc": "Oportunidad para acuerdos estratégicos"
           }
         ],
         "analysis": {
           "strategic": [
-            "La integración de IA en CarPlay fortalece el ecosistema de Apple en el automóvil, una frontera crucial para la retención de usuarios.",
-            "Esto presiona a los fabricantes de automóviles y competidores (Google Android Auto) a acelerar sus propias ofertas de IA."
+            "Los grandes eventos deportivos se han convertido en nodos cruciales para la formación de alianzas entre tecnología, medios y publicidad.",
+            "La presencia de CEOs refuerza la estrategia de estas empresas de integrarse en la cultura popular y el entretenimiento en vivo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Apple (AAPL)",
+          "asset": "Alphabet (GOOGL) / Apple (AAPL)",
           "risk": "LOW",
-          "thesis": "La expansión de las capacidades de CarPlay con IA de vanguardia podría aumentar su valor para los consumidores y reforzar la lealtad al ecosistema Apple."
+          "thesis": "La participación en eventos de alto perfil refleja un liderazgo activo y oportunidades continuas en deportes y entretenimiento."
         },
-        "confidence": 87,
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1535498394492?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Giannis invierte en Kalshi",
+        "fullTitle": "Estrella NBA Giannis Antetokounmpo invierte en Kalshi",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "La estrella de la NBA Giannis Antetokounmpo se ha unido a la plataforma de mercados de predicción Kalshi como inversor. Es el primer jugador de la NBA en invertir directamente en la empresa. Esta movida fusiona el mundo del deporte profesional con el creciente sector de los mercados de eventos. Podría impulsar la visibilidad y adopción de Kalshi entre nuevos segmentos de usuarios.",
+        "relations": [
+          {
+            "label": "Giannis Antetokounmpo",
+            "type": "entity",
+            "desc": "Estrella de la NBA e inversor"
+          },
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "Plataforma de mercados de predicción regulada"
+          },
+          {
+            "label": "Mercados de eventos",
+            "type": "tech",
+            "desc": "Nueva clase de activos/plataformas"
+          },
+          {
+            "label": "Influencia de celebridades",
+            "type": "resource",
+            "desc": "Marketing y adopción de usuarios"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las plataformas fintech buscan legitimidad y alcance a través de asociaciones con figuras deportivas de alto perfil.",
+            "La inversión de Giannis podría marcar el inicio de una tendencia de atletas invirtiendo en fintech y plataformas de trading."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Sector Fintech / Plataformas de trading alternativo",
+          "risk": "HIGH",
+          "thesis": "La entrada de capital e influencia de celebridades puede acelerar el crecimiento y la aceptación regulatoria de nuevas plataformas financieras."
+        },
+        "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1511396168749?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1593497458702?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "NY propone pausa a centros de datos",
+        "fullTitle": "Legisladores de NY proponen pausa de 3 años para nuevos centros de datos",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Legisladores de Nueva York han propuesto una pausa de tres años en la construcción de nuevos centros de datos. Aunque las perspectivas del proyecto de ley son inciertas, Nueva York es al menos el sexto estado en considerar tal medida. La propuesta responde a preocupaciones sobre el consumo energético y el impacto ambiental. Esto podría afectar la expansión de infraestructura crítica para la nube y la IA.",
+        "relations": [
+          {
+            "label": "Estado de Nueva York",
+            "type": "entity",
+            "desc": "Jurisdicción regulatoria"
+          },
+          {
+            "label": "Centros de datos",
+            "type": "tech",
+            "desc": "Infraestructura digital crítica"
+          },
+          {
+            "label": "Regulación energética",
+            "type": "risk",
+            "desc": "Riesgo regulatorio para infraestructura"
+          },
+          {
+            "label": "Recursos energéticos",
+            "type": "resource",
+            "desc": "Capacidad de la red eléctrica"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La regulación estatal sobre centros de datos podría crear cuellos de botella en la infraestructura necesaria para la IA y los servicios en la nube.",
+            "Las empresas tecnológicas pueden verse forzadas a desplegar capital en regiones con políticas energéticas más favorables, como el Medio Oeste o el Sur."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "REITs de Centros de Datos existentes (ej. DLR, EQIX)",
+          "risk": "MEDIUM",
+          "thesis": "Las restricciones a nueva oferta podrían aumentar el valor de los activos existentes y presionar al alza los alquileres."
+        },
+        "confidence": 86,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1684488349387?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
