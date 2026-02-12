@@ -1,833 +1,863 @@
 {
-  "generated_at": "2026-02-11T02:36:47.421198",
+  "generated_at": "2026-02-12T02:30:33.559647",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "中东紧张局势推高油价",
-        "fullTitle": "伊朗紧张局势盖过库存增加迹象，油价上涨",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "尽管美国行业报告显示原油库存大幅增加，但中东地区围绕伊朗的紧张局势加剧，主导了市场情绪，推动油价上涨。这表明地缘政治风险仍是短期内油价的关键驱动因素。市场对供应中断的担忧暂时压过了基本面数据的影响。",
+        "title": "日本超长期债券延续涨势",
+        "fullTitle": "日本超长期债券延续涨势，财政担忧缓解",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "日本超长期债券在选举后延续涨势。首相高市早苗的历史性选举胜利缓解了投资者对财政政策的担忧。市场情绪转向乐观，认为新政府将维持财政纪律。这降低了债券市场的风险溢价。",
         "relations": [
           {
-            "label": "原油",
-            "type": "resource",
-            "desc": "核心大宗商品，价格受地缘政治和供需影响"
+            "label": "日本国债",
+            "type": "asset",
+            "desc": "日本政府发行的超长期债券"
           },
           {
-            "label": "伊朗",
+            "label": "高市早苗",
             "type": "entity",
-            "desc": "中东地缘政治风险主要来源国"
+            "desc": "日本首相，其选举胜利稳定了市场预期"
           },
           {
-            "label": "美国原油库存",
-            "type": "entity",
-            "desc": "反映供需基本面的关键数据"
-          },
-          {
-            "label": "地缘政治风险",
+            "label": "财政政策",
             "type": "risk",
-            "desc": "影响能源市场的主要风险类别"
+            "desc": "市场此前担忧的财政扩张风险已缓解"
+          },
+          {
+            "label": "债券市场",
+            "type": "entity",
+            "desc": "受政治事件影响，风险情绪改善"
           }
         ],
         "analysis": {
           "strategic": [
-            "中东地缘政治紧张局势是当前能源市场的首要定价因素，可能持续引发油价波动。",
-            "市场对地缘政治事件的即时反应可能超过基本面数据，表明情绪和风险溢价处于高位。"
+            "日本政治稳定降低了主权债务风险，有利于吸引国际资本流入日债市场。",
+            "全球避险资金可能重新评估日本作为稳定资产配置目的地的吸引力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "原油期货（如WTI、布伦特）",
-          "risk": "HIGH",
-          "thesis": "地缘政治紧张局势（伊朗）带来的供应中断风险溢价可能继续支撑油价，短期内技术性回调后或提供做多机会。"
+          "asset": "日本20年期及以上国债",
+          "risk": "MEDIUM",
+          "thesis": "政治不确定性消除，财政纪律预期增强，将支撑超长期债券价格，收益率可能进一步下行。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1524984221947?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1668735383636?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "中国工厂通缩超预期缓解",
-        "fullTitle": "中国年初工厂通缩缓解幅度超预期",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "中国1月份工厂出厂价格（PPI）通缩程度超预期缓解。这主要得益于大宗商品成本上升以及政府对行业内过度竞争的整顿。价格下行压力有所缓和，可能预示着工业部门盈利环境出现边际改善。",
-        "relations": [
-          {
-            "label": "中国PPI",
-            "type": "entity",
-            "desc": "衡量工业品出厂价格变化的关键指标"
-          },
-          {
-            "label": "大宗商品",
-            "type": "resource",
-            "desc": "价格上涨是缓解通缩的因素之一"
-          },
-          {
-            "label": "中国政府",
-            "type": "entity",
-            "desc": "通过政策整顿市场秩序，影响价格"
-          },
-          {
-            "label": "工业利润",
-            "type": "risk",
-            "desc": "PPI改善直接影响工业企业盈利能力"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "中国PPI通缩缓解可能标志着工业周期触底回升的开始，对全球原材料需求有积极信号。",
-            "政策干预（打击过度竞争）在价格形成中的作用凸显，需关注后续产业政策动向。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "中国工业股ETF、大宗商品相关股票",
-          "risk": "MEDIUM",
-          "thesis": "PPI通缩缓解可能改善工业企业盈利预期，尤其是上游原材料和中游制造业，存在估值修复机会。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1522560624993?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Evolution CEO谈战略与金价展望",
-        "fullTitle": "Evolution矿业CEO讨论公司战略与黄金价格前景",
+        "title": "金价因强劲非农数据回落",
+        "fullTitle": "金价回落，强劲美国就业数据削弱降息预期",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Evolution Mining的董事总经理兼CEO Lawrie Conway接受彭博社采访，讨论了公司的业务战略以及对黄金价格的展望。作为一家主要黄金生产商，其管理层观点对理解行业动态和黄金市场情绪具有参考价值。",
+        "summary": "美国公布强劲的非农就业数据后，金价下跌。数据表明劳动力市场依然紧俏，这降低了市场对美联储将迅速降息的预期。利率将在更长时间内维持高位的预期，削弱了无息资产黄金的吸引力。美元走强也对金价构成压力。",
         "relations": [
-          {
-            "label": "Evolution Mining",
-            "type": "entity",
-            "desc": "澳大利亚主要黄金生产商"
-          },
           {
             "label": "黄金",
+            "type": "asset",
+            "desc": "避险资产，对利率预期敏感"
+          },
+          {
+            "label": "美联储",
+            "type": "entity",
+            "desc": "美国中央银行，其利率政策是金价关键驱动因素"
+          },
+          {
+            "label": "非农就业数据",
             "type": "resource",
-            "desc": "避险资产，价格受多重因素影响"
+            "desc": "关键经济指标，影响货币政策预期"
           },
           {
-            "label": "Lawrie Conway",
-            "type": "entity",
-            "desc": "公司CEO，观点代表行业内部视角"
-          },
-          {
-            "label": "彭博社",
-            "type": "entity",
-            "desc": "全球性财经媒体，信息发布渠道"
+            "label": "利率预期",
+            "type": "risk",
+            "desc": "市场对美联储降息时机和幅度的预期发生变化"
           }
         ],
         "analysis": {
           "strategic": [
-            "黄金矿业公司高管的公开表态是观察行业信心和成本压力的一手信息源。",
-            "黄金生产商对金价的展望通常基于其套期保值策略、生产成本及对宏观环境的判断。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "黄金ETF（如GLD）、Evolution Mining股票",
-          "risk": "MEDIUM",
-          "thesis": "在潜在的地缘政治风险和经济不确定性背景下，黄金的避险属性可能受到支撑，金矿股可能受益于金价坚挺和公司特定战略。"
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1532805677111?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "OpenAI政策高管涉歧视被解雇",
-        "fullTitle": "反对聊天机器人“成人模式”的OpenAI政策高管据称因歧视指控被解雇",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "一位曾反对为聊天机器人推出“成人模式”的OpenAI政策高管，据报告因涉及歧视的指控而被公司解雇。该高管否认了相关指控。此事暴露了AI公司在内容安全、伦理政策制定和内部管理方面面临的挑战。",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "领先的人工智能研究公司"
-          },
-          {
-            "label": "AI伦理与安全",
-            "type": "risk",
-            "desc": "AI发展中的核心治理与风险领域"
-          },
-          {
-            "label": "内容审核",
-            "type": "tech",
-            "desc": "AI模型安全部署的关键技术环节"
-          },
-          {
-            "label": "公司治理",
-            "type": "risk",
-            "desc": "内部管理事件可能影响公司声誉与运营"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "AI巨头内部在内容安全政策上的分歧公开化，凸显行业在平衡创新与风险管控上的深层矛盾。",
-            "此类人事动荡可能延缓相关安全政策的制定与执行，增加公司的监管和声誉风险。"
+            "美国经济韧性可能延长全球高利率环境，对黄金等零息资产构成持续压力。",
+            "数据强化了“美国经济例外论”，可能推动美元资产相对吸引力上升，资金从黄金流出。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "与OpenAI有深度绑定或估值依赖其技术的概念股",
+          "asset": "黄金期货/现货",
           "risk": "HIGH",
-          "thesis": "核心团队在关键安全政策上的内部分歧与人事动荡，可能预示着公司治理风险上升，并可能招致更严格的监管审视，影响长期稳定性和市场信心。"
+          "thesis": "短期降息预期降温，实际利率预期上升和美元走强将共同压制金价。地缘政治风险是主要上行风险。"
         },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1530651456458?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1679840589737?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "xAI半数创始团队成员离职",
-        "fullTitle": "xAI公司半数创始团队成员现已离职",
+        "title": "亚洲股市表现本世纪最佳",
+        "fullTitle": "亚洲股市相对美股创本世纪最佳开局",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "亚洲股市连续第五日上涨，今年相对于美国股市的表现创下本世纪以来最佳开局。相对更低的估值和更坚实的增长前景吸引了买家。与此同时，强劲的美国就业数据导致美国国债价格下跌（收益率上升）。",
+        "relations": [
+          {
+            "label": "亚洲股市",
+            "type": "asset",
+            "desc": "MSCI亚洲（除日本）指数等代表性股指"
+          },
+          {
+            "label": "美国国债",
+            "type": "asset",
+            "desc": "受美国经济数据影响，收益率上升"
+          },
+          {
+            "label": "估值",
+            "type": "resource",
+            "desc": "亚洲股市相对美股更具吸引力"
+          },
+          {
+            "label": "增长前景",
+            "type": "risk",
+            "desc": "亚洲地区经济增长预期相对强劲"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "全球资本配置可能正在发生结构性转变，从估值高企的美股向增长潜力更大的亚洲市场轮动。",
+            "美债收益率上升若持续，可能增加全球融资成本，但对内需驱动型亚洲经济体的冲击相对较小。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "亚洲（除日本）股票ETF或指数基金",
+          "risk": "MEDIUM",
+          "thesis": "估值洼地、增长差异以及可能的资金持续流入，支撑亚洲股市相对跑赢的趋势。"
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1526877416588?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "xAI公开全员会展示星际野心",
+        "fullTitle": "xAI公开全员会，阐述其星际野心",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "xAI公司的创始团队中已有恰好一半的成员离开了公司。无论具体原因如何，这种累积性的人才流失影响令人担忧。公司仍有大量工作待完成，而未来若进行IPO，将面临比以往任何时候都更严格的审视。",
+        "summary": "xAI于周三罕见地将其完整的45分钟全员会议演示发布到X平台，使其广泛传播。此举旨在公开透明地展示其公司文化和愿景。演示内容中包含了其宏大的“星际”发展目标。这既是一种公关策略，也可能是人才招募和生态构建的一部分。",
         "relations": [
           {
             "label": "xAI",
             "type": "entity",
-            "desc": "埃隆·马斯克旗下的人工智能初创公司"
+            "desc": "埃隆·马斯克旗下的人工智能公司"
           },
           {
-            "label": "人才流失",
-            "type": "risk",
-            "desc": "初创公司核心团队稳定的重大威胁"
-          },
-          {
-            "label": "IPO",
-            "type": "entity",
-            "desc": "公开募股，将带来财务和运营透明度要求"
-          },
-          {
-            "label": "AI初创公司",
-            "type": "entity",
-            "desc": "高度依赖核心人才与技术的行业"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "核心创始团队大规模离职严重动摇公司技术路线执行力和军心，是初创公司的红色警报。",
-            "此事发生在IPO预期背景下，将极大增加潜在投资者对公司稳定性、内部治理和技术可持续性的疑虑。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "任何未来可能投资或收购xAI的关联公司（如特斯拉）的短期波动",
-          "risk": "HIGH",
-          "thesis": "核心人才批量流失极大增加了xAI项目失败或延迟的风险，可能拖累其关联方的战略布局和市场估值，短期内构成利空。"
-        },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1608549304257?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "亚马逊拟建AI内容授权市场",
-        "fullTitle": "亚马逊或推出媒体内容向AI公司销售的授权市场",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "据报道，亚马逊正计划推出一个市场平台，媒体出版商可以通过该平台将其内容授权给AI公司使用。此举旨在为媒体和AI公司之间搭建一个可授权内容的管道。这可能是亚马逊切入AI数据供应链和B2B服务的重要一步。",
-        "relations": [
-          {
-            "label": "亚马逊",
-            "type": "entity",
-            "desc": "电商与云服务巨头，拓展AI生态"
-          },
-          {
-            "label": "AI训练数据",
-            "type": "resource",
-            "desc": "大模型发展的关键生产要素"
-          },
-          {
-            "label": "媒体出版商",
-            "type": "entity",
-            "desc": "高质量文本内容的所有者"
-          },
-          {
-            "label": "内容授权",
+            "label": "星际野心",
             "type": "tech",
-            "desc": "解决AI数据版权问题的商业模式"
+            "desc": "暗示AI在太空探索等宏大场景的应用愿景"
+          },
+          {
+            "label": "X平台",
+            "type": "entity",
+            "desc": "信息发布和传播渠道，同属马斯克生态"
+          },
+          {
+            "label": "AI生态竞争",
+            "type": "risk",
+            "desc": "通过公开愿景争夺开发者、用户和舆论关注"
           }
         ],
         "analysis": {
           "strategic": [
-            "亚马逊试图利用其平台优势，成为AI时代关键数据（版权内容）交易的基础设施提供商。",
-            "此举直接回应AI行业的数据版权困境，可能塑造未来数据获取的合规商业模式和行业标准。"
+            "xAI通过高调公开其长期愿景，旨在塑造行业叙事，与OpenAI等对手在“使命”层面展开竞争。",
+            "将AI与太空探索等终极目标绑定，可能影响监管和公众对AI发展的认知与接受度。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "亚马逊股票、大型合规数据所有者/媒体公司",
-          "risk": "MEDIUM",
-          "thesis": "亚马逊开辟新的高利润B2B服务市场，巩固其在AI生态中的基础设施地位。同时，该平台若能成功，将提升优质版权内容资产的货币化价值。"
+          "asset": "特斯拉（TSLA）及相关概念",
+          "risk": "HIGH",
+          "thesis": "xAI的进展和宏大叙事可能提升马斯克整体生态（包括特斯拉的AI和机器人叙事）的估值溢价，但关联性较强，风险高。"
         },
-        "confidence": 87,
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1505586905835?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Modal Labs拟以25亿美元估值融资",
+        "fullTitle": "AI推理初创公司Modal Labs拟以25亿美元估值融资",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "据消息人士透露，AI推理初创公司Modal Labs正在谈判以25亿美元估值进行新一轮融资。风险投资公司General Catalyst拟领投本轮。这家成立四年的公司专注于AI模型推理的优化与基础设施。高估值反映了市场对AI基础设施层的持续追捧。",
+        "relations": [
+          {
+            "label": "Modal Labs",
+            "type": "entity",
+            "desc": "专注于AI推理的四年初创公司"
+          },
+          {
+            "label": "AI推理",
+            "type": "tech",
+            "desc": "AI模型部署和应用的关键环节，市场潜力巨大"
+          },
+          {
+            "label": "General Catalyst",
+            "type": "entity",
+            "desc": "知名风投机构，拟领投本轮"
+          },
+          {
+            "label": "初创公司融资",
+            "type": "risk",
+            "desc": "AI基础设施领域融资热度依然高涨，估值不菲"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "资本持续涌入AI基础设施层，表明行业认为推理侧的商业化落地和效率提升是下一阶段竞争关键。",
+            "高估值融资可能加速行业整合，拥有独特技术或大规模客户的推理服务商价值凸显。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI基础设施类上市公司（如英伟达、云服务商）及私募基金",
+          "risk": "MEDIUM",
+          "thesis": "初创公司的高估值融资验证了AI推理市场的增长逻辑，利好上游硬件供应商和成熟的云基础设施提供商。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1647533192736?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "OpenAI解散使命对齐团队",
+        "fullTitle": "OpenAI解散其长期安全与使命对齐团队",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "OpenAI已经解散了其专注于长期AI风险与使命对齐的团队。该团队负责人被赋予新角色，担任OpenAI的“首席未来学家”。团队其他成员已被重新分配到公司其他部门。这一结构调整表明公司内部优先事项可能发生变化。",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "领先的AI研究公司，组织架构发生变动"
+          },
+          {
+            "label": "AI安全/对齐",
+            "type": "risk",
+            "desc": "确保AI系统与人类价值观一致的关键研究领域"
+          },
+          {
+            "label": "组织重组",
+            "type": "risk",
+            "desc": "反映公司战略重心从长期研究向产品化与商业化倾斜"
+          },
+          {
+            "label": "监管风险",
+            "type": "risk",
+            "desc": "此举可能引发监管机构和公众对AI安全承诺的质疑"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "OpenAI的战略重心明显向产品落地和商业化加速倾斜，长期安全研究的优先级下降。",
+            "这可能引发行业和监管对AI治理的担忧，并给强调安全的竞争对手（如Anthropic）带来差异化机会。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "OpenAI生态的过度投机概念",
+          "risk": "HIGH",
+          "thesis": "公司内部战略矛盾公开化（商业化 vs. 安全）可能增加其长期发展的不确定性和监管风险，影响市场信心。但短期产品进展可能对冲该影响。"
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1508799129089?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1626908840384?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Oil Rises on Iran Tensions",
-        "fullTitle": "Oil Rises as Iran Tensions Eclipse Inventory Build",
+        "title": "Japan Bonds Rally on Fiscal Ease",
+        "fullTitle": "Japan's Super-Long Bonds Extend Rally as Fiscal Concerns Ease",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Oil prices increased despite a US industry report indicating a significant rise in crude stockpiles. The primary driver was escalating geopolitical tensions in the Middle East, specifically focused on Iran. This highlights the market's sensitivity to supply disruption risks over fundamental inventory data. The situation underscores the premium placed on regional stability for energy markets.",
+        "impactLevel": "MEDIUM",
+        "summary": "Japanese super-long government bonds continued their post-election rally. Prime Minister Sanae Takaichi's historic election victory has alleviated investor anxieties regarding the nation's fiscal policy trajectory. This political stability is reducing the perceived risk premium on long-dated Japanese debt. The rally reflects a market reassessment of Japan's sovereign credit risk.",
         "relations": [
           {
-            "label": "Crude Oil",
+            "label": "Japan",
+            "type": "entity",
+            "desc": "Sovereign nation, issuer of bonds"
+          },
+          {
+            "label": "Sanae Takaichi",
+            "type": "entity",
+            "desc": "Prime Minister of Japan"
+          },
+          {
+            "label": "Super-Long Bonds",
+            "type": "asset",
+            "desc": "Japanese government bonds with long maturities"
+          },
+          {
+            "label": "Fiscal Policy",
+            "type": "risk",
+            "desc": "Government spending and debt management risk"
+          },
+          {
+            "label": "Sovereign Debt",
             "type": "resource",
-            "desc": "Primary commodity affected by supply risks."
-          },
-          {
-            "label": "Iran",
-            "type": "entity",
-            "desc": "Geopolitical focal point causing supply concerns."
-          },
-          {
-            "label": "Middle East",
-            "type": "entity",
-            "desc": "Region of heightened geopolitical risk."
-          },
-          {
-            "label": "Inventory Data",
-            "type": "risk",
-            "desc": "Fundamental bearish factor being overshadowed."
-          },
-          {
-            "label": "Geopolitical Risk Premium",
-            "type": "risk",
-            "desc": "Key market pricing factor."
+            "desc": "Financial instrument representing government borrowing"
           }
         ],
         "analysis": {
           "strategic": [
-            "Geopolitical instability in the Middle East remains a persistent and potent driver of oil price volatility, capable of overriding bearish fundamental data.",
-            "The market's reaction indicates a high sensitivity to potential supply chain disruptions, suggesting traders are prioritizing risk hedging over current inventory levels."
+            "A stable Japanese government reduces tail risks for global bond markets, potentially attracting yield-seeking capital.",
+            "The rally signals a potential compression of the Japan risk premium, which could impact global capital flows and currency hedges."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Crude Oil Futures (CL, BZ)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical risk premium is outweighing bearish inventory data, creating upward pressure. A long position bets on continued or escalating tensions disrupting supply flows."
+          "asset": "Japanese Government Bonds (JGBs), particularly 20Y+ tenor",
+          "risk": "MEDIUM",
+          "thesis": "Continued political stability and contained fiscal fears support bond prices, while the Bank of Japan's yield curve control framework provides a backstop."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1667607525370?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1632696020421?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "China Factory Deflation Eases",
-        "fullTitle": "China's Factory Deflation Eases More Than Forecast",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "China's producer price index (PPI) showed deflationary pressures eased more than economists anticipated in January. The moderation is attributed to rising commodity costs and government efforts to curb excessive competition among industrial firms. This suggests a potential bottoming in the industrial sector's price weakness. The data may signal a tentative stabilization in China's manufacturing economy.",
-        "relations": [
-          {
-            "label": "China PPI",
-            "type": "entity",
-            "desc": "Key indicator of industrial profitability and demand."
-          },
-          {
-            "label": "Commodity Costs",
-            "type": "resource",
-            "desc": "Input cost driver for factories."
-          },
-          {
-            "label": "Industrial Policy",
-            "type": "entity",
-            "desc": "Government crackdown on excessive competition."
-          },
-          {
-            "label": "Manufacturing Sector",
-            "type": "entity",
-            "desc": "Core sector showing signs of price stabilization."
-          },
-          {
-            "label": "Deflationary Pressure",
-            "type": "risk",
-            "desc": "Economic risk that appears to be moderating."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The better-than-expected data indicates Chinese policy measures to support industrial prices may be gaining traction, potentially improving corporate earnings outlooks.",
-            "Easing factory-gate deflation reduces one headwind for global commodity demand and could signal a more supportive environment for China-related industrial and material equities."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Chinese Industrial/Commodity Stocks (e.g., MCHI, ASHR)",
-          "risk": "MEDIUM",
-          "thesis": "Improving PPI trend suggests bottoming industrial profitability and reduced deflationary drag. Long positions in related equities anticipate a recovery cycle."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1692864649031?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Evolution CEO on Gold Strategy",
-        "fullTitle": "Evolution Mining CEO Discusses Strategy, Gold Outlook",
+        "title": "Gold Falls on Strong US Jobs",
+        "fullTitle": "Gold Retreats as Strong US Jobs Report Dims Rate-Cut Hopes",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Lawrie Conway, CEO of Evolution Mining, provided insights into the company's business strategy and his outlook for gold prices in a Bloomberg interview. The discussion likely covered operational focus, cost management, and growth plans. The CEO's perspective on gold prices is a key sentiment indicator for the sector. Such executive commentary can influence market perception of specific miners and the broader gold complex.",
+        "summary": "The price of gold declined following the release of stronger-than-expected US non-farm payrolls data. The robust jobs report has led markets to scale back expectations for imminent interest rate cuts by the Federal Reserve. Higher-for-longer interest rates increase the opportunity cost of holding non-yielding assets like gold. This represents a shift in the macro narrative driving safe-haven and anti-fiat flows.",
         "relations": [
           {
-            "label": "Evolution Mining",
-            "type": "entity",
-            "desc": "Mid-tier gold mining company."
+            "label": "Gold",
+            "type": "asset",
+            "desc": "Precious metal, safe-haven asset"
           },
           {
-            "label": "Lawrie Conway",
+            "label": "Federal Reserve",
             "type": "entity",
-            "desc": "CEO providing market guidance."
+            "desc": "Central bank of the United States"
           },
           {
-            "label": "Gold Price",
+            "label": "US Jobs Report",
             "type": "resource",
-            "desc": "Primary revenue driver for miners."
+            "desc": "Key macroeconomic data point (Non-Farm Payrolls)"
           },
           {
-            "label": "Mining Strategy",
-            "type": "entity",
-            "desc": "Company's operational and financial plans."
-          },
-          {
-            "label": "Sector Sentiment",
+            "label": "Interest Rates",
             "type": "risk",
-            "desc": "Influenced by executive commentary."
+            "desc": "Monetary policy risk affecting asset valuations"
+          },
+          {
+            "label": "US Dollar",
+            "type": "entity",
+            "desc": "Global reserve currency, inversely correlated with gold"
           }
         ],
         "analysis": {
           "strategic": [
-            "Executive commentary from major producers provides high-value insight into industry cost structures, supply expectations, and sentiment, which can lead or confirm broader market trends.",
-            "A bullish outlook from a CEO may reflect underlying strength in physical markets or hedging activities not immediately visible in spot prices."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Evolution Mining Ltd (EVN.AX) / Gold Miners ETF (GDX)",
-          "risk": "MEDIUM",
-          "thesis": "Positive strategic outlook from a credible CEO can be a leading indicator for stock-specific performance and may reflect favorable industry fundamentals."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1526149490921?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "OpenAI Policy Exec Fired",
-        "fullTitle": "OpenAI Exec Opposed to 'Adult Mode' Fired on Claim",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "An OpenAI policy executive, who reportedly opposed enabling an 'adult mode' for its chatbot, has been fired following a discrimination allegation, which she denies. The incident highlights internal tensions over content moderation and safety boundaries at leading AI firms. It underscores the governance and ethical challenges facing AI development. Such personnel issues can impact regulatory perception and internal development timelines.",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "Leading AI research and deployment company."
-          },
-          {
-            "label": "Content Moderation",
-            "type": "tech",
-            "desc": "Core ethical and safety challenge for AI."
-          },
-          {
-            "label": "AI Governance",
-            "type": "risk",
-            "desc": "Internal and external oversight risks."
-          },
-          {
-            "label": "Workplace Culture",
-            "type": "risk",
-            "desc": "Risk factor for tech innovation pace."
-          },
-          {
-            "label": "Regulatory Scrutiny",
-            "type": "risk",
-            "desc": "Potential consequence of internal disputes."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Internal conflicts over AI safety and content policies reveal the significant operational and reputational risks associated with developing frontier AI models.",
-            "High-profile personnel departures related to safety debates could attract increased regulatory attention, potentially leading to stricter oversight for the entire sector."
+            "The market's reaction highlights the primary current driver for gold: the real interest rate outlook, overshadowing geopolitical safe-haven bids.",
+            "A recalibration of Fed policy expectations could trigger sustained outflows from gold ETFs and similar financialized gold products."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "AI Sector Volatility / Specific AI Co. (if public)",
+          "asset": "Gold Futures (GC) / Gold ETFs (e.g., GLD)",
           "risk": "HIGH",
-          "thesis": "Internal strife and ethical controversies increase regulatory and execution risk, potentially leading to de-valuation or slower product rollouts."
+          "thesis": "A repricing of the Fed's rate path strengthens the USD and real yields, creating a hostile environment for gold in the near term."
         },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1510368694757?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1656474074810?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Half of xAI Founding Team Leaves",
-        "fullTitle": "Half of xAI's Founding Team Has Reportedly Left",
+        "title": "Asia Stocks Outperform US",
+        "fullTitle": "Asia Stocks Make Best Start Versus US This Century",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Reports indicate that exactly half of the founding team at Elon Musk's xAI has departed the company. The cumulative impact of these departures is described as alarming. Significant work remains at xAI, and a potential future IPO would bring unprecedented scrutiny. This suggests potential internal challenges in strategy, execution, or culture at a critical early-stage AI lab.",
+        "summary": "Asian equity markets advanced for a fifth consecutive day, extending their significant outperformance over US stocks this year. The rally is attributed to relatively cheaper valuations and firmer regional growth prospects attracting capital. Concurrently, US Treasury yields rose following the strong jobs data, indicating a divergence in monetary policy expectations and growth trajectories between the regions. This marks a potential rotation in global equity leadership.",
+        "relations": [
+          {
+            "label": "Asian Equities",
+            "type": "asset",
+            "desc": "Stock markets in the Asia-Pacific region"
+          },
+          {
+            "label": "US Equities",
+            "type": "asset",
+            "desc": "Stock markets in the United States (e.g., S&P 500)"
+          },
+          {
+            "label": "US Treasuries",
+            "type": "asset",
+            "desc": "Sovereign debt of the United States"
+          },
+          {
+            "label": "Valuations",
+            "type": "risk",
+            "desc": "Risk of asset overvaluation or undervaluation"
+          },
+          {
+            "label": "Growth Divergence",
+            "type": "risk",
+            "desc": "Differing economic growth rates between regions"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Sustained Asian outperformance could signal a major shift in global capital allocation, reducing the dominance of US equity markets.",
+            "The divergence between rising US yields and Asian equity strength suggests decoupling, where regional fundamentals are overpowering global liquidity tightening."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Asia-ex-Japan ETFs (e.g., EPP, AAXJ) / Specific country ETFs (e.g., FXI, EWY)",
+          "risk": "MEDIUM",
+          "thesis": "Attractive valuations, resilient growth, and potential for further capital inflows support continued relative outperformance against expensive US markets."
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1626772281220?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "xAI Reveals Interplanetary Ambitions",
+        "fullTitle": "xAI Lays Out Interplanetary Ambitions in Public All-Hands",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "xAI, the artificial intelligence company founded by Elon Musk, publicly released a 45-minute internal all-hands meeting on the X platform. The presentation detailed the company's ambitious long-term vision, which includes interplanetary-scale applications for its AI technology. This unprecedented transparency is a strategic communication move, likely aimed at talent acquisition, public positioning, and ecosystem alignment. It underscores the expansive scope of next-generation AI development goals.",
         "relations": [
           {
             "label": "xAI",
             "type": "entity",
-            "desc": "Elon Musk's artificial intelligence company."
-          },
-          {
-            "label": "Founding Team Exodus",
-            "type": "risk",
-            "desc": "Major talent drain indicating internal issues."
-          },
-          {
-            "label": "AI Talent War",
-            "type": "risk",
-            "desc": "Competitive landscape for key researchers."
-          },
-          {
-            "label": "IPO Scrutiny",
-            "type": "risk",
-            "desc": "Future financing and transparency risk."
-          },
-          {
-            "label": "Execution Risk",
-            "type": "risk",
-            "desc": "Heightened by loss of key personnel."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Mass exodus of founding talent is a severe red flag for any tech startup, especially in AI, indicating possible fundamental disagreements on vision, timeline, or technical approach.",
-            "This development weakens xAI's competitive position in the intense AI race, potentially benefiting rivals like OpenAI, Anthropic, and Google DeepMind."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Sentiment on Private xAI Valuation / Rival AI Firms",
-          "risk": "HIGH",
-          "thesis": "Founding team departures drastically increase execution and credibility risk, making the company a less viable competitor and jeopardizing its long-term value proposition."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1562318885241?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Amazon AI Content Marketplace Plan",
-        "fullTitle": "Amazon May Launch AI Content Marketplace for Media",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Amazon is reportedly exploring the launch of a marketplace where media publishers can license their content to AI companies. The platform aims to create a pipeline of licensable content between publishers and AI developers. This move addresses the critical need for high-quality, legally sourced training data for AI models. It positions Amazon as a potential intermediary and infrastructure provider in the AI data supply chain.",
-        "relations": [
-          {
-            "label": "Amazon",
-            "type": "entity",
-            "desc": "E-commerce and cloud giant expanding into AI data."
-          },
-          {
-            "label": "AI Training Data",
-            "type": "resource",
-            "desc": "Critical input for large language models."
-          },
-          {
-            "label": "Media Publishers",
-            "type": "entity",
-            "desc": "Content owners seeking new revenue streams."
-          },
-          {
-            "label": "Content Licensing",
-            "type": "tech",
-            "desc": "Legal framework for AI data sourcing."
-          },
-          {
-            "label": "AWS",
-            "type": "entity",
-            "desc": "Potential platform integration point."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Amazon is leveraging its marketplace expertise to solve a key bottleneck in AI development—legitimate data sourcing—potentially creating a new high-margin revenue stream and locking in ecosystem partners.",
-            "This initiative could set a de facto standard for content licensing in AI, reducing legal risks for developers and providing a scalable solution to the copyright challenges plaguing the industry."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Amazon.com Inc. (AMZN)",
-          "risk": "MEDIUM",
-          "thesis": "Successful entry into the AI data marketplace vertical would diversify revenue, strengthen AWS's AI ecosystem, and address a major industry pain point, driving long-term growth."
-        },
-        "confidence": 86,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1605299568626?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
-      }
-    ],
-    "es": [
-      {
-        "title": "Tensiones Irán elevan petróleo",
-        "fullTitle": "Petróleo sube por tensiones Irán pese a inventarios",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Los precios del petróleo aumentaron a pesar de un informe de la industria estadounidense que señaló un fuerte incremento en los inventarios. La tensión geopolítica en Medio Oriente, centrada en Irán, superó las señales de acumulación de existencias. Esto demuestra la alta sensibilidad del mercado a los riesgos de oferta en la región. La volatilidad puede persistir en función de la evolución de la situación.",
-        "relations": [
-          {
-            "label": "Petróleo (WTI/Brent)",
-            "type": "resource",
-            "desc": "Commodity energético clave"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País productor de petróleo, foco de tensión"
-          },
-          {
-            "label": "Medio Oriente",
-            "type": "risk",
-            "desc": "Región con riesgo geopolítico elevado"
-          },
-          {
-            "label": "Inventarios EEUU",
-            "type": "resource",
-            "desc": "Indicador fundamental de oferta/demanda"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La prima de riesgo geopolítico sigue siendo un motor de precios clave, incluso frente a datos fundamentales débiles.",
-            "Cualquier escalada en las tensiones con Irán podría interrumpir significativamente los flujos de petróleo a través del Estrecho de Ormuz."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Futuros de petróleo Brent",
-          "risk": "HIGH",
-          "thesis": "La prima de riesgo geopolítico supera temporalmente los fundamentos de inventario. Una escalada podría provocar un repunte brusco de precios."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1622412714644?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Deflación fábricas China se modera",
-        "fullTitle": "Deflación industrial China se alivia más de lo previsto",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "La deflación en el sector industrial de China se moderó más de lo esperado en enero. La presión a la baja sobre los precios se alivió gracias al aumento de los costos de las materias primas y a una represión de la competencia excesiva entre empresas. Esto sugiere que las políticas de estabilización podrían estar surtiendo efecto. Sin embargo, la demanda interna sigue siendo un punto de observación clave.",
-        "relations": [
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Segunda economía mundial, gran productor industrial"
-          },
-          {
-            "label": "Deflación",
-            "type": "risk",
-            "desc": "Riesgo de caída generalizada de precios"
-          },
-          {
-            "label": "Materias Primas",
-            "type": "resource",
-            "desc": "Costos de insumos que impactan precios"
-          },
-          {
-            "label": "PPI (Índice de Precios al Productor)",
-            "type": "entity",
-            "desc": "Indicador clave de inflación industrial"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Una moderación de la deflación podría aliviar las presiones sobre los márgenes de las empresas y la confianza de los inversores.",
-            "Esto podría reducir la urgencia del Banco Popular de China para implementar estímulos monetarios agresivos a corto plazo."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de acciones industriales chinas (ej. ASHS)",
-          "risk": "MEDIUM",
-          "thesis": "Mejora en el entorno de precios al productor es positivo para los márgenes y valoraciones del sector industrial."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1678764993695?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "CEO Evolution Mining sobre estrategia y oro",
-        "fullTitle": "CEO Evolution Mining analiza estrategia y precios oro",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Lawrie Conway, Director Gerente y CEO de Evolution Mining, discutió la estrategia comercial de la empresa y la perspectiva para los precios del oro en una entrevista con Bloomberg. Este tipo de comentarios de altos ejecutivos proporciona información valiosa sobre la visión del sector y los planes operativos. La perspectiva sobre el oro es particularmente relevante en el entorno macroeconómico actual.",
-        "relations": [
-          {
-            "label": "Evolution Mining",
-            "type": "entity",
-            "desc": "Importante productor de oro con sede en Australia"
-          },
-          {
-            "label": "Lawrie Conway",
-            "type": "entity",
-            "desc": "CEO de Evolution Mining"
-          },
-          {
-            "label": "Oro",
-            "type": "resource",
-            "desc": "Activo refugio y commodity precioso"
-          },
-          {
-            "label": "Bloomberg",
-            "type": "entity",
-            "desc": "Fuente de la información y medio financiero"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los comentarios del CEO pueden ofrecer señales sobre la salud operativa, los planes de expansión y la gestión de costos de la empresa.",
-            "La perspectiva del sector sobre el precio del oro refleja expectativas sobre tasas de interés, dólar y demanda de refugio."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Acciones de Evolution Mining (EVN.AX)",
-          "risk": "MEDIUM",
-          "thesis": "La claridad estratégica y una perspectiva positiva del oro por parte de la dirección pueden ser catalizadores para la acción."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1570738931305?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Ejecutiva OpenAI despedida por denuncia",
-        "fullTitle": "Ejecutiva política OpenAI despedida tras denuncia discriminación",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Una ejecutiva de políticas de OpenAI, que se opuso a un modo 'para adultos' del chatbot, fue despedida según informes por una denuncia de discriminación, la cual ella niega. Este incidente destaca los desafíos de gobernanza y cultura interna en empresas líderes de IA. Los conflictos internos sobre la dirección de los productos y las políticas de contenido pueden afectar el desarrollo y la percepción pública.",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "Empresa líder en investigación y desarrollo de IA"
-          },
-          {
-            "label": "Políticas de Contenido/IA",
-            "type": "risk",
-            "desc": "Riesgo reputacional y regulatorio por moderación de contenido"
-          },
-          {
-            "label": "Discriminación",
-            "type": "risk",
-            "desc": "Riesgo legal y de recursos humanos"
-          },
-          {
-            "label": "Chatbot",
-            "type": "tech",
-            "desc": "Producto central de la empresa (ej. ChatGPT)"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los conflictos internos sobre seguridad y ética en IA pueden ralentizar la innovación y generar inestabilidad en el liderazgo.",
-            "Este caso puede aumentar el escrutinio externo sobre las prácticas laborales y de gobernanza de las principales empresas de tecnología."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Empresas asociadas a OpenAI (riesgo reputacional indirecto)",
-          "risk": "HIGH",
-          "thesis": "La inestabilidad interna y las disputas públicas pueden dañar la marca, asociaciones y la capacidad de retener talento clave."
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1644386556151?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Mitad equipo fundador xAI abandona",
-        "fullTitle": "La mitad del equipo fundador de xAI ha dejado la empresa",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Exactamente la mitad del equipo fundador de xAI, la empresa de IA de Elon Musk, ha abandonado la compañía. La causa acumulativa de estas salidas es alarmante. Queda mucho trabajo por hacer en xAI, y una eventual OPV traería un escrutinio mucho mayor del que el laboratorio ha enfrentado antes. Esto plantea serias dudas sobre la estabilidad y la dirección a largo plazo.",
-        "relations": [
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "Empresa de inteligencia artificial fundada por Elon Musk"
+            "desc": "AI research company founded by Elon Musk"
           },
           {
             "label": "Elon Musk",
             "type": "entity",
-            "desc": "Fundador y figura central de xAI"
+            "desc": "Entrepreneur, founder of xAI, Tesla, SpaceX"
           },
           {
-            "label": "Fuga de Talentos",
-            "type": "risk",
-            "desc": "Pérdida crítica de capital intelectual y liderazgo"
+            "label": "Artificial General Intelligence",
+            "type": "tech",
+            "desc": "Long-term goal of highly autonomous AI"
           },
           {
-            "label": "OPV (Oferta Pública de Venta)",
-            "type": "risk",
-            "desc": "Evento futuro que aumentaría la transparencia y presión"
+            "label": "X Platform",
+            "type": "entity",
+            "desc": "Social media and communications platform"
+          },
+          {
+            "label": "Space Exploration",
+            "type": "tech",
+            "desc": "Potential application domain for advanced AI"
           }
         ],
         "analysis": {
           "strategic": [
-            "La salida masiva de fundadores sugiere profundos desacuerdos estratégicos o problemas culturales, amenazando la hoja de ruta tecnológica.",
-            "Esto debilita significativamente la posición competitiva de xAI frente a rivales como OpenAI y Anthropic, que retienen mejor a sus talentos clave."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Expectativas de valoración futura de xAI / competidores indirectos",
-          "risk": "HIGH",
-          "thesis": "La fuga crítica de talento fundador erosiona la ventaja competitiva principal (innovación) y reduce la probabilidad de éxito a largo plazo."
-        },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1687814512735?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Amazon planea mercado contenido para IA",
-        "fullTitle": "Amazon podría lanzar mercado de contenido para empresas IA",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Amazon está considerando lanzar un mercado en línea donde los sitios de medios puedan vender su contenido a empresas de IA, según un nuevo informe. El gigante del comercio electrónico buscaría crear una canalización de contenido licenciable entre editores y desarrolladores de IA. Esto aborda directamente el problema crítico de los derechos de autor para el entrenamiento de modelos de lenguaje grande (LLM).",
-        "relations": [
-          {
-            "label": "Amazon",
-            "type": "entity",
-            "desc": "Gigante tecnológico y de comercio electrónico"
-          },
-          {
-            "label": "Contenido Licenciable",
-            "type": "resource",
-            "desc": "Materia prima clave para entrenar modelos de IA"
-          },
-          {
-            "label": "Editores de Medios",
-            "type": "entity",
-            "desc": "Propietarios de contenido (texto, video, audio)"
-          },
-          {
-            "label": "Empresas de IA",
-            "type": "entity",
-            "desc": "Compradores de datos para entrenamiento (ej. OpenAI, Anthropic)"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Amazon busca posicionarse como intermediario esencial en la economía de datos para IA, creando un nuevo flujo de ingresos y reforzando su ecosistema AWS.",
-            "Esta iniciativa podría establecer un estándar de mercado para la licencia de contenido, reduciendo el riesgo legal para las empresas de IA y generando nuevos ingresos para los medios."
+            "Publicly stating interplanetary ambitions is a high-stakes branding strategy to position xAI as a frontier leader, beyond terrestrial commercial applications.",
+            "This move may pressure other AI labs to be more transparent or ambitious in their public roadmaps, intensifying the narrative competition in the AI sector."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Amazon (AMZN)",
+          "asset": "Tesla (TSLA) / Private market exposure to xAI ecosystem",
+          "risk": "HIGH",
+          "thesis": "xAI's success and ambitious vision could create significant synergistic value for Musk's other ventures, particularly Tesla (robotics, autonomy) and SpaceX."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1627458819380?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Modal Labs in $2.5B Valuation Talks",
+        "fullTitle": "AI Inference Startup Modal Labs in Talks to Raise at $2.5B Valuation",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Modal Labs, a four-year-old AI inference infrastructure startup, is in advanced discussions to raise a new funding round. The round is reportedly being led by venture capital firm General Catalyst. The proposed valuation for this round is approximately $2.5 billion. This indicates continued strong investor appetite for companies building the foundational infrastructure for deploying AI models at scale.",
+        "relations": [
+          {
+            "label": "Modal Labs",
+            "type": "entity",
+            "desc": "AI inference and deployment infrastructure startup"
+          },
+          {
+            "label": "General Catalyst",
+            "type": "entity",
+            "desc": "Venture capital firm leading the investment round"
+          },
+          {
+            "label": "AI Inference",
+            "type": "tech",
+            "desc": "The process of running live data through a trained AI model"
+          },
+          {
+            "label": "Venture Capital",
+            "type": "resource",
+            "desc": "Source of private funding for high-growth startups"
+          },
+          {
+            "label": "Infrastructure Software",
+            "type": "tech",
+            "desc": "Core software layer enabling application development"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The high valuation underscores a strategic pivot in AI investment from model development (training) to model deployment and scaling (inference) as a critical bottleneck.",
+            "Success for Modal Labs could challenge incumbent cloud providers (AWS, GCP, Azure) by offering a more specialized and efficient inference layer."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "General Catalyst portfolio / Public cloud competitors (e.g., SNOW, DDOG)",
+          "risk": "HIGH",
+          "thesis": "Growth in specialized AI inference platforms validates the market and may benefit adjacent public companies in cloud infrastructure and MLOps."
+        },
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1592026490273?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "OpenAI Disbands Alignment Team",
+        "fullTitle": "OpenAI Disbands Its Mission Alignment Team",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "OpenAI has disbanded its dedicated Superalignment team, which was focused on long-term AI safety and ensuring advanced AI systems remain aligned with human values. The team's co-leader, Ilya Sutskever, has been reassigned to a new role as Chief Futurist. Other team members have been redistributed to other research groups within the company. This organizational change suggests a strategic de-prioritization or integration of long-term safety research within OpenAI's operational structure.",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Leading artificial intelligence research and deployment company"
+          },
+          {
+            "label": "Superalignment",
+            "type": "tech",
+            "desc": "Field of research focused on controlling and aligning superintelligent AI"
+          },
+          {
+            "label": "Ilya Sutskever",
+            "type": "entity",
+            "desc": "Co-founder and former Chief Scientist, now Chief Futurist"
+          },
+          {
+            "label": "AI Safety",
+            "type": "risk",
+            "desc": "Existential and catastrophic risk category associated with advanced AI"
+          },
+          {
+            "label": "Corporate Governance",
+            "type": "risk",
+            "desc": "Risk related to internal decision-making and priority setting"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This move may indicate OpenAI's leadership is prioritizing near-term product development and commercialization over long-term, speculative safety research, representing a significant philosophical shift.",
+            "The dissolution of a flagship safety team could trigger regulatory scrutiny and increase pressure from policymakers concerned about the responsible development of frontier AI."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Microsoft (MSFT) / OpenAI ecosystem exposure",
+          "risk": "HIGH",
+          "thesis": "Perceived deprioritization of safety increases regulatory and reputational tail risks for OpenAI and its major backer, Microsoft, potentially impacting valuation."
+        },
+        "confidence": 92,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1620353989309?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+      }
+    ],
+    "es": [
+      {
+        "title": "Bonos Japoneses Extienden Rally",
+        "fullTitle": "Bonos super-largos de Japón extienden rally tras elección",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Los bonos super-largos de Japón continúan su rally posterior a las elecciones. La victoria histórica de la Primera Ministra Sanae Takaichi ha calmado las preocupaciones de los inversores sobre la política fiscal. Esto refleja una mayor confianza en la estabilidad fiscal del gobierno. El rendimiento de los bonos a 30 años cayó a su nivel más bajo en tres meses.",
+        "relations": [
+          {
+            "label": "Japón",
+            "type": "entity",
+            "desc": "Emisor de deuda soberana"
+          },
+          {
+            "label": "Sanae Takaichi",
+            "type": "entity",
+            "desc": "Primera Ministra de Japón"
+          },
+          {
+            "label": "Bonos Super-Largos",
+            "type": "resource",
+            "desc": "Deuda soberana a muy largo plazo"
+          },
+          {
+            "label": "Política Fiscal",
+            "type": "risk",
+            "desc": "Riesgo de expansión del déficit"
+          },
+          {
+            "label": "Inversores Institucionales",
+            "type": "entity",
+            "desc": "Compradores de deuda a largo plazo"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La estabilidad política reduce la prima de riesgo soberano japonés, atrayendo flujos hacia activos de renta fija.",
+            "El gobierno podría aprovechar los bajos rendimientos para financiar estímulos económicos con menor costo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Bonos del Gobierno Japonés (JGBs) a 20-30 años",
           "risk": "MEDIUM",
-          "thesis": "La creación de un mercado B2B para datos de entrenamiento de IA es una extensión lógica y de alto margen de su modelo de plataforma, con potencial de crecimiento significativo."
+          "thesis": "Entorno de política monetaria acomodaticia del BOJ y estabilidad fiscal post-elecciones apoyan precios de bonos largos."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1638917997723?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Oro Cae Tras Datos Laborales EEUU",
+        "fullTitle": "Oro retrocede tras fuerte informe de empleo en EEUU",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El precio del oro cayó tras la publicación de datos sólidos de empleo en Estados Unidos. El informe redujo las expectativas de que la Reserva Federal recortará las tasas de interés rápidamente. Un mercado laboral robusto sugiere que la inflación podría persistir, retrasando la política monetaria expansiva. Los rendimientos de los bonos del Tesoro subieron, presionando al activo sin rendimiento.",
+        "relations": [
+          {
+            "label": "Oro (XAU)",
+            "type": "resource",
+            "desc": "Activo refugio tradicional"
+          },
+          {
+            "label": "Reserva Federal",
+            "type": "entity",
+            "desc": "Banco central de Estados Unidos"
+          },
+          {
+            "label": "Mercado Laboral EEUU",
+            "type": "risk",
+            "desc": "Indicador clave de inflación"
+          },
+          {
+            "label": "Tasas de Interés",
+            "type": "risk",
+            "desc": "Costo del dinero, inverso al oro"
+          },
+          {
+            "label": "Dólar Estadounidense (USD)",
+            "type": "resource",
+            "desc": "Divisa de reserva global"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La Fed mantendrá tasas altas por más tiempo, erosionando el atractivo del oro frente a activos con rendimiento.",
+            "La fortaleza económica estadounidense atrae capitales globales, fortaleciendo el USD y presionando commodities en dólares."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Futuros de Oro (GC) / ETF GLD",
+          "risk": "HIGH",
+          "thesis": "Expectativas de recortes de tasas pospuestas y dólar fuerte crean viento en contra para el metal precioso."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1635877009813?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Acciones Asia Superan a EEUU",
+        "fullTitle": "Acciones asiáticas tienen mejor inicio frente a EEUU en siglo",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Las acciones asiáticas avanzan por quinto día consecutivo, ampliando su ventaja sobre los pares estadounidenses este año. Valuaciones relativamente más baratas y perspectivas de crecimiento más firmes están atrayendo compradores. Los bonos del Tesoro estadounidense cayeron tras los fuertes datos de empleo. El sentimiento de riesgo mejora en la región Asia-Pacífico.",
+        "relations": [
+          {
+            "label": "MSCI Asia ex-Japón",
+            "type": "entity",
+            "desc": "Índice bursátil de la región"
+          },
+          {
+            "label": "S&P 500",
+            "type": "entity",
+            "desc": "Índice bursátil de referencia EEUU"
+          },
+          {
+            "label": "Valuaciones",
+            "type": "risk",
+            "desc": "Métrica de precio/ganancias (P/E)"
+          },
+          {
+            "label": "Crecimiento Económico",
+            "type": "risk",
+            "desc": "Expectativas de PIB regional"
+          },
+          {
+            "label": "Bonos del Tesoro EEUU",
+            "type": "resource",
+            "desc": "Activo de referencia global"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Rotación de capital desde mercados caros (EEUU) hacia mercados con mejor valoración relativa (Asia).",
+            "La divergencia en ciclos monetarios (Asia más flexible vs Fed restrictiva) favorece a los mercados emergentes."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF EWM (Malasia) o EWS (Singapur)",
+          "risk": "MEDIUM",
+          "thesis": "Recuperación cíclica en Asia con políticas de estímulo y flujos de capital entrantes por diferencial de crecimiento."
         },
         "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1696135644633?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "xAI Revela Ambiciones Interplanetarias",
+        "fullTitle": "xAI presenta ambiciones interplanetarias en reunión pública",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "xAI, la empresa de IA de Elon Musk, publicó su presentación interna completa de 45 minutos en la plataforma X. La presentación detalla ambiciones a largo plazo que incluyen aplicaciones interplanetarias. Este movimiento inusual de transparencia busca atraer talento e inversión. Se enfatiza el desarrollo de IA para resolver problemas fundamentales de la ciencia y la exploración.",
+        "relations": [
+          {
+            "label": "xAI",
+            "type": "entity",
+            "desc": "Empresa de IA de Elon Musk"
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "Fundador de xAI, SpaceX, Tesla"
+          },
+          {
+            "label": "IA Interplanetaria",
+            "type": "tech",
+            "desc": "Aplicación de IA en colonización espacial"
+          },
+          {
+            "label": "Plataforma X",
+            "type": "tech",
+            "desc": "Red social propiedad de Musk"
+          },
+          {
+            "label": "Grok",
+            "type": "tech",
+            "desc": "Modelo de lenguaje de xAI"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "xAI se posiciona como un actor clave en la infraestructura tecnológica para la futura economía espacial.",
+            "La estrategia de Musk integra verticalmente IA (xAI), datos (X), hardware (Tesla bots) y acceso espacial (SpaceX)."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas del ecosistema Musk (ej. proveedores de Tesla/SpaceX)",
+          "risk": "HIGH",
+          "thesis": "La visión a largo plazo de Musk crea sinergias entre sus empresas, generando un 'efecto red' tecnológico único."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1516723164685?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Modal Labs Busca Ronda a $2.5B",
+        "fullTitle": "Modal Labs en conversaciones para ronda a valoración de $2.5B",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Modal Labs, una startup de inferencia de IA, está en conversaciones para recaudar capital a una valoración de $2,500 millones. General Catalyst lideraría la ronda de la startup de cuatro años. La compañía se especializa en infraestructura para ejecutar modelos de IA a gran escala. El sector de inferencia de IA atrae fuertes inversiones debido al crecimiento explosivo de su uso.",
+        "relations": [
+          {
+            "label": "Modal Labs",
+            "type": "entity",
+            "desc": "Startup de infraestructura de IA"
+          },
+          {
+            "label": "General Catalyst",
+            "type": "entity",
+            "desc": "Firma de capital de riesgo"
+          },
+          {
+            "label": "Inferencia de IA",
+            "type": "tech",
+            "desc": "Proceso de ejecución de modelos de IA"
+          },
+          {
+            "label": "Infraestructura en la Nube",
+            "type": "tech",
+            "desc": "Plataformas para computación de IA"
+          },
+          {
+            "label": "Valoración $2.5B",
+            "type": "risk",
+            "desc": "Métrica de mercado para startups en crecimiento"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La carrera por infraestructura de inferencia eficiente es crítica, ya que los costos operativos de IA son altos.",
+            "Los inversores apuestan a que Modal Labs puede capturar valor en la pila tecnológica entre los modelos y las aplicaciones finales."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas de infraestructura en la nube (ej. SNOW, DDOG)",
+          "risk": "MEDIUM",
+          "thesis": "La demanda explosiva de inferencia de IA impulsa el crecimiento de proveedores de plataformas y herramientas de desarrollo."
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1524693390861?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "OpenAI Disuelve Equipo de Alineación",
+        "fullTitle": "OpenAI disuelve su equipo de alineación de misión",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "OpenAI ha disuelto su equipo dedicado a la alineación de la misión y la seguridad a largo plazo de la IA. El líder del equipo asume un nuevo rol como 'jefe futurista'. Los demás miembros fueron reasignados a otras áreas de la compañía. Este movimiento refleja un cambio interno en la priorización de la investigación de seguridad frente al desarrollo comercial y de productos.",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Empresa líder en investigación de IA"
+          },
+          {
+            "label": "Alineación de IA",
+            "type": "tech",
+            "desc": "Campo de estudio para controlar IA avanzada"
+          },
+          {
+            "label": "Seguridad de IA",
+            "type": "risk",
+            "desc": "Riesgo existencial de IA no alineada"
+          },
+          {
+            "label": "Estructura Corporativa",
+            "type": "risk",
+            "desc": "Gobernanza y toma de decisiones"
+          },
+          {
+            "label": "Ilya Sutskever",
+            "type": "entity",
+            "desc": "Científico jefe, ex-líder del equipo"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "OpenAI prioriza la velocidad de desarrollo y ventaja comercial sobre las salvaguardas a largo plazo, aumentando riesgos regulatorios.",
+            "La reestructuración consolida el poder del CEO Sam Altman y alinea la organización más estrechamente con objetivos de negocio."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas dependientes de APIs de OpenAI",
+          "risk": "MEDIUM",
+          "thesis": "Mayor riesgo reputacional y regulatorio para OpenAI podría afectar la estabilidad de su ecosistema de socios."
+        },
+        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1636356966122?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1547059283668?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
