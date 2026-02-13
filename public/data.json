@@ -1,863 +1,833 @@
 {
-  "generated_at": "2026-02-12T02:30:33.559647",
+  "generated_at": "2026-02-13T02:33:20.239691",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "日本超长期债券延续涨势",
-        "fullTitle": "日本超长期债券延续涨势，财政担忧缓解",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "日本超长期债券在选举后延续涨势。首相高市早苗的历史性选举胜利缓解了投资者对财政政策的担忧。市场情绪转向乐观，认为新政府将维持财政纪律。这降低了债券市场的风险溢价。",
+        "title": "美限制中国清洁能源税收抵免",
+        "fullTitle": "美国发布新规限制中国材料用于清洁能源税收抵免",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "特朗普政府发布新指南，限制美国清洁能源项目使用外国材料和组件。此举将进一步限制获取丰厚税收抵免的途径。该政策旨在保护美国本土供应链，但可能推高项目成本并影响清洁能源转型速度。",
         "relations": [
           {
-            "label": "日本国债",
-            "type": "asset",
-            "desc": "日本政府发行的超长期债券"
-          },
-          {
-            "label": "高市早苗",
+            "label": "美国清洁能源项目",
             "type": "entity",
-            "desc": "日本首相，其选举胜利稳定了市场预期"
+            "desc": "政策直接影响对象"
           },
           {
-            "label": "财政政策",
+            "label": "中国材料/组件",
+            "type": "resource",
+            "desc": "被限制使用的关键资源"
+          },
+          {
+            "label": "税收抵免政策",
             "type": "risk",
-            "desc": "市场此前担忧的财政扩张风险已缓解"
+            "desc": "投资回报的关键变量"
           },
           {
-            "label": "债券市场",
-            "type": "entity",
-            "desc": "受政治事件影响，风险情绪改善"
+            "label": "供应链安全",
+            "type": "risk",
+            "desc": "政策背后的战略考量"
           }
         ],
         "analysis": {
           "strategic": [
-            "日本政治稳定降低了主权债务风险，有利于吸引国际资本流入日债市场。",
-            "全球避险资金可能重新评估日本作为稳定资产配置目的地的吸引力。"
+            "美国正通过产业政策重塑全球清洁能源供应链格局，减少对特定国家的依赖。",
+            "此举可能引发贸易摩擦，并促使中国加速本土供应链建设或寻求其他市场。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "日本20年期及以上国债",
+          "action": "SHORT",
+          "asset": "依赖中国供应链的美国清洁能源开发商/组件进口商",
           "risk": "MEDIUM",
-          "thesis": "政治不确定性消除，财政纪律预期增强，将支撑超长期债券价格，收益率可能进一步下行。"
+          "thesis": "政策将直接增加其合规成本与供应链风险，短期内可能影响项目盈利能力和股价。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1668735383636?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1615491614943?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "金价因强劲非农数据回落",
-        "fullTitle": "金价回落，强劲美国就业数据削弱降息预期",
+        "title": "和记黄埔警告马士基法律行动",
+        "fullTitle": "和记黄埔就巴拿马港口运营警告马士基采取法律行动",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "美国公布强劲的非农就业数据后，金价下跌。数据表明劳动力市场依然紧俏，这降低了市场对美联储将迅速降息的预期。利率将在更长时间内维持高位的预期，削弱了无息资产黄金的吸引力。美元走强也对金价构成压力。",
+        "summary": "和记黄埔控股有限公司警告马士基集团，若其码头部门试图接管巴拿马运河附近两个港口的运营，将采取法律行动。这涉及全球关键航运枢纽的控制权争夺。争端可能影响巴拿马运河的物流效率与相关公司的区域战略。",
         "relations": [
           {
-            "label": "黄金",
-            "type": "asset",
-            "desc": "避险资产，对利率预期敏感"
-          },
-          {
-            "label": "美联储",
+            "label": "和记黄埔",
             "type": "entity",
-            "desc": "美国中央银行，其利率政策是金价关键驱动因素"
+            "desc": "港口当前运营方，发出警告"
           },
           {
-            "label": "非农就业数据",
+            "label": "马士基集团",
+            "type": "entity",
+            "desc": "试图接管运营的北欧航运巨头"
+          },
+          {
+            "label": "巴拿马运河港口",
             "type": "resource",
-            "desc": "关键经济指标，影响货币政策预期"
+            "desc": "全球关键航运战略资产"
           },
           {
-            "label": "利率预期",
+            "label": "法律纠纷风险",
             "type": "risk",
-            "desc": "市场对美联储降息时机和幅度的预期发生变化"
+            "desc": "可能引发长期诉讼与运营中断"
           }
         ],
         "analysis": {
           "strategic": [
-            "美国经济韧性可能延长全球高利率环境，对黄金等零息资产构成持续压力。",
-            "数据强化了“美国经济例外论”，可能推动美元资产相对吸引力上升，资金从黄金流出。"
+            "全球物流巨头正在争夺关键咽喉要道的控制权，以增强供应链韧性并获取超额利润。",
+            "此类争端可能促使港口所在国重新评估外资对关键基础设施的控制，引发监管风险。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "黄金期货/现货",
-          "risk": "HIGH",
-          "thesis": "短期降息预期降温，实际利率预期上升和美元走强将共同压制金价。地缘政治风险是主要上行风险。"
+          "asset": "马士基集团 (MAERSKb.CO)",
+          "risk": "MEDIUM",
+          "thesis": "潜在的法律诉讼和运营僵局可能增加其拉美区域扩张的不确定性和成本，影响投资者情绪。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1679840589737?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1660028147791?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "亚洲股市表现本世纪最佳",
-        "fullTitle": "亚洲股市相对美股创本世纪最佳开局",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "亚洲股市连续第五日上涨，今年相对于美国股市的表现创下本世纪以来最佳开局。相对更低的估值和更坚实的增长前景吸引了买家。与此同时，强劲的美国就业数据导致美国国债价格下跌（收益率上升）。",
-        "relations": [
-          {
-            "label": "亚洲股市",
-            "type": "asset",
-            "desc": "MSCI亚洲（除日本）指数等代表性股指"
-          },
-          {
-            "label": "美国国债",
-            "type": "asset",
-            "desc": "受美国经济数据影响，收益率上升"
-          },
-          {
-            "label": "估值",
-            "type": "resource",
-            "desc": "亚洲股市相对美股更具吸引力"
-          },
-          {
-            "label": "增长前景",
-            "type": "risk",
-            "desc": "亚洲地区经济增长预期相对强劲"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "全球资本配置可能正在发生结构性转变，从估值高企的美股向增长潜力更大的亚洲市场轮动。",
-            "美债收益率上升若持续，可能增加全球融资成本，但对内需驱动型亚洲经济体的冲击相对较小。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "亚洲（除日本）股票ETF或指数基金",
-          "risk": "MEDIUM",
-          "thesis": "估值洼地、增长差异以及可能的资金持续流入，支撑亚洲股市相对跑赢的趋势。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1526877416588?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "xAI公开全员会展示星际野心",
-        "fullTitle": "xAI公开全员会，阐述其星际野心",
+        "title": "中国持续减持美债的深层原因",
+        "fullTitle": "分析中国为何进一步减持美国国债",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "xAI于周三罕见地将其完整的45分钟全员会议演示发布到X平台，使其广泛传播。此举旨在公开透明地展示其公司文化和愿景。演示内容中包含了其宏大的“星际”发展目标。这既是一种公关策略，也可能是人才招募和生态构建的一部分。",
+        "summary": "中国作为主要持有国，正在进一步减持规模达30万亿美元的美国国债。这反映了在地缘政治紧张和美元资产风险上升背景下，对外汇储备多元化的战略调整。长期来看，这可能影响美债市场的流动性和美国的融资成本。",
         "relations": [
           {
-            "label": "xAI",
+            "label": "中国央行/外管局",
             "type": "entity",
-            "desc": "埃隆·马斯克旗下的人工智能公司"
+            "desc": "减持行为的主要执行方"
           },
           {
-            "label": "星际野心",
-            "type": "tech",
-            "desc": "暗示AI在太空探索等宏大场景的应用愿景"
-          },
-          {
-            "label": "X平台",
+            "label": "美国国债市场",
             "type": "entity",
-            "desc": "信息发布和传播渠道，同属马斯克生态"
+            "desc": "全球最大债务市场，受流动性影响"
           },
           {
-            "label": "AI生态竞争",
+            "label": "外汇储备多元化",
+            "type": "strategy",
+            "desc": "减持背后的核心战略动机"
+          },
+          {
+            "label": "地缘政治风险",
             "type": "risk",
-            "desc": "通过公开愿景争夺开发者、用户和舆论关注"
+            "desc": "推动资产配置调整的关键因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "xAI通过高调公开其长期愿景，旨在塑造行业叙事，与OpenAI等对手在“使命”层面展开竞争。",
-            "将AI与太空探索等终极目标绑定，可能影响监管和公众对AI发展的认知与接受度。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "特斯拉（TSLA）及相关概念",
-          "risk": "HIGH",
-          "thesis": "xAI的进展和宏大叙事可能提升马斯克整体生态（包括特斯拉的AI和机器人叙事）的估值溢价，但关联性较强，风险高。"
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1505586905835?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Modal Labs拟以25亿美元估值融资",
-        "fullTitle": "AI推理初创公司Modal Labs拟以25亿美元估值融资",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "据消息人士透露，AI推理初创公司Modal Labs正在谈判以25亿美元估值进行新一轮融资。风险投资公司General Catalyst拟领投本轮。这家成立四年的公司专注于AI模型推理的优化与基础设施。高估值反映了市场对AI基础设施层的持续追捧。",
-        "relations": [
-          {
-            "label": "Modal Labs",
-            "type": "entity",
-            "desc": "专注于AI推理的四年初创公司"
-          },
-          {
-            "label": "AI推理",
-            "type": "tech",
-            "desc": "AI模型部署和应用的关键环节，市场潜力巨大"
-          },
-          {
-            "label": "General Catalyst",
-            "type": "entity",
-            "desc": "知名风投机构，拟领投本轮"
-          },
-          {
-            "label": "初创公司融资",
-            "type": "risk",
-            "desc": "AI基础设施领域融资热度依然高涨，估值不菲"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "资本持续涌入AI基础设施层，表明行业认为推理侧的商业化落地和效率提升是下一阶段竞争关键。",
-            "高估值融资可能加速行业整合，拥有独特技术或大规模客户的推理服务商价值凸显。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI基础设施类上市公司（如英伟达、云服务商）及私募基金",
-          "risk": "MEDIUM",
-          "thesis": "初创公司的高估值融资验证了AI推理市场的增长逻辑，利好上游硬件供应商和成熟的云基础设施提供商。"
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1647533192736?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "OpenAI解散使命对齐团队",
-        "fullTitle": "OpenAI解散其长期安全与使命对齐团队",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "OpenAI已经解散了其专注于长期AI风险与使命对齐的团队。该团队负责人被赋予新角色，担任OpenAI的“首席未来学家”。团队其他成员已被重新分配到公司其他部门。这一结构调整表明公司内部优先事项可能发生变化。",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "领先的AI研究公司，组织架构发生变动"
-          },
-          {
-            "label": "AI安全/对齐",
-            "type": "risk",
-            "desc": "确保AI系统与人类价值观一致的关键研究领域"
-          },
-          {
-            "label": "组织重组",
-            "type": "risk",
-            "desc": "反映公司战略重心从长期研究向产品化与商业化倾斜"
-          },
-          {
-            "label": "监管风险",
-            "type": "risk",
-            "desc": "此举可能引发监管机构和公众对AI安全承诺的质疑"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "OpenAI的战略重心明显向产品落地和商业化加速倾斜，长期安全研究的优先级下降。",
-            "这可能引发行业和监管对AI治理的担忧，并给强调安全的竞争对手（如Anthropic）带来差异化机会。"
+            "中国正系统性降低对美元资产的依赖，以应对潜在金融制裁风险并提升金融自主权。",
+            "此举可能引发其他央行效仿，长期削弱美元霸权，并推高美国政府的借贷成本。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "OpenAI生态的过度投机概念",
+          "asset": "长期美国国债ETF (如TLT)",
           "risk": "HIGH",
-          "thesis": "公司内部战略矛盾公开化（商业化 vs. 安全）可能增加其长期发展的不确定性和监管风险，影响市场信心。但短期产品进展可能对冲该影响。"
+          "thesis": "主要持有国持续减持可能在未来加剧美债的抛售压力，尤其是在财政赤字高企的背景下，导致长期国债价格下跌、收益率上升。"
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1581185665495?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "百万美元加入布莱恩·约翰逊长寿计划",
+        "fullTitle": "投资者布莱恩·约翰逊推出百万美元“不朽者”长寿计划",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "痴迷于长寿的投资者布莱恩·约翰逊推出名为“不朽者”的项目，入场费高达100万美元。该项目旨在传授其极端的长寿生活方式和生物黑客技术。这反映了长寿科技领域从科研向高端商业化服务的延伸，目标客户为超高净值人群。",
+        "relations": [
+          {
+            "label": "布莱恩·约翰逊",
+            "type": "entity",
+            "desc": "长寿投资者，项目发起人"
+          },
+          {
+            "label": "长寿科技/生物黑客",
+            "type": "tech",
+            "desc": "项目核心内容与卖点"
+          },
+          {
+            "label": "超高净值人群",
+            "type": "entity",
+            "desc": "项目目标客户"
+          },
+          {
+            "label": "高端健康服务",
+            "type": "resource",
+            "desc": "新兴的奢侈消费市场"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "长寿赛道正出现两极分化：一端是普惠性的健康科技，另一端是面向富豪的极致个性化、高溢价服务。",
+            "此类项目通过制造话题和树立高端品牌形象，为背后更广泛的健康投资组合引流和增值。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "精准医疗、健康监测、抗衰老生物科技相关ETF或龙头股",
+          "risk": "HIGH",
+          "thesis": "尽管该项目本身小众，但它极大地提升了长寿科技的市场关注度和潜在估值，可能带动整个赛道的资本流入。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1564797571184?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Pinterest财报不及预期，搜索量成亮点",
+        "fullTitle": "Pinterest财报未达预期，称搜索量超ChatGPT",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Pinterest股价因财报不及预期而大跌。其唯一亮点是声称平台搜索量高于ChatGPT，试图强调其用户活跃度和商业化潜力。这反映了传统社交平台在AI时代重塑叙事、寻找增长点的努力。",
+        "relations": [
+          {
+            "label": "Pinterest",
+            "type": "entity",
+            "desc": "财报发布方，视觉发现引擎"
+          },
+          {
+            "label": "ChatGPT",
+            "type": "entity",
+            "desc": "被对比的AI聊天机器人"
+          },
+          {
+            "label": "搜索功能",
+            "type": "tech",
+            "desc": "Pinterest强调的核心竞争力"
+          },
+          {
+            "label": "用户活跃度指标",
+            "type": "resource",
+            "desc": "影响广告收入的关键数据"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "传统互联网公司正利用一切可比数据对抗AI巨头带来的叙事压力，争夺投资者注意力。",
+            "将自身定位为“意图搜索”平台，是Pinterest在电商和广告市场与谷歌、亚马逊等巨头差异化竞争的关键。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Pinterest (PINS)",
+          "risk": "MEDIUM",
+          "thesis": "核心财务指标未达预期，仅靠搜索量这一运营数据难以支撑估值；在宏观经济和广告市场竞争压力下，短期复苏前景不明。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1649635363978?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "IBM计划在AI时代扩招初级员工",
+        "fullTitle": "IBM计划在AI时代大幅增加美国初级岗位招聘",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "IBM计划在2026年将美国初级岗位招聘数量增加两倍。公司明确这些岗位的工作内容将与往年不同，旨在培养适应AI时代的新技能。这表明企业正调整人力资源战略，将AI视为增强人力而非完全替代的工具，并投资于未来技能。",
+        "relations": [
+          {
+            "label": "IBM",
+            "type": "entity",
+            "desc": "招聘计划发起方，科技巨头"
+          },
+          {
+            "label": "初级岗位/入门级人才",
+            "type": "resource",
+            "desc": "招聘与培养的对象"
+          },
+          {
+            "label": "人工智能(AI)",
+            "type": "tech",
+            "desc": "驱动招聘策略变革的核心技术"
+          },
+          {
+            "label": "技能重塑",
+            "type": "strategy",
+            "desc": "企业应对技术变革的核心战略"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "领先科技公司正通过大规模招聘和培训，系统性构建人机协同的下一代劳动力，以巩固长期竞争力。",
+            "此举也是对“AI导致大规模失业”舆论的回应，旨在塑造负责任的企业形象并稳定社会预期。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "IBM (IBM)",
+          "risk": "MEDIUM",
+          "thesis": "大规模投资于未来人才表明公司致力于长期转型和增长，可能改善其创新能力和客户解决方案的竞争力，从而提升长期估值。"
         },
         "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1626908840384?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1591932112949?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Japan Bonds Rally on Fiscal Ease",
-        "fullTitle": "Japan's Super-Long Bonds Extend Rally as Fiscal Concerns Ease",
+        "title": "US Limits China Clean Energy Credits",
+        "fullTitle": "US Details New China Limits for Clean Energy Tax Credits",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Japanese super-long government bonds continued their post-election rally. Prime Minister Sanae Takaichi's historic election victory has alleviated investor anxieties regarding the nation's fiscal policy trajectory. This political stability is reducing the perceived risk premium on long-dated Japanese debt. The rally reflects a market reassessment of Japan's sovereign credit risk.",
+        "impactLevel": "HIGH",
+        "summary": "The Trump administration has issued new guidance restricting the use of foreign materials and components in US clean energy projects. This move specifically targets access to lucrative tax credits, aiming to reshore supply chains. It represents a significant escalation in the US-China trade and technology decoupling, particularly in the strategic clean energy sector. The policy will directly impact project economics and supply chain strategies for developers and manufacturers.",
         "relations": [
           {
-            "label": "Japan",
-            "type": "entity",
-            "desc": "Sovereign nation, issuer of bonds"
-          },
-          {
-            "label": "Sanae Takaichi",
-            "type": "entity",
-            "desc": "Prime Minister of Japan"
-          },
-          {
-            "label": "Super-Long Bonds",
-            "type": "asset",
-            "desc": "Japanese government bonds with long maturities"
-          },
-          {
-            "label": "Fiscal Policy",
-            "type": "risk",
-            "desc": "Government spending and debt management risk"
-          },
-          {
-            "label": "Sovereign Debt",
+            "label": "US Clean Energy Projects",
             "type": "resource",
-            "desc": "Financial instrument representing government borrowing"
+            "desc": "Target sector for new protectionist policy"
+          },
+          {
+            "label": "China Supply Chain",
+            "type": "entity",
+            "desc": "Primary target of the material restrictions"
+          },
+          {
+            "label": "Tax Credits",
+            "type": "resource",
+            "desc": "Key financial incentive being weaponized"
+          },
+          {
+            "label": "Trade Decoupling",
+            "type": "risk",
+            "desc": "Strategic risk of bifurcating global supply chains"
           }
         ],
         "analysis": {
           "strategic": [
-            "A stable Japanese government reduces tail risks for global bond markets, potentially attracting yield-seeking capital.",
-            "The rally signals a potential compression of the Japan risk premium, which could impact global capital flows and currency hedges."
+            "Accelerates the bifurcation of global clean tech supply chains, forcing companies to choose between US and China-aligned ecosystems.",
+            "Weaponizes industrial policy to achieve geopolitical objectives, using domestic subsidies as a tool for economic containment."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Japanese Government Bonds (JGBs), particularly 20Y+ tenor",
+          "asset": "US-based clean energy component manufacturers (e.g., First Solar, Enphase Energy)",
           "risk": "MEDIUM",
-          "thesis": "Continued political stability and contained fiscal fears support bond prices, while the Bank of Japan's yield curve control framework provides a backstop."
+          "thesis": "Policy artificially creates a protected domestic market, boosting demand and margins for qualifying US producers while disadvantaging foreign competitors."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1632696020421?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1559701905730?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Gold Falls on Strong US Jobs",
-        "fullTitle": "Gold Retreats as Strong US Jobs Report Dims Rate-Cut Hopes",
-        "classification": "RESTRICTED",
+        "title": "CK Hutchison Warns Maersk Over Panama",
+        "fullTitle": "CK Hutchison Warns Maersk of Legal Action Over Panama Ports",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "The price of gold declined following the release of stronger-than-expected US non-farm payrolls data. The robust jobs report has led markets to scale back expectations for imminent interest rate cuts by the Federal Reserve. Higher-for-longer interest rates increase the opportunity cost of holding non-yielding assets like gold. This represents a shift in the macro narrative driving safe-haven and anti-fiat flows.",
+        "summary": "CK Hutchison Holdings has threatened A.P. Moller-Maersk with legal action if its terminal unit attempts to take over operations at two strategic ports near the Panama Canal. This dispute highlights the intense competition for control over critical global trade chokepoints. The Panama Canal is a vital artery for global shipping, and port operations there confer significant logistical and strategic advantage. The conflict risks disrupting port operations and supply chain flows in a key region.",
         "relations": [
           {
-            "label": "Gold",
-            "type": "asset",
-            "desc": "Precious metal, safe-haven asset"
-          },
-          {
-            "label": "Federal Reserve",
+            "label": "CK Hutchison Holdings",
             "type": "entity",
-            "desc": "Central bank of the United States"
+            "desc": "Hong Kong-based conglomerate defending its port assets"
           },
           {
-            "label": "US Jobs Report",
+            "label": "A.P. Moller-Maersk",
+            "type": "entity",
+            "desc": "Danish shipping giant seeking port expansion"
+          },
+          {
+            "label": "Panama Canal",
             "type": "resource",
-            "desc": "Key macroeconomic data point (Non-Farm Payrolls)"
+            "desc": "Strategic global trade chokepoint"
           },
           {
-            "label": "Interest Rates",
-            "type": "risk",
-            "desc": "Monetary policy risk affecting asset valuations"
-          },
-          {
-            "label": "US Dollar",
-            "type": "entity",
-            "desc": "Global reserve currency, inversely correlated with gold"
+            "label": "Port Operations",
+            "type": "resource",
+            "desc": "High-value infrastructure asset under dispute"
           }
         ],
         "analysis": {
           "strategic": [
-            "The market's reaction highlights the primary current driver for gold: the real interest rate outlook, overshadowing geopolitical safe-haven bids.",
-            "A recalibration of Fed policy expectations could trigger sustained outflows from gold ETFs and similar financialized gold products."
+            "Highlights the growing strategic and financial value of controlling physical logistics nodes in an era of supply chain resilience focus.",
+            "Represents a commercial clash with geopolitical undertones, involving a major Chinese-linked conglomerate in a sensitive Western Hemisphere location."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Gold Futures (GC) / Gold ETFs (e.g., GLD)",
+          "asset": "A.P. Moller-Maersk A/S (MAERSK-B.CO)",
           "risk": "HIGH",
-          "thesis": "A repricing of the Fed's rate path strengthens the USD and real yields, creating a hostile environment for gold in the near term."
+          "thesis": "Legal entanglements and potential operational disruptions in a critical region could delay growth plans, increase costs, and create negative sentiment."
         },
-        "confidence": 85,
+        "confidence": 82,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1656474074810?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1625941614791?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Asia Stocks Outperform US",
-        "fullTitle": "Asia Stocks Make Best Start Versus US This Century",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Asian equity markets advanced for a fifth consecutive day, extending their significant outperformance over US stocks this year. The rally is attributed to relatively cheaper valuations and firmer regional growth prospects attracting capital. Concurrently, US Treasury yields rose following the strong jobs data, indicating a divergence in monetary policy expectations and growth trajectories between the regions. This marks a potential rotation in global equity leadership.",
+        "title": "China Retreats from US Treasuries",
+        "fullTitle": "Why China Is Retreating Further From US Treasuries",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "China, a major historical buyer, is reducing its holdings of US Treasury debt, the world's largest debt market at $30 trillion. This retreat challenges a long-standing pillar of global finance where foreign capital funded US deficits. A sustained withdrawal could pressure US borrowing costs and the dollar's dominance, while reflecting China's strategic diversification away from dollar assets. The shift is driven by geopolitical tensions, domestic needs, and a desire for financial independence.",
         "relations": [
           {
-            "label": "Asian Equities",
-            "type": "asset",
-            "desc": "Stock markets in the Asia-Pacific region"
-          },
-          {
-            "label": "US Equities",
-            "type": "asset",
-            "desc": "Stock markets in the United States (e.g., S&P 500)"
-          },
-          {
             "label": "US Treasuries",
-            "type": "asset",
-            "desc": "Sovereign debt of the United States"
+            "type": "resource",
+            "desc": "$30T debt market facing demand shift"
           },
           {
-            "label": "Valuations",
-            "type": "risk",
-            "desc": "Risk of asset overvaluation or undervaluation"
+            "label": "People's Bank of China",
+            "type": "entity",
+            "desc": "Central bank reducing US debt exposure"
           },
           {
-            "label": "Growth Divergence",
+            "label": "Geopolitical Diversification",
             "type": "risk",
-            "desc": "Differing economic growth rates between regions"
+            "desc": "Strategic de-risking driving asset allocation"
+          },
+          {
+            "label": "Dollar Hegemony",
+            "type": "risk",
+            "desc": "Long-term structural challenge to US currency dominance"
           }
         ],
         "analysis": {
           "strategic": [
-            "Sustained Asian outperformance could signal a major shift in global capital allocation, reducing the dominance of US equity markets.",
-            "The divergence between rising US yields and Asian equity strength suggests decoupling, where regional fundamentals are overpowering global liquidity tightening."
+            "Represents a fundamental shift in the global financial order, as a major creditor actively reduces dependency on the core US dollar asset.",
+            "Signals the use of financial holdings as a potential geopolitical tool, introducing new volatility and uncertainty into sovereign debt markets."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Asia-ex-Japan ETFs (e.g., EPP, AAXJ) / Specific country ETFs (e.g., FXI, EWY)",
+          "asset": "Gold (GLD) / Non-USD Sovereign Bonds (e.g., Japanese Government Bonds)",
           "risk": "MEDIUM",
-          "thesis": "Attractive valuations, resilient growth, and potential for further capital inflows support continued relative outperformance against expensive US markets."
+          "thesis": "As China diversifies away from USD assets, it may allocate to alternative reserve assets like gold or other currencies, supporting their prices."
         },
         "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1626772281220?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1580529356032?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "xAI Reveals Interplanetary Ambitions",
-        "fullTitle": "xAI Lays Out Interplanetary Ambitions in Public All-Hands",
+        "title": "$1M Longevity Program from Bryan Johnson",
+        "fullTitle": "Bryan Johnson Charges $1M for 'Immortals' Longevity Program",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Billionaire longevity investor Bryan Johnson is launching an exclusive 'Immortals' program with a $1 million entry fee. The program promises to teach participants Johnson's intensive regimen for extending lifespan, blending human guidance with AI-driven personalization (BryanAI). This move commercializes extreme biohacking and reflects the growing luxury market for life extension. It tests the boundaries of consumer willingness to pay for unproven, high-cost longevity protocols.",
+        "relations": [
+          {
+            "label": "Bryan Johnson",
+            "type": "entity",
+            "desc": "Billionaire longevity influencer and entrepreneur"
+          },
+          {
+            "label": "Longevity/Biohacking",
+            "type": "tech",
+            "desc": "High-growth sector focused on life extension"
+          },
+          {
+            "label": "Luxury Health Tech",
+            "type": "tech",
+            "desc": "Niche market for ultra-high-cost wellness services"
+          },
+          {
+            "label": "AI Personalization",
+            "type": "tech",
+            "desc": "Use of AI to tailor health protocols"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Signals the maturation of the longevity sector from pure R&D into ultra-high-margin, direct-to-consumer luxury services.",
+            "Acts as a market test for price elasticity and demand for speculative life-extension methods, potentially validating new business models."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Precision Medicine / Diagnostic Companies (e.g., Pacific Biosciences, Illumina)",
+          "risk": "HIGH",
+          "thesis": "High-profile commercialization drives mainstream attention and capital towards the broader longevity and personalized health ecosystem, benefiting enabling technologies."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1529851050900?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Pinterest Searches Surpass ChatGPT",
+        "fullTitle": "Pinterest Claims More Searches Than ChatGPT Amid Earnings Miss",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "xAI, the artificial intelligence company founded by Elon Musk, publicly released a 45-minute internal all-hands meeting on the X platform. The presentation detailed the company's ambitious long-term vision, which includes interplanetary-scale applications for its AI technology. This unprecedented transparency is a strategic communication move, likely aimed at talent acquisition, public positioning, and ecosystem alignment. It underscores the expansive scope of next-generation AI development goals.",
+        "summary": "Pinterest's stock fell following disappointing earnings, but the company highlighted that its platform now processes more searches than ChatGPT. This claim positions Pinterest as a major player in visual discovery and intent-based search, distinct from traditional web search or conversational AI. The higher-than-expected usage is a positive signal for engagement, but monetization remains a challenge. The comparison underscores the competitive and evolving landscape of information retrieval.",
         "relations": [
           {
-            "label": "xAI",
+            "label": "Pinterest",
             "type": "entity",
-            "desc": "AI research company founded by Elon Musk"
+            "desc": "Visual discovery platform emphasizing search volume"
           },
           {
-            "label": "Elon Musk",
+            "label": "ChatGPT",
             "type": "entity",
-            "desc": "Entrepreneur, founder of xAI, Tesla, SpaceX"
+            "desc": "OpenAI's LLM used as a search volume benchmark"
           },
           {
-            "label": "Artificial General Intelligence",
+            "label": "Visual Search",
             "type": "tech",
-            "desc": "Long-term goal of highly autonomous AI"
+            "desc": "Pinterest's core competitive domain"
           },
           {
-            "label": "X Platform",
-            "type": "entity",
-            "desc": "Social media and communications platform"
-          },
-          {
-            "label": "Space Exploration",
-            "type": "tech",
-            "desc": "Potential application domain for advanced AI"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Publicly stating interplanetary ambitions is a high-stakes branding strategy to position xAI as a frontier leader, beyond terrestrial commercial applications.",
-            "This move may pressure other AI labs to be more transparent or ambitious in their public roadmaps, intensifying the narrative competition in the AI sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Tesla (TSLA) / Private market exposure to xAI ecosystem",
-          "risk": "HIGH",
-          "thesis": "xAI's success and ambitious vision could create significant synergistic value for Musk's other ventures, particularly Tesla (robotics, autonomy) and SpaceX."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1627458819380?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Modal Labs in $2.5B Valuation Talks",
-        "fullTitle": "AI Inference Startup Modal Labs in Talks to Raise at $2.5B Valuation",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Modal Labs, a four-year-old AI inference infrastructure startup, is in advanced discussions to raise a new funding round. The round is reportedly being led by venture capital firm General Catalyst. The proposed valuation for this round is approximately $2.5 billion. This indicates continued strong investor appetite for companies building the foundational infrastructure for deploying AI models at scale.",
-        "relations": [
-          {
-            "label": "Modal Labs",
-            "type": "entity",
-            "desc": "AI inference and deployment infrastructure startup"
-          },
-          {
-            "label": "General Catalyst",
-            "type": "entity",
-            "desc": "Venture capital firm leading the investment round"
-          },
-          {
-            "label": "AI Inference",
-            "type": "tech",
-            "desc": "The process of running live data through a trained AI model"
-          },
-          {
-            "label": "Venture Capital",
+            "label": "User Engagement",
             "type": "resource",
-            "desc": "Source of private funding for high-growth startups"
-          },
-          {
-            "label": "Infrastructure Software",
-            "type": "tech",
-            "desc": "Core software layer enabling application development"
+            "desc": "Key metric highlighted despite financial miss"
           }
         ],
         "analysis": {
           "strategic": [
-            "The high valuation underscores a strategic pivot in AI investment from model development (training) to model deployment and scaling (inference) as a critical bottleneck.",
-            "Success for Modal Labs could challenge incumbent cloud providers (AWS, GCP, Azure) by offering a more specialized and efficient inference layer."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "General Catalyst portfolio / Public cloud competitors (e.g., SNOW, DDOG)",
-          "risk": "HIGH",
-          "thesis": "Growth in specialized AI inference platforms validates the market and may benefit adjacent public companies in cloud infrastructure and MLOps."
-        },
-        "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1592026490273?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "OpenAI Disbands Alignment Team",
-        "fullTitle": "OpenAI Disbands Its Mission Alignment Team",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "OpenAI has disbanded its dedicated Superalignment team, which was focused on long-term AI safety and ensuring advanced AI systems remain aligned with human values. The team's co-leader, Ilya Sutskever, has been reassigned to a new role as Chief Futurist. Other team members have been redistributed to other research groups within the company. This organizational change suggests a strategic de-prioritization or integration of long-term safety research within OpenAI's operational structure.",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "Leading artificial intelligence research and deployment company"
-          },
-          {
-            "label": "Superalignment",
-            "type": "tech",
-            "desc": "Field of research focused on controlling and aligning superintelligent AI"
-          },
-          {
-            "label": "Ilya Sutskever",
-            "type": "entity",
-            "desc": "Co-founder and former Chief Scientist, now Chief Futurist"
-          },
-          {
-            "label": "AI Safety",
-            "type": "risk",
-            "desc": "Existential and catastrophic risk category associated with advanced AI"
-          },
-          {
-            "label": "Corporate Governance",
-            "type": "risk",
-            "desc": "Risk related to internal decision-making and priority setting"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This move may indicate OpenAI's leadership is prioritizing near-term product development and commercialization over long-term, speculative safety research, representing a significant philosophical shift.",
-            "The dissolution of a flagship safety team could trigger regulatory scrutiny and increase pressure from policymakers concerned about the responsible development of frontier AI."
+            "Attempts to reframe the competitive narrative away from financial metrics and towards engagement scale in a key AI-adjacent domain (search).",
+            "Highlights the fragmentation of the 'search' market, with specialized platforms like Pinterest carving out significant, high-intent query share."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Microsoft (MSFT) / OpenAI ecosystem exposure",
+          "asset": "Pinterest Inc. (PINS)",
           "risk": "HIGH",
-          "thesis": "Perceived deprioritization of safety increases regulatory and reputational tail risks for OpenAI and its major backer, Microsoft, potentially impacting valuation."
+          "thesis": "The search volume claim is a distraction from core monetization and earnings weaknesses. Sustained stock price recovery requires proof of converting engagement into revenue."
         },
-        "confidence": 92,
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1512582548974?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "IBM Triples Entry-Level Hiring for AI Era",
+        "fullTitle": "IBM Plans to Triple US Entry-Level Hiring for AI-Era Jobs",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "IBM announced plans to triple its entry-level hiring in the US by 2026, but notes these roles will involve different tasks than in the past. The initiative is a direct response to the age of AI, aiming to build a workforce skilled in managing, implementing, and working alongside AI systems rather than performing automated tasks. This reflects a strategic corporate pivot to reskill at scale and capture the AI services opportunity. It also addresses political pressure for domestic tech job creation.",
+        "relations": [
+          {
+            "label": "IBM",
+            "type": "entity",
+            "desc": "Tech giant restructuring its workforce strategy"
+          },
+          {
+            "label": "AI Workforce",
+            "type": "resource",
+            "desc": "New talent pool focused on AI-augmented roles"
+          },
+          {
+            "label": "Reskilling",
+            "type": "tech",
+            "desc": "Strategic imperative to adapt human labor for AI co-piloting"
+          },
+          {
+            "label": "US Labor Market",
+            "type": "resource",
+            "desc": "Political and operational focus of the hiring push"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Preemptively addresses the AI displacement narrative by promoting a vision of 'augmentation' and creating new entry pathways into the tech sector.",
+            "Seeks to build a competitive moat in AI services and consulting by cultivating a large, early-career pipeline trained on proprietary IBM methods and tools."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "IBM (IBM)",
+          "risk": "MEDIUM",
+          "thesis": "Aggressive investment in next-generation, AI-native talent is a necessary long-term play to compete in the enterprise AI integration and consulting market, potentially improving future growth margins."
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1620353989309?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1537931786104?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Bonos Japoneses Extienden Rally",
-        "fullTitle": "Bonos super-largos de Japón extienden rally tras elección",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los bonos super-largos de Japón continúan su rally posterior a las elecciones. La victoria histórica de la Primera Ministra Sanae Takaichi ha calmado las preocupaciones de los inversores sobre la política fiscal. Esto refleja una mayor confianza en la estabilidad fiscal del gobierno. El rendimiento de los bonos a 30 años cayó a su nivel más bajo en tres meses.",
+        "title": "EEUU limita créditos chinos",
+        "fullTitle": "EEUU detalla nuevas limitaciones a China para créditos fiscales de energía limpia",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "La administración Trump emitió nueva guía sobre el uso de materiales y componentes extranjeros en proyectos de energía limpia en EEUU. Esta medida restringirá aún más el acceso a lucrativos créditos fiscales. Afecta directamente a la cadena de suministro china en el sector de energías renovables. Refleja una política industrial proteccionista en un sector estratégico.",
         "relations": [
           {
-            "label": "Japón",
+            "label": "Administración Trump",
             "type": "entity",
-            "desc": "Emisor de deuda soberana"
+            "desc": "Gobierno estadounidense emisor de la normativa"
           },
           {
-            "label": "Sanae Takaichi",
-            "type": "entity",
-            "desc": "Primera Ministra de Japón"
-          },
-          {
-            "label": "Bonos Super-Largos",
+            "label": "Créditos Fiscales Energía Limpia",
             "type": "resource",
-            "desc": "Deuda soberana a muy largo plazo"
+            "desc": "Incentivos financieros clave para el sector"
           },
           {
-            "label": "Política Fiscal",
-            "type": "risk",
-            "desc": "Riesgo de expansión del déficit"
-          },
-          {
-            "label": "Inversores Institucionales",
+            "label": "Cadena de Suministro China",
             "type": "entity",
-            "desc": "Compradores de deuda a largo plazo"
+            "desc": "Proveedores afectados por las restricciones"
+          },
+          {
+            "label": "Política Industrial",
+            "type": "risk",
+            "desc": "Riesgo de medidas proteccionistas globales"
+          },
+          {
+            "label": "Energías Renovables",
+            "type": "tech",
+            "desc": "Sector tecnológico estratégico afectado"
           }
         ],
         "analysis": {
           "strategic": [
-            "La estabilidad política reduce la prima de riesgo soberano japonés, atrayendo flujos hacia activos de renta fija.",
-            "El gobierno podría aprovechar los bajos rendimientos para financiar estímulos económicos con menor costo."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Bonos del Gobierno Japonés (JGBs) a 20-30 años",
-          "risk": "MEDIUM",
-          "thesis": "Entorno de política monetaria acomodaticia del BOJ y estabilidad fiscal post-elecciones apoyan precios de bonos largos."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1638917997723?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Oro Cae Tras Datos Laborales EEUU",
-        "fullTitle": "Oro retrocede tras fuerte informe de empleo en EEUU",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El precio del oro cayó tras la publicación de datos sólidos de empleo en Estados Unidos. El informe redujo las expectativas de que la Reserva Federal recortará las tasas de interés rápidamente. Un mercado laboral robusto sugiere que la inflación podría persistir, retrasando la política monetaria expansiva. Los rendimientos de los bonos del Tesoro subieron, presionando al activo sin rendimiento.",
-        "relations": [
-          {
-            "label": "Oro (XAU)",
-            "type": "resource",
-            "desc": "Activo refugio tradicional"
-          },
-          {
-            "label": "Reserva Federal",
-            "type": "entity",
-            "desc": "Banco central de Estados Unidos"
-          },
-          {
-            "label": "Mercado Laboral EEUU",
-            "type": "risk",
-            "desc": "Indicador clave de inflación"
-          },
-          {
-            "label": "Tasas de Interés",
-            "type": "risk",
-            "desc": "Costo del dinero, inverso al oro"
-          },
-          {
-            "label": "Dólar Estadounidense (USD)",
-            "type": "resource",
-            "desc": "Divisa de reserva global"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La Fed mantendrá tasas altas por más tiempo, erosionando el atractivo del oro frente a activos con rendimiento.",
-            "La fortaleza económica estadounidense atrae capitales globales, fortaleciendo el USD y presionando commodities en dólares."
+            "Aceleración de la desvinculación tecnológica y de suministro en sectores verdes estratégicos.",
+            "Posible réplica china con medidas similares, escalando tensiones comerciales bilaterales."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Futuros de Oro (GC) / ETF GLD",
-          "risk": "HIGH",
-          "thesis": "Expectativas de recortes de tasas pospuestas y dólar fuerte crean viento en contra para el metal precioso."
+          "asset": "ETFs de fabricantes chinos de componentes solares/eólicos (ej. TAN, FAN con exposición China)",
+          "risk": "MEDIUM",
+          "thesis": "Restricciones de acceso al mercado estadounidense impactarán ingresos y márgenes de proveedores chinos en el corto plazo."
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1635877009813?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1599495107839?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Acciones Asia Superan a EEUU",
-        "fullTitle": "Acciones asiáticas tienen mejor inicio frente a EEUU en siglo",
+        "title": "CK Hutchison vs Maersk en Panamá",
+        "fullTitle": "CK Hutchison amenaza con acción legal a Maersk por puertos de Panamá",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones asiáticas avanzan por quinto día consecutivo, ampliando su ventaja sobre los pares estadounidenses este año. Valuaciones relativamente más baratas y perspectivas de crecimiento más firmes están atrayendo compradores. Los bonos del Tesoro estadounidense cayeron tras los fuertes datos de empleo. El sentimiento de riesgo mejora en la región Asia-Pacífico.",
+        "summary": "CK Hutchison Holdings Ltd. advirtió a A.P. Moller-Maersk A/S con acciones legales si su unidad de terminales intenta tomar el control de operaciones en dos puertos cerca del Canal de Panamá. El conflicto involucra infraestructura logística crítica a nivel global. Refleja la competencia intensa por activos portuarios estratégicos. Podría afectar las operaciones y costos en una ruta marítima vital.",
         "relations": [
           {
-            "label": "MSCI Asia ex-Japón",
+            "label": "CK Hutchison Holdings",
             "type": "entity",
-            "desc": "Índice bursátil de la región"
+            "desc": "Conglomerado de Hong Kong, operador portuario"
           },
           {
-            "label": "S&P 500",
+            "label": "A.P. Moller-Maersk",
             "type": "entity",
-            "desc": "Índice bursátil de referencia EEUU"
+            "desc": "Gigante danés de transporte y logística"
           },
           {
-            "label": "Valuaciones",
-            "type": "risk",
-            "desc": "Métrica de precio/ganancias (P/E)"
+            "label": "Canal de Panamá",
+            "type": "resource",
+            "desc": "Infraestructura geoestratégica clave para el comercio"
           },
           {
-            "label": "Crecimiento Económico",
+            "label": "Puertos Estratégicos",
+            "type": "resource",
+            "desc": "Activos logísticos de alto valor"
+          },
+          {
+            "label": "Riesgo Legal Contractual",
             "type": "risk",
-            "desc": "Expectativas de PIB regional"
+            "desc": "Disputas que pueden paralizar operaciones"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las disputas por infraestructura crítica aumentan el riesgo operativo y de costos en cadenas de suministro globales.",
+            "Consolidación y competencia en logística portuaria crean fricciones entre grandes actores, potencialmente ralentizando inversiones."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Acciones de A.P. Moller-Maersk (MAERSK-B.CO)",
+          "risk": "HIGH",
+          "thesis": "Litigios prolongados y costosos sobre activos estratégicos pueden generar incertidumbre, afectar la expansión y presionar el precio de la acción."
+        },
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1621176529688?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "China reduce bonos del Tesoro EEUU",
+        "fullTitle": "Por qué China se aleja aún más de los bonos del Tesoro de EEUU",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "China continúa reduciendo sus tenencias del mercado de bonos del Tesoro de EEUU, valorado en 30 billones de dólares. Este movimiento cuestiona el apetito futuro de los grandes tenedores extranjeros por la deuda estadounidense. Podría presionar al alza los rendimientos y los costos de financiación de EEUU a largo plazo. Es un indicador de diversificación estratégica de reservas y desvinculación financiera.",
+        "relations": [
+          {
+            "label": "Banco Central de China",
+            "type": "entity",
+            "desc": "Principal tenedor institucional en reducción"
           },
           {
             "label": "Bonos del Tesoro EEUU",
             "type": "resource",
-            "desc": "Activo de referencia global"
+            "desc": "Activo de deuda soberana global clave"
+          },
+          {
+            "label": "Financiación de la Deuda EEUU",
+            "type": "risk",
+            "desc": "Riesgo de aumento de costos para EEUU"
+          },
+          {
+            "label": "Diversificación de Reservas",
+            "type": "strategy",
+            "desc": "Estrategia geopolítica y financiera"
+          },
+          {
+            "label": "Rendimientos (Yields)",
+            "type": "risk",
+            "desc": "Posible volatilidad en tasas de interés"
           }
         ],
         "analysis": {
           "strategic": [
-            "Rotación de capital desde mercados caros (EEUU) hacia mercados con mejor valoración relativa (Asia).",
-            "La divergencia en ciclos monetarios (Asia más flexible vs Fed restrictiva) favorece a los mercados emergentes."
+            "La reducción sistemática de bonos del Tesoro por parte de China es un instrumento de política geoeconómica y reduce la influencia financiera de EEUU.",
+            "Un retroceso sostenido de grandes tenedores extranjeros podría desestabilizar el mercado de deuda global y forzar una reevaluación del dólar como activo refugio."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF EWM (Malasia) o EWS (Singapur)",
+          "asset": "Oro (GLD) / Bonos soberanos de otras economías (ej. Bunds alemanes)",
           "risk": "MEDIUM",
-          "thesis": "Recuperación cíclica en Asia con políticas de estímulo y flujos de capital entrantes por diferencial de crecimiento."
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1696135644633?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "xAI Revela Ambiciones Interplanetarias",
-        "fullTitle": "xAI presenta ambiciones interplanetarias en reunión pública",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "xAI, la empresa de IA de Elon Musk, publicó su presentación interna completa de 45 minutos en la plataforma X. La presentación detalla ambiciones a largo plazo que incluyen aplicaciones interplanetarias. Este movimiento inusual de transparencia busca atraer talento e inversión. Se enfatiza el desarrollo de IA para resolver problemas fundamentales de la ciencia y la exploración.",
-        "relations": [
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "Empresa de IA de Elon Musk"
-          },
-          {
-            "label": "Elon Musk",
-            "type": "entity",
-            "desc": "Fundador de xAI, SpaceX, Tesla"
-          },
-          {
-            "label": "IA Interplanetaria",
-            "type": "tech",
-            "desc": "Aplicación de IA en colonización espacial"
-          },
-          {
-            "label": "Plataforma X",
-            "type": "tech",
-            "desc": "Red social propiedad de Musk"
-          },
-          {
-            "label": "Grok",
-            "type": "tech",
-            "desc": "Modelo de lenguaje de xAI"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "xAI se posiciona como un actor clave en la infraestructura tecnológica para la futura economía espacial.",
-            "La estrategia de Musk integra verticalmente IA (xAI), datos (X), hardware (Tesla bots) y acceso espacial (SpaceX)."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Empresas del ecosistema Musk (ej. proveedores de Tesla/SpaceX)",
-          "risk": "HIGH",
-          "thesis": "La visión a largo plazo de Musk crea sinergias entre sus empresas, generando un 'efecto red' tecnológico único."
+          "thesis": "La diversificación de reservas globales fuera del dólar y la posible presión en los bonos del Tesoro favorecen activos refugio alternativos y deuda de aliados estratégicos."
         },
         "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1516723164685?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1598904936086?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Modal Labs Busca Ronda a $2.5B",
-        "fullTitle": "Modal Labs en conversaciones para ronda a valoración de $2.5B",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Modal Labs, una startup de inferencia de IA, está en conversaciones para recaudar capital a una valoración de $2,500 millones. General Catalyst lideraría la ronda de la startup de cuatro años. La compañía se especializa en infraestructura para ejecutar modelos de IA a gran escala. El sector de inferencia de IA atrae fuertes inversiones debido al crecimiento explosivo de su uso.",
+        "title": "Bryan Johnson vende longevidad por $1M",
+        "fullTitle": "Por $1M, Bryan Johnson enseña su programa de longevidad 'Inmortales'",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "El inversor obsesionado con la longevidad, Bryan Johnson, cobra 1 millón de dólares por inscribirse en su programa 'Immortals'. El programa promete enseñar sus métodos para extender la vida. Ilustra la comercialización de alto nivel de la biotecnología y ciencia de la longevidad. Refleja un nicho de mercado de lujo para soluciones antienvejecimiento.",
         "relations": [
           {
-            "label": "Modal Labs",
+            "label": "Bryan Johnson",
             "type": "entity",
-            "desc": "Startup de infraestructura de IA"
+            "desc": "Inversor y figura pública de la longevidad"
           },
           {
-            "label": "General Catalyst",
+            "label": "Mercado de Longevidad",
+            "type": "tech",
+            "desc": "Sector de biotecnología y bienestar antienvejecimiento"
+          },
+          {
+            "label": "Programa 'Immortals'",
+            "type": "product",
+            "desc": "Producto de alto costo en nicho de lujo"
+          },
+          {
+            "label": "Biotecnología",
+            "type": "tech",
+            "desc": "Sector tecnológico subyacente"
+          },
+          {
+            "label": "Capital Riesgo en HealthTech",
             "type": "entity",
-            "desc": "Firma de capital de riesgo"
-          },
-          {
-            "label": "Inferencia de IA",
-            "type": "tech",
-            "desc": "Proceso de ejecución de modelos de IA"
-          },
-          {
-            "label": "Infraestructura en la Nube",
-            "type": "tech",
-            "desc": "Plataformas para computación de IA"
-          },
-          {
-            "label": "Valoración $2.5B",
-            "type": "risk",
-            "desc": "Métrica de mercado para startups en crecimiento"
+            "desc": "Inversores en el sector"
           }
         ],
         "analysis": {
           "strategic": [
-            "La carrera por infraestructura de inferencia eficiente es crítica, ya que los costos operativos de IA son altos.",
-            "Los inversores apuestan a que Modal Labs puede capturar valor en la pila tecnológica entre los modelos y las aplicaciones finales."
+            "La comercialización de programas de longevidad de ultra alto costo valida y atrae capital hacia el sector broader de HealthTech y biotecnología antienvejecimiento.",
+            "Crea un efecto 'halo' que puede aumentar la valoración de startups en el espacio, aunque también riesgos de burbuja por expectativas exageradas."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas de infraestructura en la nube (ej. SNOW, DDOG)",
-          "risk": "MEDIUM",
-          "thesis": "La demanda explosiva de inferencia de IA impulsa el crecimiento de proveedores de plataformas y herramientas de desarrollo."
+          "asset": "ETF de Biotecnología (IBB) / Empresas de investigación en longevidad (ej. Unity Biotechnology, Altos Labs privada vía fondos)",
+          "risk": "HIGH",
+          "thesis": "La atención mediática y la demanda de alto perfil por soluciones de longevidad impulsan el interés de inversión y la posible valoración en el sector de biotecnología relacionada."
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1524693390861?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1556653313674?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "OpenAI Disuelve Equipo de Alineación",
-        "fullTitle": "OpenAI disuelve su equipo de alineación de misión",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "OpenAI ha disuelto su equipo dedicado a la alineación de la misión y la seguridad a largo plazo de la IA. El líder del equipo asume un nuevo rol como 'jefe futurista'. Los demás miembros fueron reasignados a otras áreas de la compañía. Este movimiento refleja un cambio interno en la priorización de la investigación de seguridad frente al desarrollo comercial y de productos.",
+        "title": "Pinterest: más búsquedas que ChatGPT",
+        "fullTitle": "Pinterest afirma tener más búsquedas que ChatGPT pese a ganancias bajas",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Las acciones de Pinterest cayeron tras reportar ganancias por debajo de lo esperado. Su único punto positivo fue un uso mayor al esperado, afirmando manejar más búsquedas que ChatGPT. Esto destaca la intensa competencia en el espacio de búsqueda y descubrimiento online. Plantea dudas sobre la monetización de un alto volumen de interacciones.",
         "relations": [
           {
-            "label": "OpenAI",
+            "label": "Pinterest Inc.",
             "type": "entity",
-            "desc": "Empresa líder en investigación de IA"
+            "desc": "Plataforma de descubrimiento visual"
           },
           {
-            "label": "Alineación de IA",
+            "label": "ChatGPT / OpenAI",
+            "type": "entity",
+            "desc": "Competidor en espacio de búsqueda/conversación"
+          },
+          {
+            "label": "Búsqueda Online",
             "type": "tech",
-            "desc": "Campo de estudio para controlar IA avanzada"
+            "desc": "Mercado competitivo clave para la publicidad"
           },
           {
-            "label": "Seguridad de IA",
+            "label": "Monetización de Usuarios",
             "type": "risk",
-            "desc": "Riesgo existencial de IA no alineada"
+            "desc": "Riesgo de no convertir tráfico en ingresos"
           },
           {
-            "label": "Estructura Corporativa",
-            "type": "risk",
-            "desc": "Gobernanza y toma de decisiones"
-          },
-          {
-            "label": "Ilya Sutskever",
-            "type": "entity",
-            "desc": "Científico jefe, ex-líder del equipo"
+            "label": "Publicidad Digital",
+            "type": "resource",
+            "desc": "Fuente principal de ingresos en disputa"
           }
         ],
         "analysis": {
           "strategic": [
-            "OpenAI prioriza la velocidad de desarrollo y ventaja comercial sobre las salvaguardas a largo plazo, aumentando riesgos regulatorios.",
-            "La reestructuración consolida el poder del CEO Sam Altman y alinea la organización más estrechamente con objetivos de negocio."
+            "Las plataformas de descubrimiento como Pinterest se posicionan como alternativas a los motores de búsqueda tradicionales y generativos, fragmentando el mercado.",
+            "La métrica de 'volumen de búsquedas' se convierte en un campo de batalla narrativo para atraer inversores, aunque la monetización efectiva sigue siendo el desafío clave."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Empresas dependientes de APIs de OpenAI",
-          "risk": "MEDIUM",
-          "thesis": "Mayor riesgo reputacional y regulatorio para OpenAI podría afectar la estabilidad de su ecosistema de socios."
+          "asset": "Acciones de Pinterest (PINS)",
+          "risk": "HIGH",
+          "thesis": "El fracaso en convertir un alto volumen de uso en ganancias sólidas indica debilidades en el modelo de negocio o monetización, presionando la valoración a pesar del crecimiento del tráfico."
         },
-        "confidence": 88,
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1576800467882?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "IBM triplica contratación junior con IA",
+        "fullTitle": "IBM triplicará contratación de talento junior en EEUU en 2026 con IA",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "IBM planea triplicar su contratación de nivel inicial en EEUU para 2026. Sin embargo, estos trabajos tendrán tareas diferentes a años anteriores, adaptadas a la era de la IA. Señala una estrategia para rejuvenecer su fuerza laboral y capacitarla en nuevas tecnologías. Refleja cómo la IA redefine los roles de entrada en la industria tecnológica.",
+        "relations": [
+          {
+            "label": "IBM",
+            "type": "entity",
+            "desc": "Gigante tecnológico implementando la estrategia"
+          },
+          {
+            "label": "Inteligencia Artificial (IA)",
+            "type": "tech",
+            "desc": "Tecnología que redefine los puestos de trabajo"
+          },
+          {
+            "label": "Fuerza Laboral Tecnológica",
+            "type": "resource",
+            "desc": "Talento y habilidades en transformación"
+          },
+          {
+            "label": "Capacitación (Upskilling)",
+            "type": "strategy",
+            "desc": "Estrategia corporativa para adaptarse a la IA"
+          },
+          {
+            "label": "Mercado Laboral Tech EEUU",
+            "type": "entity",
+            "desc": "Contexto del empleo en el sector"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las grandes tecnológicas reinventan los roles de entrada para integrar la IA desde el inicio, creando una nueva generación de fuerza laboral especializada y dependiente de sus ecosistemas.",
+            "Esta estrategia puede dar a IBM una ventaja en costos laborales y adaptabilidad a largo plazo, presionando a competidores a seguir su ejemplo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de IBM (IBM)",
+          "risk": "MEDIUM",
+          "thesis": "La inversión estratégica en rejuvenecimiento y capacitación de la fuerza laboral para la IA puede mejorar la innovación, productividad y competitividad a largo plazo de IBM."
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1547059283668?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1508435713398?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
