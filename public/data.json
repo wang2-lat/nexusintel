@@ -1,818 +1,833 @@
 {
-  "generated_at": "2026-02-14T02:14:24.680696",
+  "generated_at": "2026-02-15T02:31:33.329749",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "墨西哥石油公司重返市场发债",
-        "fullTitle": "墨西哥国家石油公司发行18亿美元债券重返本地市场",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "墨西哥国家石油公司结束了长达六年的缺席，在本地市场发行了315亿比索（约合18亿美元）的债券。此举标志着该公司重返国内债务市场，可能旨在优化其资本结构或为特定项目融资。该事件反映了墨西哥主权信用背景下的国有企业融资活动，对拉美能源及债券市场有指示意义。",
-        "relations": [
-          {
-            "label": "墨西哥国家石油公司",
-            "type": "entity",
-            "desc": "墨西哥国有石油巨头，简称Pemex"
-          },
-          {
-            "label": "墨西哥债券市场",
-            "type": "resource",
-            "desc": "墨西哥国内债务融资平台"
-          },
-          {
-            "label": "主权信用",
-            "type": "risk",
-            "desc": "与墨西哥国家信用相关的风险"
-          },
-          {
-            "label": "能源企业融资",
-            "type": "entity",
-            "desc": "石油天然气公司的资本筹集活动"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Pemex重返市场可能预示着墨西哥政府或公司自身财务压力有所缓解，或寻求利用当前市场条件进行再融资。",
-            "此举可能吸引关注新兴市场及能源板块的固定收益投资者，但需警惕公司高负债及运营风险对债券价格的潜在影响。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Pemex债券（MX）",
-          "risk": "HIGH",
-          "thesis": "作为重返市场的标志性发行，可能获得一定市场关注和初期需求，但需严格评估其信用基本面、油价波动及墨西哥宏观环境。"
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1549704974947?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "UBS分析师谈AI对信贷市场风险",
-        "fullTitle": "UBS分析师称市场开始计价AI颠覆对信贷风险",
+        "title": "印度央行收紧券商贷款",
+        "fullTitle": "印度央行收紧券商贷款以抑制投机交易",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "瑞银公共及私人信贷策略主管Matthew Mish表示，市场正开始对AI颠覆带来的风险进行定价，尤其是在科技行业和杠杆贷款领域。他指出，AI的演进正在影响信贷市场的风险评估框架。此观点揭示了金融市场对技术变革风险认知的深化。",
+        "summary": "印度央行收紧了对从事自营交易并为客户提供杠杆的公司的贷款规则。此举旨在减少南亚国家的投机性市场活动。预计将打击交易量，并可能影响市场流动性。这是印度监管机构为稳定金融市场采取的最新措施。",
         "relations": [
           {
-            "label": "Matthew Mish (UBS)",
+            "label": "印度央行",
             "type": "entity",
-            "desc": "瑞银公共及私人信贷策略主管"
+            "desc": "印度中央银行，负责货币政策与金融监管"
           },
           {
-            "label": "AI颠覆风险",
+            "label": "券商/经纪商",
+            "type": "entity",
+            "desc": "从事自营交易和提供杠杆服务的金融机构"
+          },
+          {
+            "label": "投机交易",
             "type": "risk",
-            "desc": "人工智能技术对现有行业和商业模式造成的结构性冲击风险"
+            "desc": "监管机构试图抑制的市场行为"
           },
           {
-            "label": "杠杆贷款",
+            "label": "市场流动性",
             "type": "resource",
-            "desc": "高负债公司发行的贷款，对经济周期敏感"
-          },
-          {
-            "label": "科技行业信贷",
-            "type": "entity",
-            "desc": "科技公司的债务融资，受技术迭代影响大"
+            "desc": "可能因贷款收紧而受到负面影响"
           }
         ],
         "analysis": {
           "strategic": [
-            "金融机构开始系统性地将AI颠覆风险纳入信贷定价模型，这可能导致科技及高杠杆板块的融资成本上升和信用利差扩大。",
-            "这标志着风险认知从概念阶段进入实质定价阶段，可能引发相关信贷产品的重新评级和资本配置调整。"
+            "印度监管机构正采取主动措施为过热市场降温，显示其金融稳定优先于短期市场活跃度。",
+            "此举可能促使部分投机资本流出印度市场，或转向监管更宽松的领域，需关注资金流向变化。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "科技行业高收益债/杠杆贷款ETF",
+          "asset": "印度高杠杆券商股、印度主要股指期货",
           "risk": "MEDIUM",
-          "thesis": "随着市场对AI颠覆风险的重新定价，受冲击最直接的科技板块及高杠杆企业的信用利差可能面临走阔压力。"
+          "thesis": "监管收紧将直接打击券商盈利模式并抑制整体市场交易活跃度，可能导致相关股票和指数短期承压。"
         },
         "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1682307539224?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1676083542753?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Farmgirl Flowers CEO谈节日消费",
-        "fullTitle": "Farmgirl Flowers CEO称情人节是母亲节前“热身”",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Farmgirl Flowers创始人兼CEO Christina Stembel表示，情人节的需求实际上是母亲节旺季前的“热身”。她讨论了客户在其产品线上的消费模式，以及在持续关税环境下的劳动力和材料成本。这提供了消费趋势和中小企业运营压力的微观视角。",
+        "title": "中国股市盈利前景黯淡",
+        "fullTitle": "盈利前景黯淡，中国股市反弹遇阻",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "中国股市的盈利前景正在恶化，给股市前景蒙上阴影。投资者担心春节假期消费可能不足以重新点燃市场反弹。企业盈利不及预期成为市场主要担忧。这可能导致市场情绪转向谨慎，抑制上涨动能。",
         "relations": [
           {
-            "label": "Farmgirl Flowers",
+            "label": "中国股市",
             "type": "entity",
-            "desc": "美国鲜花直销品牌"
+            "desc": "主要指A股市场，近期经历波动"
           },
           {
-            "label": "节日消费",
+            "label": "企业盈利",
             "type": "resource",
-            "desc": "特定节日驱动的消费支出模式"
+            "desc": "影响股市基本面的核心因素，目前前景黯淡"
           },
           {
-            "label": "关税环境",
+            "label": "春节消费",
+            "type": "resource",
+            "desc": "短期经济刺激因素，但效果可能有限"
+          },
+          {
+            "label": "市场情绪",
             "type": "risk",
-            "desc": "国际贸易关税政策带来的成本压力"
-          },
-          {
-            "label": "中小企业运营",
-            "type": "entity",
-            "desc": "中小型企业在成本、需求方面的挑战"
+            "desc": "因盈利担忧可能转向悲观"
           }
         ],
         "analysis": {
           "strategic": [
-            "该言论揭示了特定零售行业（如鲜花）的季节性需求峰值规律，对供应链管理和现金流预测有重要影响。",
-            "中小企业主对关税和成本压力的关注，反映了宏观贸易政策对微观企业盈利能力的持续影响。"
+            "市场驱动因素正从政策预期转向基本面验证，盈利成色将成为未来市场走势的关键。",
+            "若消费复苏不及预期，可能引发对经济内生动能的更深层次担忧，影响外资对中国资产的长期配置逻辑。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "A股主要指数ETF、盈利预期过高的消费及周期股",
+          "risk": "MEDIUM",
+          "thesis": "盈利基本面恶化将压制估值，尤其对前期涨幅较大、盈利预期尚未下调的板块构成下行风险。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1631375263543?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "大麻业面临银行准入困境",
+        "fullTitle": "大麻业务繁荣，但银行服务获取困难",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "尽管大麻产业在美国部分州合法化并蓬勃发展，但相关企业仍难以获得主流银行服务。现金交易仍是主流，信用卡被禁用，贷款条件苛刻。这造成了巨大的运营和安全风险。金融监管与州法律的冲突是根本原因。",
+        "relations": [
+          {
+            "label": "大麻公司",
+            "type": "entity",
+            "desc": "在合法州从事大麻种植、加工或销售的企业"
+          },
+          {
+            "label": "银行服务",
+            "type": "resource",
+            "desc": "包括存款、支付、贷款等，对大麻企业限制严格"
+          },
+          {
+            "label": "现金交易",
+            "type": "risk",
+            "desc": "因缺乏银行服务导致的安全与效率风险"
+          },
+          {
+            "label": "监管冲突",
+            "type": "risk",
+            "desc": "联邦与州法律在大麻问题上的不一致"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "金融基础设施的缺失是制约合法大麻产业规模化、规范化的最大瓶颈，也是潜在的政策改革突破口。",
+            "该困境催生了针对该行业的专业金融服务（如有限银行、加密货币支付）的利基市场，但风险较高。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "消费周期性ETF (如XLY) / 物流仓储REITs",
-          "risk": "LOW",
-          "thesis": "稳定的节日消费需求支撑特定零售和物流板块，但需精选受关税影响小、供应链管理出色的公司。"
+          "asset": "专注于大麻行业支付/金融科技解决方案的公司",
+          "risk": "HIGH",
+          "thesis": "行业痛点明确，任何在合规框架下解决支付和融资难题的创新型公司都可能获得巨大市场份额，但政策风险极高。"
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1627476938896?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1652951537489?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Airbnb三成客服由AI处理",
-        "fullTitle": "Airbnb称其在美加地区三成客服由AI处理",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Airbnb宣布其在美国和加拿大地区约三分之一的客户支持已由人工智能处理。CEO Brian Chesky进一步描述其愿景是开发一款能“了解用户”的应用，帮助客人规划整个旅程，帮助房东运营业务，并提升公司运营效率。这显示了AI在提升平台运营规模和用户体验方面的深入应用。",
+        "title": "美土安全部施压科技公司查账号",
+        "fullTitle": "美土安全部发传票追查批评ICE的网络账号",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "美国国土安全部据报已向科技公司发出数百份传票，要求识别批评美国移民和海关执法局（ICE）的网络账户所有者。此举表明DHS正在加大对科技公司的压力，以揭露匿名批评者。这涉及言论自由、隐私权与国家安全之间的冲突。可能引发法律和社会的强烈反弹。",
         "relations": [
           {
-            "label": "Airbnb",
+            "label": "美国国土安全部",
             "type": "entity",
-            "desc": "全球民宿短租在线平台"
+            "desc": "美国联邦部门，负责国内安全及反恐"
           },
           {
-            "label": "AI客服",
-            "type": "tech",
-            "desc": "利用人工智能技术处理客户服务请求"
+            "label": "ICE",
+            "type": "entity",
+            "desc": "美国移民和海关执法局，DHS下属机构"
           },
           {
-            "label": "运营效率",
-            "type": "resource",
-            "desc": "通过技术手段提升企业运营的规模效应和成本效益"
+            "label": "科技公司",
+            "type": "entity",
+            "desc": "被要求提供用户信息的社交媒体或网络平台"
           },
           {
-            "label": "个性化推荐",
-            "type": "tech",
-            "desc": "基于用户数据的智能行程规划服务"
+            "label": "言论自由/隐私",
+            "type": "risk",
+            "desc": "政府行为可能侵犯的核心权利，引发争议"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI在核心运营环节（如客服）的渗透率提升，直接作用于平台经济的利润率改善和可扩展性。",
-            "从搜索工具向“知情”旅行伙伴的转型，旨在提升用户粘性和平台价值，可能重塑在线旅游行业的竞争维度。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Airbnb (ABNB)",
-          "risk": "MEDIUM",
-          "thesis": "AI驱动的效率提升和体验深化有望巩固其市场地位并改善盈利能力，但需关注其在监管和竞争方面的挑战。"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1501341753821?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "金融科技巨头Figure确认数据泄露",
-        "fullTitle": "金融科技贷款巨头Figure确认发生数据泄露事件",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "金融科技贷款巨头Figure确认发生数据泄露，黑客在入侵一名员工账户后下载了“有限数量的文件”。黑客组织ShinyHunters声称对此次攻击负责。该事件凸显了金融科技公司面临日益严峻的网络安全威胁。",
-        "relations": [
-          {
-            "label": "Figure",
-            "type": "entity",
-            "desc": "美国金融科技贷款公司"
-          },
-          {
-            "label": "数据泄露",
-            "type": "risk",
-            "desc": "敏感数据被未授权访问或窃取的安全事件"
-          },
-          {
-            "label": "ShinyHunters",
-            "type": "entity",
-            "desc": "活跃的黑客组织，常以数据窃取和贩卖为目标"
-          },
-          {
-            "label": "金融科技网络安全",
-            "type": "risk",
-            "desc": "金融科技行业特有的数据安全和隐私保护风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "针对金融科技公司的定向网络攻击增加，暴露出该行业在快速扩张过程中可能存在的安全防御短板。",
-            "此类事件可能引发更严格的行业监管审查，增加合规成本，并影响消费者对新兴金融科技品牌的信任度。"
+            "此举标志着美国政府机构在数字空间扩大监控与执法权限的激进尝试，可能重塑科技公司与政府的关系。",
+            "若成为常态，将迫使科技公司在全球面临更复杂的“本土化”合规压力，并可能驱使用户转向加密或去中心化平台。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "未上市金融科技公司估值/网络安全薄弱同业",
+          "asset": "对政府审查政策敏感的大型社交平台股",
           "risk": "HIGH",
-          "thesis": "数据泄露事件可能损害公司声誉、引发监管处罚和诉讼，增加运营风险，对估值产生负面影响。利好网络安全板块。"
+          "thesis": "此类行动可能引发用户流失、品牌声誉受损及更严格的全球监管审视，增加平台运营的不确定性和成本。"
         },
         "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1621887367217?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1681452696100?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "顶尖人才为何离开OpenAI和xAI",
-        "fullTitle": "深度分析：顶尖人才为何持续离开OpenAI与xAI",
+        "title": "xAI安全措施遭质疑",
+        "fullTitle": "前员工质疑xAI的AI安全措施已失效",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "过去几周，AI公司出现人才流失潮。xAI半数创始团队成员已离职，部分主动离开，部分因“重组”。OpenAI也面临动荡，包括解散其“使命对齐”团队，以及解雇反对“成人模式”功能的政策高管。这反映了AI行业内部在战略、治理和伦理上的深刻分歧。",
+        "impactLevel": "MEDIUM",
+        "summary": "据xAI前员工称，埃隆·马斯克正“积极”地让其Grok聊天机器人“更加失控”。这引发了对xAI公司内部AI安全文化和措施是否已经“死亡”的质疑。马斯克本人曾多次警告AI风险，但其公司的做法似乎与之矛盾。这可能影响公众和监管机构对xAI及其产品的信任。",
         "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "领先的人工智能研究公司"
-          },
           {
             "label": "xAI",
             "type": "entity",
             "desc": "埃隆·马斯克创立的人工智能公司"
           },
           {
-            "label": "AI人才竞争",
-            "type": "resource",
-            "desc": "人工智能领域顶尖研究和管理人才的争夺"
+            "label": "Grok",
+            "type": "tech",
+            "desc": "xAI开发的具有叛逆风格的聊天机器人"
           },
           {
-            "label": "AI治理与伦理",
+            "label": "AI安全",
             "type": "risk",
-            "desc": "关于AI发展速度、安全性和应用伦理的内部冲突"
+            "desc": "确保AI系统符合伦理、可控、无害的领域"
+          },
+          {
+            "label": "埃隆·马斯克",
+            "type": "entity",
+            "desc": "xAI创始人，对AI风险持公开警告态度"
           }
         ],
         "analysis": {
           "strategic": [
-            "顶级AI公司核心团队的不稳定，暴露了行业在爆炸性增长中面临的治理挑战和战略路径分歧，可能影响其长期研发路线图的执行。",
-            "人才，尤其是创始团队和核心研究人员的流失，是评估AI初创公司技术护城河和执行力可持续性的关键负面指标。"
+            "这暴露了AI领域领导者言行不一的潜在风险，可能削弱整个行业在推动“负责任AI”方面的公信力。",
+            "以“反叛”为卖点的AI产品策略是一把双刃剑，短期内可能吸引用户，但长期会招致更严厉的监管审查和舆论反弹。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "依赖单一明星团队或治理不清晰的未上市AI公司",
+          "asset": "与xAI有深度绑定或声誉关联的特斯拉(TSLA)股票",
           "risk": "HIGH",
-          "thesis": "持续的核心人才流失是严重的红色警报，可能预示着深层的公司治理问题、战略摇摆或内部文化冲突，极大增加投资风险。"
+          "thesis": "马斯克个人及其旗下公司的声誉风险具有传导性。xAI的安全争议可能波及特斯拉品牌，影响投资者情绪，尤其特斯拉本身也重度依赖AI技术。"
         },
-        "confidence": 92,
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1523856011207?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "风投回归早期与多元化",
+        "fullTitle": "风投高管专注被忽视的创始人与早期投资",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "在硅谷风投界追逐巨额融资和热门AI交易的大环境下，Stacy Brown-Philpot及其Cherryrock Capital正回归风投的早期传统。他们专注于被主流风投忽视的创始人，采取更精细化的投资策略。这反映了风投行业在热潮中的一种分化与反思。可能预示着对估值泡沫的警惕和对长期基本面的重视。",
+        "relations": [
+          {
+            "label": "Stacy Brown-Philpot",
+            "type": "entity",
+            "desc": "Cherryrock Capital管理合伙人，前TaskCEO"
+          },
+          {
+            "label": "Cherryrock Capital",
+            "type": "entity",
+            "desc": "采用传统早期风投策略的投资机构"
+          },
+          {
+            "label": "被忽视的创始人",
+            "type": "resource",
+            "desc": "非传统背景或非热门赛道的创业者"
+          },
+          {
+            "label": "早期风投",
+            "type": "entity",
+            "desc": "投资于初创企业最早阶段的资本"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "在AI等赛道过热、估值高企的背景下，差异化、深耕细分领域和寻找非共识机会成为部分风投的生存与发展策略。",
+            "聚焦多元化创始人不仅是社会责任体现，更是一种挖掘未被充分开发人才和市场需求的价值投资策略，可能获得超额回报。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "专注于早期、多元化投资的精品风投基金或母基金",
+          "risk": "MEDIUM",
+          "thesis": "当前市场环境有利于具有独特项目来源和投后赋能能力的早期投资者，他们可能以更低估值捕获未来明星企业，获得更高回报倍数。"
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1680665646497?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1583041948345?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Pemex Returns to Debt Market",
-        "fullTitle": "Pemex Issues $1.8 Billion in Debt After 6-Year Absence",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Mexican state-owned oil company Petroleos Mexicanos (Pemex) has issued 31.5 billion pesos ($1.8 billion) in debt, marking its return to local markets after a six-year hiatus. This move signals a potential shift in the company's financial strategy and access to capital. It may indicate improved market conditions or a pressing need for liquidity. The issuance will be closely watched for investor appetite towards a state-owned entity with a history of financial challenges.",
-        "relations": [
-          {
-            "label": "Pemex",
-            "type": "entity",
-            "desc": "Mexican state-owned oil and gas company"
-          },
-          {
-            "label": "Mexico",
-            "type": "entity",
-            "desc": "Sovereign nation and market for the debt issuance"
-          },
-          {
-            "label": "Debt Capital Markets",
-            "type": "resource",
-            "desc": "Financial market for raising debt"
-          },
-          {
-            "label": "Sovereign Risk",
-            "type": "risk",
-            "desc": "Risk associated with state-owned enterprise debt"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Pemex's return suggests either a strategic pivot to fund operations/restructuring or a test of market sentiment towards Mexico's flagship SOE.",
-            "Successful issuance could pave the way for more SOE debt offerings in LatAm, while failure may signal deeper systemic credit concerns."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Pemex Bonds / MXN Sovereign Debt",
-          "risk": "HIGH",
-          "thesis": "If the issuance is successful and oversubscribed, it could signal renewed investor confidence in Pemex and by extension Mexico's energy sector, potentially leading to tightening credit spreads. However, the high-risk profile of Pemex necessitates caution."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1531426416993?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "UBS Warns on AI Credit Risk",
-        "fullTitle": "UBS Strategist on AI Disruption Risk in Credit Markets",
+        "title": "India Tightens Broker Loan Rules",
+        "fullTitle": "India Curbs Loans Extended to Brokers in Blow to Trading Volumes",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Matthew Mish, UBS Head of Public and Private Credit Strategy, states that credit markets are beginning to price in increased risk from AI disruption. He highlights the technology sector and leveraged loans as particularly vulnerable areas. This indicates a maturation of market understanding regarding AI's second-order effects beyond equity valuations. The commentary suggests a potential repricing of credit risk for companies exposed to AI-driven obsolescence.",
+        "summary": "India's central bank has tightened rules for loans taken by firms engaged in proprietary trading and offering client leverage. This is the latest regulatory measure aimed at curbing speculative market activity in the country. The move is expected to reduce trading volumes and liquidity in Indian equity and commodity markets. It reflects a broader regulatory trend of de-risking financial systems.",
         "relations": [
           {
-            "label": "UBS",
+            "label": "Reserve Bank of India",
             "type": "entity",
-            "desc": "Global investment bank and wealth manager"
+            "desc": "India's central bank implementing the regulatory change"
           },
           {
-            "label": "AI Disruption",
-            "type": "tech",
-            "desc": "Risk of technological obsolescence driven by AI"
-          },
-          {
-            "label": "Leveraged Loans",
-            "type": "resource",
-            "desc": "High-yield debt instrument seen as vulnerable"
-          },
-          {
-            "label": "Credit Risk Repricing",
+            "label": "Proprietary Trading",
             "type": "risk",
-            "desc": "Market adjustment of risk premiums for certain sectors"
+            "desc": "High-risk trading activity targeted by the new rules"
+          },
+          {
+            "label": "Market Liquidity",
+            "type": "resource",
+            "desc": "Expected to decrease due to reduced leverage"
+          },
+          {
+            "label": "Speculative Activity",
+            "type": "risk",
+            "desc": "Primary target of the regulatory tightening"
           }
         ],
         "analysis": {
           "strategic": [
-            "Markets are transitioning from viewing AI purely as a growth/equity story to assessing its systemic credit and default risks, particularly for incumbent firms.",
-            "This shift could lead to a widening divergence in financing costs between AI-native companies and those in legacy sectors vulnerable to disruption."
+            "Regulatory action signals a shift towards market stability over growth, potentially cooling overheated sectors.",
+            "Creatives arbitrage opportunities for institutional players with strong balance sheets versus leveraged retail brokers."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "High-Yield Tech / Leveraged Loan ETFs (e.g., HYG, JNK sector baskets)",
+          "asset": "Indian Brokerage Firms (e.g., Zerodha, ICICI Securities)",
           "risk": "MEDIUM",
-          "thesis": "As the market prices in higher disruption risk, credit spreads for vulnerable tech firms and highly leveraged companies may widen, negatively impacting the value of related debt instruments and ETFs."
-        },
-        "confidence": 87,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1669439815930?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Farmgirl Flowers on Holiday Demand",
-        "fullTitle": "Farmgirl Flowers CEO Calls Valentine's Day a 'Warm-Up'",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Christina Stembel, CEO of Farmgirl Flowers, describes Valentine's Day as a 'warm-up' for the larger Mother's Day demand peak. She discusses consumer spending patterns, labor and materials costs, and the impact of tariffs. This provides micro-level insight into discretionary consumer spending, supply chain pressures, and seasonal business dynamics in the floral/gifting sector. It acts as a sentiment indicator for SME performance in a specific niche.",
-        "relations": [
-          {
-            "label": "Farmgirl Flowers",
-            "type": "entity",
-            "desc": "Direct-to-consumer floral company"
-          },
-          {
-            "label": "Discretionary Consumer Spending",
-            "type": "resource",
-            "desc": "Spending on non-essential goods like flowers"
-          },
-          {
-            "label": "Supply Chain Costs",
-            "type": "risk",
-            "desc": "Risks from labor, materials, and tariffs"
-          },
-          {
-            "label": "Seasonal Demand",
-            "type": "resource",
-            "desc": "Peak sales periods for gifting industries"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The commentary highlights the intense operational and financial planning required for hyper-seasonal DTC businesses, where a short period dictates annual success.",
-            "Rising costs (labor, materials, tariffs) coupled with potentially strained consumer budgets could compress margins during critical holiday seasons, pressuring niche players."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Consumer Staples / Essential Retail ETFs",
-          "risk": "LOW",
-          "thesis": "In an environment where discretionary gifting companies face margin pressure, investor capital may rotate towards more defensive, non-cyclical consumer staples with stable demand."
-        },
-        "confidence": 80,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1674832197786?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Airbnb Expands AI Customer Support",
-        "fullTitle": "Airbnb Says a Third of Support Handled by AI in US/CA",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Airbnb reports that AI now handles one-third of customer support in the US and Canada. CEO Brian Chesky outlines a vision for a more intuitive, AI-powered app that assists in trip planning and host management. This demonstrates a concrete, scaling application of AI aimed directly at operational efficiency (cost reduction) and product enhancement (user experience). It signals a broader industry trend towards automating high-volume, low-complexity service interactions.",
-        "relations": [
-          {
-            "label": "Airbnb",
-            "type": "entity",
-            "desc": "Global online marketplace for lodging and experiences"
-          },
-          {
-            "label": "Generative AI",
-            "type": "tech",
-            "desc": "Technology automating customer service and planning"
-          },
-          {
-            "label": "Operational Efficiency",
-            "type": "resource",
-            "desc": "Strategic goal of reducing costs via automation"
-          },
-          {
-            "label": "Labor Displacement Risk",
-            "type": "risk",
-            "desc": "Risk to customer service jobs from AI automation"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Airbnb is leveraging AI not just for cost-cutting but as a core component of its future product strategy, aiming to lock in users through predictive, personalized service.",
-            "Successful implementation could set a new benchmark for customer service automation in the travel/experience sector, forcing competitors to accelerate their own AI roadmaps."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Airbnb (ABNB)",
-          "risk": "MEDIUM",
-          "thesis": "Effective AI integration can significantly improve margins through support cost savings and drive higher user engagement and loyalty through a superior product, potentially leading to multiple expansion."
-        },
-        "confidence": 85,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1532794818180?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Figure Confirms Data Breach",
-        "fullTitle": "Fintech Lender Figure Confirms Hack by ShinyHunters",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Fintech lending giant Figure has confirmed a data breach where hackers accessed and downloaded a limited number of files after compromising an employee's account. The hacking group ShinyHunters claimed responsibility. This incident highlights persistent cybersecurity vulnerabilities in the financial technology sector, especially around employee access points. It raises concerns about data security, regulatory scrutiny, and reputational damage for a company in a sensitive lending vertical.",
-        "relations": [
-          {
-            "label": "Figure",
-            "type": "entity",
-            "desc": "Fintech company focused on lending and blockchain"
-          },
-          {
-            "label": "ShinyHunters",
-            "type": "entity",
-            "desc": "Notorious hacking group specializing in data breaches"
-          },
-          {
-            "label": "Cybersecurity Risk",
-            "type": "risk",
-            "desc": "Operational risk from data breaches and hacking"
-          },
-          {
-            "label": "Fintech Regulation",
-            "type": "risk",
-            "desc": "Potential for increased regulatory oversight post-breach"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The breach underscores that even modern fintech firms are not immune to fundamental security failures (e.g., compromised credentials), potentially eroding trust in 'tech-driven' financial safety.",
-            "It may trigger a sector-wide review of internal security protocols and employee access management, increasing operational costs and potentially slowing innovation cycles."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Fintech Sector ETF (e.g., FINX, ARKF)",
-          "risk": "MEDIUM",
-          "thesis": "A high-profile breach at a major player like Figure could lead to a sentiment-driven sell-off in the fintech sector due to fears of systemic cybersecurity weaknesses and impending regulatory crackdowns."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1597342359081?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "AI Talent Exodus at OpenAI, xAI",
-        "fullTitle": "Top Talent Walking Away from OpenAI and xAI",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Leading AI companies like OpenAI and xAI are experiencing significant talent departures. Half of xAI's founding team has left, while OpenAI has disbanded its mission alignment team and fired a policy executive. This indicates internal turmoil, strategic pivots, or cultural clashes at the forefront of the AI industry. Talent retention is becoming a critical risk factor that could impact the pace of innovation and long-term competitive positioning of these firms.",
-        "relations": [
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "Leading AI research and deployment company"
-          },
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "Elon Musk's artificial intelligence company"
-          },
-          {
-            "label": "AI Talent",
-            "type": "resource",
-            "desc": "Scarce human capital critical for AI development"
-          },
-          {
-            "label": "Governance Risk",
-            "type": "risk",
-            "desc": "Risk from internal strife and mission misalignment"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The exodus, particularly of safety/alignment staff, suggests a strategic shift towards commercialization and product velocity at the potential expense of long-term safety considerations, increasing systemic risk.",
-            "This talent churn may benefit well-funded competitors (e.g., Anthropic, established tech giants) who can offer more stability, potentially altering the competitive landscape."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Established Tech Giants (e.g., MSFT, GOOGL)",
-          "risk": "LOW",
-          "thesis": "Instability at pure-play AI leaders may drive investor preference towards large-cap tech firms with deeper benches, more diversified AI efforts, and perceived greater operational stability."
+          "thesis": "Reduced leverage will directly impact broker revenues from trading commissions and margin financing, leading to potential earnings downgrades and stock price pressure in the near term."
         },
         "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1620087115688?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "China Stock Rally Stalls on Earnings",
+        "fullTitle": "China’s Stock Bull Run Falters With Earnings Set to Underwhelm",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The outlook for Chinese equities is darkening due to a worsening corporate earnings picture. Investors are concerned that Lunar New Year holiday spending may not be sufficient to reignite the recent market rally. This highlights a disconnect between market sentiment and fundamental economic performance. The situation increases vulnerability to a broader market correction.",
+        "relations": [
+          {
+            "label": "Chinese Equities",
+            "type": "asset",
+            "desc": "Asset class facing downward pressure from weak fundamentals"
+          },
+          {
+            "label": "Corporate Earnings",
+            "type": "resource",
+            "desc": "Key fundamental driver showing deterioration"
+          },
+          {
+            "label": "Lunar New Year Spending",
+            "type": "entity",
+            "desc": "Potential short-term catalyst viewed as insufficient"
+          },
+          {
+            "label": "Market Sentiment",
+            "type": "risk",
+            "desc": "Shifting from bullish to cautious due to fundamentals"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Weak earnings expose the fragility of sentiment-driven rallies in China, increasing systemic risk if confidence erodes further.",
+            "This may force policymakers to consider more direct market-support measures beyond consumer stimulus to maintain stability."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "CSI 300 Index / MSCI China ETF",
+          "risk": "HIGH",
+          "thesis": "Valuations remain elevated relative to deteriorating earnings fundamentals. A sentiment shift could trigger significant outflows and a correction, especially in overhyped consumer and tech sectors."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1528724450567?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Cannabis Industry Banking Crisis",
+        "fullTitle": "The Legal Weed Business Is Booming. Bank Access Isn't",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Despite legalization and business growth, cannabis companies in the US face severe banking restrictions. They operate largely on cash, cannot use credit cards, and have prohibitive loan terms. This creates significant operational, security, and scaling challenges. The disconnect between state legality and federal banking laws remains the core obstacle.",
+        "relations": [
+          {
+            "label": "Cannabis Companies",
+            "type": "entity",
+            "desc": "Businesses hampered by lack of financial services"
+          },
+          {
+            "label": "Banking Access",
+            "type": "resource",
+            "desc": "Critical infrastructure denied due to federal law"
+          },
+          {
+            "label": "Cash-Based Operations",
+            "type": "risk",
+            "desc": "Major security and logistical risk for the industry"
+          },
+          {
+            "label": "SAFE Banking Act",
+            "type": "entity",
+            "desc": "Proposed legislation to resolve the banking issue"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The banking gap creates a high barrier to entry and consolidation, favoring large, well-capitalized players who can manage cash risks.",
+            "This systemic inefficiency represents a massive future opportunity for fintechs and banks if/when federal regulations change."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Large MSOs (Multi-State Operators) e.g., Curaleaf, Green Thumb",
+          "risk": "HIGH",
+          "thesis": "Large operators have the scale and capital to navigate the cash-heavy environment. They are best positioned to acquire struggling smaller players and will be the primary beneficiaries when banking reform eventually passes, leading to significant margin expansion."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1603965549725?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "DHS Subpoenas Anti-ICE Accounts",
+        "fullTitle": "Homeland Security Subpoenas to Unmask Anti-ICE Accounts",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "The Department of Homeland Security has reportedly sent hundreds of subpoenas to tech companies. The goal is to identify the owners of social media accounts critical of Immigration and Customs Enforcement (ICE). This represents a significant escalation in government pressure on tech platforms regarding user anonymity. It raises major concerns about free speech, privacy, and state surveillance.",
+        "relations": [
+          {
+            "label": "Department of Homeland Security (DHS)",
+            "type": "entity",
+            "desc": "Government agency issuing the subpoenas"
+          },
+          {
+            "label": "Tech Companies (e.g., Twitter, Meta)",
+            "type": "entity",
+            "desc": "Platforms receiving the legal demands"
+          },
+          {
+            "label": "User Anonymity / Privacy",
+            "type": "risk",
+            "desc": "Core internet principle under direct threat"
+          },
+          {
+            "label": "Free Speech Chilling Effect",
+            "type": "risk",
+            "desc": "Potential outcome of the government action"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This action tests the limits of tech company compliance and could trigger a legal battle defining online speech protections in the US.",
+            "Increased regulatory scrutiny on user data handling may accelerate the development and adoption of privacy-enhancing technologies and decentralized platforms."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Major Social Media Platforms (Meta, X Corp.)",
+          "risk": "HIGH",
+          "thesis": "Forced compliance with broad subpoenas damages user trust and platform brand, potentially accelerating user migration. It also introduces new legal and operational costs related to handling such requests at scale."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1613713391675?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Safety Concerns at xAI Over Grok",
+        "fullTitle": "Is Safety 'Dead' at xAI? Musk Pushes 'Unhinged' Grok",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Elon Musk is reportedly working to make xAI's Grok chatbot 'more unhinged,' according to a former employee. This suggests a deliberate move away from the AI safety guardrails emphasized by competitors. The strategy aims to differentiate Grok with edgy, less filtered responses. It raises questions about potential brand risks and regulatory backlash for the startup.",
+        "relations": [
+          {
+            "label": "Elon Musk / xAI",
+            "type": "entity",
+            "desc": "Company and leader pursuing the controversial strategy"
+          },
+          {
+            "label": "Grok Chatbot",
+            "type": "tech",
+            "desc": "AI product being developed with fewer safety constraints"
+          },
+          {
+            "label": "AI Safety / Alignment",
+            "type": "risk",
+            "desc": "Industry concern being deprioritized by xAI"
+          },
+          {
+            "label": "Brand Risk",
+            "type": "risk",
+            "desc": "Potential damage from offensive or harmful AI outputs"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Musk's strategy creates a niche for 'unfiltered' AI, appealing to a specific user base but isolating the company from mainstream enterprise and regulatory acceptance.",
+            "This approach could force a broader industry debate and regulatory definition on the minimum acceptable safety standards for public AI deployment."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Private xAI valuation / Competing AI Startups (Anthropic)",
+          "risk": "HIGH",
+          "thesis": "The 'unhinged' strategy carries high reputational and regulatory risk, potentially limiting xAI's addressable market and partnership opportunities compared to safety-focused rivals, impacting its long-term valuation prospects."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1649501409888?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "VC Focus on Overlooked Founders",
+        "fullTitle": "VC Exec Doubles Down on Overlooked Founders",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "Stacy Brown-Philpot's Cherryrock Capital is focusing on overlooked founders, contrasting with the Silicon Valley trend of chasing mega-rounds and buzzy AI deals. The fund operates like a throwback to venture capital's earlier, more relationship-driven days. This strategy targets undervalued talent and niche markets. It represents a contrarian bet within the current venture landscape.",
+        "relations": [
+          {
+            "label": "Stacy Brown-Philpot / Cherryrock Capital",
+            "type": "entity",
+            "desc": "VC firm and executive pursuing the strategy"
+          },
+          {
+            "label": "Overlooked Founders",
+            "type": "resource",
+            "desc": "Investment thesis focusing on non-traditional talent"
+          },
+          {
+            "label": "Venture Capital Trend",
+            "type": "risk",
+            "desc": "Current market favoring large, hype-driven AI deals"
+          },
+          {
+            "label": "Early-Stage VC",
+            "type": "entity",
+            "desc": "Investment style being revisited"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This niche strategy avoids inflated valuations in overheated sectors and may discover high-potential companies in underserved markets, offering asymmetric returns.",
+            "If successful, it could inspire a segment of the VC market to return to fundamentals, diversifying the startup ecosystem away from herd mentality."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Cherryrock Capital Fund / Portfolio Companies",
+          "risk": "MEDIUM",
+          "thesis": "Investing in overlooked talent pools offers access to deals at more reasonable valuations with less competition. This contrarian approach has historically generated top-tier VC returns by identifying opportunities before they become mainstream."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1612595333166?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1549868808303?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Pemex emite deuda tras 6 años",
-        "fullTitle": "Pemex emite $1.800 millones en deuda en México",
+        "title": "India restringe préstamos a corredores",
+        "fullTitle": "India restringe préstamos a corredores, afectando volúmenes",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Petróleos Mexicanos (Pemex) ha regresado al mercado de deuda local tras una ausencia de seis años, emitiendo 31.500 millones de pesos (aproximadamente $1.800 millones). Esta operación marca un hito significativo para la empresa estatal petrolera. La emisión busca reforzar su posición financiera y podría indicar un cambio en su estrategia de financiamiento. El éxito de la colocación será un indicador clave de la confianza del mercado en la empresa y en el sector energético mexicano.",
+        "impactLevel": "HIGH",
+        "summary": "El banco central de India ha endurecido las normas para los préstamos tomados por empresas que realizan trading por cuenta propia en acciones y materias primas, y que ofrecen apalancamiento a clientes. Esta medida busca reducir la actividad especulativa en los mercados del país. Es probable que restrinja la liquidez disponible para los operadores y reduzca los volúmenes de negociación. Representa un paso regulatorio significativo en el entorno financiero de India.",
         "relations": [
           {
-            "label": "Pemex",
+            "label": "Reserve Bank of India",
             "type": "entity",
-            "desc": "Empresa petrolera estatal mexicana"
+            "desc": "Banco central que emite la regulación"
           },
           {
-            "label": "Mercado de deuda local",
-            "type": "resource",
-            "desc": "Mercado financiero mexicano para bonos"
-          },
-          {
-            "label": "Financiamiento corporativo",
+            "label": "Trading por cuenta propia",
             "type": "risk",
-            "desc": "Riesgo de acceso y costo de capital"
+            "desc": "Actividad objetivo de la restricción"
           },
           {
-            "label": "Sector energético México",
+            "label": "Apalancamiento",
+            "type": "risk",
+            "desc": "Práctica financiera restringida"
+          },
+          {
+            "label": "Volúmenes de negociación",
+            "type": "resource",
+            "desc": "Métrica afectada por la medida"
+          },
+          {
+            "label": "Mercados de capitales de India",
             "type": "entity",
-            "desc": "Industria petrolera y de gas en México"
+            "desc": "Ámbito de impacto de la regulación"
           }
         ],
         "analysis": {
           "strategic": [
-            "El regreso de Pemex al mercado local sugiere una posible mejora en su perfil de riesgo percibido o una necesidad urgente de liquidez, lo que requiere monitorear las condiciones de la emisión (cupón, demanda).",
-            "Esta operación puede presionar a la baja los rendimientos de otros bonos corporativos mexicanos de alto rendimiento (high-yield) al aumentar la oferta, o, por el contrario, demostrar apetito por riesgo soberano/parasoberano."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Bonos corporativos PEMEX (series específicas de la nueva emisión)",
-          "risk": "HIGH",
-          "thesis": "Si la emisión se coloca con una demanda sólida y un diferencial (spread) atractivo respecto a la deuda soberana, podría ofrecer un rendimiento interesante para inversores con tolerancia al alto riesgo, apostando a una estabilización financiera gradual de la empresa con apoyo estatal implícito."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1681401055730?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "UBS: Riesgo IA en crédito privado",
-        "fullTitle": "UBS advierte riesgo de disrupción por IA en crédito",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Matthew Mish de UBS señala que los mercados están comenzando a internalizar el riesgo de disrupción por Inteligencia Artificial, especialmente en el sector tecnológico y en el espacio de préstamos apalancados (leveraged loans). Esta percepción de riesgo creciente podría afectar las valoraciones y la disponibilidad de crédito para empresas en industrias susceptibles a la automatización. El análisis sugiere un cambio en la evaluación del riesgo crediticio, incorporando factores tecnológicos disruptivos.",
-        "relations": [
-          {
-            "label": "UBS",
-            "type": "entity",
-            "desc": "Banco de inversión suizo"
-          },
-          {
-            "label": "Crédito Privado",
-            "type": "resource",
-            "desc": "Mercado de préstamos no bancarios"
-          },
-          {
-            "label": "Riesgo de Disrupción Tecnológica",
-            "type": "risk",
-            "desc": "Riesgo de que la IA obsoleto modelos de negocio"
-          },
-          {
-            "label": "Préstamos Apalancados",
-            "type": "resource",
-            "desc": "Deuda de alto riesgo para empresas"
-          },
-          {
-            "label": "Sector Tecnológico",
-            "type": "entity",
-            "desc": "Empresas de tecnología y software"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La advertencia de UBS refleja una evolución en los modelos de riesgo sistémico, donde la disrupción tecnológica se convierte en un factor crediticio primario, no secundario. Esto puede llevar a una repricing generalizada de activos de riesgo.",
-            "Los fondos de crédito privado y los bancos pueden comenzar a endurecer los covenants o aumentar los spreads para empresas con modelos de negocio considerados vulnerables a la automatización por IA, enfriando la inversión en ciertos segmentos."
+            "La regulación refleja una postura más cautelosa del banco central ante el riesgo sistémico y la especulación.",
+            "Podría impulsar una migración de actividad a mercados o instrumentos menos regulados, o frenar el crecimiento del mercado minorista."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "ETF de préstamos apalancados (ej: SRLN) o bonos de empresas tech de alto rendimiento vulnerables",
+          "asset": "Brokers y casas de bolsa indias (ej. ICICI Securities, Zerodha)",
           "risk": "MEDIUM",
-          "thesis": "Si el mercado comienza a descontar de manera más agresiva el riesgo de disrupción por IA, los instrumentos de deuda de empresas en sectores maduros de tecnología o con modelos de negocio fácilmente automatizables podrían ver aumentar sus rendimientos (bajar sus precios). Una posición corta se beneficia de este repricing del riesgo."
+          "thesis": "La restricción al crédito para trading y apalancamiento reducirá directamente los ingresos por comisiones y posiblemente la base de clientes activos de los brokers, presionando sus resultados."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1635660251350?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Ganancias frenan rally chino",
+        "fullTitle": "Perspectivas de ganancias frenan rally bursátil chino",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El panorama de ganancias corporativas en China se está deteriorando, oscureciendo las perspectivas para las acciones del país. Los inversores son cautelosos, ya que el gasto durante las vacaciones del Año Nuevo Lunar podría no ser suficiente para reactivar un repunte sostenido. Esto sugiere que el reciente impulso alcista en el mercado podría enfrentar fuertes headwinds fundamentales. La confianza del inversor está siendo probada por los fundamentos económicos subyacentes.",
+        "relations": [
+          {
+            "label": "Acciones chinas",
+            "type": "asset",
+            "desc": "Clase de activo afectada"
+          },
+          {
+            "label": "Ganancias corporativas",
+            "type": "resource",
+            "desc": "Driver fundamental que se debilita"
+          },
+          {
+            "label": "Año Nuevo Lunar",
+            "type": "entity",
+            "desc": "Evento cíclico con impacto económico"
+          },
+          {
+            "label": "Sentimiento del inversor",
+            "type": "risk",
+            "desc": "Factor clave de mercado"
+          },
+          {
+            "label": "Crecimiento económico chino",
+            "type": "entity",
+            "desc": "Contexto macroeconómico subyacente"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La desconexión entre el sentimiento del mercado y los fundamentos corporativos señala vulnerabilidad y posible corrección.",
+            "Refleja los persistentes desafíos estructurales en la economía china, limitando el potencial de rallys puramente impulsados por estímulos."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "ETFs de acciones chinas (ej. MCHI, FXI)",
+          "risk": "HIGH",
+          "thesis": "El deterioro de los fundamentos (ganancias) no respalda las valoraciones actuales, lo que probablemente lleve a una reevaluación a la baja, especialmente si el gasto festivo decepciona."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1664632127194?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1611444244828?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Farmgirl: San Valentín es 'calentamiento'",
-        "fullTitle": "CEO Farmgirl: Día de la Madre es más clave que San Valentín",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "La CEO de Farmgirl Flowers revela que el Día de San Valentín actúa como un 'calentamiento' operativo para la demanda máxima que llega con el Día de la Madre. Comenta sobre los patrones de gasto de los clientes, los costos de mano de obra y materiales, y el impacto del entorno arancelario. Esta información proporciona una visión del ciclo de ventas y los desafíos de costos en el sector de comercio electrónico de flores y regalos.",
-        "relations": [
-          {
-            "label": "Farmgirl Flowers",
-            "type": "entity",
-            "desc": "Empresa de comercio electrónico de flores"
-          },
-          {
-            "label": "Demanda Estacional",
-            "type": "risk",
-            "desc": "Riesgo de concentración de ventas en fechas específicas"
-          },
-          {
-            "label": "Costos de Logística",
-            "type": "resource",
-            "desc": "Gastos en mano de obra y materiales"
-          },
-          {
-            "label": "Entorno Arancelario",
-            "type": "risk",
-            "desc": "Riesgo de costos por impuestos de importación"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La declaración subraya la extrema estacionalidad y los riesgos operativos en el nicho de flores premium por internet, donde la capacidad de gestionar picos de demanda y costos variables es crítica para la rentabilidad.",
-            "Los comentarios sobre aranceles y costos son un microcosmos de las presiones inflacionarias en las cadenas de suministro globales para bienes perecederos, afectando los márgenes de las empresas de comercio electrónico directo al consumidor (DTC)."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Acciones de empresas de logística y entrega última milla (ej: UPS, FedEx) o plataformas de comercio electrónico resilientes",
-          "risk": "LOW",
-          "thesis": "La dependencia de empresas como Farmgirl de operadores logísticos confiables para fechas pico refuerza la tesis de inversión en infraestructura de entrega. Los picos de demanda estacional son predecibles y benefician a los proveedores de servicios esenciales, mitigando el riesgo específico de cualquier retailer."
-        },
-        "confidence": 88,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1518811972634?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Airbnb: 33% soporte con IA",
-        "fullTitle": "Airbnb usa IA para un tercio del soporte en EE.UU./Canadá",
+        "title": "Negocio cannabis sin banca",
+        "fullTitle": "Negocio legal cannabis florece sin acceso bancario",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Airbnb ha automatizado aproximadamente un tercio de su soporte al cliente en Estados Unidos y Canadá mediante Inteligencia Artificial. El CEO Brian Chesky anuncia una futura aplicación que 'conocerá' al usuario para planificar viajes completos y ayudar a anfitriones. Este movimiento busca mejorar la eficiencia operativa a escala y personalizar la experiencia, lo que podría impactar significativamente sus márgenes y propuesta de valor.",
+        "summary": "A pesar del crecimiento de la industria legal del cannabis en EE.UU., las empresas del sector siguen enfrentándose a una grave exclusión financiera. El efectivo sigue siendo el rey, las tarjetas de crédito están fuera de los límites y los préstamos son prohibitivos debido a las restricciones bancarias federales. Esto crea enormes ineficiencias operativas y riesgos de seguridad. La desconexión entre la legalidad estatal y la prohibición federal persiste como un cuello de botella crítico.",
         "relations": [
           {
-            "label": "Airbnb",
+            "label": "Empresas de cannabis",
             "type": "entity",
-            "desc": "Plataforma de alquileres vacacionales"
+            "desc": "Sector afectado por la exclusión financiera"
           },
           {
-            "label": "IA Generativa / Asistente",
-            "type": "tech",
-            "desc": "Tecnología de IA para planificación y soporte"
-          },
-          {
-            "label": "Eficiencia Operativa",
-            "type": "resource",
-            "desc": "Reducción de costos mediante automatización"
-          },
-          {
-            "label": "Experiencia del Cliente",
+            "label": "Sistema bancario estadounidense",
             "type": "entity",
-            "desc": "Satisfacción y fidelización del usuario"
+            "desc": "Infraestructura que restringe el acceso"
+          },
+          {
+            "label": "Ley federal vs. estatal",
+            "type": "risk",
+            "desc": "Conflicto regulatorio central"
+          },
+          {
+            "label": "Transacciones en efectivo",
+            "type": "risk",
+            "desc": "Solución operativa riesgosa e ineficiente"
+          },
+          {
+            "label": "SAFE Banking Act",
+            "type": "entity",
+            "desc": "Posible solución legislativa pendiente"
           }
         ],
         "analysis": {
           "strategic": [
-            "La automatización del soporte es un paso clave hacia la mejora de márgenes en un negocio intensivo en operaciones, liberando recursos para inversión en crecimiento o directamente incrementando la rentabilidad.",
-            "El desarrollo de un 'asistente de viaje' con IA posiciona a Airbnb no solo como un marketplace, sino como un planificador de viajes integral, compitiendo directamente con agencias de viajes online (OTAs) y buscando capturar más valor por viaje."
+            "La falta de acceso bancario mantiene artificialmente altos los costos operativos y limita la consolidación y el crecimiento profesionalizado del sector.",
+            "Crea una oportunidad para soluciones financieras alternativas (fintech, cripto) que operen en los vacíos regulatorios, aunque con sus propios riesgos."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Airbnb (ABNB)",
-          "risk": "MEDIUM",
-          "thesis": "La adopción agresiva de IA para reducir costos operativos (soporte) y aumentar los ingresos (mejor experiencia/planificación) es un catalizador positivo para los márgenes y el crecimiento. Si ejecutan bien la estrategia, podría traducirse en una expansión de múltiples de valoración."
+          "asset": "Empresas de cannabis con fuerte gestión de efectivo y escala (ej. Curaleaf, Trulieve en mercados selectos)",
+          "risk": "HIGH",
+          "thesis": "Las empresas que sobreviven y prosperan en este entorno hostil están construyendo ventajas operativas únicas. Cualquier avance en la legislación bancaria (SAFE Act) desbloquearía un valor significativo."
         },
-        "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1678399243139?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1583328628368?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Figure confirma filtración de datos",
-        "fullTitle": "Fintech Figure confirma brecha de datos por hackers",
+        "title": "DHS investiga cuentas anti-ICE",
+        "fullTitle": "DHS emite cientos de citaciones para cuentas anti-ICE",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Figure, un gigante del lending fintech, ha confirmado una brecha de seguridad donde hackers descargaron un número limitado de archivos tras vulnerar la cuenta de un empleado. El grupo ShinyHunters se ha atribuido la responsabilidad del ataque. Este incidente expone vulnerabilidades en la ciberseguridad de las fintechs y plantea riesgos reputacionales, regulatorios y legales significativos.",
+        "impactLevel": "MEDIUM",
+        "summary": "El Departamento de Seguridad Nacional (DHS) de EE.UU. ha estado aumentando la presión sobre las empresas tecnológicas, enviando cientos de citaciones para identificar a los propietarios de cuentas en línea que critican a la Agencia de Inmigración y Control de Aduanas (ICE). Esta campaña representa un esfuerzo por desenmascarar a los disidentes anónimos en línea. Plantea serias preocupaciones sobre la libertad de expresión y la vigilancia gubernamental. Indica una postura más agresiva del gobierno hacia la oposición en línea en temas de inmigración.",
         "relations": [
           {
-            "label": "Figure",
+            "label": "Departamento de Seguridad Nacional (DHS)",
             "type": "entity",
-            "desc": "Plataforma fintech de préstamos"
+            "desc": "Agencia gubernamental emisora de citaciones"
           },
           {
-            "label": "ShinyHunters",
+            "label": "ICE (Immigration and Customs Enforcement)",
             "type": "entity",
-            "desc": "Grupo de hackers activo"
+            "desc": "Agencia objetivo de las críticas"
           },
           {
-            "label": "Ciberseguridad Fintech",
+            "label": "Empresas de tecnología (Big Tech)",
+            "type": "entity",
+            "desc": "Intermediarios obligados a responder"
+          },
+          {
+            "label": "Libertad de expresión / Anonimato",
             "type": "risk",
-            "desc": "Riesgo de ataques a empresas financieras digitales"
+            "desc": "Derecho potencialmente afectado"
           },
           {
-            "label": "Datos de Clientes",
-            "type": "resource",
-            "desc": "Información sensible protegida por ley"
-          },
-          {
-            "label": "Riesgo Regulatorio",
+            "label": "Vigilancia gubernamental",
             "type": "risk",
-            "desc": "Multas y sanciones por fallos de seguridad"
+            "desc": "Táctica empleada por el DHS"
           }
         ],
         "analysis": {
           "strategic": [
-            "El ataque a Figure, aunque limitado, es un recordatorio severo de que las fintechs, por su naturaleza digital y el valor de sus datos, son objetivos prioritarios. Un incidente grave puede erosionar la confianza, su activo más importante.",
-            "Este evento probablemente acelerará el gasto en ciberseguridad dentro del sector fintech y podría llevar a una supervisión regulatoria más estricta, aumentando los costos de cumplimiento (compliance) para todos los actores."
+            "Refleja una tendencia de los gobiernos a utilizar herramientas legales para identificar y posiblemente disuadir la oposición política en línea, enfriando el discurso público.",
+            "Aumenta el riesgo regulatorio y reputacional para las empresas de tecnología, atrapadas entre cumplir la ley y proteger la privacidad de los usuarios."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Acciones de empresas fintech públicas comparables con perfiles de riesgo similares (especialmente las que no han reportado inversiones sólidas en ciberseguridad)",
-          "risk": "HIGH",
-          "thesis": "El incidente en Figure puede desencadenar una reevaluación del riesgo por parte del mercado sobre todo el sector fintech de lending. Las empresas percibidas con defensas cibernéticas más débiles podrían sufrir una desvalorización a corto plazo debido al miedo a brechas similares, costos de cumplimiento futuros y pérdida potencial de clientes."
+          "asset": "Empresas de redes sociales con alta exposición a contenido político (Meta, X)",
+          "risk": "MEDIUM",
+          "thesis": "Las crecientes demandas gubernamentales para desanonimizar usuarios aumentan los costos de cumplimiento, el riesgo de litigios por privacidad y podrían erosionar la confianza de los usuarios, impactando el engagement."
         },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1540808997483?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1546637306729?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Fuga de talento en OpenAI y xAI",
-        "fullTitle": "OpenAI y xAI enfrentan fuga masiva de talento clave",
+        "title": "¿Seguridad 'muerta' en xAI?",
+        "fullTitle": "¿Está la seguridad 'muerta' en xAI según ex empleado?",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Las principales empresas de IA, OpenAI y xAI, están experimentando una hemorragia significativa de talento en las últimas semanas. La mitad del equipo fundador de xAI ha salido, y OpenAI ha desbandado su equipo de alineación de misión y despedido a ejecutivos. Esto señala posibles tensiones internas sobre la dirección estratégica, la seguridad de la IA y la cultura corporativa en un momento crítico de la industria.",
+        "impactLevel": "INFO",
+        "summary": "Según un ex empleado, Elon Musk está trabajando 'activamente' para hacer que el chatbot Grok de xAI sea 'más desquiciado'. Esto sugiere una posible devaluación de los protocolos de seguridad y alineación en el desarrollo de IA dentro de xAI. La filosofía contrasta con el enfoque más cauteloso de otros líderes en IA. Podría posicionar a Grok como un producto más controvertido y con menos restricciones.",
         "relations": [
           {
-            "label": "OpenAI",
+            "label": "Elon Musk",
             "type": "entity",
-            "desc": "Empresa de investigación y desarrollo de IA"
+            "desc": "Fundador de xAI impulsando el cambio"
           },
           {
             "label": "xAI",
             "type": "entity",
-            "desc": "Empresa de IA fundada por Elon Musk"
+            "desc": "Empresa de IA desarrolladora de Grok"
           },
           {
-            "label": "Talento en IA",
-            "type": "resource",
-            "desc": "Ingenieros e investigadores especializados escasos"
+            "label": "Grok (chatbot)",
+            "type": "tech",
+            "desc": "Producto de IA siendo modificado"
           },
           {
-            "label": "Gobernanza de IA",
+            "label": "Seguridad en IA / Alineación",
             "type": "risk",
-            "desc": "Riesgo por desacuerdos en seguridad y ética"
+            "desc": "Área de desarrollo potencialmente descuidada"
           },
           {
-            "label": "Inestabilidad Corporativa",
+            "label": "Contenido sin restricciones",
             "type": "risk",
-            "desc": "Riesgo por cambios bruscos en liderazgo y equipos"
+            "desc": "Posible dirección del producto"
           }
         ],
         "analysis": {
           "strategic": [
-            "La fuga de talento, especialmente en áreas de seguridad y alineación (OpenAI), sugiere profundos desacuerdos internos sobre la velocidad de desarrollo versus la seguridad, lo que podría ralentizar la innovación responsable o, por el contrario, acelerar el lanzamiento de productos más riesgosos.",
-            "Esta inestabilidad en los líderes del sector crea una ventana de oportunidad para competidores establecidos (Google, Meta, Anthropic) y startups para atraer talento clave y ganar terreno en la carrera por el desarrollo de AGI o modelos fundamentales (foundation models)."
+            "Musk podría estar buscando diferenciar a Grok en un mercado saturado apostando por la polémica y la 'libertad' de expresión, asumiendo riesgos reputacionales y regulatorios.",
+            "Esta estrategia podría atraer a un nicho de usuarios pero alejar a socios empresariales y reguladores, limitando la escalabilidad comercial a gran escala."
+          ]
+        },
+        "investment": {
+          "action": "N/A",
+          "asset": "N/A",
+          "risk": "N/A",
+          "thesis": "xAI es una empresa privada. La noticia es más relevante para el riesgo reputacional de Musk y el panorama competitivo de los asistentes de IA, pero no ofrece un vehículo de inversión directo público."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1654440495777?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "VC apuesta por fundadores ignorados",
+        "fullTitle": "Ejecutiva de VC apuesta por fundadores ignorados",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "En un panorama de capital de riesgo cambiado, donde gran parte de Silicon Valley persigue mega-rondas y acuerdos de IA muy publicitados, Stacy Brown-Philpot está dirigiendo Cherryrock Capital como un retorno a los primeros días del VC. Su estrategia se centra en duplicar la apuesta por fundadores pasados por alto, a menudo de fondos diversos. Esto representa un contrapunto a las tendencias actuales de concentración de capital. Busca valor y oportunidades en segmentos del mercado menos concurridos.",
+        "relations": [
+          {
+            "label": "Stacy Brown-Philpot",
+            "type": "entity",
+            "desc": "Socia gestora de Cherryrock Capital"
+          },
+          {
+            "label": "Cherryrock Capital",
+            "type": "entity",
+            "desc": "Fondo de capital de riesgo"
+          },
+          {
+            "label": "Fundadores pasados por alto / diversos",
+            "type": "resource",
+            "desc": "Foco de la estrategia de inversión"
+          },
+          {
+            "label": "Capital de riesgo (VC)",
+            "type": "entity",
+            "desc": "Industria y modelo de negocio"
+          },
+          {
+            "label": "Tendencias de IA y mega-rondas",
+            "type": "risk",
+            "desc": "Tendencia dominante del mercado que se evita"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Esta estrategia de nicho aprovecha la saturación y sobrevaloración en los sectores de moda (como la IA), buscando alpha en mercados menos eficientes y con menos competencia.",
+            "Si tiene éxito, podría validar un modelo de VC más diversificado y basado en fundamentos, desafiando la mentalidad de manada prevaleciente en la industria."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de grandes tecnológicas con divisiones de IA estables y recursos para atraer talento (ej: Microsoft - aliado de OpenAI, Google, Meta)",
-          "risk": "MEDIUM",
-          "thesis": "La inestabilidad en los pure-plays de IA (OpenAI, xAI) puede beneficiar a los gigantes tecnológicos consolidados que ofrecen mayor estabilidad, recursos y caminos de comercialización claros. Estos podrían capturar talento clave y consolidar su posición, atrayendo inversión que busca exposición a la IA con menor riesgo operativo específico."
+          "asset": "Fondos de VC o plataformas que se centran en diversidad y etapas tempranas (ej. a través de vehículos como AngelList o Republic)",
+          "risk": "HIGH",
+          "thesis": "Apoyar estrategias de inversión contracorriente y centradas en diversidad puede ofrecer acceso a pipelines de deal flow únicos y potencialmente mayores retornos por diversificación y descubrimiento temprano."
         },
-        "confidence": 86,
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1694997133384?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1546243139039?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
