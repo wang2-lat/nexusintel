@@ -1,833 +1,863 @@
 {
-  "generated_at": "2026-02-15T02:31:33.329749",
+  "generated_at": "2026-02-16T02:27:50.020448",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "印度央行收紧券商贷款",
-        "fullTitle": "印度央行收紧券商贷款以抑制投机交易",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "印度央行收紧了对从事自营交易并为客户提供杠杆的公司的贷款规则。此举旨在减少南亚国家的投机性市场活动。预计将打击交易量，并可能影响市场流动性。这是印度监管机构为稳定金融市场采取的最新措施。",
+        "title": "老铺黄金、洛阳钼业获纳入恒指",
+        "fullTitle": "老铺黄金与洛阳钼业获纳入恒生指数，股价大涨",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "恒生指数公司季度检讨后，将中国珠宝商老铺黄金和矿业公司洛阳钼业纳入香港基准股指。消息公布后，两家公司在香港的股价均大幅上涨。这反映了市场对指数纳入带来的被动资金流入的积极预期。此举也可能提升相关股票的市场关注度和流动性。",
         "relations": [
           {
-            "label": "印度央行",
+            "label": "老铺黄金",
             "type": "entity",
-            "desc": "印度中央银行，负责货币政策与金融监管"
+            "desc": "中国珠宝零售商，获纳入恒生指数"
           },
           {
-            "label": "券商/经纪商",
+            "label": "洛阳钼业",
             "type": "entity",
-            "desc": "从事自营交易和提供杠杆服务的金融机构"
+            "desc": "中国矿业公司，获纳入恒生指数"
           },
           {
-            "label": "投机交易",
+            "label": "恒生指数",
+            "type": "entity",
+            "desc": "香港主要股票市场基准指数"
+          },
+          {
+            "label": "被动资金流入",
             "type": "risk",
-            "desc": "监管机构试图抑制的市场行为"
-          },
-          {
-            "label": "市场流动性",
-            "type": "resource",
-            "desc": "可能因贷款收紧而受到负面影响"
+            "desc": "指数纳入带来的ETF及基金配置需求"
           }
         ],
         "analysis": {
           "strategic": [
-            "印度监管机构正采取主动措施为过热市场降温，显示其金融稳定优先于短期市场活跃度。",
-            "此举可能促使部分投机资本流出印度市场，或转向监管更宽松的领域，需关注资金流向变化。"
+            "恒生指数成份股调整是观察国际资本对中国特定行业（如消费、资源）配置偏好的窗口。",
+            "被纳入指数通常意味着公司已达到一定的市值、流动性及行业代表性标准，可能吸引长期投资者关注。"
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "印度高杠杆券商股、印度主要股指期货",
+          "action": "LONG",
+          "asset": "老铺黄金、洛阳钼业港股",
           "risk": "MEDIUM",
-          "thesis": "监管收紧将直接打击券商盈利模式并抑制整体市场交易活跃度，可能导致相关股票和指数短期承压。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1676083542753?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "中国股市盈利前景黯淡",
-        "fullTitle": "盈利前景黯淡，中国股市反弹遇阻",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "中国股市的盈利前景正在恶化，给股市前景蒙上阴影。投资者担心春节假期消费可能不足以重新点燃市场反弹。企业盈利不及预期成为市场主要担忧。这可能导致市场情绪转向谨慎，抑制上涨动能。",
-        "relations": [
-          {
-            "label": "中国股市",
-            "type": "entity",
-            "desc": "主要指A股市场，近期经历波动"
-          },
-          {
-            "label": "企业盈利",
-            "type": "resource",
-            "desc": "影响股市基本面的核心因素，目前前景黯淡"
-          },
-          {
-            "label": "春节消费",
-            "type": "resource",
-            "desc": "短期经济刺激因素，但效果可能有限"
-          },
-          {
-            "label": "市场情绪",
-            "type": "risk",
-            "desc": "因盈利担忧可能转向悲观"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "市场驱动因素正从政策预期转向基本面验证，盈利成色将成为未来市场走势的关键。",
-            "若消费复苏不及预期，可能引发对经济内生动能的更深层次担忧，影响外资对中国资产的长期配置逻辑。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "A股主要指数ETF、盈利预期过高的消费及周期股",
-          "risk": "MEDIUM",
-          "thesis": "盈利基本面恶化将压制估值，尤其对前期涨幅较大、盈利预期尚未下调的板块构成下行风险。"
+          "thesis": "短期受益于被动资金配置需求带来的流动性溢价，中长期需观察公司基本面能否支撑估值。"
         },
         "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1631375263543?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1657171684259?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "大麻业面临银行准入困境",
-        "fullTitle": "大麻业务繁荣，但银行服务获取困难",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "尽管大麻产业在美国部分州合法化并蓬勃发展，但相关企业仍难以获得主流银行服务。现金交易仍是主流，信用卡被禁用，贷款条件苛刻。这造成了巨大的运营和安全风险。金融监管与州法律的冲突是根本原因。",
+        "title": "华纳兄弟考虑重启与派拉蒙谈判",
+        "fullTitle": "华纳兄弟探索公司考虑重启与派拉蒙天空之舞的出售谈判",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "知情人士透露，在收到修订后的报价后，华纳兄弟探索公司正考虑重新开启与派拉蒙天空之舞公司的出售谈判。这表明媒体行业整合趋势仍在继续。大型媒体集团正通过并购应对流媒体竞争和内容成本压力。交易若达成，将重塑好莱坞竞争格局。",
         "relations": [
           {
-            "label": "大麻公司",
+            "label": "华纳兄弟探索",
             "type": "entity",
-            "desc": "在合法州从事大麻种植、加工或销售的企业"
+            "desc": "美国媒体娱乐巨头，考虑并购"
           },
           {
-            "label": "银行服务",
+            "label": "派拉蒙天空之舞",
+            "type": "entity",
+            "desc": "媒体与制作公司，潜在的收购目标"
+          },
+          {
+            "label": "媒体行业整合",
+            "type": "risk",
+            "desc": "行业应对流媒体竞争的主要战略"
+          },
+          {
+            "label": "内容资产",
             "type": "resource",
-            "desc": "包括存款、支付、贷款等，对大麻企业限制严格"
-          },
-          {
-            "label": "现金交易",
-            "type": "risk",
-            "desc": "因缺乏银行服务导致的安全与效率风险"
-          },
-          {
-            "label": "监管冲突",
-            "type": "risk",
-            "desc": "联邦与州法律在大麻问题上的不一致"
+            "desc": "媒体公司核心价值与竞争壁垒"
           }
         ],
         "analysis": {
           "strategic": [
-            "金融基础设施的缺失是制约合法大麻产业规模化、规范化的最大瓶颈，也是潜在的政策改革突破口。",
-            "该困境催生了针对该行业的专业金融服务（如有限银行、加密货币支付）的利基市场，但风险较高。"
+            "传统媒体巨头正加速整合以对抗Netflix等流媒体平台，规模效应和内容库深度是关键。",
+            "此类并购谈判反复，反映出交易结构复杂、监管风险高以及整合协同效应评估困难。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专注于大麻行业支付/金融科技解决方案的公司",
+          "asset": "华纳兄弟探索公司股票",
           "risk": "HIGH",
-          "thesis": "行业痛点明确，任何在合规框架下解决支付和融资难题的创新型公司都可能获得巨大市场份额，但政策风险极高。"
+          "thesis": "若成功收购派拉蒙优质内容资产，将显著增强其流媒体竞争力与IP储备，但需承担高额债务与整合风险。"
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1652951537489?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1620181567478?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "美土安全部施压科技公司查账号",
-        "fullTitle": "美土安全部发传票追查批评ICE的网络账号",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "美国国土安全部据报已向科技公司发出数百份传票，要求识别批评美国移民和海关执法局（ICE）的网络账户所有者。此举表明DHS正在加大对科技公司的压力，以揭露匿名批评者。这涉及言论自由、隐私权与国家安全之间的冲突。可能引发法律和社会的强烈反弹。",
-        "relations": [
-          {
-            "label": "美国国土安全部",
-            "type": "entity",
-            "desc": "美国联邦部门，负责国内安全及反恐"
-          },
-          {
-            "label": "ICE",
-            "type": "entity",
-            "desc": "美国移民和海关执法局，DHS下属机构"
-          },
-          {
-            "label": "科技公司",
-            "type": "entity",
-            "desc": "被要求提供用户信息的社交媒体或网络平台"
-          },
-          {
-            "label": "言论自由/隐私",
-            "type": "risk",
-            "desc": "政府行为可能侵犯的核心权利，引发争议"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举标志着美国政府机构在数字空间扩大监控与执法权限的激进尝试，可能重塑科技公司与政府的关系。",
-            "若成为常态，将迫使科技公司在全球面临更复杂的“本土化”合规压力，并可能驱使用户转向加密或去中心化平台。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "对政府审查政策敏感的大型社交平台股",
-          "risk": "HIGH",
-          "thesis": "此类行动可能引发用户流失、品牌声誉受损及更严格的全球监管审视，增加平台运营的不确定性和成本。"
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1681452696100?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "xAI安全措施遭质疑",
-        "fullTitle": "前员工质疑xAI的AI安全措施已失效",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "据xAI前员工称，埃隆·马斯克正“积极”地让其Grok聊天机器人“更加失控”。这引发了对xAI公司内部AI安全文化和措施是否已经“死亡”的质疑。马斯克本人曾多次警告AI风险，但其公司的做法似乎与之矛盾。这可能影响公众和监管机构对xAI及其产品的信任。",
-        "relations": [
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "埃隆·马斯克创立的人工智能公司"
-          },
-          {
-            "label": "Grok",
-            "type": "tech",
-            "desc": "xAI开发的具有叛逆风格的聊天机器人"
-          },
-          {
-            "label": "AI安全",
-            "type": "risk",
-            "desc": "确保AI系统符合伦理、可控、无害的领域"
-          },
-          {
-            "label": "埃隆·马斯克",
-            "type": "entity",
-            "desc": "xAI创始人，对AI风险持公开警告态度"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "这暴露了AI领域领导者言行不一的潜在风险，可能削弱整个行业在推动“负责任AI”方面的公信力。",
-            "以“反叛”为卖点的AI产品策略是一把双刃剑，短期内可能吸引用户，但长期会招致更严厉的监管审查和舆论反弹。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "与xAI有深度绑定或声誉关联的特斯拉(TSLA)股票",
-          "risk": "HIGH",
-          "thesis": "马斯克个人及其旗下公司的声誉风险具有传导性。xAI的安全争议可能波及特斯拉品牌，影响投资者情绪，尤其特斯拉本身也重度依赖AI技术。"
-        },
-        "confidence": 84,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1523856011207?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "风投回归早期与多元化",
-        "fullTitle": "风投高管专注被忽视的创始人与早期投资",
+        "title": "债券上涨，日元走弱",
+        "fullTitle": "美国通胀温和提振降息预期，债券上涨日元走弱",
         "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "在硅谷风投界追逐巨额融资和热门AI交易的大环境下，Stacy Brown-Philpot及其Cherryrock Capital正回归风投的早期传统。他们专注于被主流风投忽视的创始人，采取更精细化的投资策略。这反映了风投行业在热潮中的一种分化与反思。可能预示着对估值泡沫的警惕和对长期基本面的重视。",
+        "impactLevel": "MEDIUM",
+        "summary": "温和的美国通胀数据强化了市场对美联储今年降息的预期，推动债券价格上涨，股市企稳。这一预期有助于缓解市场对人工智能技术颠覆带来的不安情绪。与此同时，日元汇率进一步走弱。这反映了全球资本在利率预期变化下的重新配置。",
         "relations": [
           {
-            "label": "Stacy Brown-Philpot",
+            "label": "美联储",
             "type": "entity",
-            "desc": "Cherryrock Capital管理合伙人，前TaskCEO"
+            "desc": "美国中央银行，货币政策制定者"
           },
           {
-            "label": "Cherryrock Capital",
-            "type": "entity",
-            "desc": "采用传统早期风投策略的投资机构"
+            "label": "利率预期",
+            "type": "risk",
+            "desc": "影响全球资产定价的核心宏观变量"
           },
           {
-            "label": "被忽视的创始人",
+            "label": "日元",
             "type": "resource",
-            "desc": "非传统背景或非热门赛道的创业者"
+            "desc": "主要套利交易融资货币，对利差敏感"
           },
           {
-            "label": "早期风投",
-            "type": "entity",
-            "desc": "投资于初创企业最早阶段的资本"
+            "label": "AI技术颠覆",
+            "type": "tech",
+            "desc": "引发市场对长期增长与就业结构担忧的主题"
           }
         ],
         "analysis": {
           "strategic": [
-            "在AI等赛道过热、估值高企的背景下，差异化、深耕细分领域和寻找非共识机会成为部分风投的生存与发展策略。",
-            "聚焦多元化创始人不仅是社会责任体现，更是一种挖掘未被充分开发人才和市场需求的价值投资策略，可能获得超额回报。"
+            "通胀数据是当前主导全球资产价格（股、债、汇）短期波动的核心驱动因素。",
+            "日元持续疲软反映了日美货币政策巨大分歧的延续，可能引发新一轮亚洲货币竞争性贬值或干预风险。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专注于早期、多元化投资的精品风投基金或母基金",
+          "asset": "美国长期国债",
           "risk": "MEDIUM",
-          "thesis": "当前市场环境有利于具有独特项目来源和投后赋能能力的早期投资者，他们可能以更低估值捕获未来明星企业，获得更高回报倍数。"
+          "thesis": "在降息周期预期下，长久期债券将受益于利率下行带来的资本利得。"
+        },
+        "confidence": 88,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1607529479425?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Peak XV投资印度AI节能初创公司",
+        "fullTitle": "Peak XV投资印度AI数据中心节能初创公司C2i",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "印度初创公司C2i已筹集1500万美元，用于测试一种从电网到GPU的解决方案，以减少AI数据中心的电力损耗。本轮融资由知名风投Peak XV领投。这凸显了AI算力需求激增背景下，能源效率已成为关键瓶颈和投资热点。解决电力损耗问题对AI基础设施的可持续扩展至关重要。",
+        "relations": [
+          {
+            "label": "C2i",
+            "type": "entity",
+            "desc": "印度AI数据中心节能技术初创公司"
+          },
+          {
+            "label": "Peak XV",
+            "type": "entity",
+            "desc": "知名风险投资机构（原红杉印度/东南亚）"
+          },
+          {
+            "label": "AI数据中心",
+            "type": "tech",
+            "desc": "高耗能基础设施，面临电力瓶颈"
+          },
+          {
+            "label": "能源效率",
+            "type": "resource",
+            "desc": "制约AI算力规模扩张的关键因素"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI算力竞赛正从单纯的硬件堆砌转向‘算力-能效’综合解决方案的竞争，节能技术成为新护城河。",
+            "全球资本正积极布局AI基础设施的‘薄弱环节’（如电力、冷却），印度初创生态在该领域展现出活力。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI基础设施能效解决方案相关板块",
+          "risk": "HIGH",
+          "thesis": "随着AI数据中心规模指数级增长，提升能源利用效率的技术提供商将获得巨大市场空间，但技术路径和商业化存在不确定性。"
+        },
+        "confidence": 84,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1565937919463?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "黑石12亿美元支持印度AI基建公司",
+        "fullTitle": "黑石集团支持印度AI基础设施公司Neysa融资高达12亿美元",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "黑石集团支持印度AI基础设施公司Neysa进行高达12亿美元的融资。Neysa的目标是随着本地AI计算需求的加速，未来部署超过20,000个GPU。这标志着全球顶级私募资本正大规模押注印度本土AI基础设施建设，以响应印度政府推动国内AI生态发展的战略。",
+        "relations": [
+          {
+            "label": "Neysa",
+            "type": "entity",
+            "desc": "印度AI云与基础设施公司"
+          },
+          {
+            "label": "黑石集团",
+            "type": "entity",
+            "desc": "全球最大另类资产管理公司"
+          },
+          {
+            "label": "GPU集群",
+            "type": "resource",
+            "desc": "AI算力的核心硬件资源"
+          },
+          {
+            "label": "印度AI本土化",
+            "type": "tech",
+            "desc": "印度政府推动建立自主可控AI基础设施的战略"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "印度正成为全球AI资本竞赛的新兴主战场，其庞大的数据、人才市场与政策支持吸引巨额投资。",
+            "私募巨头（如黑石）大规模介入，表明AI基础设施被视为具有长期稳定现金流的资产类别，投资逻辑向‘数字地产’靠拢。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "印度AI基础设施及上游硬件供应链",
+          "risk": "MEDIUM",
+          "thesis": "印度AI本土化战略将催生持续多年的基础设施投资周期，参与其中的龙头公司和硬件供应商将直接受益。"
         },
         "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1696586958401?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "OpenClaw创始人加入OpenAI",
+        "fullTitle": "OpenClaw工具创始人Peter Steinberger加入OpenAI",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "OpenAI宣布，开源项目OpenClaw的创建者Peter Steinberger已加入公司。同时，OpenClaw项目将继续作为开源项目存在。这表明OpenAI持续吸纳顶尖AI工程人才，以增强其技术实力。将原项目保持开源，有助于维持开发者社区关系并避免垄断指责。",
+        "relations": [
+          {
+            "label": "Peter Steinberger",
+            "type": "entity",
+            "desc": "开源工具OpenClaw的创建者，AI工程师"
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "领先的AI研究公司，积极招募人才"
+          },
+          {
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "一款开源AI工具或框架"
+          },
+          {
+            "label": "人才竞争",
+            "type": "risk",
+            "desc": "AI行业最核心的竞争领域之一"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "顶级AI公司的人才争夺战已从研究员扩展到顶尖工具开发者，旨在构建更完整、高效的开发与部署生态。",
+            "在吸纳人才的同时保持其原项目的开源性，是平衡商业闭环与开源社区影响力的公关与战略手段。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "OpenAI及其生态关联公司",
+          "risk": "LOW",
+          "thesis": "顶尖人才的持续汇聚是维持OpenAI技术领先地位和长期竞争力的最关键因素，利好其长期发展前景。"
+        },
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1583041948345?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1507337520976?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "India Tightens Broker Loan Rules",
-        "fullTitle": "India Curbs Loans Extended to Brokers in Blow to Trading Volumes",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "India's central bank has tightened rules for loans taken by firms engaged in proprietary trading and offering client leverage. This is the latest regulatory measure aimed at curbing speculative market activity in the country. The move is expected to reduce trading volumes and liquidity in Indian equity and commodity markets. It reflects a broader regulatory trend of de-risking financial systems.",
+        "title": "Laopu, CMOC Join Hang Seng Index",
+        "fullTitle": "Laopu Gold, CMOC Shares Jump on Addition to Hang Seng Index",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Shares of Chinese jeweler Laopu Gold and miner CMOC Group rallied in Hong Kong. The surge followed their inclusion in the Hang Seng Index after its quarterly review. This inclusion typically increases visibility and attracts passive fund inflows. The move reflects the index provider's assessment of their market representation and liquidity.",
         "relations": [
           {
-            "label": "Reserve Bank of India",
+            "label": "Laopu Gold Co.",
             "type": "entity",
-            "desc": "India's central bank implementing the regulatory change"
+            "desc": "Chinese jewelry company added to Hang Seng Index."
           },
           {
-            "label": "Proprietary Trading",
+            "label": "CMOC Group Ltd.",
+            "type": "entity",
+            "desc": "Chinese mining company added to Hang Seng Index."
+          },
+          {
+            "label": "Hang Seng Indexes Co.",
+            "type": "entity",
+            "desc": "Compiler of Hong Kong's benchmark equity index."
+          },
+          {
+            "label": "Hong Kong Stock Market",
+            "type": "entity",
+            "desc": "Market where the index inclusion triggered a rally."
+          },
+          {
+            "label": "Index Funds / Passive Flow",
             "type": "risk",
-            "desc": "High-risk trading activity targeted by the new rules"
-          },
-          {
-            "label": "Market Liquidity",
-            "type": "resource",
-            "desc": "Expected to decrease due to reduced leverage"
-          },
-          {
-            "label": "Speculative Activity",
-            "type": "risk",
-            "desc": "Primary target of the regulatory tightening"
+            "desc": "Key driver of price movement post-inclusion."
           }
         ],
         "analysis": {
           "strategic": [
-            "Regulatory action signals a shift towards market stability over growth, potentially cooling overheated sectors.",
-            "Creatives arbitrage opportunities for institutional players with strong balance sheets versus leveraged retail brokers."
+            "Index inclusion is a significant liquidity and credibility event for constituent companies, often leading to sustained re-rating.",
+            "Highlights ongoing rebalancing of major indices towards specific sectors or geographies, influencing global capital allocation."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Indian Brokerage Firms (e.g., Zerodha, ICICI Securities)",
+          "action": "LONG",
+          "asset": "Laopu Gold (HK), CMOC Group (HK)",
           "risk": "MEDIUM",
-          "thesis": "Reduced leverage will directly impact broker revenues from trading commissions and margin financing, leading to potential earnings downgrades and stock price pressure in the near term."
+          "thesis": "Initial post-inclusion rally may be followed by sustained support from passive and benchmark-tracking funds, providing a technical floor. Monitor for profit-taking after the initial surge."
         },
-        "confidence": 88,
+        "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1620087115688?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1554185989362?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "China Stock Rally Stalls on Earnings",
-        "fullTitle": "China’s Stock Bull Run Falters With Earnings Set to Underwhelm",
+        "title": "Warner Bros Reconsiders Paramount Sale",
+        "fullTitle": "Warner Bros Weighs Reopening Sale Talks With Paramount",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "The outlook for Chinese equities is darkening due to a worsening corporate earnings picture. Investors are concerned that Lunar New Year holiday spending may not be sufficient to reignite the recent market rally. This highlights a disconnect between market sentiment and fundamental economic performance. The situation increases vulnerability to a broader market correction.",
+        "summary": "Warner Bros Discovery is considering reopening sale talks with Paramount Skydance Corp. after receiving an amended offer. This indicates ongoing consolidation pressures in the media and entertainment sector. The deal, if revived, could significantly reshape the competitive landscape. Talks are at a preliminary stage, subject to due diligence and regulatory scrutiny.",
         "relations": [
           {
-            "label": "Chinese Equities",
-            "type": "asset",
-            "desc": "Asset class facing downward pressure from weak fundamentals"
-          },
-          {
-            "label": "Corporate Earnings",
-            "type": "resource",
-            "desc": "Key fundamental driver showing deterioration"
-          },
-          {
-            "label": "Lunar New Year Spending",
+            "label": "Warner Bros Discovery Inc.",
             "type": "entity",
-            "desc": "Potential short-term catalyst viewed as insufficient"
+            "desc": "Media conglomerate reconsidering acquisition talks."
           },
           {
-            "label": "Market Sentiment",
+            "label": "Paramount Skydance Corp.",
+            "type": "entity",
+            "desc": "Target company in potential media M&A deal."
+          },
+          {
+            "label": "Media Consolidation",
             "type": "risk",
-            "desc": "Shifting from bullish to cautious due to fundamentals"
+            "desc": "Strategic trend driving this potential transaction."
+          },
+          {
+            "label": "M&A / Deal Flow",
+            "type": "risk",
+            "desc": "Key market activity with significant valuation implications."
+          },
+          {
+            "label": "Regulatory Scrutiny",
+            "type": "risk",
+            "desc": "Major hurdle for large-scale media mergers."
           }
         ],
         "analysis": {
           "strategic": [
-            "Weak earnings expose the fragility of sentiment-driven rallies in China, increasing systemic risk if confidence erodes further.",
-            "This may force policymakers to consider more direct market-support measures beyond consumer stimulus to maintain stability."
+            "A potential WBD-Paramount merger is a defensive move against streaming dominance and fragmenting traditional revenue, aiming for scale and cost synergies.",
+            "Highlights intense pressure on legacy media assets to consolidate or partner to compete with tech-led streaming platforms."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "CSI 300 Index / MSCI China ETF",
+          "action": "LONG",
+          "asset": "Warner Bros Discovery (WBD), Paramount Global (PARA)",
           "risk": "HIGH",
-          "thesis": "Valuations remain elevated relative to deteriorating earnings fundamentals. A sentiment shift could trigger significant outflows and a correction, especially in overhyped consumer and tech sectors."
+          "thesis": "M&A speculation can drive short-term volatility and potential upside. A deal would be accretive through synergies but carries high execution and regulatory risk. Arbitrage opportunities may emerge."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1528724450567?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1648897577183?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Cannabis Industry Banking Crisis",
-        "fullTitle": "The Legal Weed Business Is Booming. Bank Access Isn't",
+        "title": "Bonds Rise on Fed Cut Hopes",
+        "fullTitle": "Bonds Edge Up on Fed Rate-Cut Bets, Yen Weakens",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Despite legalization and business growth, cannabis companies in the US face severe banking restrictions. They operate largely on cash, cannot use credit cards, and have prohibitive loan terms. This creates significant operational, security, and scaling challenges. The disconnect between state legality and federal banking laws remains the core obstacle.",
+        "summary": "Bonds gained and equities steadied following benign US inflation data. The data reinforced market expectations for Federal Reserve interest rate cuts later this year. This helped calm markets previously unsettled by concerns over AI-driven market disruption. Concurrently, the Japanese yen weakened amid the shifting global rate outlook.",
         "relations": [
           {
-            "label": "Cannabis Companies",
-            "type": "entity",
-            "desc": "Businesses hampered by lack of financial services"
+            "label": "US Treasury Bonds",
+            "type": "asset",
+            "desc": "Asset class gaining on rate cut expectations."
           },
           {
-            "label": "Banking Access",
+            "label": "Federal Reserve",
+            "type": "entity",
+            "desc": "Central bank whose policy outlook drives market moves."
+          },
+          {
+            "label": "US Inflation (CPI/PCE)",
             "type": "resource",
-            "desc": "Critical infrastructure denied due to federal law"
+            "desc": "Key economic data point influencing Fed policy."
           },
           {
-            "label": "Cash-Based Operations",
+            "label": "Japanese Yen (JPY)",
+            "type": "asset",
+            "desc": "Currency weakening due to interest rate differentials."
+          },
+          {
+            "label": "AI Market Disruption Fears",
             "type": "risk",
-            "desc": "Major security and logistical risk for the industry"
-          },
-          {
-            "label": "SAFE Banking Act",
-            "type": "entity",
-            "desc": "Proposed legislation to resolve the banking issue"
+            "desc": "Previous market stressor being calmed by macro news."
           }
         ],
         "analysis": {
           "strategic": [
-            "The banking gap creates a high barrier to entry and consolidation, favoring large, well-capitalized players who can manage cash risks.",
-            "This systemic inefficiency represents a massive future opportunity for fintechs and banks if/when federal regulations change."
+            "Market pricing remains highly sensitive to inflation prints, indicating a fragile consensus on the 'soft landing' narrative and Fed policy path.",
+            "Divergence in central bank policies (Fed dovishness vs. BoJ cautiousness) is creating pronounced FX moves, particularly JPY weakness."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Large MSOs (Multi-State Operators) e.g., Curaleaf, Green Thumb",
-          "risk": "HIGH",
-          "thesis": "Large operators have the scale and capital to navigate the cash-heavy environment. They are best positioned to acquire struggling smaller players and will be the primary beneficiaries when banking reform eventually passes, leading to significant margin expansion."
+          "asset": "Long-duration US Treasuries (TLT)",
+          "risk": "MEDIUM",
+          "thesis": "Continued dovish interpretation of inflation data supports bond prices. Positioning for the initiation of a Fed cutting cycle favors duration. Risk is faster-than-expected economic re-acceleration."
         },
-        "confidence": 82,
+        "confidence": 83,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1603965549725?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1685856206253?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "DHS Subpoenas Anti-ICE Accounts",
-        "fullTitle": "Homeland Security Subpoenas to Unmask Anti-ICE Accounts",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "The Department of Homeland Security has reportedly sent hundreds of subpoenas to tech companies. The goal is to identify the owners of social media accounts critical of Immigration and Customs Enforcement (ICE). This represents a significant escalation in government pressure on tech platforms regarding user anonymity. It raises major concerns about free speech, privacy, and state surveillance.",
-        "relations": [
-          {
-            "label": "Department of Homeland Security (DHS)",
-            "type": "entity",
-            "desc": "Government agency issuing the subpoenas"
-          },
-          {
-            "label": "Tech Companies (e.g., Twitter, Meta)",
-            "type": "entity",
-            "desc": "Platforms receiving the legal demands"
-          },
-          {
-            "label": "User Anonymity / Privacy",
-            "type": "risk",
-            "desc": "Core internet principle under direct threat"
-          },
-          {
-            "label": "Free Speech Chilling Effect",
-            "type": "risk",
-            "desc": "Potential outcome of the government action"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This action tests the limits of tech company compliance and could trigger a legal battle defining online speech protections in the US.",
-            "Increased regulatory scrutiny on user data handling may accelerate the development and adoption of privacy-enhancing technologies and decentralized platforms."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Major Social Media Platforms (Meta, X Corp.)",
-          "risk": "HIGH",
-          "thesis": "Forced compliance with broad subpoenas damages user trust and platform brand, potentially accelerating user migration. It also introduces new legal and operational costs related to handling such requests at scale."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1613713391675?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Safety Concerns at xAI Over Grok",
-        "fullTitle": "Is Safety 'Dead' at xAI? Musk Pushes 'Unhinged' Grok",
+        "title": "Peak XV Backs Indian AI Power Startup C2i",
+        "fullTitle": "Peak XV Backs Indian Startup C2i to Fix AI Data Center Power Bottleneck",
         "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Elon Musk is reportedly working to make xAI's Grok chatbot 'more unhinged,' according to a former employee. This suggests a deliberate move away from the AI safety guardrails emphasized by competitors. The strategy aims to differentiate Grok with edgy, less filtered responses. It raises questions about potential brand risks and regulatory backlash for the startup.",
+        "summary": "Indian startup C2i has raised $15 million in funding led by Peak XV Partners. The company is testing a 'grid-to-GPU' approach to reduce power losses in AI data centers. This addresses a critical bottleneck as AI compute demand strains global power infrastructure. The investment highlights venture capital focus on enabling AI infrastructure.",
         "relations": [
           {
-            "label": "Elon Musk / xAI",
+            "label": "C2i",
             "type": "entity",
-            "desc": "Company and leader pursuing the controversial strategy"
+            "desc": "Indian startup optimizing AI data center power efficiency."
           },
           {
-            "label": "Grok Chatbot",
+            "label": "Peak XV Partners",
+            "type": "entity",
+            "desc": "Venture capital firm leading the investment round."
+          },
+          {
+            "label": "AI Data Center Power Efficiency",
             "type": "tech",
-            "desc": "AI product being developed with fewer safety constraints"
+            "desc": "Critical technological bottleneck being addressed."
           },
           {
-            "label": "AI Safety / Alignment",
-            "type": "risk",
-            "desc": "Industry concern being deprioritized by xAI"
+            "label": "Grid-to-GPU Architecture",
+            "type": "tech",
+            "desc": "C2i's proposed solution for reducing power transmission loss."
           },
           {
-            "label": "Brand Risk",
-            "type": "risk",
-            "desc": "Potential damage from offensive or harmful AI outputs"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Musk's strategy creates a niche for 'unfiltered' AI, appealing to a specific user base but isolating the company from mainstream enterprise and regulatory acceptance.",
-            "This approach could force a broader industry debate and regulatory definition on the minimum acceptable safety standards for public AI deployment."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Private xAI valuation / Competing AI Startups (Anthropic)",
-          "risk": "HIGH",
-          "thesis": "The 'unhinged' strategy carries high reputational and regulatory risk, potentially limiting xAI's addressable market and partnership opportunities compared to safety-focused rivals, impacting its long-term valuation prospects."
-        },
-        "confidence": 84,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1649501409888?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "VC Focus on Overlooked Founders",
-        "fullTitle": "VC Exec Doubles Down on Overlooked Founders",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "Stacy Brown-Philpot's Cherryrock Capital is focusing on overlooked founders, contrasting with the Silicon Valley trend of chasing mega-rounds and buzzy AI deals. The fund operates like a throwback to venture capital's earlier, more relationship-driven days. This strategy targets undervalued talent and niche markets. It represents a contrarian bet within the current venture landscape.",
-        "relations": [
-          {
-            "label": "Stacy Brown-Philpot / Cherryrock Capital",
-            "type": "entity",
-            "desc": "VC firm and executive pursuing the strategy"
-          },
-          {
-            "label": "Overlooked Founders",
+            "label": "AI Infrastructure Enablers",
             "type": "resource",
-            "desc": "Investment thesis focusing on non-traditional talent"
-          },
-          {
-            "label": "Venture Capital Trend",
-            "type": "risk",
-            "desc": "Current market favoring large, hype-driven AI deals"
-          },
-          {
-            "label": "Early-Stage VC",
-            "type": "entity",
-            "desc": "Investment style being revisited"
+            "desc": "Growing investment theme in venture capital."
           }
         ],
         "analysis": {
           "strategic": [
-            "This niche strategy avoids inflated valuations in overheated sectors and may discover high-potential companies in underserved markets, offering asymmetric returns.",
-            "If successful, it could inspire a segment of the VC market to return to fundamentals, diversifying the startup ecosystem away from herd mentality."
+            "Power availability and efficiency are emerging as primary constraints on AI scale, creating a new investment frontier in 'picks and shovels' for AI infrastructure.",
+            "India is positioning itself not just as an AI consumer but as an innovator in solving core infrastructure challenges, attracting strategic capital."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Cherryrock Capital Fund / Portfolio Companies",
-          "risk": "MEDIUM",
-          "thesis": "Investing in overlooked talent pools offers access to deals at more reasonable valuations with less competition. This contrarian approach has historically generated top-tier VC returns by identifying opportunities before they become mainstream."
+          "asset": "Power Management & Efficiency Tech Stocks, Indian Tech VC Funds",
+          "risk": "HIGH",
+          "thesis": "Companies solving the AI power bottleneck represent high-growth potential. This is an early-stage venture bet on a critical enabling technology. Indirect exposure via listed power tech firms is less risky."
         },
-        "confidence": 86,
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1530650081405?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Blackstone Backs India's Neysa in $1.2B AI Push",
+        "fullTitle": "Blackstone Backs Neysa in up to $1.2B Financing for India AI Infrastructure",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Blackstone is backing Indian AI cloud platform Neysa with up to $1.2 billion in financing. Neysa is targeting deployments of over 20,000 GPUs to build domestic AI infrastructure. The move aligns with India's national push to develop local AI compute capacity. It signifies massive private capital commitment to a strategic national initiative.",
+        "relations": [
+          {
+            "label": "Neysa",
+            "type": "entity",
+            "desc": "Indian AI cloud platform targeting large-scale GPU deployment."
+          },
+          {
+            "label": "Blackstone",
+            "type": "entity",
+            "desc": "Global alternative asset manager providing major financing."
+          },
+          {
+            "label": "Domestic AI Compute Sovereignty",
+            "type": "strategic",
+            "desc": "National strategic goal driving this investment."
+          },
+          {
+            "label": "GPU Cluster Deployment",
+            "type": "resource",
+            "desc": "Core physical asset being financed and built."
+          },
+          {
+            "label": "India AI Infrastructure",
+            "type": "entity",
+            "desc": "Strategic sector receiving massive capital inflow."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Sovereign AI compute capacity is becoming a geopolitical and economic priority, with nations like India incentivizing domestic infrastructure to reduce dependency and foster innovation.",
+            "Large-scale private equity is moving beyond application-layer AI bets to fund the foundational compute layer, recognizing its strategic value and potential returns."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI Infrastructure Providers (e.g., NVIDIA, AMD, Data Center REITs), India-focused Infrastructure Funds",
+          "risk": "MEDIUM",
+          "thesis": "Capital flows into national AI infrastructure projects will directly benefit GPU vendors and data center builders. This is a macro-trend play on global AI build-out, with India as a high-growth region."
+        },
+        "confidence": 88,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1665395143935?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "OpenClaw Creator Joins OpenAI",
+        "fullTitle": "OpenClaw Creator Peter Steinberger Joins OpenAI",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "Peter Steinberger, the creator of the OpenClaw project, has joined OpenAI. OpenAI announced that the OpenClaw project will continue as an open-source initiative. This represents a talent acquisition by a leading AI lab, absorbing specialized expertise. The move underscores the competitive race for top AI research and engineering talent.",
+        "relations": [
+          {
+            "label": "Peter Steinberger",
+            "type": "entity",
+            "desc": "Developer and creator of the OpenClaw project."
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Leading AI research lab that hired Steinberger."
+          },
+          {
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "Open-source project continuing under community stewardship."
+          },
+          {
+            "label": "AI Talent Acquisition",
+            "type": "risk",
+            "desc": "Key competitive dynamic in the AI industry."
+          },
+          {
+            "label": "Open Source AI",
+            "type": "tech",
+            "desc": "Development model for the continued OpenClaw project."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Major AI labs are aggressively acquiring niche talent and projects to bolster their capabilities and neutralize potential competitive threats from the open-source community.",
+            "The decision to keep OpenClaw open-source is a strategic goodwill gesture, balancing talent acquisition with community relations and ecosystem development."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "OpenAI (Private), AI Talent Platforms",
+          "risk": "LOW",
+          "thesis": "Strategic talent hires strengthen the core R&D moat of leading AI companies. For public markets, this highlights the critical importance of R&D investment and talent retention in the sector. No direct tradable impact."
+        },
+        "confidence": 85,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1549868808303?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1524285522513?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "India restringe préstamos a corredores",
-        "fullTitle": "India restringe préstamos a corredores, afectando volúmenes",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El banco central de India ha endurecido las normas para los préstamos tomados por empresas que realizan trading por cuenta propia en acciones y materias primas, y que ofrecen apalancamiento a clientes. Esta medida busca reducir la actividad especulativa en los mercados del país. Es probable que restrinja la liquidez disponible para los operadores y reduzca los volúmenes de negociación. Representa un paso regulatorio significativo en el entorno financiero de India.",
+        "title": "Laopu Gold y CMOC entran en Hang Seng",
+        "fullTitle": "Acciones de Laopu Gold y CMOC suben tras inclusión en índice Hang Seng",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Las acciones de Laopu Gold Co. y CMOC Group Ltd. se dispararon en Hong Kong tras ser añadidas al índice de referencia Hang Seng en la revisión trimestral. Esta inclusión probablemente atraerá flujos de inversión pasiva de fondos indexados. Refleja el reconocimiento del índice a empresas chinas en sectores de materiales y joyería. Podría aumentar la liquidez y visibilidad de ambas compañías en el mercado internacional.",
         "relations": [
           {
-            "label": "Reserve Bank of India",
+            "label": "Laopu Gold Co.",
             "type": "entity",
-            "desc": "Banco central que emite la regulación"
+            "desc": "Joyero chino, acciones en Hong Kong"
           },
           {
-            "label": "Trading por cuenta propia",
-            "type": "risk",
-            "desc": "Actividad objetivo de la restricción"
+            "label": "CMOC Group Ltd.",
+            "type": "entity",
+            "desc": "Minera china, productor de cobalto y cobre"
           },
           {
-            "label": "Apalancamiento",
-            "type": "risk",
-            "desc": "Práctica financiera restringida"
+            "label": "Hang Seng Indexes Co.",
+            "type": "entity",
+            "desc": "Proveedor de índices bursátiles de Hong Kong"
           },
           {
-            "label": "Volúmenes de negociación",
+            "label": "Hong Kong Stock Exchange",
+            "type": "entity",
+            "desc": "Bolsa de valores donde cotizan las acciones"
+          },
+          {
+            "label": "Flujos de inversión pasiva",
             "type": "resource",
-            "desc": "Métrica afectada por la medida"
-          },
-          {
-            "label": "Mercados de capitales de India",
-            "type": "entity",
-            "desc": "Ámbito de impacto de la regulación"
+            "desc": "Capital que sigue índices de referencia"
           }
         ],
         "analysis": {
           "strategic": [
-            "La regulación refleja una postura más cautelosa del banco central ante el riesgo sistémico y la especulación.",
-            "Podría impulsar una migración de actividad a mercados o instrumentos menos regulados, o frenar el crecimiento del mercado minorista."
+            "La inclusión en índices principales es un catalizador de precio a corto plazo y mejora el perfil de financiación a largo plazo.",
+            "Refuerza la tendencia de los índices globales a incluir más empresas chinas, a pesar de tensiones geopolíticas."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Brokers y casas de bolsa indias (ej. ICICI Securities, Zerodha)",
+          "action": "LONG",
+          "asset": "9988.HK (CMOC), 未知 (Laopu Gold)",
           "risk": "MEDIUM",
-          "thesis": "La restricción al crédito para trading y apalancamiento reducirá directamente los ingresos por comisiones y posiblemente la base de clientes activos de los brokers, presionando sus resultados."
+          "thesis": "La inclusión generará compras forzosas por parte de fondos indexados (ETF y institucionales), proporcionando soporte técnico y de liquidez. El sector de materiales/minería se beneficia de la transición energética."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1635660251350?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1670542908824?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Ganancias frenan rally chino",
-        "fullTitle": "Perspectivas de ganancias frenan rally bursátil chino",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El panorama de ganancias corporativas en China se está deteriorando, oscureciendo las perspectivas para las acciones del país. Los inversores son cautelosos, ya que el gasto durante las vacaciones del Año Nuevo Lunar podría no ser suficiente para reactivar un repunte sostenido. Esto sugiere que el reciente impulso alcista en el mercado podría enfrentar fuertes headwinds fundamentales. La confianza del inversor está siendo probada por los fundamentos económicos subyacentes.",
+        "title": "Warner Bros reconsidera venta a Paramount",
+        "fullTitle": "Warner Bros evalúa reabrir negociaciones de venta con Paramount",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Warner Bros Discovery Inc. está considerando reabrir conversaciones de venta con Paramount Skydance Corp. tras recibir una oferta modificada. Esto indica una posible consolidación masiva en la industria del entretenimiento y los medios. Un acuerdo alteraría significativamente el panorama competitivo del streaming y los estudios. Las negociaciones previas habían fracasado, por lo que la nueva oferta es crucial.",
         "relations": [
           {
-            "label": "Acciones chinas",
-            "type": "asset",
-            "desc": "Clase de activo afectada"
+            "label": "Warner Bros Discovery Inc.",
+            "type": "entity",
+            "desc": "Conglomerado de medios y entretenimiento"
           },
           {
-            "label": "Ganancias corporativas",
+            "label": "Paramount Skydance Corp.",
+            "type": "entity",
+            "desc": "Compañía de medios objetivo de adquisición"
+          },
+          {
+            "label": "Consolidación de medios",
+            "type": "risk",
+            "desc": "Riesgo/oportunidad de fusiones en el sector"
+          },
+          {
+            "label": "Tony Czuczka",
+            "type": "entity",
+            "desc": "Periodista de Bloomberg"
+          },
+          {
+            "label": "Oferta modificada",
             "type": "resource",
-            "desc": "Driver fundamental que se debilita"
-          },
-          {
-            "label": "Año Nuevo Lunar",
-            "type": "entity",
-            "desc": "Evento cíclico con impacto económico"
-          },
-          {
-            "label": "Sentimiento del inversor",
-            "type": "risk",
-            "desc": "Factor clave de mercado"
-          },
-          {
-            "label": "Crecimiento económico chino",
-            "type": "entity",
-            "desc": "Contexto macroeconómico subyacente"
+            "desc": "Nuevos términos financieros y estructurales"
           }
         ],
         "analysis": {
           "strategic": [
-            "La desconexión entre el sentimiento del mercado y los fundamentos corporativos señala vulnerabilidad y posible corrección.",
-            "Refleja los persistentes desafíos estructurales en la economía china, limitando el potencial de rallys puramente impulsados por estímulos."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETFs de acciones chinas (ej. MCHI, FXI)",
-          "risk": "HIGH",
-          "thesis": "El deterioro de los fundamentos (ganancias) no respalda las valoraciones actuales, lo que probablemente lleve a una reevaluación a la baja, especialmente si el gasto festivo decepciona."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1611444244828?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Negocio cannabis sin banca",
-        "fullTitle": "Negocio legal cannabis florece sin acceso bancario",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "A pesar del crecimiento de la industria legal del cannabis en EE.UU., las empresas del sector siguen enfrentándose a una grave exclusión financiera. El efectivo sigue siendo el rey, las tarjetas de crédito están fuera de los límites y los préstamos son prohibitivos debido a las restricciones bancarias federales. Esto crea enormes ineficiencias operativas y riesgos de seguridad. La desconexión entre la legalidad estatal y la prohibición federal persiste como un cuello de botella crítico.",
-        "relations": [
-          {
-            "label": "Empresas de cannabis",
-            "type": "entity",
-            "desc": "Sector afectado por la exclusión financiera"
-          },
-          {
-            "label": "Sistema bancario estadounidense",
-            "type": "entity",
-            "desc": "Infraestructura que restringe el acceso"
-          },
-          {
-            "label": "Ley federal vs. estatal",
-            "type": "risk",
-            "desc": "Conflicto regulatorio central"
-          },
-          {
-            "label": "Transacciones en efectivo",
-            "type": "risk",
-            "desc": "Solución operativa riesgosa e ineficiente"
-          },
-          {
-            "label": "SAFE Banking Act",
-            "type": "entity",
-            "desc": "Posible solución legislativa pendiente"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La falta de acceso bancario mantiene artificialmente altos los costos operativos y limita la consolidación y el crecimiento profesionalizado del sector.",
-            "Crea una oportunidad para soluciones financieras alternativas (fintech, cripto) que operen en los vacíos regulatorios, aunque con sus propios riesgos."
+            "Una fusión crearía un gigante mediático para competir con Disney, Netflix y plataformas tecnológicas, pero enfrentaría grandes desafíos regulatorios.",
+            "Refleja la presión continua en los estudios tradicionales por la deuda, la caída de la TV lineal y las altas inversiones en streaming."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas de cannabis con fuerte gestión de efectivo y escala (ej. Curaleaf, Trulieve en mercados selectos)",
+          "asset": "WBD (Warner Bros Discovery)",
           "risk": "HIGH",
-          "thesis": "Las empresas que sobreviven y prosperan en este entorno hostil están construyendo ventajas operativas únicas. Cualquier avance en la legislación bancaria (SAFE Act) desbloquearía un valor significativo."
+          "thesis": "Si se materializa, la adquisición podría generar sinergias de costos y mejorar la escala en contenido y distribución, aunque la integración sería compleja y costosa. Posible rally especulativo."
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1583328628368?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1533943240110?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "DHS investiga cuentas anti-ICE",
-        "fullTitle": "DHS emite cientos de citaciones para cuentas anti-ICE",
-        "classification": "CONFIDENTIAL",
+        "title": "Bonos suben por expectativas de recortes de la Fed",
+        "fullTitle": "Bonos ganan tras datos de inflación benignos en EE.UU.",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "El Departamento de Seguridad Nacional (DHS) de EE.UU. ha estado aumentando la presión sobre las empresas tecnológicas, enviando cientos de citaciones para identificar a los propietarios de cuentas en línea que critican a la Agencia de Inmigración y Control de Aduanas (ICE). Esta campaña representa un esfuerzo por desenmascarar a los disidentes anónimos en línea. Plantea serias preocupaciones sobre la libertad de expresión y la vigilancia gubernamental. Indica una postura más agresiva del gobierno hacia la oposición en línea en temas de inmigración.",
+        "summary": "Los bonos ganaron terreno y las acciones se estabilizaron después de que datos benignos de inflación en EE.UU. reforzaran las expectativas de que la Reserva Federal recortará las tasas de interés este año. Esto calmó los mercados, que estaban inquietos por preocupaciones sobre la disrupción de la inteligencia artificial. El yen se debilitó en este entorno de aversión al riesgo moderada.",
         "relations": [
           {
-            "label": "Departamento de Seguridad Nacional (DHS)",
+            "label": "Federal Reserve (Fed)",
             "type": "entity",
-            "desc": "Agencia gubernamental emisora de citaciones"
+            "desc": "Banco central de Estados Unidos"
           },
           {
-            "label": "ICE (Immigration and Customs Enforcement)",
-            "type": "entity",
-            "desc": "Agencia objetivo de las críticas"
+            "label": "Bonos del Tesoro EE.UU.",
+            "type": "asset",
+            "desc": "Activo refugio, sensible a expectativas de tasas"
           },
           {
-            "label": "Empresas de tecnología (Big Tech)",
-            "type": "entity",
-            "desc": "Intermediarios obligados a responder"
-          },
-          {
-            "label": "Libertad de expresión / Anonimato",
+            "label": "Inflación (EE.UU.)",
             "type": "risk",
-            "desc": "Derecho potencialmente afectado"
+            "desc": "Riesgo macroeconómico clave para la política monetaria"
           },
           {
-            "label": "Vigilancia gubernamental",
+            "label": "Yen japonés (JPY)",
+            "type": "resource",
+            "desc": "Divisa que se debilita en el entorno actual"
+          },
+          {
+            "label": "Disrupción por IA",
             "type": "risk",
-            "desc": "Táctica empleada por el DHS"
+            "desc": "Preocupación del mercado sobre impacto de la IA"
           }
         ],
         "analysis": {
           "strategic": [
-            "Refleja una tendencia de los gobiernos a utilizar herramientas legales para identificar y posiblemente disuadir la oposición política en línea, enfriando el discurso público.",
-            "Aumenta el riesgo regulatorio y reputacional para las empresas de tecnología, atrapadas entre cumplir la ley y proteger la privacidad de los usuarios."
+            "Los datos de inflación son el principal impulsor de la política de la Fed; un entorno de 'aterrizaje suave' favorece a los activos de riesgo pero limita la subida de bonos.",
+            "La debilidad del yen refleja la divergencia de políticas entre el BoJ (acomodaticia) y la Fed (potencialmente más hawkish a largo plazo)."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Empresas de redes sociales con alta exposición a contenido político (Meta, X)",
+          "action": "LONG",
+          "asset": "Bonos a largo plazo (TLT)",
           "risk": "MEDIUM",
-          "thesis": "Las crecientes demandas gubernamentales para desanonimizar usuarios aumentan los costos de cumplimiento, el riesgo de litigios por privacidad y podrían erosionar la confianza de los usuarios, impactando el engagement."
+          "thesis": "Si la inflación sigue moderándose, la Fed iniciará un ciclo de recortes, lo que es alcista para los precios de los bonos. Los rendimientos podrían caer desde niveles actuales."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1627017226857?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Peak XV respalda a C2i para cuello de botella de energía en IA",
+        "fullTitle": "C2i recauda $15M para eficiencia energética en centros de datos de IA",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "La startup india C2i ha recaudado 15 millones de dólares liderados por Peak XV para abordar el cuello de botella de energía en los centros de datos de IA. La compañía prueba un enfoque 'grid-to-GPU' para reducir las pérdidas de energía. La inversión responde a la creciente presión sobre las redes eléctricas por la demanda de computación de IA. Es un ejemplo de capital de riesgo fluyendo hacia soluciones de infraestructura crítica para IA.",
+        "relations": [
+          {
+            "label": "C2i",
+            "type": "entity",
+            "desc": "Startup india de eficiencia energética para centros de datos"
+          },
+          {
+            "label": "Peak XV Partners",
+            "type": "entity",
+            "desc": "Firma de capital de riesgo (antes Sequoia India/SEA)"
+          },
+          {
+            "label": "Centros de datos de IA",
+            "type": "tech",
+            "desc": "Infraestructura con alta demanda de energía y refrigeración"
+          },
+          {
+            "label": "Eficiencia energética (Grid-to-GPU)",
+            "type": "tech",
+            "desc": "Tecnología para minimizar pérdidas en la cadena de suministro eléctrico"
+          },
+          {
+            "label": "Cuello de botella de energía",
+            "type": "risk",
+            "desc": "Limitación crítica para la expansión de la IA"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La escasez de energía se está convirtiendo en una limitación física clave para el crecimiento de la IA, creando una nueva categoría de inversión en infraestructura.",
+            "India emerge como un hub para innovación en infraestructura de IA, atrayendo capital global para resolver problemas globales."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Sector de infraestructura energética y eficiencia para TI",
+          "risk": "HIGH",
+          "thesis": "Las empresas que resuelvan los problemas de energía y refrigeración para centros de datos de IA capturarán valor en una cadena de suministro restringida. Es una tesis temática a largo plazo."
         },
         "confidence": 87,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1546637306729?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1525225729542?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "¿Seguridad 'muerta' en xAI?",
-        "fullTitle": "¿Está la seguridad 'muerta' en xAI según ex empleado?",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "Según un ex empleado, Elon Musk está trabajando 'activamente' para hacer que el chatbot Grok de xAI sea 'más desquiciado'. Esto sugiere una posible devaluación de los protocolos de seguridad y alineación en el desarrollo de IA dentro de xAI. La filosofía contrasta con el enfoque más cauteloso de otros líderes en IA. Podría posicionar a Grok como un producto más controvertido y con menos restricciones.",
+        "title": "Blackstone respalda a Neysa con $1.2B para IA en India",
+        "fullTitle": "Blackstone financia a Neysa para infraestructura de IA doméstica en India",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Blackstone está respaldando a Neysa con una financiación de hasta 1.200 millones de dólares, mientras India impulsa la construcción de infraestructura de IA doméstica. Neysa tiene como objetivo desplegar más de 20.000 GPUs con el tiempo, ya que la demanda de computación local de IA se acelera. Esto representa una de las mayores apuestas privadas en infraestructura de IA en la región. Alinea el capital global con las prioridades estratégicas nacionales de India.",
         "relations": [
           {
-            "label": "Elon Musk",
+            "label": "Neysa",
             "type": "entity",
-            "desc": "Fundador de xAI impulsando el cambio"
+            "desc": "Plataforma de infraestructura de IA en India"
           },
           {
-            "label": "xAI",
+            "label": "Blackstone",
             "type": "entity",
-            "desc": "Empresa de IA desarrolladora de Grok"
+            "desc": "Gigante global de capital privado e inversiones alternativas"
           },
           {
-            "label": "Grok (chatbot)",
-            "type": "tech",
-            "desc": "Producto de IA siendo modificado"
-          },
-          {
-            "label": "Seguridad en IA / Alineación",
-            "type": "risk",
-            "desc": "Área de desarrollo potencialmente descuidada"
-          },
-          {
-            "label": "Contenido sin restricciones",
-            "type": "risk",
-            "desc": "Posible dirección del producto"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Musk podría estar buscando diferenciar a Grok en un mercado saturado apostando por la polémica y la 'libertad' de expresión, asumiendo riesgos reputacionales y regulatorios.",
-            "Esta estrategia podría atraer a un nicho de usuarios pero alejar a socios empresariales y reguladores, limitando la escalabilidad comercial a gran escala."
-          ]
-        },
-        "investment": {
-          "action": "N/A",
-          "asset": "N/A",
-          "risk": "N/A",
-          "thesis": "xAI es una empresa privada. La noticia es más relevante para el riesgo reputacional de Musk y el panorama competitivo de los asistentes de IA, pero no ofrece un vehículo de inversión directo público."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1654440495777?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "VC apuesta por fundadores ignorados",
-        "fullTitle": "Ejecutiva de VC apuesta por fundadores ignorados",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "En un panorama de capital de riesgo cambiado, donde gran parte de Silicon Valley persigue mega-rondas y acuerdos de IA muy publicitados, Stacy Brown-Philpot está dirigiendo Cherryrock Capital como un retorno a los primeros días del VC. Su estrategia se centra en duplicar la apuesta por fundadores pasados por alto, a menudo de fondos diversos. Esto representa un contrapunto a las tendencias actuales de concentración de capital. Busca valor y oportunidades en segmentos del mercado menos concurridos.",
-        "relations": [
-          {
-            "label": "Stacy Brown-Philpot",
-            "type": "entity",
-            "desc": "Socia gestora de Cherryrock Capital"
-          },
-          {
-            "label": "Cherryrock Capital",
-            "type": "entity",
-            "desc": "Fondo de capital de riesgo"
-          },
-          {
-            "label": "Fundadores pasados por alto / diversos",
+            "label": "GPUs (Unidades de Procesamiento Gráfico)",
             "type": "resource",
-            "desc": "Foco de la estrategia de inversión"
+            "desc": "Hardware crítico para el entrenamiento e inferencia de IA"
           },
           {
-            "label": "Capital de riesgo (VC)",
-            "type": "entity",
-            "desc": "Industria y modelo de negocio"
+            "label": "Infraestructura de IA doméstica",
+            "type": "tech",
+            "desc": "Iniciativa estratégica para reducir dependencia externa"
           },
           {
-            "label": "Tendencias de IA y mega-rondas",
+            "label": "Soberanía tecnológica (India)",
             "type": "risk",
-            "desc": "Tendencia dominante del mercado que se evita"
+            "desc": "Riesgo/oportunidad geopolítico y estratégico"
           }
         ],
         "analysis": {
           "strategic": [
-            "Esta estrategia de nicho aprovecha la saturación y sobrevaloración en los sectores de moda (como la IA), buscando alpha en mercados menos eficientes y con menos competencia.",
-            "Si tiene éxito, podría validar un modelo de VC más diversificado y basado en fundamentos, desafiando la mentalidad de manada prevaleciente en la industria."
+            "India está construyendo activamente capacidades de IA nacionales por razones de seguridad, soberanía de datos y crecimiento económico, atrayendo capital privado masivo.",
+            "La escasez global de GPUs está impulsando inversiones en capacidades de computación a escala, con actores como Blackstone viendo un valor a largo plazo en los activos físicos."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Fondos de VC o plataformas que se centran en diversidad y etapas tempranas (ej. a través de vehículos como AngelList o Republic)",
-          "risk": "HIGH",
-          "thesis": "Apoyar estrategias de inversión contracorriente y centradas en diversidad puede ofrecer acceso a pipelines de deal flow únicos y potencialmente mayores retornos por diversificación y descubrimiento temprano."
+          "asset": "Infraestructura de capital privado en TI/IA",
+          "risk": "MEDIUM",
+          "thesis": "La inversión en infraestructura física de IA (centros de datos, GPUs) es una apuesta defensiva y de alto crecimiento, con flujos de ingresos recurrentes y respaldada por megatendencias."
         },
-        "confidence": 84,
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1504466154711?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Creador de OpenClaw se une a OpenAI",
+        "fullTitle": "Peter Steinberger, creador de OpenClaw, se incorpora a OpenAI",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "OpenAI anunció que Peter Steinberger, el creador de la herramienta OpenClaw, se ha unido a la compañía. OpenAI declaró que OpenClaw continuará como un proyecto de código abierto. Este movimiento representa la adquisición de talento especializado por parte del líder de IA. Muestra la estrategia de OpenAI de integrar herramientas externas y a sus desarrolladores.",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Empresa líder en investigación y desarrollo de IA"
+          },
+          {
+            "label": "Peter Steinberger",
+            "type": "entity",
+            "desc": "Desarrollador, creador de OpenClaw"
+          },
+          {
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "Herramienta de código abierto (naturaleza no especificada en la noticia)"
+          },
+          {
+            "label": "Código abierto (Open Source)",
+            "type": "tech",
+            "desc": "Modelo de desarrollo de software"
+          },
+          {
+            "label": "Guerra por el talento en IA",
+            "type": "risk",
+            "desc": "Competencia intensa por ingenieros e investigadores clave"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "OpenAI continúa su estrategia de 'acqhires' (adquisición para contratar) para absorber talento y propiedad intelectual de nicho, consolidando su ventaja en recursos humanos.",
+            "Mantener proyectos como código abierto mejora la reputación de la empresa y fomenta la adopción de ecosistemas, incluso cuando integra el conocimiento internamente."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "OpenAI (a través de vehículos privados o ecosistema)",
+          "risk": "LOW",
+          "thesis": "La continua atracción del mejor talento refuerza la ventaja competitiva a largo plazo de OpenAI en la carrera de la IA. Es un indicador positivo de la salud de su pipeline de I+D."
+        },
+        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1546243139039?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1690161259096?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
