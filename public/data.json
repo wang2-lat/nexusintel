@@ -1,828 +1,823 @@
 {
-  "generated_at": "2026-02-17T02:25:02.401441",
+  "generated_at": "2026-02-18T02:28:15.515187",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "美股期货下跌，市场情绪谨慎",
-        "fullTitle": "纳斯达克期货下跌，美国市场假期后重开前情绪谨慎",
+        "title": "日本会计团体寻求放宽保险债券损失规则",
+        "fullTitle": "日本会计团体寻求放宽寿险公司政府债券账面损失规则",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "美国股指期货延续跌势，国债收益率小幅上升，为假期后市场重开奠定了谨慎基调。这表明市场参与者对即将到来的交易时段存在担忧。这种情绪可能源于对宏观经济数据或地缘政治风险的预期。",
+        "summary": "日本一个会计团体正寻求放宽寿险公司如何记录政府债券账面损失的规则。此举旨在缓解因利率上升导致债券价值下跌对保险公司财务报表造成的压力。这可能为日本寿险业提供会计灵活性，并影响其投资组合管理策略。",
         "relations": [
           {
-            "label": "纳斯达克期货",
+            "label": "日本会计团体",
             "type": "entity",
-            "desc": "反映科技股市场预期的金融衍生品"
+            "desc": "推动规则变更的日本专业会计组织"
           },
           {
-            "label": "美国国债",
+            "label": "日本寿险公司",
             "type": "entity",
-            "desc": "被视为避险资产的政府债券"
+            "desc": "受政府债券会计规则影响的主要金融机构"
           },
           {
-            "label": "市场情绪",
-            "type": "risk",
-            "desc": "投资者整体心理状态，影响短期市场走势"
+            "label": "政府债券",
+            "type": "asset",
+            "desc": "寿险公司核心资产，其账面损失是规则变更焦点"
           },
           {
-            "label": "假期后交易",
+            "label": "会计规则",
             "type": "risk",
-            "desc": "流动性恢复期，通常伴随价格波动"
+            "desc": "影响财务报表和资本充足率的关键监管框架"
           }
         ],
         "analysis": {
           "strategic": [
-            "市场在重大事件或数据公布前呈现避险情绪，可能预示短期波动性上升。",
-            "国债与股指期货的背离走势，反映了资金在风险资产与避险资产间的重新配置。"
+            "规则放宽可能短期提振日本寿险股情绪，因其缓解了利率风险对利润表的冲击。",
+            "长期看，此举可能削弱财务透明度，增加投资者对日本金融机构真实风险敞口的评估难度。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "日本主要寿险公司股票（如第一生命、明治安田生命）",
+          "risk": "MEDIUM",
+          "thesis": "会计规则放宽预期将减轻寿险公司短期盈利压力，可能带来估值修复机会。"
+        },
+        "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1681348521163?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "CFTC面临各州对预测市场监管权的反对",
+        "fullTitle": "CFTC面临各州对其成为预测市场唯一监管者的反对",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "美国商品期货交易委员会正面临来自各州越来越多的反对，因其试图成为预测市场的唯一监管机构。这反映了联邦与州政府在监管新兴金融科技领域上的管辖权之争。监管不确定性可能阻碍预测市场行业的创新与发展。",
+        "relations": [
+          {
+            "label": "CFTC",
+            "type": "entity",
+            "desc": "美国商品期货交易委员会，试图主导预测市场监管"
+          },
+          {
+            "label": "美国各州",
+            "type": "entity",
+            "desc": "反对CFTC独家监管权，维护自身监管权力"
+          },
+          {
+            "label": "预测市场",
+            "type": "tech",
+            "desc": "新兴的金融/信息市场，涉及事件结果预测交易"
+          },
+          {
+            "label": "监管管辖权",
+            "type": "risk",
+            "desc": "联邦与州政府之间的核心冲突点"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "监管权之争可能导致美国预测市场发展滞后，为其他司法管辖区（如欧盟）创造吸引相关企业的机会。",
+            "长期监管框架不明朗将增加相关初创企业和投资者的合规风险与成本。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "纳斯达克100指数期货",
-          "risk": "MEDIUM",
-          "thesis": "市场重开前的谨慎情绪和期货下跌趋势，可能预示着科技股开盘面临压力，适合短期做空策略。"
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1614138828236?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "亚航品牌部门拟借壳登陆纳斯达克",
-        "fullTitle": "亚航品牌部门接近通过借壳方式在纳斯达克上市",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "亚航联合创始人表示，其品牌部门正接近与一家纳斯达克上市公司达成借壳上市交易，预计于今年晚些时候完成。新成立的实体估值约为15亿美元。此举旨在为亚航的品牌业务开辟独立的融资渠道。",
-        "relations": [
-          {
-            "label": "亚航",
-            "type": "entity",
-            "desc": "亚洲知名低成本航空公司"
-          },
-          {
-            "label": "托尼·费尔南德斯",
-            "type": "entity",
-            "desc": "亚航联合创始人及核心人物"
-          },
-          {
-            "label": "借壳上市",
-            "type": "tech",
-            "desc": "通过收购已上市公司实现快速上市的资本运作方式"
-          },
-          {
-            "label": "纳斯达克",
-            "type": "entity",
-            "desc": "美国科技股和成长股主要交易所"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "亚航分拆品牌业务上市，反映其寻求非航空业务价值重估与独立发展的战略意图。",
-            "选择纳斯达克而非亚洲交易所，旨在吸引全球资本并提升品牌国际知名度与估值水平。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "潜在的借壳目标公司（需进一步识别）",
+          "asset": "高度依赖美国市场或CFTC独家监管的预测市场平台相关概念股/代币",
           "risk": "HIGH",
-          "thesis": "成功的借壳上市通常会导致壳公司股价因资产注入和估值重估而大幅上涨，但交易细节和最终完成存在不确定性。"
-        },
-        "confidence": 80,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1509335736365?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "伊朗军演支撑油价持稳",
-        "fullTitle": "伊朗在美伊会谈前举行军演，油价持稳",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "油价在一周最大涨幅后持稳。伊朗在关键区域运输咽喉点附近进行海军演习，而美伊会谈定于周二晚些时候举行。地缘政治紧张局势为油价提供了支撑，抵消了部分需求担忧。市场密切关注会谈结果对伊朗石油供应潜在回归的影响。",
-        "relations": [
-          {
-            "label": "伊朗",
-            "type": "entity",
-            "desc": "主要石油生产国及地缘政治关键方"
-          },
-          {
-            "label": "霍尔木兹海峡",
-            "type": "resource",
-            "desc": "关键石油运输通道，易受地区冲突影响"
-          },
-          {
-            "label": "美伊会谈",
-            "type": "risk",
-            "desc": "可能影响伊朗石油出口及全球供应格局的关键政治事件"
-          },
-          {
-            "label": "原油价格",
-            "type": "resource",
-            "desc": "受地缘政治风险驱动的核心大宗商品"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "伊朗在谈判前展示军事力量，意在增加谈判筹码，加剧了关键航道的不确定性，直接支撑油价风险溢价。",
-            "会谈结果将直接影响全球原油供应边际，若制裁放松，可能在中长期压制油价；若僵持，则地缘风险将持续。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "WTI或布伦特原油期货",
-          "risk": "HIGH",
-          "thesis": "关键谈判前的军事演习显著提升了地缘政治风险溢价，短期内对油价构成支撑，但谈判结果将带来巨大双向波动风险。"
+          "thesis": "监管冲突加剧将延长行业不确定性，可能压制相关平台估值并阻碍用户增长。"
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1658456360917?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1609208728642?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "a16z全球搜寻欧洲独角兽",
-        "fullTitle": "a16z携资金全球搜寻下一家欧洲独角兽企业",
+        "title": "桑托斯因利润下滑计划裁员10%",
+        "fullTitle": "桑托斯因年度利润下滑计划裁员10%",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "知名风投机构a16z表示，其投资视野遍布全球，旨在比当地基金更早地发现潜在明星公司。这体现了其“携带资金旅行”、主动在全球范围内扫描早期投资机会的策略。欧洲科技生态是其重点关注区域之一。",
+        "summary": "澳大利亚第二大天然气生产商桑托斯有限公司在报告因油气价格下跌导致利润大幅下滑后，计划裁员10%。这是能源公司应对大宗商品价格波动和成本压力的典型举措。裁员旨在提升运营效率并保护利润率。",
         "relations": [
           {
-            "label": "a16z",
+            "label": "桑托斯有限公司",
             "type": "entity",
-            "desc": "安德森·霍洛维茨基金，全球顶级风险投资机构"
+            "desc": "澳大利亚主要天然气生产商，正实施成本削减"
           },
           {
-            "label": "欧洲独角兽",
+            "label": "天然气价格",
+            "type": "resource",
+            "desc": "导致桑托斯利润下滑的关键市场因素"
+          },
+          {
+            "label": "成本削减",
+            "type": "risk",
+            "desc": "公司应对利润压力的主要战略，涉及裁员"
+          },
+          {
+            "label": "澳大利亚能源行业",
             "type": "entity",
-            "desc": "估值超过10亿美元的欧洲未上市科技公司"
-          },
-          {
-            "label": "全球扫描",
-            "type": "tech",
-            "desc": "风投机构跨越地域限制寻找早期项目的策略"
-          },
-          {
-            "label": "风险投资",
-            "type": "tech",
-            "desc": "对高风险、高成长潜力初创企业的股权投资"
+            "desc": "受全球能源价格波动影响的行业背景"
           }
         ],
         "analysis": {
           "strategic": [
-            "a16z的全球主动搜寻策略，表明顶级风投的竞争已从硅谷扩展到全球早期项目源，加剧了全球优质项目的争夺战。",
-            "重点提及欧洲，反映其看好欧洲创新生态的成熟度与估值相对优势，可能引领新一轮资金流向欧洲早期科技领域。"
+            "裁员是短期成本控制手段，但可能削弱长期运营能力和人才储备，尤其在项目开发阶段。",
+            "此举反映了传统能源公司在高波动性市场环境中维持股东回报的压力，可能引发行业效仿。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "欧洲早期科技基金或跟投a16z欧洲portfolio",
+          "action": "SHORT",
+          "asset": "STO.AX (Santos Ltd.)",
           "risk": "MEDIUM",
-          "thesis": "跟随顶级风投机构的区域聚焦策略，可以提前布局可能快速成长的欧洲科技生态系统，分享其成长红利。"
+          "thesis": "利润下滑和裁员表明公司面临结构性成本压力，且天然气价格前景疲软，可能继续压制股价表现。"
+        },
+        "confidence": 84,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1580238791169?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "英特尔莱克斯间谍软件被用于入侵安哥拉记者iPhone",
+        "fullTitle": "研究称英特尔莱克斯捕食者间谍软件被用于入侵安哥拉记者iPhone",
+        "classification": "TOP SECRET",
+        "impactLevel": "HIGH",
+        "summary": "国际特赦组织称发现证据，表明受制裁监控供应商英特尔莱克斯的政府客户，使用其捕食者间谍软件针对安哥拉一名知名记者。这凸显了高级监控技术被用于压制新闻自由和侵犯人权的风险。事件涉及受制裁实体，可能引发进一步的地缘政治和监管反应。",
+        "relations": [
+          {
+            "label": "英特尔莱克斯",
+            "type": "entity",
+            "desc": "受制裁的监控技术供应商"
+          },
+          {
+            "label": "捕食者间谍软件",
+            "type": "tech",
+            "desc": "用于入侵iPhone的高级监控软件"
+          },
+          {
+            "label": "安哥拉政府客户",
+            "type": "entity",
+            "desc": "涉嫌使用间谍软件侵犯人权的国家行为体"
+          },
+          {
+            "label": "数字监控与人权",
+            "type": "risk",
+            "desc": "事件核心涉及的技术滥用与伦理风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "事件将加剧对商业监控技术出口的全球审查，可能导致更严格的出口管制和制裁。",
+            "针对记者的攻击可能损害相关政府国际声誉，并影响其与西方国家的技术和投资合作。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "与商业间谍软件/监控技术相关的网络安全公司（若其客户或业务模式面临监管风险）",
+          "risk": "HIGH",
+          "thesis": "此类事件将引发更严厉的监管和舆论压力，可能打击整个商业监控技术行业的增长前景和估值。"
         },
         "confidence": 88,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1525352703543?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1635234772768?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "AI初创4个月融资33.5亿美元",
-        "fullTitle": "Ricursive Intelligence四个月内以40亿估值融资33.5亿",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "初创公司Ricursive Intelligence在短短四个月内以40亿美元估值筹集了33.5亿美元。吸引风险投资机构排队投资的核心原因是其创始人团队。他们在AI领域声名显赫，是众多机构争相招募的对象。这凸显了AI人才资本在当前的极端稀缺性和高溢价。",
+        "title": "杰克·奥特曼加入Benchmark成为普通合伙人",
+        "fullTitle": "杰克·奥特曼加入Benchmark资本成为普通合伙人",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "杰克·奥特曼与Benchmark资本今日宣布，他将加入该公司成为普通合伙人。杰克·奥特曼是Lattice的联合创始人兼前CEO。此举为这家知名风险投资公司带来了运营和创业经验。",
         "relations": [
           {
-            "label": "Ricursive Intelligence",
+            "label": "杰克·奥特曼",
             "type": "entity",
-            "desc": "一家受到狂热追捧的AI领域初创公司"
+            "desc": "Lattice联合创始人，新任Benchmark GP"
           },
           {
-            "label": "创始人团队",
+            "label": "Benchmark资本",
             "type": "entity",
-            "desc": "被视为核心资产与投资关键因素的AI顶尖人才"
-          },
-          {
-            "label": "AI人才",
-            "type": "resource",
-            "desc": "当前科技投资中最稀缺、溢价最高的核心资源"
+            "desc": "知名风险投资公司，新加入了合伙人"
           },
           {
             "label": "风险投资",
-            "type": "tech",
-            "desc": "对高风险、高成长潜力初创企业的股权投资"
+            "type": "entity",
+            "desc": "事件发生的行业背景"
+          },
+          {
+            "label": "Lattice",
+            "type": "entity",
+            "desc": "杰克·奥特曼此前创立并领导的公司"
           }
         ],
         "analysis": {
           "strategic": [
-            "此案例标志着AI投资逻辑的演变：从看重商业模式和数据，极端转向追捧顶尖创始人团队，团队信用成为最大估值支撑。",
-            "巨额融资和超高估值在极早期出现，可能催生行业泡沫，但也将加速技术军备竞赛，推动AI基础设施和应用的快速发展。"
+            "Benchmark引入具有成功创业经验的合伙人，旨在增强其对早期科技公司的判断力和投后支持能力。",
+            "此举可能预示着Benchmark未来在人力资源科技或奥特曼擅长领域的投资活动会更加活跃。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "AI基础设施、工具链或拥有顶尖AI人才的未上市企业",
-          "risk": "HIGH",
-          "thesis": "市场对顶级AI人才的估值逻辑发生根本性变化，投资拥有稀缺AI人才的公司可能获得超额回报，但估值风险极高。"
+          "asset": "Benchmark资本未来可能重点投资的早期科技基金或领域（如HR Tech）",
+          "risk": "MEDIUM",
+          "thesis": "关键人才加入通常能提升风投基金的战略视野和项目获取能力，可能改善其未来基金回报。"
         },
-        "confidence": 90,
+        "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1614074170281?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1640636514581?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Flapping Airplanes探索AI新路径",
-        "fullTitle": "Flapping Airplanes公司寻求AI技术的根本性不同路径",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "AI研究公司Flapping Airplanes表示，他们正在探索“一组完全不同的权衡”。这暗示其研发方向可能不同于当前主流的大规模预训练模型路径，而是寻求在模型架构、能耗、数据需求或能力边界上进行根本性创新。",
+        "title": "福特采用F1思维和悬赏计划打造3万美元电动皮卡",
+        "fullTitle": "福特采用F1思维、3D打印和悬赏计划打造3万美元电动皮卡",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "福特汽车正结合3D打印乐高式部件、F1赛车思维和悬赏计划，以达成打造3万美元电动皮卡的目标。该项目由特斯拉资深人士Alan Clarke领导，团队专注于极致效率。这标志着传统汽车巨头在电动车领域采用激进创新方法以应对竞争。",
         "relations": [
           {
-            "label": "Flapping Airplanes",
+            "label": "福特汽车",
             "type": "entity",
-            "desc": "一家致力于探索非主流AI技术路径的研究公司"
+            "desc": "采用创新方法开发平价电动皮卡的汽车制造商"
           },
           {
-            "label": "AI研究",
-            "type": "tech",
-            "desc": "人工智能基础技术与新范式的探索"
+            "label": "Alan Clarke",
+            "type": "entity",
+            "desc": "特斯拉资深人士，福特电动皮卡项目负责人"
           },
           {
-            "label": "技术路径",
+            "label": "电动皮卡",
             "type": "tech",
-            "desc": "实现人工智能的不同方法论与架构选择"
+            "desc": "福特旨在以3万美元低价切入的竞争激烈市场"
           },
           {
-            "label": "根本性创新",
+            "label": "F1思维/3D打印",
             "type": "tech",
-            "desc": "可能改变行业格局的基础技术突破"
+            "desc": "福特用于提升效率和降低成本的核心创新方法"
           }
         ],
         "analysis": {
           "strategic": [
-            "在大型语言模型主导的AI浪潮中，有团队探索根本性不同的技术路径，可能为下一代AI范式埋下种子，或解决当前模型的固有缺陷（如能耗、幻觉）。",
-            "此类前沿探索风险极高，但一旦成功可能产生颠覆性影响，值得顶级风投和科技巨头密切关注并早期布局。"
+            "福特此举直接挑战特斯拉及其他电动车企的价格底线，可能引发平价电动车市场的价格战。",
+            "整合F1思维和3D打印等跨界技术，表明传统车企正从根本上重构产品开发流程以提升竞争力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专注于AI基础研究与颠覆性创新的小型基金或孵化器",
+          "asset": "F (Ford Motor Company)",
           "risk": "HIGH",
-          "thesis": "投资于探索AI根本性新路径的早期团队，属于高风险、潜在超高回报的“期权类”投资，可分散主流AI投资的风险。"
+          "thesis": "若福特成功推出有竞争力的平价电动皮卡，将极大改变市场对其电动化转型能力的看法，存在重大估值重估潜力。"
         },
-        "confidence": 85,
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1510880072262?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1555993828504?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Nasdaq Futures Decline",
-        "fullTitle": "Nasdaq Futures Decline Before US Market Reopening",
-        "classification": "RESTRICTED",
+        "title": "Japan Eases Insurer Bond Loss Rules",
+        "fullTitle": "Japan Accounting Group Seeks to Ease Rule on Insurer Bond Losses",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "US equity-index futures are extending their decline, while Treasury yields are edging higher, indicating a risk-off sentiment ahead of the market reopening after a holiday. This sets a cautious tone for the trading session. The movement suggests investors are reassessing risk appetite in the face of potential macroeconomic headwinds or geopolitical tensions.",
+        "summary": "A Japanese accounting group is advocating for relaxed regulations on how life insurers report unrealized losses on government bond holdings. This move aims to provide financial statement relief for insurers facing market volatility. It reflects a policy response to stabilize a key sector of the Japanese financial system. The change could improve reported capital ratios for insurers in the near term.",
         "relations": [
           {
-            "label": "Nasdaq Futures",
+            "label": "Japanese Life Insurers",
+            "type": "entity",
+            "desc": "Primary beneficiaries of the proposed accounting rule change."
+          },
+          {
+            "label": "Japanese Government Bonds (JGBs)",
             "type": "asset",
-            "desc": "Key US tech equity index futures"
+            "desc": "Core asset class where paper losses would be treated differently."
           },
           {
-            "label": "US Treasuries",
-            "type": "asset",
-            "desc": "Safe-haven government bonds"
-          },
-          {
-            "label": "Market Sentiment",
+            "label": "Accounting Standards",
             "type": "risk",
-            "desc": "Risk-off tone ahead of reopening"
+            "desc": "Regulatory framework being adjusted, impacting financial transparency."
           },
           {
-            "label": "Holiday Reopening",
+            "label": "Financial Stability",
             "type": "risk",
-            "desc": "Potential volatility post-market closure"
+            "desc": "Strategic goal behind the regulatory easing."
           }
         ],
         "analysis": {
           "strategic": [
-            "The decline in futures and rise in Treasuries signals a defensive pivot by institutional capital, potentially anticipating negative catalysts or profit-taking after recent gains.",
-            "This pre-market activity could set the stage for increased volatility and sector rotation, with capital flowing from growth/tech (represented by Nasdaq) into defensive assets."
+            "Indicates regulatory willingness to support domestic financial institutions amid interest rate pressures.",
+            "Could temporarily mask underlying interest rate risk and solvency concerns in the insurance sector."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Japanese Life Insurers (e.g., T&D Holdings, Dai-ichi Life)",
+          "risk": "MEDIUM",
+          "thesis": "Potential for short-term stock price uplift due to improved balance sheet optics and reduced earnings volatility from JGB holdings."
+        },
+        "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1667679308241?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "CFTC Faces State Pushback on Markets",
+        "fullTitle": "CFTC Faces More Pushback From States Over Prediction Markets",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "The Commodity Futures Trading Commission (CFTC) is encountering increased resistance from state governments regarding its effort to become the sole federal regulator for prediction markets. This jurisdictional dispute highlights the complex regulatory landscape for novel financial instruments. States are likely defending their own regulatory authority and consumer protection mandates. The conflict could delay or reshape the federal framework for these markets.",
+        "relations": [
+          {
+            "label": "Commodity Futures Trading Commission (CFTC)",
+            "type": "entity",
+            "desc": "Federal agency seeking exclusive regulatory authority."
+          },
+          {
+            "label": "State Governments (US)",
+            "type": "entity",
+            "desc": "Entities opposing federal preemption of their regulatory role."
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Emerging asset class at the center of the regulatory battle."
+          },
+          {
+            "label": "Regulatory Jurisdiction",
+            "type": "risk",
+            "desc": "Core conflict between federal and state powers."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Highlights the fragmented US regulatory environment for fintech and novel contracts, creating uncertainty for operators.",
+            "Suggests that full-scale, national prediction market platforms may face significant launch delays or need to navigate a dual-layer compliance regime."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Nasdaq 100 Index (QQQ)",
-          "risk": "MEDIUM",
-          "thesis": "Short-term tactical short based on negative futures momentum and risk-off sentiment indicated by Treasury rally ahead of market open. Suitable for a day-trade or very short-term position."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1532913983722?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "AirAsia Nears Nasdaq Listing",
-        "fullTitle": "AirAsia Brand Unit Nears $1.5B Nasdaq Backdoor Listing",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "AirAsia's branding unit, led by co-founder Tony Fernandes, is close to finalizing a backdoor listing on Nasdaq later this year. The deal would value the newly created entity at approximately $1.5 billion. This move represents a strategic effort to unlock value from the airline's brand and intellectual property in US capital markets.",
-        "relations": [
-          {
-            "label": "AirAsia",
-            "type": "entity",
-            "desc": "Asian low-cost airline group"
-          },
-          {
-            "label": "Tony Fernandes",
-            "type": "entity",
-            "desc": "AirAsia co-founder and deal architect"
-          },
-          {
-            "label": "Backdoor Listing",
-            "type": "tech",
-            "desc": "Alternative path to public markets via SPAC or shell"
-          },
-          {
-            "label": "Brand Valuation",
-            "type": "resource",
-            "desc": "Monetizing intangible brand assets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This listing is a capital structure innovation, separating the high-value brand/IP from the capital-intensive airline operations to attract different investor profiles.",
-            "Success could trigger a wave of similar brand/IP spin-offs from other global consumer and travel companies seeking US market valuations and liquidity."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Potential SPAC/Shell Company (TBD)",
+          "asset": "Prediction Market Platform Startups",
           "risk": "HIGH",
-          "thesis": "Speculative long on the eventual listing vehicle. Backdoor listings can offer significant arbitrage and momentum opportunities if the brand story resonates with US retail and growth investors, though deal structure and execution risk are high."
-        },
-        "confidence": 80,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1571983525495?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Oil Steady After Gain",
-        "fullTitle": "Oil Holds Gain Amid Iran Naval Drills Before US Talks",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Oil prices held steady after a weekly gain, with market attention focused on Iran conducting naval drills near a critical regional transit chokepoint. These drills occur just before scheduled talks with the US. The geopolitical tension adds a risk premium to crude prices, counterbalancing other fundamental factors.",
-        "relations": [
-          {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Global benchmark commodity (Brent/WTI)"
-          },
-          {
-            "label": "Iran",
-            "type": "entity",
-            "desc": "Major oil producer conducting provocative drills"
-          },
-          {
-            "label": "Strait of Hormuz",
-            "type": "risk",
-            "desc": "Critical oil transit chokepoint near drill location"
-          },
-          {
-            "label": "US-Iran Talks",
-            "type": "risk",
-            "desc": "Geopolitical event with high market impact potential"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Iran's timing of naval drills is a calculated demonstration of leverage ahead of diplomatic negotiations, directly threatening global oil supply chains to strengthen its bargaining position.",
-            "The market's muted reaction ('steady' prices) suggests traders are in a 'wait-and-see' mode, but the underlying geopolitical risk structure has fundamentally increased, creating a volatile setup."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Brent Crude Futures (BZ)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical call option. Long oil as a hedge against potential supply disruption from escalating Iran-US tensions. The risk premium is likely to expand into the talks, regardless of outcome, due to heightened perceived risk."
+          "thesis": "Regulatory headwinds and jurisdictional disputes increase compliance costs and operational complexity, posing a significant barrier to growth and profitability."
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1622737964710?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1505747454956?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "a16z Hunts European Unicorns",
-        "fullTitle": "a16z's Global Hunt for Next European Unicorn",
+        "title": "Santos Cuts 10% of Workforce",
+        "fullTitle": "Santos to Cut Workforce by 10% After Slump in Annual Profit",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Venture capital giant Andreessen Horowitz (a16z) is actively scouting for the next European unicorn, leveraging its global network to identify promising companies as early as local funds. This highlights the firm's aggressive expansion and competition in the European startup ecosystem.",
+        "summary": "Santos Ltd., Australia's second-largest natural gas producer, is targeting a 10% reduction in its workforce following a reported slump in annual profit. The profit decline is attributed to lower oil and gas prices in the reporting period. This cost-cutting measure is a direct response to margin pressure in the energy sector. It signals a focus on operational efficiency and cost containment to preserve shareholder returns.",
         "relations": [
           {
-            "label": "Andreessen Horowitz (a16z)",
+            "label": "Santos Ltd.",
             "type": "entity",
-            "desc": "Top-tier US venture capital firm"
+            "desc": "Australian natural gas producer implementing workforce reduction."
           },
           {
-            "label": "European Startup Ecosystem",
-            "type": "entity",
-            "desc": "Target market for VC investment"
+            "label": "Oil & Gas Prices",
+            "type": "resource",
+            "desc": "Primary market driver for the company's profit slump."
           },
           {
-            "label": "Early-Stage Investing",
-            "type": "tech",
-            "desc": "Competitive strategy to identify winners early"
-          },
-          {
-            "label": "Global VC Competition",
+            "label": "Operational Efficiency",
             "type": "risk",
-            "desc": "Increased competition for deal flow"
+            "desc": "Strategic focus area leading to workforce restructuring."
+          },
+          {
+            "label": "LNG Market",
+            "type": "resource",
+            "desc": "Key global market influencing Santos's revenue."
           }
         ],
         "analysis": {
           "strategic": [
-            "a16z's move signifies a strategic land grab in European tech, aiming to establish dominance before local funds can solidify their positions, potentially altering the region's funding landscape.",
-            "This will drive up valuations for top European startups and force local VCs to either partner with, compete against, or specialize away from the generalist approach of US giants."
+            "Reflects broader cost discipline and defensive positioning within the global energy sector amid volatile commodity prices.",
+            "May improve short-term margins but could impact long-term project development capacity and operational resilience."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "European Tech ETF (EUEY.AS or similar)",
+          "action": "SHORT",
+          "asset": "Santos Ltd. (STO.AX)",
           "risk": "MEDIUM",
-          "thesis": "Indirect play on the influx of sophisticated US capital (a16z as a leading indicator) into European tech. This should provide a valuation tailwind and increased liquidity for the asset class over the medium term."
+          "thesis": "Workforce reduction is a reactive measure to poor fundamentals (low prices), suggesting ongoing earnings pressure. The stock may underperform until commodity prices recover sustainably."
+        },
+        "confidence": 83,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1659360161543?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Predator Spyware Used in Angola",
+        "fullTitle": "Intellexa's Predator Spyware Used to Hack Journalist in Angola",
+        "classification": "TOP SECRET",
+        "impactLevel": "HIGH",
+        "summary": "Amnesty International reports evidence that a government client of the sanctioned surveillance vendor Intellexa used its Predator spyware to target a prominent journalist in Angola. This incident highlights the proliferation of advanced cyber-surveillance tools to governments with poor human rights records. It demonstrates the ongoing threat to press freedom and digital security from state-sponsored actors. The involvement of a sanctioned vendor indicates challenges in controlling the spread of such technology.",
+        "relations": [
+          {
+            "label": "Intellexa",
+            "type": "entity",
+            "desc": "Sanctioned surveillance technology vendor."
+          },
+          {
+            "label": "Predator Spyware",
+            "type": "tech",
+            "desc": "Advanced cyber-surveillance tool used in the attack."
+          },
+          {
+            "label": "Government of Angola",
+            "type": "entity",
+            "desc": "Alleged client and user of the spyware."
+          },
+          {
+            "label": "Journalist Security",
+            "type": "risk",
+            "desc": "Critical area under threat from state-sponsored surveillance."
+          },
+          {
+            "label": "Export Controls",
+            "type": "risk",
+            "desc": "Regulatory framework failing to prevent misuse of dual-use tech."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Underscores the growing operational risk for corporations and individuals operating in jurisdictions with aggressive digital surveillance capabilities.",
+            "Increases scrutiny on the cybersecurity and surveillance technology sector, potentially leading to tighter sanctions and export controls on dual-use technologies."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Cybersecurity/Surveillance Tech Firms with weak governance",
+          "risk": "HIGH",
+          "thesis": "Increased reputational, regulatory, and legal risks for companies in the surveillance tech supply chain, especially those with lax client vetting. Potential for expanded sanctions and market access restrictions."
         },
         "confidence": 88,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1618065694460?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1692990704976?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Ricursive AI Raises $335M",
-        "fullTitle": "Ricursive AI Raises $335M at $4B Valuation on Founder Fame",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "AI startup Ricursive Intelligence raised $335 million at a $4 billion valuation in just four months. The extraordinary fundraising speed and premium valuation are attributed solely to the renowned reputation of its founders in the AI research community, who were highly sought-after by many.",
-        "relations": [
-          {
-            "label": "Ricursive Intelligence",
-            "type": "entity",
-            "desc": "Nascent AI startup with famed founders"
-          },
-          {
-            "label": "AI Research Talent",
-            "type": "resource",
-            "desc": "Scarce, high-value human capital driving valuation"
-          },
-          {
-            "label": "Venture Capital (VC)",
-            "type": "entity",
-            "desc": "Investors lining up based on founder pedigree"
-          },
-          {
-            "label": "Founder-Market Fit",
-            "type": "tech",
-            "desc": "Investment thesis centered on individual reputation"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This deal exemplifies a peak in the 'founder-as-asset' investment thesis, where capital allocation is driven more by individual reputation and potential than by traditional metrics like product or revenue, concentrating risk and reward.",
-            "It sets a new benchmark for AI startup valuations based on pedigree, potentially creating a two-tier market and increasing pressure on VCs to pay premium prices for perceived top-tier talent."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI/ML-focused VC Fund (Indirect)",
-          "risk": "HIGH",
-          "thesis": "Bet on the continued scarcity value of elite AI talent. Investing in top-tier VC funds with privileged access to founder networks is the only viable way to gain exposure to these high-velocity, pedigree-driven deals."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1500566944942?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Flapping Airplanes on AI Future",
-        "fullTitle": "Flapping Airplanes Explores Radical AI Tradeoffs",
-        "classification": "RESTRICTED",
+        "title": "Jack Altman Joins Benchmark",
+        "fullTitle": "Jack Altman Joins Benchmark as General Partner",
+        "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "The entity 'Flapping Airplanes' discusses its approach to AI development, emphasizing the exploration of radically different tradeoffs and architectural choices. This indicates a research direction focused on unconventional paths rather than incremental improvements on existing models.",
+        "summary": "Jack Altman, brother of OpenAI's Sam Altman and CEO of Lattice, is joining the venture capital firm Benchmark as a General Partner. This move signifies Benchmark's continued focus on bringing in operators with significant company-building experience. Altman's background in HR tech and his network add a distinct profile to the firm's partnership. The hire may influence Benchmark's future investment thesis, particularly in SaaS and productivity tools.",
         "relations": [
           {
-            "label": "Flapping Airplanes",
+            "label": "Jack Altman",
             "type": "entity",
-            "desc": "AI research entity (likely startup or lab)"
+            "desc": "New General Partner at Benchmark."
           },
           {
-            "label": "AI Architecture",
+            "label": "Benchmark",
+            "type": "entity",
+            "desc": "Venture capital firm making the hire."
+          },
+          {
+            "label": "Venture Capital",
+            "type": "resource",
+            "desc": "Industry sector of the primary entity."
+          },
+          {
+            "label": "Operator-to-VC",
             "type": "tech",
-            "desc": "Core focus on novel system design"
-          },
-          {
-            "label": "Research Tradeoffs",
-            "type": "tech",
-            "desc": "Exploring non-standard performance compromises"
-          },
-          {
-            "label": "Alternative AI Paths",
-            "type": "risk",
-            "desc": "High-risk, high-reward research direction"
+            "desc": "Recruiting trend in venture capital."
           }
         ],
         "analysis": {
           "strategic": [
-            "This public statement is a talent and partner signaling tool, aimed at attracting researchers and investors interested in fundamental AI innovation beyond the current transformer/LLM paradigm.",
-            "If successful, such radical exploration could uncover entirely new competitive moats and market niches, but carries extreme technical risk of producing non-viable research outputs."
+            "Represents a strategic talent acquisition by Benchmark to deepen expertise in scaling SaaS and people-focused technology companies.",
+            "May signal Benchmark's intent to be more active in the intersection of AI applications and enterprise software, leveraging Altman's network and insights."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Broad AI Research ETF (ARKQ or similar)",
-          "risk": "HIGH",
-          "thesis": "Highly speculative thematic bet on moonshot AI research. Direct investment is impossible, so gain exposure through a basket of innovative tech companies and research labs to capture potential outlier success from alternative approaches."
+          "asset": "Benchmark Venture Capital Fund",
+          "risk": "LOW",
+          "thesis": "Addition of a high-profile operator with a strong track record (Lattice) and unique network enhances the firm's deal-sourcing and value-add capabilities, potentially improving future fund returns."
         },
         "confidence": 80,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1586809924781?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Ford's F1-Inspired $30k EV Truck",
+        "fullTitle": "Ford Uses F1 Thinking to Build a $30,000 Electric Truck",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Ford is leveraging Formula 1 engineering principles, 3D-printed modular parts, and a bounty program to develop a $30,000 electric truck. The project is led by Tesla veteran Alan Clarke, indicating a focus on radical efficiency and cost reduction. This strategy targets a critical price point for mass EV adoption. It represents a significant shift in Ford's manufacturing and design philosophy to compete in the affordable EV segment.",
+        "relations": [
+          {
+            "label": "Ford Motor Company",
+            "type": "entity",
+            "desc": "Automaker pursuing the affordable EV truck project."
+          },
+          {
+            "label": "Alan Clarke",
+            "type": "entity",
+            "desc": "Tesla veteran leading the project team."
+          },
+          {
+            "label": "Formula 1 Engineering",
+            "type": "tech",
+            "desc": "Efficiency-focused design philosophy being adopted."
+          },
+          {
+            "label": "Additive Manufacturing (3D Printing)",
+            "type": "tech",
+            "desc": "Key production technology for modular parts."
+          },
+          {
+            "label": "Affordable EV Segment",
+            "type": "resource",
+            "desc": "High-growth target market for the product."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Signals Ford's aggressive attempt to disrupt the cost structure of EV manufacturing, directly challenging Tesla and Chinese automakers on price.",
+            "If successful, this approach could redefine automotive manufacturing paradigms, shifting towards greater modularity and efficiency, impacting the entire supply chain."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Ford Motor Company (F)",
+          "risk": "MEDIUM",
+          "thesis": "Successful execution of a profitable $30k EV truck would be a major competitive breakthrough, capturing a huge market segment and demonstrating transformative innovation capability, leading to significant re-rating."
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1549818459985?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1664687746061?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Futuros Nasdaq caen antes de apertura",
-        "fullTitle": "Futuros Nasdaq caen antes del regreso de EE.UU. al mercado",
-        "classification": "RESTRICTED",
+        "title": "Japón busca flexibilizar normas contables para aseguradoras",
+        "fullTitle": "Grupo contable japonés busca suavizar reglas sobre pérdidas de bonos de aseguradoras",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Los futuros de los índices bursátiles estadounidenses extendieron su caída y los bonos del Tesoro subieron ligeramente, estableciendo un tono cauteloso antes de la reapertura del mercado tras un feriado. Esto refleja una aversión al riesgo en los inversores. El movimiento sugiere expectativas de volatilidad al reanudarse la negociación.",
+        "summary": "Un grupo contable japonés está presionando para relajar las normas sobre cómo las aseguradoras de vida registran las pérdidas no realizadas en bonos gubernamentales. Esto podría afectar significativamente la presentación de resultados del sector. El cambio busca aliviar la presión contable durante períodos de volatilidad en los mercados de bonos. Refleja preocupaciones sobre la estabilidad financiera del sector asegurador.",
         "relations": [
           {
-            "label": "Nasdaq Futures",
+            "label": "Sector Asegurador Japonés",
             "type": "entity",
-            "desc": "Contratos de futuros del índice Nasdaq"
+            "desc": "Afectado por normas contables"
           },
           {
-            "label": "Tesoros de EE.UU.",
+            "label": "Bonos Gubernamentales Japoneses",
             "type": "resource",
-            "desc": "Bonos del gobierno estadounidense"
+            "desc": "Activo clave para reservas"
           },
           {
-            "label": "Aversión al riesgo",
+            "label": "Normas Contables",
             "type": "risk",
-            "desc": "Sentimiento del mercado cauteloso"
+            "desc": "Posible cambio regulatorio"
           },
           {
-            "label": "Volatilidad",
+            "label": "Pérdidas No Realizadas",
             "type": "risk",
-            "desc": "Expectativa de fluctuaciones en el mercado"
+            "desc": "Riesgo de valoración"
           }
         ],
         "analysis": {
           "strategic": [
-            "La caída de futuros previa a la apertura puede presagiar una sesión bajista, afectando a activos de riesgo globales.",
-            "El alza en bonos del Tesoro indica una búsqueda de refugio, presionando potencialmente a los mercados emergentes."
+            "Posible alivio regulatorio para estabilizar balances del sector asegurador",
+            "Cambio podría aumentar atractivo de bonos gubernamentales para instituciones"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de aseguradoras japonesas (ej: TSE Insurance Index)",
+          "risk": "MEDIUM",
+          "thesis": "Flexibilización contable mejoraría percepción de solvencia y podría impulsar valoraciones"
+        },
+        "confidence": 85,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1538688578966?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "CFTC enfrenta oposición estatal sobre mercados de predicción",
+        "fullTitle": "CFTC enfrenta mayor rechazo de estados sobre regulación de mercados de predicción",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "La Comisión de Comercio de Futuros de Materias Primas (CFTC) enfrenta creciente oposición de varios estados respecto a su intento de ser el regulador exclusivo de los mercados de predicción. Los estados argumentan preocupaciones sobre jurisdicción y control local. Este conflicto podría retrasar o modificar el marco regulatorio para estos mercados emergentes. Refleja tensiones entre regulación federal y estatal en mercados financieros innovadores.",
+        "relations": [
+          {
+            "label": "CFTC",
+            "type": "entity",
+            "desc": "Regulador federal estadounidense"
+          },
+          {
+            "label": "Mercados de Predicción",
+            "type": "entity",
+            "desc": "Mercados financieros emergentes"
+          },
+          {
+            "label": "Estados de EE.UU.",
+            "type": "entity",
+            "desc": "Oposición regulatoria"
+          },
+          {
+            "label": "Conflicto Regulatorio",
+            "type": "risk",
+            "desc": "Riesgo jurisdiccional"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Conflicto regulatorio podría ralentizar desarrollo de mercados de predicción en EE.UU.",
+            "Empresas del sector enfrentan incertidumbre sobre marco legal aplicable"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "QQQ (ETF Nasdaq-100)",
-          "risk": "MEDIUM",
-          "thesis": "El sentimiento cauteloso y la caída en futuros sugieren una apertura débil, ofreciendo oportunidad para posiciones cortas a corto plazo."
+          "asset": "Empresas de trading de predicción (ej: Kalshi, PredictIt)",
+          "risk": "HIGH",
+          "thesis": "Incertidumbre regulatoria y oposición estatal podrían limitar crecimiento"
         },
         "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1521673950470?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "AirAsia cerca de listado en Nasdaq",
-        "fullTitle": "Unidad de marca AirAsia cerca de listado inverso en Nasdaq",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El cofundador de AirAsia, Tony Fernandes, declaró que la unidad de marca de la aerolínea asiática está cerca de lograr un listado inverso en una empresa ya cotizada en Nasdaq. La operación, prevista para este año, valoraría la nueva entidad en unos 1.500 millones de dólares. Esto representa una estrategia de acceso al mercado de capitales estadounidense.",
-        "relations": [
-          {
-            "label": "AirAsia",
-            "type": "entity",
-            "desc": "Aerolínea asiática de bajo coste"
-          },
-          {
-            "label": "Tony Fernandes",
-            "type": "entity",
-            "desc": "Cofundador de AirAsia"
-          },
-          {
-            "label": "Listado inverso (Backdoor Listing)",
-            "type": "risk",
-            "desc": "Método alternativo para salir a bolsa"
-          },
-          {
-            "label": "Nasdaq",
-            "type": "entity",
-            "desc": "Bolsa de valores tecnológica estadounidense"
-          },
-          {
-            "label": "Valoración 1.5B USD",
-            "type": "resource",
-            "desc": "Valoración financiera propuesta"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El listado en Nasdaq proporcionaría a AirAsia mayor liquidez y acceso a inversores institucionales globales.",
-            "Una valoración exitosa podría impulsar el interés en otras empresas de viajes y logística asiáticas."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Acciones de la entidad resultante del listado",
-          "risk": "HIGH",
-          "thesis": "El acceso al mercado estadounidense y la marca reconocida podrían generar apreciación, aunque es una operación compleja."
-        },
-        "confidence": 80,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1567501870967?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1634186798593?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Petróleo estable tras ejercicios navales de Irán",
-        "fullTitle": "Petróleo mantiene ganancias tras ejercicios navales de Irán",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El precio del petróleo se mantuvo estable tras su mayor ganancia en una semana. Esto ocurre mientras Irán lleva a cabo ejercicios navales cerca de un punto de estrangulamiento clave para el tránsito regional, justo antes de las conversaciones con Estados Unidos. La situación geopolítica añade una prima de riesgo al crudo.",
-        "relations": [
-          {
-            "label": "Petróleo (Crudo)",
-            "type": "resource",
-            "desc": "Commodity energética clave"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País productor de petróleo"
-          },
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "risk",
-            "desc": "Punto de estrangulamiento crítico para el transporte de crudo"
-          },
-          {
-            "label": "Conversaciones EE.UU.-Irán",
-            "type": "risk",
-            "desc": "Diplomacia con impacto en mercados energéticos"
-          },
-          {
-            "label": "Prima de riesgo geopolítico",
-            "type": "risk",
-            "desc": "Sobreprecio por incertidumbre política"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Las tensiones en el Estrecho de Ormuz amenazan directamente el flujo global de petróleo, afectando los precios.",
-            "El momento de los ejercicios, previo a conversaciones, sugiere una postura de fuerza que podría complicar la diplomacia."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Futuros de Crudo Brent (ICE)",
-          "risk": "HIGH",
-          "thesis": "La incertidumbre geopolítica y las interrupciones potenciales en el suministro apoyan los precios del petróleo."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1652529913445?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "a16z busca próximo unicornio europeo",
-        "fullTitle": "a16z caza el próximo unicornio europeo con capital global",
+        "title": "Santos recorta 10% de plantilla tras caída de ganancias",
+        "fullTitle": "Santos Ltd. reducirá fuerza laboral en 10% tras desplome de ganancias anuales",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "La firma de capital de riesgo Andreessen Horowitz (a16z) está intensificando su búsqueda de la próxima empresa unicornio en Europa. La firma afirma tener una red global para detectar oportunidades de inversión tan pronto como los fondos locales. Esto refleja la creciente competencia por talento y startups en etapas tempranas en la región.",
+        "summary": "Santos Ltd., el segundo mayor productor de gas natural de Australia, anunciará una reducción del 10% de su plantilla tras reportar una fuerte caída en sus ganancias anuales. La disminución se atribuye principalmente a menores precios del petróleo y gas. La reestructuración busca mejorar eficiencia y rentabilidad en un entorno de precios bajos. La medida refleja presión en el sector energético australiano.",
         "relations": [
           {
-            "label": "Andreessen Horowitz (a16z)",
+            "label": "Santos Ltd.",
             "type": "entity",
-            "desc": "Firma de capital de riesgo de Silicon Valley"
+            "desc": "Productor australiano de gas"
           },
           {
-            "label": "Unicornio",
-            "type": "entity",
-            "desc": "Startup valorada en más de 1.000 millones USD"
-          },
-          {
-            "label": "Europa",
-            "type": "entity",
-            "desc": "Región de enfoque para inversión"
-          },
-          {
-            "label": "Capital de riesgo (VC)",
+            "label": "Precios del Gas/Petróleo",
             "type": "resource",
-            "desc": "Clase de activo de inversión"
+            "desc": "Factor clave de rentabilidad"
           },
           {
-            "label": "Detección temprana",
-            "type": "tech",
-            "desc": "Estrategia de inversión en etapas iniciales"
+            "label": "Reestructuración Corporativa",
+            "type": "risk",
+            "desc": "Reducción de costos"
+          },
+          {
+            "label": "Sector Energético Australiano",
+            "type": "entity",
+            "desc": "Bajo presión de precios"
           }
         ],
         "analysis": {
           "strategic": [
-            "El interés de a16z valida el ecosistema emprendedor europeo y probablemente atraerá más capital global.",
-            "La competencia por los mejores acuerdos aumentará, elevando las valoraciones de las startups prometedoras."
+            "Medida reactiva ante debilidad persistente en precios de commodities energéticos",
+            "Recorte sugiere expectativas conservadoras sobre recuperación de mercado"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Fondos de VC europeos o ETFs de innovación europea",
+          "action": "SHORT",
+          "asset": "Acciones de Santos Ltd. (STO.AX)",
           "risk": "MEDIUM",
-          "thesis": "El capital de actores globales como a16z impulsará el crecimiento y las salidas a bolsa en el sector tecnológico europeo."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1509589092232?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Ricursive Intelligence recauda 335M USD",
-        "fullTitle": "Ricursive Intelligence recauda 335M USD con valoración de 4B USD",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "La startup Ricursive Intelligence recaudó 335 millones de dólares en solo cuatro meses, alcanzando una valoración de 4.000 millones. El motivo del fuerte interés de los capitalistas de riesgo son sus fundadores, quienes son figuras muy famosas en el mundo de la IA y han sido muy solicitados. Esto subraya la importancia del talento fundador en la atracción de capital.",
-        "relations": [
-          {
-            "label": "Ricursive Intelligence",
-            "type": "entity",
-            "desc": "Startup de Inteligencia Artificial"
-          },
-          {
-            "label": "Fundadores famosos en IA",
-            "type": "entity",
-            "desc": "Talento fundador de élite"
-          },
-          {
-            "label": "Capitalistas de riesgo (VCs)",
-            "type": "entity",
-            "desc": "Inversores institucionales"
-          },
-          {
-            "label": "Valoración 4B USD",
-            "type": "resource",
-            "desc": "Alta valoración en etapa temprana"
-          },
-          {
-            "label": "Talento en IA",
-            "type": "tech",
-            "desc": "Recurso humano crítico y escaso"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La capacidad de atraer capital masivo basado en el pedigrí del fundador indica un mercado hipercompetitivo por el talento en IA.",
-            "Esta valoración récord podría establecer un nuevo punto de referencia, inflando potencialmente las rondas de financiación en el sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Empresas en cartera de VCs que invirtieron en Ricursive",
-          "risk": "HIGH",
-          "thesis": "Los VCs que ganaron acceso a esta ronda tienen información privilegiada y probablemente respaldarán otros proyectos de alto potencial."
+          "thesis": "Debilidad fundamental y recortes indican presión continua en rentabilidad"
         },
         "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1516216005041?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1580702327460?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Flapping Airplanes explora IA radical",
-        "fullTitle": "Flapping Airplanes sobre IA: 'Exploramos compensaciones radicales'",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La empresa Flapping Airplanes, al hablar sobre el futuro de la IA, declaró que su objetivo es 'probar cosas realmente radicalmente diferentes' y que están 'explorando un conjunto diferente de compensaciones'. Esto sugiere un enfoque de investigación no convencional que podría desafiar los paradigmas actuales de desarrollo de IA.",
+        "title": "Spyware Predator hackea iPhone de periodista en Angola",
+        "fullTitle": "Spyware Predator de Intellexa usado para hackear iPhone de periodista en Angola",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "Amnistía Internacional encontró evidencia de que un cliente gubernamental de Intellexa, proveedor de vigilancia sancionado, utilizó su spyware Predator contra un periodista prominente en Angola. Esto representa un grave abuso de tecnología de vigilancia contra libertad de prensa. Intellexa está actualmente bajo sanciones internacionales. El caso destaca riesgos de proliferación de herramientas de vigilancia avanzadas.",
         "relations": [
           {
-            "label": "Flapping Airplanes",
+            "label": "Intellexa",
             "type": "entity",
-            "desc": "Empresa de investigación/desarrollo en IA"
+            "desc": "Proveedor de spyware sancionado"
           },
           {
-            "label": "IA radical/diferente",
+            "label": "Spyware Predator",
             "type": "tech",
-            "desc": "Enfoque no convencional para la inteligencia artificial"
+            "desc": "Herramienta de vigilancia avanzada"
           },
           {
-            "label": "Compensaciones (Tradeoffs)",
-            "type": "tech",
-            "desc": "Decisiones de diseño en arquitecturas de IA"
+            "label": "Gobierno de Angola",
+            "type": "entity",
+            "desc": "Presunto cliente/usuario"
           },
           {
-            "label": "Investigación en IA",
-            "type": "tech",
-            "desc": "Sector de I+D tecnológica"
-          },
-          {
-            "label": "Paradigma disruptivo",
+            "label": "Libertad de Prensa",
             "type": "risk",
-            "desc": "Potencial para cambiar las bases del campo"
+            "desc": "Amenazada por vigilancia"
+          },
+          {
+            "label": "Sanciones Internacionales",
+            "type": "risk",
+            "desc": "Contexto regulatorio"
           }
         ],
         "analysis": {
           "strategic": [
-            "Un enfoque radical podría conducir a avances imprevistos, creando ventajas competitivas para primeros adoptantes.",
-            "Si tiene éxito, podría desestabilizar a actores establecidos que invierten en arquitecturas de IA convencionales."
+            "Evidencia de uso abusivo de tecnología de vigilancia contra actores civiles",
+            "Caso podría impulsar mayores sanciones y controles sobre exportación de spyware"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas vinculadas a vigilancia/seguridad controvertidas",
+          "risk": "HIGH",
+          "thesis": "Mayor escrutinio regulatorio y reputacional sobre sector de vigilancia"
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1505385573611?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Jack Altman se une a Benchmark como socio general",
+        "fullTitle": "Jack Altman se incorpora a Benchmark como socio general (GP)",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Jack Altman, hermano del CEO de OpenAI Sam Altman, anunció hoy su incorporación a la firma de capital de riesgo Benchmark como socio general. Benchmark es una prestigiosa firma de venture capital conocida por inversiones tempranas en empresas tecnológicas. La contratación refleja la búsqueda de talento con experiencia en emprendimiento y tecnología. Altman anteriormente fue CEO de Lattice.",
+        "relations": [
+          {
+            "label": "Jack Altman",
+            "type": "entity",
+            "desc": "Nuevo socio de Benchmark"
+          },
+          {
+            "label": "Benchmark",
+            "type": "entity",
+            "desc": "Firma de venture capital"
+          },
+          {
+            "label": "Capital de Riesgo",
+            "type": "entity",
+            "desc": "Sector de inversión"
+          },
+          {
+            "label": "Ecosistema Tecnológico",
+            "type": "entity",
+            "desc": "Enfoque de inversión"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Benchmark fortalece su equipo con perfil de emprendedor tecnológico",
+            "Movimiento podría indicar enfoque continuo en startups de software/tecnología"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas de capital riesgo especializadas en deep tech",
-          "risk": "HIGH",
-          "thesis": "Los avances radicales en IA generan rendimientos asimétricos; invertir en fondos que capturan estas ideas es una apuesta al futuro."
+          "asset": "Fondos o vehículos asociados a Benchmark",
+          "risk": "MEDIUM",
+          "thesis": "Refuerzo de equipo gerencial en firma de VC de prestigio"
         },
-        "confidence": 81,
+        "confidence": 80,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1626029340778?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Ford usa F1 y recompensas para camioneta eléctrica de $30k",
+        "fullTitle": "Ford recurre a F1 y programa de recompensas para construir camioneta eléctrica de $30,000",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Ford está desarrollando una camioneta eléctrica de $30,000 utilizando una combinación de partes impresas en 3D tipo Lego, filosofía de Fórmula 1 y un programa de recompensas. El equipo está liderado por Alan Clarke, veterano de Tesla, y está obsesionado con la eficiencia. El proyecto representa un esfuerzo agresivo para competir en el segmento de vehículos eléctricos asequibles. La estrategia incorpora innovación radical en diseño y manufactura.",
+        "relations": [
+          {
+            "label": "Ford Motor Company",
+            "type": "entity",
+            "desc": "Fabricante automotriz"
+          },
+          {
+            "label": "Alan Clarke",
+            "type": "entity",
+            "desc": "Veterano de Tesla liderando proyecto"
+          },
+          {
+            "label": "Manufactura Aditiva (3D)",
+            "type": "tech",
+            "desc": "Tecnología de producción"
+          },
+          {
+            "label": "Filosofía F1",
+            "type": "tech",
+            "desc": "Enfoque de eficiencia extrema"
+          },
+          {
+            "label": "Vehículos Eléctricos Asequibles",
+            "type": "resource",
+            "desc": "Segmento de mercado objetivo"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Ford adopta enfoque disruptivo para alcanzar punto de precio crítico en EVs",
+            "Incorporación de talento de Tesla y metodologías de F1 indica cambio cultural agresivo"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de Ford (F)",
+          "risk": "MEDIUM",
+          "thesis": "Estrategia innovadora para capturar mercado masivo de EVs podría mejorar perspectivas"
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1688196138876?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1562274028617?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
