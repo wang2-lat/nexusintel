@@ -1,858 +1,833 @@
 {
-  "generated_at": "2026-02-19T02:27:29.101899",
+  "generated_at": "2026-02-20T02:15:35.377826",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "新西兰央行面临经济通胀背离",
-        "fullTitle": "新西兰央行面临经济增长与通胀放缓的背离局面",
+        "title": "亚洲股市下跌，油价上涨",
+        "fullTitle": "亚洲股市下跌，油价因伊朗局势升至八月以来高点",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "新西兰央行助理行长Karen Silk表示，央行今年面临一个反常局面：预期经济将强劲复苏，但不会引发通胀压力。这表明央行对通胀的控制可能比预期更有效，或经济复苏的结构存在特殊性。这种背离可能影响央行未来的货币政策路径，使其在支持增长与控制通胀之间有更多操作空间。",
+        "impactLevel": "HIGH",
+        "summary": "由于伊朗紧张局势升级影响市场情绪，亚洲股市普遍下跌。国际油价攀升至去年八月以来的最高水平。地缘政治风险成为当前市场的主要驱动因素。投资者正密切关注中东局势的进一步发展。",
         "relations": [
           {
-            "label": "新西兰央行",
+            "label": "伊朗",
             "type": "entity",
-            "desc": "新西兰中央银行，负责货币政策"
+            "desc": "地缘政治风险核心国家"
           },
-          {
-            "label": "Karen Silk",
-            "type": "entity",
-            "desc": "新西兰央行助理行长"
-          },
-          {
-            "label": "经济复苏",
-            "type": "risk",
-            "desc": "经济增长的恢复过程"
-          },
-          {
-            "label": "通胀压力",
-            "type": "risk",
-            "desc": "物价上涨的风险"
-          },
-          {
-            "label": "货币政策",
-            "type": "resource",
-            "desc": "央行调控经济的政策工具"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "新西兰央行可能维持更长时间的宽松政策，以支持无通胀压力的经济增长，这为风险资产提供了有利环境。",
-            "全球其他央行可能关注此案例，以评估在经济增长期控制通胀的新范式，影响全球货币政策协调。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "新西兰元/纽西兰股票指数",
-          "risk": "MEDIUM",
-          "thesis": "在经济增长预期强劲且通胀受控的背景下，新西兰资产可能受益于有利的宏观环境和潜在的资本流入。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1523595357584?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "亚洲股市随美股科技股反弹上涨",
-        "fullTitle": "亚洲股市上涨，受美股科技股反弹及经济数据提振",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "在美股科技板块反弹和强劲经济数据的推动下，亚洲股市普遍上涨。油价也维持了自10月以来的最大涨幅后的高位。这表明市场风险偏好有所回升，科技股重新获得投资者青睐，同时大宗商品市场也显示出强势。",
-        "relations": [
           {
             "label": "亚洲股市",
             "type": "entity",
-            "desc": "亚洲地区股票市场"
+            "desc": "受风险情绪影响下跌的资产类别"
           },
           {
-            "label": "科技股",
-            "type": "entity",
-            "desc": "科技行业公司的股票"
-          },
-          {
-            "label": "美国经济数据",
+            "label": "原油",
             "type": "resource",
-            "desc": "反映美国经济状况的指标"
+            "desc": "因地缘政治紧张而价格上涨的关键大宗商品"
           },
           {
-            "label": "原油价格",
-            "type": "resource",
-            "desc": "石油的市场价格"
-          },
-          {
-            "label": "市场风险偏好",
+            "label": "地缘政治风险",
             "type": "risk",
-            "desc": "投资者承担风险的意愿"
+            "desc": "驱动市场波动的核心风险因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "科技股的反弹可能预示着市场对增长前景的重新评估，投资者可能从避险转向增长型资产。",
-            "油价上涨与股市风险情绪回升同步，可能反映市场对全球需求前景的乐观预期，需关注通胀连锁反应。"
+            "伊朗局势的升级可能引发更广泛的地区冲突，对全球能源供应和贸易路线构成威胁。",
+            "风险资产（如亚洲股票）与避险资产（如原油）的走势分化，表明市场正进入避险模式。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "MSCI亚太科技指数ETF/布伦特原油期货",
-          "risk": "MEDIUM",
-          "thesis": "风险情绪改善和科技股领涨，可能带动亚太科技板块继续反弹；油价强势也提供了大宗商品的投资机会。"
+          "asset": "原油期货（如WTI、布伦特）",
+          "risk": "HIGH",
+          "thesis": "地缘政治紧张局势直接威胁原油供应，支撑油价在短期内保持强势。"
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1538908704039?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1669064866692?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "瑞穗证券再遭日元债券交易剔除",
-        "fullTitle": "瑞穗证券因调查影响再失日元债券承销角色",
+        "title": "油价持稳于六个月高位",
+        "fullTitle": "特朗普设伊朗最后期限，油价持稳于六个月高位",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "在日本证券交易监视委员会因涉嫌内幕交易报道启动调查后，更多发行人将瑞穗证券从其日元债券承销角色中剔除。这表明监管调查已对瑞穗的业务和声誉造成实质性损害，可能影响其未来在债券市场的份额和收入。",
+        "summary": "国际油价在六个月高点附近持稳。美国总统特朗普为伊朗核问题设定了15天的最后期限。美国正在中东集结大量军事力量。市场正等待伊朗的回应，这将是油价下一步走势的关键。",
         "relations": [
           {
-            "label": "瑞穗证券",
+            "label": "特朗普",
             "type": "entity",
-            "desc": "日本瑞穗金融集团旗下的证券公司"
+            "desc": "设定伊朗问题最后期限的美国前总统"
           },
           {
-            "label": "日本证券交易监视委员会",
+            "label": "伊朗核问题",
+            "type": "risk",
+            "desc": "地缘政治紧张的核心议题"
+          },
+          {
+            "label": "美国军事力量",
             "type": "entity",
-            "desc": "日本金融监管机构"
+            "desc": "中东地区局势升级的关键变量"
           },
           {
-            "label": "内幕交易调查",
+            "label": "原油供应风险",
             "type": "risk",
-            "desc": "对非法利用未公开信息交易的调查"
-          },
-          {
-            "label": "债券承销",
-            "type": "resource",
-            "desc": "协助发行人发行债券的业务"
-          },
-          {
-            "label": "市场声誉风险",
-            "type": "risk",
-            "desc": "因负面事件导致信誉受损的风险"
+            "desc": "支撑油价的核心逻辑"
           }
         ],
         "analysis": {
           "strategic": [
-            "此次事件可能引发日本金融业更严格的合规审查，增加其他金融机构的运营成本和合规压力。",
-            "瑞穗证券市场份额的流失可能为其他日本或国际投行提供抢占日元债券承销市场的机会。"
+            "美国设定明确最后期限，增加了局势在短期内激化的可能性，市场波动性将加剧。",
+            "美国在中东的军事集结表明其准备采取强硬手段，任何军事行动都将导致油价飙升。"
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "瑞穗金融集团股票",
+          "action": "LONG",
+          "asset": "能源股ETF（如XLE）、原油看涨期权",
           "risk": "HIGH",
-          "thesis": "持续的监管调查和业务流失将直接损害瑞穗证券的盈利能力和母公司声誉，可能导致股价承压。"
+          "thesis": "最后期限的设置创造了明确的事件驱动窗口，任何负面进展都将大幅推高能源资产价格。"
         },
         "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1555173188223?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1641211707982?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Etsy以12亿美元向eBay出售Depop",
-        "fullTitle": "Etsy以12亿美元将二手服装平台Depop出售给eBay",
+        "title": "日本软实力创造的十位亿万富翁",
+        "fullTitle": "日本动漫美食软实力创造十位亿万富翁",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Etsy以12亿美元的价格将二手服装市场Depop出售给eBay，这距离其以16.2亿美元收购Depop已近五年。交易发生在疫情期间二手服装应用获得关注之后。此举表明Etsy可能正在调整其投资组合，专注于核心业务。",
+        "summary": "日本通过动漫、角色（如海贼王、Hello Kitty）和美食等文化内容在全球积累了巨大影响力。这些内容产业创造了巨额财富。彭博社评选出十位由此致富的日本富豪。报告揭示了文化软实力与资本积累之间的强关联。",
         "relations": [
           {
-            "label": "Etsy",
+            "label": "日本软实力",
             "type": "entity",
-            "desc": "专注于手工艺品和复古商品的电商平台"
+            "desc": "通过文化内容输出的国家影响力"
           },
           {
-            "label": "eBay",
+            "label": "动漫产业",
             "type": "entity",
-            "desc": "全球性电子商务平台"
+            "desc": "日本文化出口和财富创造的核心领域"
           },
           {
-            "label": "Depop",
-            "type": "entity",
-            "desc": "专注于二手时尚的社交电商平台"
-          },
-          {
-            "label": "二手服装市场",
+            "label": "内容IP",
             "type": "resource",
-            "desc": "买卖二手服装的电商细分市场"
+            "desc": "具有长期商业价值的无形资产"
           },
           {
-            "label": "资产剥离",
-            "type": "risk",
-            "desc": "公司出售资产或业务部门的行为"
+            "label": "文化消费",
+            "type": "entity",
+            "desc": "全球范围内的增长型消费趋势"
           }
         ],
         "analysis": {
           "strategic": [
-            "Etsy出售Depop可能意味着其战略重心回归核心的手工和复古商品市场，寻求更清晰的业务定位。",
-            "eBay收购Depop旨在加强其在快速增长且具有社区属性的二手时尚领域的布局，与Etsy等平台竞争。"
+            "日本的文化内容产业已成为其重要的经济支柱和资本输出渠道，商业模式成熟且具有全球扩展性。",
+            "这标志着‘内容即资产’的趋势，拥有强大IP的公司在全球娱乐和消费市场具备长期竞争优势。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "eBay股票",
+          "asset": "日本头部内容公司（如万代南梦宫、任天堂）",
           "risk": "MEDIUM",
-          "thesis": "收购Depop有助于eBay切入高增长的Z世代二手时尚市场，补充其品类，可能带来新的增长动力。"
+          "thesis": "强大的全球IP组合带来稳定的特许权使用费和增长潜力，受经济周期影响相对较小。"
         },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1622706175613?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1521759734325?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Def Con黑客大会禁入涉爱泼斯坦关联者",
-        "fullTitle": "Def Con黑客大会禁止三名与爱泼斯坦有关联者参会",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Def Con黑客大会禁止了黑客Pablos Holman和Vincenzo Iozzo，以及前MIT媒体实验室主任Joichi Ito参加其年度会议，原因是他们被报道与Jeffrey Epstein有关联。这反映了科技社区对道德和声誉问题的日益关注。",
-        "relations": [
-          {
-            "label": "Def Con",
-            "type": "entity",
-            "desc": "全球知名的黑客技术会议"
-          },
-          {
-            "label": "Jeffrey Epstein",
-            "type": "entity",
-            "desc": "已定罪的性犯罪者，金融家"
-          },
-          {
-            "label": "MIT媒体实验室",
-            "type": "entity",
-            "desc": "麻省理工学院的研究实验室"
-          },
-          {
-            "label": "道德声誉风险",
-            "type": "risk",
-            "desc": "因个人或关联方行为导致的声誉损害风险"
-          },
-          {
-            "label": "科技社区自律",
-            "type": "tech",
-            "desc": "科技行业内部的道德和行为规范"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举表明科技行业顶级会议正加强道德门槛，与有争议人物或资金来源划清界限可能成为新常态。",
-            "事件可能促使风险投资、研究机构和科技公司重新审查其合作伙伴和资助者的背景，以避免关联风险。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ESG主题基金/科技伦理相关ETF",
-          "risk": "LOW",
-          "thesis": "科技行业对道德和声誉的重视度提升，将利好注重环境、社会和治理（ESG）因素的投资标的。"
-        },
-        "confidence": 82,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1539268935677?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "谷歌云高管谈初创企业挑战与AI机遇",
-        "fullTitle": "谷歌云副总裁解析初创企业面临的挑战与AI机遇",
+        "title": "谷歌Gemini Pro模型再创纪录",
+        "fullTitle": "谷歌Gemini Pro模型基准测试再创纪录",
         "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "谷歌云副总裁指出，初创企业创始人正面临前所未有的提速压力，需要在利用AI的同时应对融资收紧、基础设施成本上升以及早期展现真实增长的压力。云积分、GPU访问和基础模型降低了入门门槛，但早期的基础设施选择可能在初创企业超越某个阶段后带来不可预见的后果。",
+        "impactLevel": "HIGH",
+        "summary": "谷歌发布了新的Gemini 3.1 Pro大型语言模型。该模型在基准测试中再次创下高分记录。谷歌宣称该模型能够处理更复杂的工作任务。这表明AI模型能力竞赛仍在持续升级。",
         "relations": [
           {
-            "label": "谷歌云",
+            "label": "谷歌",
             "type": "entity",
-            "desc": "谷歌提供的云计算服务平台"
+            "desc": "发布先进AI模型的科技巨头"
           },
           {
-            "label": "初创企业",
-            "type": "entity",
-            "desc": "处于早期发展阶段的新公司"
-          },
-          {
-            "label": "人工智能",
+            "label": "Gemini Pro",
             "type": "tech",
-            "desc": "模拟人类智能的技术"
+            "desc": "谷歌最新的高性能大型语言模型"
           },
           {
-            "label": "云计算成本",
-            "type": "risk",
-            "desc": "使用云服务产生的费用"
+            "label": "AI基准测试",
+            "type": "tech",
+            "desc": "衡量AI模型性能的关键指标"
           },
           {
-            "label": "技术债务",
-            "type": "risk",
-            "desc": "因早期技术选择不当导致的长期维护成本"
+            "label": "复杂任务处理",
+            "type": "tech",
+            "desc": "AI模型能力演进的重要方向"
           }
         ],
         "analysis": {
           "strategic": [
-            "云服务商（如谷歌云）正通过提供资源和工具深度绑定下一代AI初创企业，争夺未来高增长客户。",
-            "初创企业对AI和云的依赖加深，但其早期技术栈选择将显著影响长期的可扩展性、成本和锁定风险。"
+            "谷歌持续在AI基础模型领域取得突破，巩固了其在全球AI竞赛中的第一梯队地位。",
+            "模型处理复杂任务能力的提升，将加速AI在企业和专业领域的渗透与应用。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Alphabet（谷歌母公司）股票",
+          "asset": "谷歌母公司Alphabet（GOOGL）",
           "risk": "MEDIUM",
-          "thesis": "谷歌云通过支持AI初创企业生态，有望巩固其在企业云市场的地位，并从AI普及的长期趋势中获益。"
+          "thesis": "领先的AI技术是维持其云计算、广告和新兴业务长期增长的核心引擎。"
         },
         "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1593282459007?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "英伟达深入印度AI初创生态",
+        "fullTitle": "英伟达早期深入印度AI初创生态系统",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "英伟达正在与投资者、非营利组织和风投机构合作。其目标是更早地与印度快速增长的人工智能创始人生态系统建立联系。此举旨在从源头锁定未来的AI人才和客户。印度被视为关键的全球AI增长市场。",
+        "relations": [
+          {
+            "label": "英伟达",
+            "type": "entity",
+            "desc": "全球AI芯片领导者"
+          },
+          {
+            "label": "印度AI生态",
+            "type": "entity",
+            "desc": "快速增长的关键人才与市场"
+          },
+          {
+            "label": "AI初创公司",
+            "type": "entity",
+            "desc": "英伟达未来的核心客户与合作伙伴"
+          },
+          {
+            "label": "战略投资与合作",
+            "type": "risk",
+            "desc": "构建长期护城河的关键手段"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "英伟达通过早期生态布局，旨在锁定印度这一未来AI大国的人才和市场需求，构建长期竞争优势。",
+            "此举反映了全球科技巨头对新兴市场AI潜力的争夺战已从产品销售延伸至生态培育和标准制定。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "英伟达（NVDA）",
+          "risk": "MEDIUM",
+          "thesis": "对关键增长市场的早期生态布局，有助于巩固其AI硬件和软件平台的统治地位，驱动长期增长。"
+        },
+        "confidence": 89,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1557322313612?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "FBI警告ATM“劫持”攻击激增",
+        "fullTitle": "FBI称ATM“劫持”攻击激增，黑客获利数百万",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国联邦调查局警告，诱使ATM按需吐钞的黑客攻击正在增加。仅过去一年就发生了数百起此类攻击，黑客窃取了数百万美元现金。这种被称为“劫持”的攻击手法对金融系统安全构成直接威胁。金融机构需要升级物理和网络安全措施。",
+        "relations": [
+          {
+            "label": "FBI",
+            "type": "entity",
+            "desc": "发布警告的美国执法机构"
+          },
+          {
+            "label": "ATM劫持",
+            "type": "risk",
+            "desc": "针对自动取款机的物理/网络混合攻击"
+          },
+          {
+            "label": "金融系统安全",
+            "type": "risk",
+            "desc": "面临新型技术犯罪威胁的关键基础设施"
+          },
+          {
+            "label": "网络安全公司",
+            "type": "entity",
+            "desc": "提供解决方案的潜在受益方"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "针对金融基础设施的混合攻击（物理+网络）正在成为新趋势，暴露出传统安防体系的漏洞。",
+            "此类高回报、低风险的犯罪活动可能被更多犯罪组织效仿，导致全球范围内的金融安全风险上升。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "金融安防与网络安全公司（如帕洛阿尔托网络、赛门铁克）",
+          "risk": "MEDIUM",
+          "thesis": "金融机构为应对新型威胁，将增加在物理安防升级和高级威胁检测解决方案上的支出。"
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1555111932149?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1537859428751?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "RBNZ's Unusual Inflation Outlook",
-        "fullTitle": "RBNZ Faces 'Anathema' of Growing Economy, Slowing Inflation",
+        "title": "Asian Stocks Fall, Oil Rises",
+        "fullTitle": "Asian Stocks Fall, Oil Climbs With Iran in Focus",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "The Reserve Bank of New Zealand (RBNZ) anticipates a strong economic recovery in 2024 without triggering significant inflationary pressures, a scenario described as unusual by Assistant Governor Karen Silk. This outlook suggests the central bank may maintain a less restrictive monetary policy stance compared to peers. It indicates potential structural changes in the New Zealand economy or a unique post-pandemic recovery path. This divergence could impact NZD valuations and interest rate expectations.",
+        "impactLevel": "HIGH",
+        "summary": "Asian equity markets declined while oil prices surged to their highest level since August. The primary driver is escalating geopolitical tensions centered on Iran, which is negatively impacting market sentiment. This indicates a classic risk-off shift in the region, with capital flowing from equities to perceived safe-haven commodities. The situation creates immediate pressure on energy costs and regional economic stability.",
         "relations": [
           {
-            "label": "Reserve Bank of New Zealand (RBNZ)",
+            "label": "Iran",
             "type": "entity",
-            "desc": "New Zealand's central bank, setting monetary policy."
-          },
-          {
-            "label": "Karen Silk",
-            "type": "entity",
-            "desc": "Assistant Governor at the RBNZ, providing the economic outlook."
-          },
-          {
-            "label": "Inflation",
-            "type": "risk",
-            "desc": "Key macroeconomic risk and policy target."
-          },
-          {
-            "label": "Monetary Policy",
-            "type": "risk",
-            "desc": "Central bank actions influencing interest rates and money supply."
-          },
-          {
-            "label": "NZD (New Zealand Dollar)",
-            "type": "asset",
-            "desc": "Currency potentially impacted by divergent policy outlook."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The RBNZ's outlook suggests a potential decoupling of growth and inflation dynamics in New Zealand, which could offer relative stability for local assets if sustained.",
-            "This scenario may force a reevaluation of global monetary policy models, as it challenges the conventional Phillips curve relationship in a post-pandemic environment."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "NZD Government Bonds / NZD",
-          "risk": "MEDIUM",
-          "thesis": "A sustained environment of growth without runaway inflation could allow the RBNZ to delay or implement fewer rate hikes than currently priced in, supporting bond prices and potentially limiting NZD appreciation pressure relative to hawkish central bank currencies."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1565142487618?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Asia Stocks Rise on US Tech",
-        "fullTitle": "Stocks Rise in Asia After Tech Boosts US Equities: Markets Wrap",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Asian equity markets advanced, taking cues from a rally in US technology stocks and robust economic data. The positive sentiment reflects continued risk-on appetite and confidence in the tech sector's resilience. Oil prices maintained significant gains from the previous session, indicating firm energy market fundamentals. This synchronized move suggests global macro sentiment is currently driven by US growth and tech sector performance.",
-        "relations": [
-          {
-            "label": "US Technology Stocks",
-            "type": "asset",
-            "desc": "Key sector driving global equity market sentiment."
-          },
-          {
-            "label": "Asian Equities",
-            "type": "asset",
-            "desc": "Regional stock markets following US lead."
+            "desc": "Geopolitical focal point causing market volatility"
           },
           {
             "label": "Crude Oil",
-            "type": "asset",
-            "desc": "Commodity holding gains, signaling demand or supply concerns."
+            "type": "resource",
+            "desc": "Key commodity asset rising on supply risk"
           },
           {
-            "label": "Risk Appetite",
+            "label": "Asian Equities",
+            "type": "entity",
+            "desc": "Asset class under selling pressure"
+          },
+          {
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Overall market sentiment favoring riskier assets."
+            "desc": "Primary market driver"
           }
         ],
         "analysis": {
           "strategic": [
-            "The lead-lag relationship from US tech to Asian equities underscores the continued dominance of US market sentiment and the tech sector in setting the global risk tone.",
-            "Firm oil prices alongside equity gains suggest markets are pricing in a 'Goldilocks' scenario of solid growth without immediate stagflation fears, but this balance is fragile."
+            "The Iran situation is acting as a catalyst for a broader risk reassessment in Asia, potentially triggering capital flight from emerging markets.",
+            "Sustained high oil prices could derail inflation control efforts and monetary policy easing plans for Asian central banks, impacting growth forecasts."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Asia-Pacific Tech ETFs (e.g., 3067.T / QQQ correlation plays)",
-          "risk": "MEDIUM",
-          "thesis": "Continued strength in US tech and positive spillover into Asia supports momentum in correlated Asian tech and growth stocks, especially those in the semiconductor and internet sectors with strong US ties."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1618510306178?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Mizuho Dropped from Bond Deals",
-        "fullTitle": "Mizuho Dropped From Another Yen Bond Deal in Fallout From Probe",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Mizuho Securities Co. is facing escalating reputational and operational damage as more issuers remove it from yen bond underwriting roles. This follows an investigation by Japan's Securities and Exchange Surveillance Commission (SESC) into suspected insider trading at the firm. The loss of underwriting mandates directly impacts revenue and market share. This indicates a serious breach of trust that may lead to long-term client attrition and regulatory penalties.",
-        "relations": [
-          {
-            "label": "Mizuho Securities Co.",
-            "type": "entity",
-            "desc": "Japanese investment bank and securities firm under investigation."
-          },
-          {
-            "label": "Securities and Exchange Surveillance Commission (SESC)",
-            "type": "entity",
-            "desc": "Japanese financial regulator conducting the probe."
-          },
-          {
-            "label": "Insider Trading",
-            "type": "risk",
-            "desc": "The alleged misconduct triggering the investigation."
-          },
-          {
-            "label": "Yen Bond Market",
-            "type": "asset",
-            "desc": "Primary market where Mizuho is losing underwriting roles."
-          },
-          {
-            "label": "Reputational Risk",
-            "type": "risk",
-            "desc": "Major risk for financial institutions, impacting client trust."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The cascading loss of mandates demonstrates how regulatory probes can rapidly translate into tangible business loss in the relationship-driven finance industry, weakening a firm's competitive position.",
-            "This creates a market share opportunity for Mizuho's domestic rivals (Nomura, Daiwa, SMBC Nikko) and global banks in the Japanese debt capital markets."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Mizuho Financial Group (8411.T) / Mizuho Securities parent",
+          "asset": "Brent Crude Futures / Energy Sector ETFs",
           "risk": "HIGH",
-          "thesis": "The investigation and loss of core investment banking revenue streams will likely pressure earnings, damage the brand, and potentially result in significant fines, negatively impacting the stock price relative to peers."
+          "thesis": "Geopolitical supply disruption fears provide strong upward momentum for oil prices. A prolonged standoff or conflict would sustain elevated price levels."
         },
         "confidence": 88,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1621721324253?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1540550512597?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Etsy Sells Depop to eBay",
-        "fullTitle": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Etsy is selling the secondhand clothing app Depop to eBay for $1.2 billion, representing a $420 million loss from its 2021 purchase price of $1.62 billion. The sale marks a strategic retreat from a segment that boomed during the pandemic but may have faced integration challenges or slower growth post-pandemic. For eBay, the acquisition is a bet on the long-term growth of the resale market and a move to attract younger demographics.",
+        "title": "Oil Steady on Iran Deadline",
+        "fullTitle": "Oil Steadies Near High as Trump Sets Iran Deadline",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Oil prices consolidated near a six-month peak following a statement from former US President Donald Trump. He issued a 15-day ultimatum to Iran regarding its nuclear program, coinciding with a significant US military buildup in the Middle East. This creates a defined, high-stakes timeline for a potential diplomatic or military escalation. The market is pricing in a substantial risk premium for supply disruptions.",
         "relations": [
           {
-            "label": "Etsy Inc. (ETSY)",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Online marketplace for handmade goods, selling Depop."
+            "desc": "Key political figure setting geopolitical timeline"
           },
           {
-            "label": "eBay Inc. (EBAY)",
+            "label": "US Military",
             "type": "entity",
-            "desc": "Online marketplace acquiring Depop."
+            "desc": "Force concentration increasing conflict probability"
           },
           {
-            "label": "Depop",
-            "type": "entity",
-            "desc": "Secondhand clothing marketplace app, the asset being sold."
-          },
-          {
-            "label": "Resale / Secondhand Market",
-            "type": "resource",
-            "desc": "Growing e-commerce segment focused on used goods."
-          },
-          {
-            "label": "M&A (Mergers & Acquisitions)",
+            "label": "Middle East Stability",
             "type": "risk",
-            "desc": "Strategic activity involving asset divestiture and acquisition."
+            "desc": "Critical regional risk factor for global energy"
+          },
+          {
+            "label": "Nuclear Program",
+            "type": "risk",
+            "desc": "Core issue of the geopolitical dispute"
           }
         ],
         "analysis": {
           "strategic": [
-            "Etsy's sale at a loss indicates a strategic pivot to refocus on its core handmade and vintage marketplace, shedding a non-core asset that may have been diluting margins or management attention.",
-            "eBay's acquisition is a defensive-offensive move to capture growth in the resilient resale segment and rejuvenate its platform with a younger, mobile-first user base, directly competing with Poshmark and ThredUp."
+            "The imposition of a short-term deadline dramatically increases the probability of a binary, market-moving event within a known window, reducing uncertainty but raising volatility.",
+            "This action signals a potential shift towards a more confrontational US foreign policy in the region, which could have long-term implications for energy security and alliances."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "eBay Inc. (EBAY)",
-          "risk": "MEDIUM",
-          "thesis": "The acquisition of Depop at a discounted price provides eBay with a high-growth, demographic-enhancing asset that could improve its long-term growth profile and market relevance, potentially re-rating the stock if integration is successful."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1591054050269?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Def Con Bans Epstein-Linked Figures",
-        "fullTitle": "Hacking conference Def Con bans three people linked to Epstein",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "The Def Con hacking conference has banned three individuals—hackers Pablos Holman and Vincenzo Iozzo, and former MIT Media Lab director Joichi Ito—due to their reported connections with the late financier and convicted sex offender Jeffrey Epstein. This action highlights the ongoing reputational reckoning within the tech and academic communities regarding associations with controversial figures. It underscores the importance of ethical standing for participants in influential communities.",
-        "relations": [
-          {
-            "label": "Def Con",
-            "type": "entity",
-            "desc": "Prominent annual hacking and security conference."
-          },
-          {
-            "label": "Jeffrey Epstein",
-            "type": "entity",
-            "desc": "Controversial financier at the center of the associations."
-          },
-          {
-            "label": "Reputational Risk",
-            "type": "risk",
-            "desc": "Key factor driving the ban for the conference and individuals."
-          },
-          {
-            "label": "Tech Ethics",
-            "type": "risk",
-            "desc": "Growing area of scrutiny for individuals and organizations in technology."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The ban reflects a continued and institutionalized effort within leading tech circles to distance themselves from toxic associations, making ethical due diligence a critical component of professional participation.",
-            "This sets a precedent for other conferences and tech institutions to take similar actions, potentially affecting the careers and affiliations of individuals with controversial past connections."
-          ]
-        },
-        "investment": {
-          "action": "N/A",
-          "asset": "N/A",
-          "risk": "N/A",
-          "thesis": "This is primarily a reputational and governance event with minimal direct financial market impact. No clear, actionable investment thesis is derived solely from this news."
+          "asset": "Oil Volatility Index (OVX) / Defense Contractors",
+          "risk": "HIGH",
+          "thesis": "The defined deadline creates an event-driven volatility spike opportunity. Defense stocks may benefit from increased military readiness and spending."
         },
         "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1625915935523?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1582949418760?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Google Cloud on Startup Challenges",
-        "fullTitle": "Google Cloud's VP on Startup 'Check Engine Light'",
+        "title": "Japan's Soft Power Billionaires",
+        "fullTitle": "Japan's Soft Power Creates 10 Billionaires",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Google Cloud's VP discusses the heightened pressures on startups, including the need for speed, AI adoption, tight funding, rising infrastructure costs, and early traction demands. While cloud credits and AI tools lower initial barriers, early technical and infrastructure choices can create significant technical debt and scaling challenges later. The commentary serves as both a market insight and a strategic pitch for managed cloud services that can mitigate these long-term risks.",
+        "summary": "Bloomberg analysis highlights how Japan's cultural exports in anime, character goods, and food have generated significant wealth. The report identifies ten billionaire families and founders behind iconic properties like One Piece, Hello Kitty, and Tamagotchi. This underscores the substantial and often underestimated economic value of intellectual property (IP) and content in Japan's economy. It reveals a lucrative investment sector driven by global fandom and licensing.",
         "relations": [
           {
-            "label": "Google Cloud",
+            "label": "Soft Power",
             "type": "entity",
-            "desc": "Cloud service provider offering solutions and commentary."
+            "desc": "Japan's cultural influence as an economic asset"
           },
           {
-            "label": "Startups",
-            "type": "entity",
-            "desc": "High-growth companies facing the described pressures."
-          },
-          {
-            "label": "AI Infrastructure",
-            "type": "tech",
-            "desc": "GPUs and foundation models lowering initial barriers."
-          },
-          {
-            "label": "Technical Debt",
-            "type": "risk",
-            "desc": "Long-term risk arising from early, suboptimal infrastructure choices."
-          },
-          {
-            "label": "Venture Capital Funding",
+            "label": "Intellectual Property (IP)",
             "type": "resource",
-            "desc": "Tighter environment increasing pressure on startups."
+            "desc": "Core asset generating wealth"
+          },
+          {
+            "label": "Content Industry",
+            "type": "entity",
+            "desc": "High-margin sector with global reach"
+          },
+          {
+            "label": "Bloomberg",
+            "type": "entity",
+            "desc": "Source of the analysis and data"
           }
         ],
         "analysis": {
           "strategic": [
-            "The narrative highlights a key vendor strategy: leveraging the complexity and hidden costs of AI/cloud infrastructure to lock in startups early with credits, aiming for long-term revenue as they scale.",
-            "It identifies a growing market vulnerability for startups—the 'time-to-market vs. scalable architecture' dilemma—which creates business opportunities for consultancies and managed service providers that can bridge this gap."
+            "Japan's content-based wealth generation model is resilient to traditional economic cycles, as demand is driven by global entertainment consumption rather than industrial output.",
+            "This sector represents a strategic avenue for Japan to offset demographic and industrial challenges, leveraging its unique cultural capital for sustained economic gain."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL) / Cloud hyperscalers",
+          "asset": "Japanese IP/Content Holding Companies (e.g., Bandai Namco, Shueisha-related)",
+          "risk": "MEDIUM",
+          "thesis": "These companies possess deep libraries of evergreen IP with global licensing potential, offering stable, high-margin revenue streams less correlated to macroeconomic downturns."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1525418828538?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Google Gemini Pro Sets Record",
+        "fullTitle": "Google’s Gemini Pro Model Has Record Benchmark Scores",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google has announced its new Gemini 3.1 Pro large language model (LLM), claiming it achieves record scores on industry benchmarks. The model is positioned as capable of handling more complex and sophisticated workloads. This represents a significant competitive move in the intensifying AI arms race, directly challenging other leading models. It signals Google's commitment to advancing its core AI infrastructure and cloud offerings.",
+        "relations": [
+          {
+            "label": "Google",
+            "type": "entity",
+            "desc": "Tech giant advancing its AI capabilities"
+          },
+          {
+            "label": "Gemini 3.1 Pro",
+            "type": "tech",
+            "desc": "Next-generation LLM with claimed superior performance"
+          },
+          {
+            "label": "AI Benchmarking",
+            "type": "tech",
+            "desc": "Key metric for competitive positioning"
+          },
+          {
+            "label": "LLM Market",
+            "type": "entity",
+            "desc": "Highly competitive strategic technology sector"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Google's benchmark claims are a strategic tool to capture developer mindshare and enterprise customers, crucial for its cloud division's growth against AWS and Azure.",
+            "Advancements in handling complex work indicate a push towards AI agents and automation, which could disrupt professional services and software markets."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Alphabet (GOOGL)",
+          "risk": "MEDIUM",
+          "thesis": "Superior AI technology is critical for defending and growing Google's core search business and accelerating Google Cloud's market share gains, justifying a premium valuation."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1666942940314?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Nvidia Invests in India AI Startups",
+        "fullTitle": "Nvidia Deepens Early-Stage Push Into India’s AI Ecosystem",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Nvidia is strategically expanding its engagement with India's burgeoning AI startup landscape. The company is collaborating with venture capital firms, non-profits, and investors to establish early-stage relationships with founders. This move aims to cultivate the next generation of AI companies built on Nvidia's hardware and software platforms. It secures a long-term pipeline for demand and entrenches Nvidia's architectural dominance in a key growth market.",
+        "relations": [
+          {
+            "label": "Nvidia",
+            "type": "entity",
+            "desc": "AI chip leader securing future demand"
+          },
+          {
+            "label": "India AI Ecosystem",
+            "type": "entity",
+            "desc": "High-growth target market for talent and startups"
+          },
+          {
+            "label": "Venture Capital",
+            "type": "entity",
+            "desc": "Channel for ecosystem influence and investment"
+          },
+          {
+            "label": "AI Hardware Platform",
+            "type": "tech",
+            "desc": "Nvidia's core product driving ecosystem lock-in"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This is a classic ecosystem lock-in strategy; by nurturing startups on its platform, Nvidia ensures future enterprise customers are already committed to its technology stack.",
+            "India represents a critical talent and market battleground against competitors like AMD and custom silicon efforts; early dominance here has long-term strategic value."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Nvidia (NVDA)",
           "risk": "LOW",
-          "thesis": "The intense pressure on startups to use AI and cloud services, coupled with the risks of poor early choices, drives demand for the integrated, scalable solutions offered by major hyperscalers like Google Cloud, reinforcing their market dominance and growth."
+          "thesis": "Nvidia is proactively defending its market leadership by investing in the future demand base, reducing long-term competitive threats and ensuring sustained growth from emerging markets."
+        },
+        "confidence": 92,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1561720149714?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "FBI Warns of Rising ATM Jackpotting",
+        "fullTitle": "FBI Says ATM ‘Jackpotting’ Attacks Are on the Rise",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "The FBI has issued a warning that 'jackpotting' attacks on ATMs, where machines are hacked to dispense cash on demand, are increasing. Hundreds of such incidents in the past year have resulted in millions of dollars in losses. This highlights a persistent and evolving cyber-physical security threat targeting financial infrastructure. The trend indicates sophisticated criminal networks exploiting vulnerabilities in widely deployed hardware and software.",
+        "relations": [
+          {
+            "label": "FBI",
+            "type": "entity",
+            "desc": "Law enforcement agency issuing the threat warning"
+          },
+          {
+            "label": "ATM Jackpotting",
+            "type": "risk",
+            "desc": "Specific cyber-physical financial crime"
+          },
+          {
+            "label": "Financial Infrastructure",
+            "type": "entity",
+            "desc": "Target of the attacks"
+          },
+          {
+            "label": "Cyber-Physical Security",
+            "type": "risk",
+            "desc": "Convergence of digital and physical threats"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The rise in jackpotting signals a shift in cybercrime towards direct, high-value physical asset theft, posing a different risk profile than data breaches for financial institutions.",
+            "This will force accelerated investment in ATM hardware security upgrades and network monitoring, creating a tailwind for cybersecurity firms specializing in physical endpoint protection."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Cybersecurity Firms (e.g., those in endpoint/OT security)",
+          "risk": "MEDIUM",
+          "thesis": "Increased regulatory pressure and insurance requirements will drive banks and ATM operators to invest heavily in modernizing the security of their physical transaction networks."
         },
         "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1615864254939?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1511677095938?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "RBNZ: Crecimiento sin inflación",
-        "fullTitle": "RBNZ enfrenta 'anatema' de economía en crecimiento con inflación en desaceleración",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El Banco de la Reserva de Nueva Zelanda (RBNZ) anticipa una fuerte recuperación económica en 2024 sin generar presiones inflacionarias significativas, según la Subgobernadora Karen Silk. Esta situación es inusual en el ciclo económico tradicional donde el crecimiento suele impulsar la inflación. El RBNZ mantendrá una postura de política monetaria cautelosa mientras monitorea esta dinámica atípica. La credibilidad del banco central podría fortalecerse si logra este equilibrio.",
-        "relations": [
-          {
-            "label": "RBNZ",
-            "type": "entity",
-            "desc": "Banco de la Reserva de Nueva Zelanda"
-          },
-          {
-            "label": "Karen Silk",
-            "type": "entity",
-            "desc": "Subgobernadora del RBNZ"
-          },
-          {
-            "label": "Política Monetaria",
-            "type": "risk",
-            "desc": "Riesgo de error en la calibración de tasas"
-          },
-          {
-            "label": "Dólar Neozelandés (NZD)",
-            "type": "asset",
-            "desc": "Divisa afectada por decisiones del RBNZ"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El RBNZ podría tener más margen para mantener tasas bajas por más tiempo si se confirma el escenario, beneficiando a los mercados de deuda local.",
-            "Esta dinámica podría indicar cambios estructurales en la transmisión de la política monetaria, relevante para otros bancos centrales."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Bonos del gobierno de Nueva Zelanda (NZGB)",
-          "risk": "MEDIUM",
-          "thesis": "Expectativas de tasas de interés estables o más bajas en un entorno de crecimiento sin inflación presionan los rendimientos a la baja, apreciando los precios de los bonos."
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1599583758046?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Acciones suben en Asia",
-        "fullTitle": "Acciones avanzan en Asia tras alza tecnológica y datos en EE.UU.",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los mercados bursátiles asiáticos registran ganancias, siguiendo el impulso de Wall Street donde el sector tecnológico repuntó y los datos económicos fueron robustos. El petróleo mantiene sus ganancias tras su mayor salto desde octubre. El sentimiento de riesgo mejora globalmente, reduciendo la demanda por activos refugio. La correlación positiva entre los mercados sugiere que el impulso podría continuar a corto plazo.",
-        "relations": [
-          {
-            "label": "Mercados Asiáticos",
-            "type": "entity",
-            "desc": "Índices bursátiles de la región Asia-Pacífico"
-          },
-          {
-            "label": "Sector Tecnológico",
-            "type": "entity",
-            "desc": "Acciones de empresas de tecnología"
-          },
-          {
-            "label": "Petróleo (WTI/Brent)",
-            "type": "asset",
-            "desc": "Commodity energético"
-          },
-          {
-            "label": "Sentimiento de Riesgo",
-            "type": "risk",
-            "desc": "Apetito por activos de mayor riesgo"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La fortaleza sincronizada sugiere una mejora en los fundamentos globales, no solo un rebote técnico, lo que podría sostener el rally.",
-            "El petróleo como indicador de crecimiento anticipado confirma la narrativa de expansión económica."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF iShares MSCI All Country Asia ex Japan (AAXJ)",
-          "risk": "MEDIUM",
-          "thesis": "Exposición amplia y diversificada al repunte de los mercados asiáticos, beneficiándose del impulso tecnológico y la mejora del sentimiento global."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1595562109394?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Mizuho excluido de acuerdo de bonos",
-        "fullTitle": "Mizuho excluido de otro acuerdo de bonos en yenes tras investigación",
+        "title": "Acciones asiáticas caen, petróleo sube",
+        "fullTitle": "Acciones asiáticas caen y petróleo sube con foco en Irán",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Mizuho Securities Co. está siendo excluido de más acuerdos de suscripción de bonos en yenes después de que la Comisión de Supervisión de la Bolsa de Valores (SESC) iniciara una investigación por presunto uso de información privilegiada. Varios emisores están retirando a la firma de sus roles de suscripción. Esto representa un riesgo reputacional y operativo significativo para Mizuho, pudiendo afectar sus ingresos por comisiones y su posición en el mercado primario de deuda japonesa.",
+        "summary": "Las acciones asiáticas cayeron y el petróleo alcanzó su nivel más alto desde agosto debido a las crecientes tensiones en Irán. La incertidumbre geopolítica está afectando el sentimiento del mercado. El aumento de los precios del petróleo ejerce presión sobre la inflación y el crecimiento. Los mercados están atentos a cualquier escalada que pueda interrumpir el suministro.",
         "relations": [
           {
-            "label": "Mizuho Securities",
-            "type": "entity",
-            "desc": "Firma de valores del Grupo Mizuho"
+            "label": "Petróleo (WTI/Brent)",
+            "type": "resource",
+            "desc": "Commodity clave, sensible a riesgos geopolíticos"
           },
           {
-            "label": "SESC",
+            "label": "Mercados de acciones asiáticos",
             "type": "entity",
-            "desc": "Comisión de Supervisión de la Bolsa de Valores de Japón"
+            "desc": "Índices como Nikkei, Hang Seng afectados por riesgo"
           },
           {
-            "label": "Información Privilegiada",
+            "label": "Irán",
+            "type": "entity",
+            "desc": "País en foco por tensiones geopolíticas y nucleares"
+          },
+          {
+            "label": "Riesgo Geopolítico",
             "type": "risk",
-            "desc": "Riesgo legal y regulatorio crítico"
+            "desc": "Factor principal de volatilidad en mercados"
           },
           {
-            "label": "Mercado de Bonos en Yenes",
-            "type": "entity",
-            "desc": "Mercado primario de deuda corporativa japonesa"
+            "label": "Inflación Global",
+            "type": "risk",
+            "desc": "Presionada por precios energéticos más altos"
           }
         ],
         "analysis": {
           "strategic": [
-            "La pérdida de participación en el mercado de suscripción podría erosionar permanentemente la cuota de mercado y las relaciones con clientes de Mizuho.",
-            "Competidores como Nomura y Daiwa podrían capturar los negocios perdidos, alterando el equilibrio competitivo del sector."
+            "La escalada en Irán representa un riesgo de cola para los mercados globales, con potencial de interrupción del suministro energético.",
+            "Los mercados asiáticos, como importadores netos de energía, son particularmente vulnerables a shocks en los precios del petróleo."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Mizuho Financial Group (8411.T)",
+          "action": "LONG",
+          "asset": "Futuros de petróleo (CL, BZ), ETF de energía (XLE)",
           "risk": "HIGH",
-          "thesis": "La investigación regulatoria y la pérdida de negocio de suscripción impactarán negativamente en los ingresos y la reputación, generando presión sobre el precio de la acción a corto y mediano plazo."
+          "thesis": "Las tensiones geopolíticas crean una prima de riesgo sostenida en el petróleo, con potencial de subidas bruscas por interrupciones."
         },
         "confidence": 88,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1638154776014?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1599408759241?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Etsy vende Depop a eBay",
-        "fullTitle": "Etsy vende el mercado de ropa usada Depop a eBay por $1.2B",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Etsy ha vendido la plataforma de ropa de segunda mano Depop a eBay por 1.200 millones de dólares en efectivo. Etsy había adquirido Depop por 1.620 millones de dólares hace casi cinco años, durante el auge de las aplicaciones de moda circular en la pandemia. La venta representa una pérdida de valor para Etsy y sugiere un cambio de estrategia, alejándose de la expansión en moda juvenil para centrarse en su negocio principal. eBay fortalece su posición en el mercado de reventa.",
+        "title": "Petróleo estable en máximos, plazo Irán",
+        "fullTitle": "Petróleo estable en máximos de 6 meses con plazo de EEUU a Irán",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El petróleo se mantiene cerca de máximos de seis meses. El presidente Trump dio a Irán un plazo máximo de 15 días para un acuerdo nuclear. Estados Unidos despliega fuerzas militares en la región. El mercado evalúa el riesgo de un conflicto que afecte el flujo de crudo.",
         "relations": [
           {
-            "label": "Etsy Inc.",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Mercado en línea para productos artesanales y vintage"
+            "desc": "Presidente de EEUU, fijando política exterior sobre Irán"
           },
           {
-            "label": "eBay Inc.",
+            "label": "Programa Nuclear Iraní",
             "type": "entity",
-            "desc": "Mercado de comercio electrónico y subastas"
+            "desc": "Foco central de la disputa y sanciones"
           },
           {
-            "label": "Depop",
+            "label": "Fuerzas Militares de EEUU",
             "type": "entity",
-            "desc": "Mercado de moda de segunda mano dirigido a jóvenes"
+            "desc": "Despliegue en Medio Oriente aumenta riesgo"
           },
           {
-            "label": "Mercado de Reventa",
+            "label": "Estrecho de Ormuz",
             "type": "resource",
-            "desc": "Segmento de comercio electrónico de segunda mano"
+            "desc": "Punto de estrangulamiento crítico para el transporte de petróleo"
+          },
+          {
+            "label": "Volatilidad del Mercado",
+            "type": "risk",
+            "desc": "Aumenta con plazos políticos y movimientos militares"
           }
         ],
         "analysis": {
           "strategic": [
-            "Etsy se está deshaciendo de un activo no central para mejorar su enfoque y eficiencia operativa, posiblemente para apaciguar a los inversores.",
-            "eBay está realizando una adquisición estratégica para capturar el segmento de consumidores jóvenes y crecimiento en la moda circular, complementando su negocio principal."
+            "La imposición de un plazo corto aumenta la probabilidad de un resultado binario (acuerdo o escalada), manteniendo alta la volatilidad.",
+            "Cualquier interrupción en el Estrecho de Ormuz tendría un impacto inmediato y severo en los precios globales de la energía."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "eBay Inc. (EBAY)",
-          "risk": "MEDIUM",
-          "thesis": "La adquisición de Depop a un precio inferior al pagado por Etsy en 2021 es valorada positivamente, añade un segmento de alto crecimiento y podría rejuvenecer la base de usuarios de eBay."
-        },
-        "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1593656391452?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Def Con prohíbe a tres personas",
-        "fullTitle": "Conferencia de hackers Def Con prohíbe a tres vinculados a Epstein",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "La conferencia de hackers Def Con ha prohibido la asistencia a los hackers Pablos Holman y Vincenzo Iozzo, así como al exdirector del MIT Media Lab, Joichi Ito, debido a sus vínculos reportados con Jeffrey Epstein. La medida busca proteger la reputación de la conferencia y alinearse con estándares éticos más estrictos. Refleja una tendencia más amplia en la industria tecnológica y académica de distanciarse de figuras asociadas con controversias. El impacto financiero directo es bajo.",
-        "relations": [
-          {
-            "label": "Def Con",
-            "type": "entity",
-            "desc": "Conferencia anual de hackers y seguridad informática"
-          },
-          {
-            "label": "Jeffrey Epstein",
-            "type": "entity",
-            "desc": "Financiero fallecido condenado por delitos sexuales"
-          },
-          {
-            "label": "Riesgo Reputacional",
-            "type": "risk",
-            "desc": "Riesgo de asociación con figuras controvertidas"
-          },
-          {
-            "label": "Ética en la Tecnología",
-            "type": "risk",
-            "desc": "Presión social por estándares éticos más altos"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Las organizaciones tecnológicas están incrementando sus controles de 'due diligence' ética para socios y participantes, lo que podría afectar las redes de colaboración.",
-            "Este caso ejemplifica cómo los escándalos sociales pueden tener consecuencias tangibles en el acceso a comunidades profesionales de élite."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de Ciberseguridad (CIBR)",
-          "risk": "LOW",
-          "thesis": "El enfoque continuo en la ética y la reputación dentro de la comunidad de seguridad refuerza la profesionalización del sector, beneficiando a empresas establecidas y transparentes en el largo plazo."
-        },
-        "confidence": 80,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1678402501781?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Google Cloud aconseja a startups",
-        "fullTitle": "VP de Google Cloud explica qué hacer si la 'luz de advertencia' de tu startup está encendida",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El VP de Google Cloud advierte a los fundadores de startups sobre los desafíos actuales: presión por crecer rápido con IA, financiamiento más ajustado, costos de infraestructura crecientes y necesidad de mostrar tracción temprana. Aunque créditos en la nube, acceso a GPUs y modelos fundacionales facilitan el inicio, las decisiones tempranas de infraestructura pueden tener consecuencias imprevistas al escalar. Se enfatiza la importancia de una arquitectura escalable y eficiente en costos desde el principio.",
-        "relations": [
-          {
-            "label": "Google Cloud",
-            "type": "entity",
-            "desc": "Plataforma de computación en la nube de Alphabet"
-          },
-          {
-            "label": "Startups",
-            "type": "entity",
-            "desc": "Empresas emergentes de tecnología"
-          },
-          {
-            "label": "Inteligencia Artificial (IA)",
-            "type": "tech",
-            "desc": "Tecnología clave para el crecimiento"
-          },
-          {
-            "label": "GPUs",
-            "type": "resource",
-            "desc": "Infraestructura crítica para el desarrollo de IA"
-          },
-          {
-            "label": "Costos de Infraestructura",
-            "type": "risk",
-            "desc": "Riesgo operativo y de escalabilidad"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Google Cloud está posicionándose como un socio estratégico para startups en IA, ofreciendo herramientas y consejos para retener clientes a largo plazo.",
-            "La advertencia subraya un riesgo sistémico: muchas startups de IA podrían fracasar al escalar debido a malas decisiones técnicas iniciales, lo que podría llevar a una consolidación del sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "Google Cloud se está asegurando la próxima generación de clientes empresariales (startups que escalan) en el competitivo mercado de la nube e IA, lo que impulsará los ingresos a largo plazo."
+          "asset": "Opciones call sobre petróleo, acciones de petroleras con exposición al Golfo",
+          "risk": "HIGH",
+          "thesis": "El plazo crea un evento catalizador concentrado en el tiempo. Una ruptura de las negociaciones podría llevar los precios muy por encima de los niveles actuales."
         },
         "confidence": 86,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1615390280508?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "10 billonarios del soft power japonés",
+        "fullTitle": "10 billonarios creados por el soft power japonés (anime, comida)",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El soft power japonés, a través del anime, personajes y gastronomía, ha creado fortunas significativas. Contenidos como 'One Piece' y 'Hello Kitty' tienen fanáticos globales. Bloomberg identifica a 10 familias y fundadores ricos de este ecosistema. Muestra el valor económico de la exportación cultural.",
+        "relations": [
+          {
+            "label": "Soft Power Japonés",
+            "type": "entity",
+            "desc": "Capacidad cultural para influir y generar valor económico"
+          },
+          {
+            "label": "Anime (Ej: One Piece)",
+            "type": "entity",
+            "desc": "Propiedad intelectual de alto valor y alcance global"
+          },
+          {
+            "label": "Personajes (Ej: Hello Kitty)",
+            "type": "entity",
+            "desc": "Licencias y mercancías que generan ingresos recurrentes"
+          },
+          {
+            "label": "Exportación Cultural",
+            "type": "resource",
+            "desc": "Modelo de negocio basado en contenido intelectual"
+          },
+          {
+            "label": "Toei Animation, Bandai, etc.",
+            "type": "entity",
+            "desc": "Empresas cotizadas detrás de estos contenidos"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El éxito del soft power japonés demuestra un modelo de negocio escalable y defensible basado en propiedad intelectual, menos cíclico que otros sectores.",
+            "Estas fortunas están vinculadas a la globalización del consumo cultural, una tendencia estructural que probablemente continúe."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de estudios de anime y empresas de licencias japonesas (Ej: 4320.T, 7832.T)",
+          "risk": "MEDIUM",
+          "thesis": "La demanda global por contenido japonés sigue creciendo, impulsando ingresos por licencias, streaming y mercancías, con márgenes atractivos."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1582150269734?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Gemini Pro de Google bate récords",
+        "fullTitle": "Nuevo modelo Gemini Pro de Google bate récords en benchmarks",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Google anuncia Gemini 3.1 Pro, un nuevo modelo de lenguaje grande (LLM). Promete manejar formas de trabajo más complejas. Alcanza puntuaciones récord en benchmarks de evaluación. Refuerza la competencia en la carrera de IA generativa frente a OpenAI y otros.",
+        "relations": [
+          {
+            "label": "Google (Alphabet)",
+            "type": "entity",
+            "desc": "Gigante tecnológico, compitiendo en la carrera de LLMs"
+          },
+          {
+            "label": "Gemini 3.1 Pro",
+            "type": "tech",
+            "desc": "Nuevo modelo de IA de Google, mejorado en capacidades"
+          },
+          {
+            "label": "IA Generativa",
+            "type": "tech",
+            "desc": "Campo de rápido desarrollo y alta inversión"
+          },
+          {
+            "label": "OpenAI (GPT)",
+            "type": "entity",
+            "desc": "Principal competidor en el espacio de LLMs"
+          },
+          {
+            "label": "Benchmarks de IA",
+            "type": "tech",
+            "desc": "Métricas estandarizadas para evaluar el rendimiento de modelos"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los avances continuos en benchmarks indican una rápida evolución de las capacidades centrales de la IA, acortando el tiempo para aplicaciones empresariales complejas.",
+            "Google fortalece su posición en la pila de IA, crucial para defender su negocio de búsqueda y expandirse en la nube y software."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de Alphabet (GOOGL), ETF de IA y Semiconductores (AIQ, SOXX)",
+          "risk": "MEDIUM",
+          "thesis": "El liderazgo tecnológico en IA es un motor clave de valor a largo plazo para los gigantes tecnológicos, impulsando sus múltiples negocios."
+        },
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1544316731775?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Nvidia profundiza en ecosistema IA de India",
+        "fullTitle": "Nvidia profundiza su impulso en el ecosistema de startups de IA de India",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Nvidia está fortaleciendo sus lazos con el ecosistema de startups de IA de la India. Colabora con inversores, organizaciones sin fines de lucro y empresas de capital de riesgo. El objetivo es construir relaciones tempranas con los fundadores. India es un mercado de talento y crecimiento clave para el futuro de la IA.",
+        "relations": [
+          {
+            "label": "Nvidia",
+            "type": "entity",
+            "desc": "Líder en semiconductores de IA, expandiendo su ecosistema"
+          },
+          {
+            "label": "Ecosistema de Startups de IA India",
+            "type": "entity",
+            "desc": "Mercado de alto crecimiento con gran talento técnico"
+          },
+          {
+            "label": "Capital de Riesgo (VC)",
+            "type": "entity",
+            "desc": "Socios para identificar y nutrir startups prometedoras"
+          },
+          {
+            "label": "Talento en IA",
+            "type": "resource",
+            "desc": "Recurso clave, India es una fuente importante"
+          },
+          {
+            "label": "Datos (para entrenar IA)",
+            "type": "resource",
+            "desc": "India ofrece conjuntos de datos diversos y únicos"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Esta estrategia 'de abajo hacia arriba' asegura la adopción temprana de la plataforma hardware/software de Nvidia, creando dependencia y lealtad a largo plazo.",
+            "Invertir en India no es solo por el mercado local, sino para capturar talento global que construirá la próxima generación de aplicaciones de IA."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de Nvidia (NVDA), Fondos de capital de riesgo centrados en India/tecnología",
+          "risk": "MEDIUM",
+          "thesis": "La construcción de un ecosistema dominante amplía el foso competitivo de Nvidia más allá del hardware, asegurando su relevancia en la cadena de valor de la IA."
+        },
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1513239974285?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Ataques 'jackpotting' a cajeros en aumento",
+        "fullTitle": "FBI: Ataques 'jackpotting' a cajeros automáticos en aumento",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "El FBI reporta un aumento en los ataques de 'jackpotting' a cajeros automáticos. Los hackers engañan a los cajeros para que expulsen dinero a demanda. Cientos de ataques en el último año han resultado en millones de dólares robados. Representa un riesgo cibernético tangible para la infraestructura financiera física.",
+        "relations": [
+          {
+            "label": "FBI",
+            "type": "entity",
+            "desc": "Agencia que emite la alerta sobre el aumento de la amenaza"
+          },
+          {
+            "label": "Jackpotting (ATM)",
+            "type": "risk",
+            "desc": "Ataque cibernético-físico para robar efectivo de cajeros"
+          },
+          {
+            "label": "Infraestructura Financiera",
+            "type": "entity",
+            "desc": "Blanco de ataques, incluye cajeros automáticos y redes bancarias"
+          },
+          {
+            "label": "Cibercrimen Organizado",
+            "type": "risk",
+            "desc": "Actores detrás de estos ataques sofisticados"
+          },
+          {
+            "label": "Proveedores de Cajeros (Diebold Nixdorf, NCR)",
+            "type": "entity",
+            "desc": "Fabricantes del hardware objetivo, bajo presión para mejorar seguridad"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La convergencia de ataques cibernéticos y físicos contra infraestructura crítica representa un riesgo operativo y de reputación creciente para las instituciones financieras.",
+            "Estos incidentes probablemente acelerarán la inversión en modernización y seguridad de la red de cajeros automáticos, un gasto de capital significativo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de empresas de ciberseguridad financiera (Ej: FI, sector en ETFs como CIBR)",
+          "risk": "MEDIUM",
+          "thesis": "El aumento de ataques sofisticados contra infraestructura financiera impulsará el gasto en soluciones de seguridad especializadas, beneficiando a los proveedores del sector."
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1655419548627?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1675753613957?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
