@@ -1,833 +1,863 @@
 {
-  "generated_at": "2026-02-20T02:15:35.377826",
+  "generated_at": "2026-02-21T02:10:04.131847",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "亚洲股市下跌，油价上涨",
-        "fullTitle": "亚洲股市下跌，油价因伊朗局势升至八月以来高点",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "由于伊朗紧张局势升级影响市场情绪，亚洲股市普遍下跌。国际油价攀升至去年八月以来的最高水平。地缘政治风险成为当前市场的主要驱动因素。投资者正密切关注中东局势的进一步发展。",
-        "relations": [
-          {
-            "label": "伊朗",
-            "type": "entity",
-            "desc": "地缘政治风险核心国家"
-          },
-          {
-            "label": "亚洲股市",
-            "type": "entity",
-            "desc": "受风险情绪影响下跌的资产类别"
-          },
-          {
-            "label": "原油",
-            "type": "resource",
-            "desc": "因地缘政治紧张而价格上涨的关键大宗商品"
-          },
-          {
-            "label": "地缘政治风险",
-            "type": "risk",
-            "desc": "驱动市场波动的核心风险因素"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "伊朗局势的升级可能引发更广泛的地区冲突，对全球能源供应和贸易路线构成威胁。",
-            "风险资产（如亚洲股票）与避险资产（如原油）的走势分化，表明市场正进入避险模式。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "原油期货（如WTI、布伦特）",
-          "risk": "HIGH",
-          "thesis": "地缘政治紧张局势直接威胁原油供应，支撑油价在短期内保持强势。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1669064866692?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "油价持稳于六个月高位",
-        "fullTitle": "特朗普设伊朗最后期限，油价持稳于六个月高位",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "国际油价在六个月高点附近持稳。美国总统特朗普为伊朗核问题设定了15天的最后期限。美国正在中东集结大量军事力量。市场正等待伊朗的回应，这将是油价下一步走势的关键。",
-        "relations": [
-          {
-            "label": "特朗普",
-            "type": "entity",
-            "desc": "设定伊朗问题最后期限的美国前总统"
-          },
-          {
-            "label": "伊朗核问题",
-            "type": "risk",
-            "desc": "地缘政治紧张的核心议题"
-          },
-          {
-            "label": "美国军事力量",
-            "type": "entity",
-            "desc": "中东地区局势升级的关键变量"
-          },
-          {
-            "label": "原油供应风险",
-            "type": "risk",
-            "desc": "支撑油价的核心逻辑"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "美国设定明确最后期限，增加了局势在短期内激化的可能性，市场波动性将加剧。",
-            "美国在中东的军事集结表明其准备采取强硬手段，任何军事行动都将导致油价飙升。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "能源股ETF（如XLE）、原油看涨期权",
-          "risk": "HIGH",
-          "thesis": "最后期限的设置创造了明确的事件驱动窗口，任何负面进展都将大幅推高能源资产价格。"
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1641211707982?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "日本软实力创造的十位亿万富翁",
-        "fullTitle": "日本动漫美食软实力创造十位亿万富翁",
+        "title": "索尼强调多元化融资策略",
+        "fullTitle": "索尼CEO称多元化资本来源对资产收购至关重要",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "日本通过动漫、角色（如海贼王、Hello Kitty）和美食等文化内容在全球积累了巨大影响力。这些内容产业创造了巨额财富。彭博社评选出十位由此致富的日本富豪。报告揭示了文化软实力与资本积累之间的强关联。",
+        "summary": "索尼集团首席执行官表示，利用私募股权和传统银行债务及股票之外的不同融资来源，对于公司的收购战略至关重要。这反映了大型科技和娱乐集团在复杂市场环境中寻求更灵活资本结构的趋势。此举旨在增强索尼在竞争性资产收购中的财务能力和战略主动性。",
         "relations": [
           {
-            "label": "日本软实力",
+            "label": "索尼集团",
             "type": "entity",
-            "desc": "通过文化内容输出的国家影响力"
+            "desc": "日本跨国综合企业集团"
           },
           {
-            "label": "动漫产业",
+            "label": "Hiroki Totoki",
             "type": "entity",
-            "desc": "日本文化出口和财富创造的核心领域"
+            "desc": "索尼集团首席执行官"
           },
           {
-            "label": "内容IP",
+            "label": "私募股权",
             "type": "resource",
-            "desc": "具有长期商业价值的无形资产"
+            "desc": "非公开市场股权融资"
           },
           {
-            "label": "文化消费",
-            "type": "entity",
-            "desc": "全球范围内的增长型消费趋势"
+            "label": "资产收购",
+            "type": "risk",
+            "desc": "企业扩张与整合战略"
+          },
+          {
+            "label": "多元化融资",
+            "type": "risk",
+            "desc": "降低对单一资金来源依赖"
           }
         ],
         "analysis": {
           "strategic": [
-            "日本的文化内容产业已成为其重要的经济支柱和资本输出渠道，商业模式成熟且具有全球扩展性。",
-            "这标志着‘内容即资产’的趋势，拥有强大IP的公司在全球娱乐和消费市场具备长期竞争优势。"
+            "索尼正通过构建更灵活的资本结构，为潜在的行业整合和战略收购做准备，这可能指向其在娱乐、游戏或半导体领域的进一步扩张。",
+            "此举可能预示着大型企业集团在利率和信贷环境变化下，对传统融资渠道依赖度的降低，并可能引发同行效仿。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "日本头部内容公司（如万代南梦宫、任天堂）",
+          "asset": "索尼集团 (SONY)",
           "risk": "MEDIUM",
-          "thesis": "强大的全球IP组合带来稳定的特许权使用费和增长潜力，受经济周期影响相对较小。"
+          "thesis": "公司积极的资本策略和潜在的收购活动可能提升其长期增长潜力和市场竞争力，尤其是在内容与科技融合的关键领域。"
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1521759734325?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1661629812074?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "谷歌Gemini Pro模型再创纪录",
-        "fullTitle": "谷歌Gemini Pro模型基准测试再创纪录",
+        "title": "哥伦比亚与委内瑞拉推进天然气贸易",
+        "fullTitle": "哥伦比亚寻求从委内瑞拉进口天然气以弥补短缺",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "委内瑞拉和哥伦比亚的高级官员在加拉加斯会面，即将离任的哥伦比亚总统古斯塔沃·佩特罗政府正寻求确保天然气进口，以帮助填补日益增长的关键燃料短缺。该燃料用于工厂和烹饪。这表明区域能源合作在政治变动中仍具动力。",
+        "relations": [
+          {
+            "label": "哥伦比亚",
+            "type": "entity",
+            "desc": "南美洲国家，面临能源短缺"
+          },
+          {
+            "label": "委内瑞拉",
+            "type": "entity",
+            "desc": "南美洲国家，拥有丰富天然气资源"
+          },
+          {
+            "label": "古斯塔沃·佩特罗",
+            "type": "entity",
+            "desc": "哥伦比亚总统"
+          },
+          {
+            "label": "天然气",
+            "type": "resource",
+            "desc": "关键工业与民用能源"
+          },
+          {
+            "label": "能源安全",
+            "type": "risk",
+            "desc": "国家经济稳定的基础"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此举可能缓解哥伦比亚的能源供应压力，并可能为委内瑞拉受制裁的能源部门提供一个重要的出口窗口，改善其经济状况。",
+            "区域能源合作的推进，尽管存在政治不确定性，表明经济现实需求可能超越短期政治分歧，为南美能源市场整合带来契机。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "区域能源基础设施相关ETF或股票",
+          "risk": "HIGH",
+          "thesis": "若合作成功，将利好参与跨境天然气管道运营、物流及相关服务的公司，但地缘政治和哥伦比亚政府换届带来高风险。"
+        },
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1661696937681?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "华尔街聚焦日本经济新篇章",
+        "fullTitle": "华尔街周刊：日本经济或告别三十年停滞迎来新投资视野",
         "classification": "RESTRICTED",
         "impactLevel": "HIGH",
-        "summary": "谷歌发布了新的Gemini 3.1 Pro大型语言模型。该模型在基准测试中再次创下高分记录。谷歌宣称该模型能够处理更复杂的工作任务。这表明AI模型能力竞赛仍在持续升级。",
+        "summary": "报道探讨日本经济在所谓‘失去的几十年’后可能正在翻开新的一页。阿波罗全球管理的马克·罗文解释了日本当前出现的‘新自信’。核心议题包括私人资本能否推动日本下一个增长周期，以及改革与传统碰撞下日本商业文化面临的考验。",
         "relations": [
           {
-            "label": "谷歌",
+            "label": "日本经济",
             "type": "entity",
-            "desc": "发布先进AI模型的科技巨头"
+            "desc": "全球第三大经济体，处于转型期"
           },
           {
-            "label": "Gemini Pro",
-            "type": "tech",
-            "desc": "谷歌最新的高性能大型语言模型"
+            "label": "阿波罗全球管理",
+            "type": "entity",
+            "desc": "全球领先的另类投资管理公司"
           },
           {
-            "label": "AI基准测试",
-            "type": "tech",
-            "desc": "衡量AI模型性能的关键指标"
+            "label": "马克·罗文",
+            "type": "entity",
+            "desc": "阿波罗全球管理CEO"
           },
           {
-            "label": "复杂任务处理",
-            "type": "tech",
-            "desc": "AI模型能力演进的重要方向"
+            "label": "私人资本",
+            "type": "resource",
+            "desc": "推动企业重组和增长的关键力量"
+          },
+          {
+            "label": "结构性改革",
+            "type": "risk",
+            "desc": "日本经济焕发活力的潜在催化剂"
           }
         ],
         "analysis": {
           "strategic": [
-            "谷歌持续在AI基础模型领域取得突破，巩固了其在全球AI竞赛中的第一梯队地位。",
-            "模型处理复杂任务能力的提升，将加速AI在企业和专业领域的渗透与应用。"
+            "国际顶级投资机构对日本态度转向积极，可能吸引全球资本重新配置，推动日本资产价值重估，尤其是在公司治理改革受益领域。",
+            "日本商业文化在改革压力下的演变，将决定其创新能力和全球竞争力能否持续提升，这是长期投资故事的关键。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "谷歌母公司Alphabet（GOOGL）",
+          "asset": "日本股市ETF (如EWJ) 或专注公司治理改善的个股",
           "risk": "MEDIUM",
-          "thesis": "领先的AI技术是维持其云计算、广告和新兴业务长期增长的核心引擎。"
+          "thesis": "基于公司治理改革、通胀回归、外资流入以及私人资本活跃度提升等多重因素，日本股市可能进入一个结构性上行周期。"
         },
-        "confidence": 87,
+        "confidence": 88,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1684974064959?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "印度Sarvam推出Indus AI聊天应用",
+        "fullTitle": "竞争加剧，印度Sarvam公司推出Indus AI聊天应用",
+        "classification": "RESTRICTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "印度人工智能公司Sarvam推出了名为Indus的聊天应用程序，目前处于测试阶段。此举正值全球及印度本土AI竞争白热化之际，表明印度初创企业正积极投身于生成式AI应用的竞赛中。",
+        "relations": [
+          {
+            "label": "Sarvam AI",
+            "type": "entity",
+            "desc": "印度人工智能初创公司"
+          },
+          {
+            "label": "Indus 聊天应用",
+            "type": "tech",
+            "desc": "生成式AI驱动的聊天应用程序"
+          },
+          {
+            "label": "印度AI市场",
+            "type": "entity",
+            "desc": "快速增长且竞争激烈的新兴市场"
+          },
+          {
+            "label": "生成式AI",
+            "type": "tech",
+            "desc": "当前科技投资核心赛道"
+          },
+          {
+            "label": "市场竞争",
+            "type": "risk",
+            "desc": "初创公司面临全球巨头的压力"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "印度本土AI公司推出面向消费者的应用，是印度科技生态系统成熟和野心增长的标志，可能催生专注于本地语言和语境的新一代AI产品。",
+            "在全球巨头主导的AI赛道中，印度初创公司能否凭借本地化优势和独特数据杀出重围，将决定其长期价值和发展空间。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "印度科技风投基金或Sarvam未来融资轮",
+          "risk": "HIGH",
+          "thesis": "投资于印度本土有潜力的AI初创公司，有望捕捉该国数字人口红利和AI普及早期的高增长机会，但面临技术和商业化的高风险。"
+        },
+        "confidence": 80,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1593282459007?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1540332510002?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "英伟达深入印度AI初创生态",
-        "fullTitle": "英伟达早期深入印度AI初创生态系统",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "英伟达正在与投资者、非营利组织和风投机构合作。其目标是更早地与印度快速增长的人工智能创始人生态系统建立联系。此举旨在从源头锁定未来的AI人才和客户。印度被视为关键的全球AI增长市场。",
+        "title": "创作者经济面临广告收入挑战",
+        "fullTitle": "创作者经济广告收入遇瓶颈，多元化变现成新策略",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "创作者经济发展迅速，仅靠广告收入已难以为继。头部创作者如MrBeast正在通过推出产品线、收购初创公司（如金融科技公司Step）来构建商业帝国，其巧克力业务的收入甚至超过了媒体部门。多元化变现正成为行业新剧本。",
         "relations": [
           {
-            "label": "英伟达",
+            "label": "创作者经济",
             "type": "entity",
-            "desc": "全球AI芯片领导者"
+            "desc": "基于内容创作者的新兴经济形态"
           },
           {
-            "label": "印度AI生态",
+            "label": "MrBeast",
             "type": "entity",
-            "desc": "快速增长的关键人才与市场"
+            "desc": "全球顶级YouTube创作者"
           },
           {
-            "label": "AI初创公司",
-            "type": "entity",
-            "desc": "英伟达未来的核心客户与合作伙伴"
-          },
-          {
-            "label": "战略投资与合作",
+            "label": "广告收入",
             "type": "risk",
-            "desc": "构建长期护城河的关键手段"
+            "desc": "传统但增长放缓的变现模式"
+          },
+          {
+            "label": "业务多元化",
+            "type": "risk",
+            "desc": "创作者降低风险、扩大收入的关键"
+          },
+          {
+            "label": "初创公司收购",
+            "type": "entity",
+            "desc": "创作者资本化其影响力的新途径"
           }
         ],
         "analysis": {
           "strategic": [
-            "英伟达通过早期生态布局，旨在锁定印度这一未来AI大国的人才和市场需求，构建长期竞争优势。",
-            "此举反映了全球科技巨头对新兴市场AI潜力的争夺战已从产品销售延伸至生态培育和标准制定。"
+            "顶级创作者向企业家转型，标志着创作者经济从个人影响力变现向规模化、多元化商业运营演进，其投资和并购行为可能影响消费品牌和初创公司格局。",
+            "广告收入天花板的出现，将迫使中腰部创作者探索更可持续的商业模式，如订阅、电商、知识付费等，相关服务商将受益。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "英伟达（NVDA）",
+          "asset": "创作者工具、电商SaaS及粉丝经济平台类公司",
           "risk": "MEDIUM",
-          "thesis": "对关键增长市场的早期生态布局，有助于巩固其AI硬件和软件平台的统治地位，驱动长期增长。"
+          "thesis": "创作者经济商业模式升级将增加对后端工具、供应链管理和粉丝运营解决方案的需求，投资于赋能创作者的公司是更稳健的选择。"
         },
-        "confidence": 89,
+        "confidence": 85,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1557322313612?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1668428670692?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "FBI警告ATM“劫持”攻击激增",
-        "fullTitle": "FBI称ATM“劫持”攻击激增，黑客获利数百万",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国联邦调查局警告，诱使ATM按需吐钞的黑客攻击正在增加。仅过去一年就发生了数百起此类攻击，黑客窃取了数百万美元现金。这种被称为“劫持”的攻击手法对金融系统安全构成直接威胁。金融机构需要升级物理和网络安全措施。",
+        "title": "前HQ主持人推出新移动游戏秀",
+        "fullTitle": "前HQ主持人Scott Rogowsky推出每日移动游戏秀TextSavvy",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "曾主持热门直播答题应用HQ的前主持人斯科特·罗戈夫斯基以新项目TextSavvy回归。TextSavvy是一个每日移动游戏节目，他正按照自己的意愿独立构建该项目。这标志着互动娱乐形式的又一次尝试。",
         "relations": [
           {
-            "label": "FBI",
+            "label": "Scott Rogowsky",
             "type": "entity",
-            "desc": "发布警告的美国执法机构"
+            "desc": "知名游戏节目主持人"
           },
           {
-            "label": "ATM劫持",
-            "type": "risk",
-            "desc": "针对自动取款机的物理/网络混合攻击"
-          },
-          {
-            "label": "金融系统安全",
-            "type": "risk",
-            "desc": "面临新型技术犯罪威胁的关键基础设施"
-          },
-          {
-            "label": "网络安全公司",
+            "label": "TextSavvy",
             "type": "entity",
-            "desc": "提供解决方案的潜在受益方"
+            "desc": "每日移动直播游戏节目"
+          },
+          {
+            "label": "HQ Trivia",
+            "type": "tech",
+            "desc": "曾风靡一时的直播答题应用"
+          },
+          {
+            "label": "移动互动娱乐",
+            "type": "tech",
+            "desc": "基于手机的实时参与式娱乐"
+          },
+          {
+            "label": "独立创业",
+            "type": "risk",
+            "desc": "个人IP商业化的尝试"
           }
         ],
         "analysis": {
           "strategic": [
-            "针对金融基础设施的混合攻击（物理+网络）正在成为新趋势，暴露出传统安防体系的漏洞。",
-            "此类高回报、低风险的犯罪活动可能被更多犯罪组织效仿，导致全球范围内的金融安全风险上升。"
+            "知名主持人利用个人品牌和过往经验进行独立创业，反映了内容领域个人IP价值的持续释放和去平台化趋势。",
+            "在HQ等应用热潮退去后，新的互动娱乐形式仍在探索中，TextSavvy的成功与否将测试‘轻型’、高频次移动游戏节目的市场可持续性。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "金融安防与网络安全公司（如帕洛阿尔托网络、赛门铁克）",
-          "risk": "MEDIUM",
-          "thesis": "金融机构为应对新型威胁，将增加在物理安防升级和高级威胁检测解决方案上的支出。"
+          "action": "SHORT",
+          "asset": "过度依赖单一互动娱乐模式的早期公司",
+          "risk": "HIGH",
+          "thesis": "直播互动游戏赛道已被证明用户留存和商业模式挑战巨大，除非有革命性创新，否则同类小型独立项目成功概率较低。"
         },
-        "confidence": 86,
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1537859428751?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1572574763061?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Asian Stocks Fall, Oil Rises",
-        "fullTitle": "Asian Stocks Fall, Oil Climbs With Iran in Focus",
+        "title": "Sony's Diverse Capital Strategy",
+        "fullTitle": "Sony CEO: Diverse Capital Key for Acquisitions",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Asian equity markets declined while oil prices surged to their highest level since August. The primary driver is escalating geopolitical tensions centered on Iran, which is negatively impacting market sentiment. This indicates a classic risk-off shift in the region, with capital flowing from equities to perceived safe-haven commodities. The situation creates immediate pressure on energy costs and regional economic stability.",
+        "impactLevel": "MEDIUM",
+        "summary": "Sony Group Corp.'s CEO Hiroki Totoki emphasizes the importance of utilizing diverse funding sources, including private equity, beyond traditional bank debt and stock for its acquisition strategy. This approach is deemed crucial for the company's future growth and asset acquisition plans. It signals a strategic shift in corporate financing for large-scale deals.",
         "relations": [
           {
-            "label": "Iran",
+            "label": "Sony Group Corp.",
             "type": "entity",
-            "desc": "Geopolitical focal point causing market volatility"
+            "desc": "Japanese multinational conglomerate"
           },
           {
-            "label": "Crude Oil",
+            "label": "Hiroki Totoki",
+            "type": "entity",
+            "desc": "CEO of Sony Group Corp."
+          },
+          {
+            "label": "Private Equity",
             "type": "resource",
-            "desc": "Key commodity asset rising on supply risk"
+            "desc": "Alternative funding source for acquisitions"
           },
           {
-            "label": "Asian Equities",
+            "label": "Asset Acquisition",
+            "type": "risk",
+            "desc": "Strategic growth through M&A activity"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Sony is institutionalizing a more flexible and sophisticated capital allocation strategy to compete in a high-interest-rate environment.",
+            "This move reduces reliance on volatile public equity markets and traditional bank lending, potentially enabling larger and more strategic deals."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "SONY (6758.T)",
+          "risk": "MEDIUM",
+          "thesis": "A more robust and diversified capital structure enhances Sony's ability to execute strategic acquisitions, potentially accelerating growth in key segments like gaming, entertainment, and semiconductors."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1509124085392?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Colombia-Venezuela Gas Talks",
+        "fullTitle": "Colombia, Venezuela Progress on Natural Gas Trade",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Senior officials from Venezuela and Colombia met in Caracas to discuss natural gas imports. The outgoing Colombian President Gustavo Petro's government seeks to secure gas from Venezuela to address a growing domestic shortfall. This represents a significant geopolitical and economic shift, reopening energy ties between the two nations.",
+        "relations": [
+          {
+            "label": "Colombia",
             "type": "entity",
-            "desc": "Asset class under selling pressure"
+            "desc": "Country seeking natural gas imports"
+          },
+          {
+            "label": "Venezuela",
+            "type": "entity",
+            "desc": "Country with potential natural gas exports"
+          },
+          {
+            "label": "Natural Gas",
+            "type": "resource",
+            "desc": "Critical fuel for industry and domestic use"
           },
           {
             "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Primary market driver"
+            "desc": "Risk associated with cross-border energy deals"
           }
         ],
         "analysis": {
           "strategic": [
-            "The Iran situation is acting as a catalyst for a broader risk reassessment in Asia, potentially triggering capital flight from emerging markets.",
-            "Sustained high oil prices could derail inflation control efforts and monetary policy easing plans for Asian central banks, impacting growth forecasts."
+            "The talks indicate a pragmatic energy security move by Colombia, prioritizing supply over political differences, which could stabilize its industrial base.",
+            "Success would partially reintegrate Venezuela into regional energy markets, offering it a crucial economic and diplomatic lifeline."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Brent Crude Futures / Energy Sector ETFs",
+          "asset": "ECOPETROL (EC)",
           "risk": "HIGH",
-          "thesis": "Geopolitical supply disruption fears provide strong upward momentum for oil prices. A prolonged standoff or conflict would sustain elevated price levels."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1540550512597?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Oil Steady on Iran Deadline",
-        "fullTitle": "Oil Steadies Near High as Trump Sets Iran Deadline",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Oil prices consolidated near a six-month peak following a statement from former US President Donald Trump. He issued a 15-day ultimatum to Iran regarding its nuclear program, coinciding with a significant US military buildup in the Middle East. This creates a defined, high-stakes timeline for a potential diplomatic or military escalation. The market is pricing in a substantial risk premium for supply disruptions.",
-        "relations": [
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Key political figure setting geopolitical timeline"
-          },
-          {
-            "label": "US Military",
-            "type": "entity",
-            "desc": "Force concentration increasing conflict probability"
-          },
-          {
-            "label": "Middle East Stability",
-            "type": "risk",
-            "desc": "Critical regional risk factor for global energy"
-          },
-          {
-            "label": "Nuclear Program",
-            "type": "risk",
-            "desc": "Core issue of the geopolitical dispute"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The imposition of a short-term deadline dramatically increases the probability of a binary, market-moving event within a known window, reducing uncertainty but raising volatility.",
-            "This action signals a potential shift towards a more confrontational US foreign policy in the region, which could have long-term implications for energy security and alliances."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Oil Volatility Index (OVX) / Defense Contractors",
-          "risk": "HIGH",
-          "thesis": "The defined deadline creates an event-driven volatility spike opportunity. Defense stocks may benefit from increased military readiness and spending."
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1582949418760?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Japan's Soft Power Billionaires",
-        "fullTitle": "Japan's Soft Power Creates 10 Billionaires",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Bloomberg analysis highlights how Japan's cultural exports in anime, character goods, and food have generated significant wealth. The report identifies ten billionaire families and founders behind iconic properties like One Piece, Hello Kitty, and Tamagotchi. This underscores the substantial and often underestimated economic value of intellectual property (IP) and content in Japan's economy. It reveals a lucrative investment sector driven by global fandom and licensing.",
-        "relations": [
-          {
-            "label": "Soft Power",
-            "type": "entity",
-            "desc": "Japan's cultural influence as an economic asset"
-          },
-          {
-            "label": "Intellectual Property (IP)",
-            "type": "resource",
-            "desc": "Core asset generating wealth"
-          },
-          {
-            "label": "Content Industry",
-            "type": "entity",
-            "desc": "High-margin sector with global reach"
-          },
-          {
-            "label": "Bloomberg",
-            "type": "entity",
-            "desc": "Source of the analysis and data"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Japan's content-based wealth generation model is resilient to traditional economic cycles, as demand is driven by global entertainment consumption rather than industrial output.",
-            "This sector represents a strategic avenue for Japan to offset demographic and industrial challenges, leveraging its unique cultural capital for sustained economic gain."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Japanese IP/Content Holding Companies (e.g., Bandai Namco, Shueisha-related)",
-          "risk": "MEDIUM",
-          "thesis": "These companies possess deep libraries of evergreen IP with global licensing potential, offering stable, high-margin revenue streams less correlated to macroeconomic downturns."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1525418828538?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Google Gemini Pro Sets Record",
-        "fullTitle": "Google’s Gemini Pro Model Has Record Benchmark Scores",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Google has announced its new Gemini 3.1 Pro large language model (LLM), claiming it achieves record scores on industry benchmarks. The model is positioned as capable of handling more complex and sophisticated workloads. This represents a significant competitive move in the intensifying AI arms race, directly challenging other leading models. It signals Google's commitment to advancing its core AI infrastructure and cloud offerings.",
-        "relations": [
-          {
-            "label": "Google",
-            "type": "entity",
-            "desc": "Tech giant advancing its AI capabilities"
-          },
-          {
-            "label": "Gemini 3.1 Pro",
-            "type": "tech",
-            "desc": "Next-generation LLM with claimed superior performance"
-          },
-          {
-            "label": "AI Benchmarking",
-            "type": "tech",
-            "desc": "Key metric for competitive positioning"
-          },
-          {
-            "label": "LLM Market",
-            "type": "entity",
-            "desc": "Highly competitive strategic technology sector"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Google's benchmark claims are a strategic tool to capture developer mindshare and enterprise customers, crucial for its cloud division's growth against AWS and Azure.",
-            "Advancements in handling complex work indicate a push towards AI agents and automation, which could disrupt professional services and software markets."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet (GOOGL)",
-          "risk": "MEDIUM",
-          "thesis": "Superior AI technology is critical for defending and growing Google's core search business and accelerating Google Cloud's market share gains, justifying a premium valuation."
+          "thesis": "A stable and increased natural gas supply for Colombia would benefit its national oil company, Ecopetrol, by ensuring feedstock for operations and supporting industrial demand, though execution risks are significant."
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1666942940314?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1563749778479?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Nvidia Invests in India AI Startups",
-        "fullTitle": "Nvidia Deepens Early-Stage Push Into India’s AI Ecosystem",
+        "title": "Japan's New Investment Horizon",
+        "fullTitle": "Wall Street Week: Japan's New Investment Horizon",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Nvidia is strategically expanding its engagement with India's burgeoning AI startup landscape. The company is collaborating with venture capital firms, non-profits, and investors to establish early-stage relationships with founders. This move aims to cultivate the next generation of AI companies built on Nvidia's hardware and software platforms. It secures a long-term pipeline for demand and entrenches Nvidia's architectural dominance in a key growth market.",
+        "summary": "Bloomberg's Wall Street Week explores Japan's potential economic turnaround after decades of stagnation. Apollo Global Management's Marc Rowan notes a 'new swagger' in Japan. The report questions if private capital can power Japan's next growth cycle and examines the clash between reform and traditional business culture.",
         "relations": [
           {
-            "label": "Nvidia",
+            "label": "Japan",
             "type": "entity",
-            "desc": "AI chip leader securing future demand"
+            "desc": "Economy showing signs of structural change"
           },
           {
-            "label": "India AI Ecosystem",
+            "label": "Apollo Global Management",
             "type": "entity",
-            "desc": "High-growth target market for talent and startups"
+            "desc": "Major private equity firm bullish on Japan"
           },
           {
-            "label": "Venture Capital",
-            "type": "entity",
-            "desc": "Channel for ecosystem influence and investment"
+            "label": "Private Capital",
+            "type": "resource",
+            "desc": "Seen as a potential catalyst for Japanese growth"
           },
           {
-            "label": "AI Hardware Platform",
-            "type": "tech",
-            "desc": "Nvidia's core product driving ecosystem lock-in"
+            "label": "Corporate Reform",
+            "type": "risk",
+            "desc": "Risk from clash between reform and tradition"
           }
         ],
         "analysis": {
           "strategic": [
-            "This is a classic ecosystem lock-in strategy; by nurturing startups on its platform, Nvidia ensures future enterprise customers are already committed to its technology stack.",
-            "India represents a critical talent and market battleground against competitors like AMD and custom silicon efforts; early dominance here has long-term strategic value."
+            "A consensus is forming among global institutional investors that Japan's corporate governance reforms and inflation are creating durable investment opportunities.",
+            "The influx of foreign private capital is acting as a catalyst for accelerated restructuring and value unlocking in Japanese corporations."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Nvidia (NVDA)",
-          "risk": "LOW",
-          "thesis": "Nvidia is proactively defending its market leadership by investing in the future demand base, reducing long-term competitive threats and ensuring sustained growth from emerging markets."
+          "asset": "EWJ (iShares MSCI Japan ETF)",
+          "risk": "MEDIUM",
+          "thesis": "Broad exposure to the Japanese equity market captures the potential multi-year rerating driven by governance reforms, inflation, and increased foreign investor interest."
         },
-        "confidence": 92,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1561720149714?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1660237364294?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "FBI Warns of Rising ATM Jackpotting",
-        "fullTitle": "FBI Says ATM ‘Jackpotting’ Attacks Are on the Rise",
+        "title": "Sarvam Launches Indus AI Chat",
+        "fullTitle": "India's Sarvam Launches Indus AI Chat App",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "The FBI has issued a warning that 'jackpotting' attacks on ATMs, where machines are hacked to dispense cash on demand, are increasing. Hundreds of such incidents in the past year have resulted in millions of dollars in losses. This highlights a persistent and evolving cyber-physical security threat targeting financial infrastructure. The trend indicates sophisticated criminal networks exploiting vulnerabilities in widely deployed hardware and software.",
+        "summary": "Indian AI startup Sarvam AI has launched its Indus chat application in beta. This launch occurs as competition in the global and Indian AI chatbot space intensifies significantly. It represents another major player emerging from India's growing AI ecosystem.",
         "relations": [
           {
-            "label": "FBI",
+            "label": "Sarvam AI",
             "type": "entity",
-            "desc": "Law enforcement agency issuing the threat warning"
+            "desc": "Indian generative AI startup"
           },
           {
-            "label": "ATM Jackpotting",
+            "label": "Indus Chat App",
+            "type": "tech",
+            "desc": "AI chatbot application in beta"
+          },
+          {
+            "label": "Generative AI",
+            "type": "tech",
+            "desc": "Core technology behind the chat app"
+          },
+          {
+            "label": "Market Competition",
             "type": "risk",
-            "desc": "Specific cyber-physical financial crime"
-          },
-          {
-            "label": "Financial Infrastructure",
-            "type": "entity",
-            "desc": "Target of the attacks"
-          },
-          {
-            "label": "Cyber-Physical Security",
-            "type": "risk",
-            "desc": "Convergence of digital and physical threats"
+            "desc": "High competition in AI chatbot sector"
           }
         ],
         "analysis": {
           "strategic": [
-            "The rise in jackpotting signals a shift in cybercrime towards direct, high-value physical asset theft, posing a different risk profile than data breaches for financial institutions.",
-            "This will force accelerated investment in ATM hardware security upgrades and network monitoring, creating a tailwind for cybersecurity firms specializing in physical endpoint protection."
+            "The launch signifies the rapid maturation of India's AI startup scene, moving from research to consumer-facing product deployment.",
+            "It highlights the global fragmentation of the AI application layer, with regional players emerging to capture local language and market nuances."
+          ]
+        },
+        "investment": {
+          "action": "INFO",
+          "asset": "N/A",
+          "risk": "HIGH",
+          "thesis": "While indicative of a vibrant ecosystem, direct public investment in early-stage Indian AI startups like Sarvam is not feasible for most institutional investors. The theme supports a long-term view on Indian tech venture capital."
+        },
+        "confidence": 85,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1560176708698?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Creator Economy Beyond Ad Revenue",
+        "fullTitle": "Creator Economy Diversifies Beyond Ad Revenue",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "The creator economy is rapidly evolving, with ad revenue becoming insufficient for top creators. Diversification into product lines, startup acquisitions, and building business empires is the new playbook. Examples include MrBeast acquiring fintech startup Step and his chocolate business outperforming his media arm.",
+        "relations": [
+          {
+            "label": "Creator Economy",
+            "type": "entity",
+            "desc": "Economic ecosystem built by content creators"
+          },
+          {
+            "label": "MrBeast",
+            "type": "entity",
+            "desc": "Top creator diversifying business model"
+          },
+          {
+            "label": "Business Diversification",
+            "type": "risk",
+            "desc": "Strategic shift for creator sustainability"
+          },
+          {
+            "label": "Ad Revenue Dependency",
+            "type": "risk",
+            "desc": "Traditional risk for digital creators"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Top creators are vertically integrating, transforming from media personalities into multi-faceted consumer brands and holding companies, reducing platform dependency.",
+            "This trend signals the maturation of the creator economy into a legitimate asset class with diversified revenue streams and M&A activity."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Cybersecurity Firms (e.g., those in endpoint/OT security)",
-          "risk": "MEDIUM",
-          "thesis": "Increased regulatory pressure and insurance requirements will drive banks and ATM operators to invest heavily in modernizing the security of their physical transaction networks."
+          "asset": "GOOGL (Alphabet)",
+          "risk": "LOW",
+          "thesis": "While creators diversify, platforms like YouTube remain the essential discovery and distribution layer. A healthier, more sustainable creator ecosystem strengthens YouTube's long-term value and content moat."
         },
         "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1607235129240?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "HQ Host Returns with TextSavvy",
+        "fullTitle": "Ex-HQ Host Launches TextSavvy Game Show",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Former HQ Trivia host Scott Rogowsky is launching a new daily mobile game show called TextSavvy. The project is being built on his own terms, marking a return to the interactive live game show format that gained popularity several years ago.",
+        "relations": [
+          {
+            "label": "Scott Rogowsky",
+            "type": "entity",
+            "desc": "Former HQ Trivia host, entrepreneur"
+          },
+          {
+            "label": "TextSavvy",
+            "type": "tech",
+            "desc": "New live mobile game show"
+          },
+          {
+            "label": "Interactive Entertainment",
+            "type": "tech",
+            "desc": "Category for live game shows"
+          },
+          {
+            "label": "Market Saturation",
+            "type": "risk",
+            "desc": "Risk in crowded mobile app market"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This launch tests whether there is sustained consumer demand for live, host-driven, interactive game shows outside of a viral phenomenon like HQ Trivia.",
+            "It represents the 'long-tail' of the creator economy, where individual personalities leverage their brand to launch niche digital products."
+          ]
+        },
+        "investment": {
+          "action": "INFO",
+          "asset": "N/A",
+          "risk": "HIGH",
+          "thesis": "This is a highly speculative venture with limited scale implications for public markets. It serves as a cultural indicator of niche digital entertainment trends but does not present a clear public investment thesis."
+        },
+        "confidence": 80,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1511677095938?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1640651249581?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Acciones asiáticas caen, petróleo sube",
-        "fullTitle": "Acciones asiáticas caen y petróleo sube con foco en Irán",
+        "title": "Sony: Financiación diversa para adquisiciones",
+        "fullTitle": "Sony destaca fuentes de capital diversas para adquisiciones",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Las acciones asiáticas cayeron y el petróleo alcanzó su nivel más alto desde agosto debido a las crecientes tensiones en Irán. La incertidumbre geopolítica está afectando el sentimiento del mercado. El aumento de los precios del petróleo ejerce presión sobre la inflación y el crecimiento. Los mercados están atentos a cualquier escalada que pueda interrumpir el suministro.",
+        "impactLevel": "MEDIUM",
+        "summary": "El CEO de Sony Group, Hiroki Totoki, declaró que la estrategia de la empresa de recurrir a capital privado y otras fuentes de financiación más allá de la deuda bancaria tradicional y las acciones es crucial para sus adquisiciones. Esto refleja una tendencia corporativa hacia estructuras de financiación más complejas y creativas. La declaración subraya la importancia de la flexibilidad financiera en un entorno de fusiones y adquisiciones competitivo.",
         "relations": [
           {
-            "label": "Petróleo (WTI/Brent)",
+            "label": "Sony Group Corp.",
+            "type": "entity",
+            "desc": "Conglomerado japonés de electrónica y entretenimiento."
+          },
+          {
+            "label": "Hiroki Totoki",
+            "type": "entity",
+            "desc": "Director Ejecutivo de Sony Group Corp."
+          },
+          {
+            "label": "Capital Privado",
             "type": "resource",
-            "desc": "Commodity clave, sensible a riesgos geopolíticos"
+            "desc": "Fuente de financiación alternativa para adquisiciones."
           },
           {
-            "label": "Mercados de acciones asiáticos",
-            "type": "entity",
-            "desc": "Índices como Nikkei, Hang Seng afectados por riesgo"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País en foco por tensiones geopolíticas y nucleares"
-          },
-          {
-            "label": "Riesgo Geopolítico",
+            "label": "Fusiones y Adquisiciones",
             "type": "risk",
-            "desc": "Factor principal de volatilidad en mercados"
+            "desc": "Estrategia corporativa de crecimiento."
           },
           {
-            "label": "Inflación Global",
+            "label": "Financiación Corporativa",
             "type": "risk",
-            "desc": "Presionada por precios energéticos más altos"
+            "desc": "Gestión de fuentes de capital para operaciones."
           }
         ],
         "analysis": {
           "strategic": [
-            "La escalada en Irán representa un riesgo de cola para los mercados globales, con potencial de interrupción del suministro energético.",
-            "Los mercados asiáticos, como importadores netos de energía, son particularmente vulnerables a shocks en los precios del petróleo."
+            "Sony busca diversificar su base de capital para mantener agilidad en adquisiciones estratégicas, reduciendo dependencia de mercados volátiles.",
+            "La estrategia indica un enfoque proactivo para aprovechar oportunidades en sectores como entretenimiento, semiconductores o videojuegos, donde el capital privado es activo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de petróleo (CL, BZ), ETF de energía (XLE)",
-          "risk": "HIGH",
-          "thesis": "Las tensiones geopolíticas crean una prima de riesgo sostenida en el petróleo, con potencial de subidas bruscas por interrupciones."
+          "asset": "SONY (6758.T)",
+          "risk": "MEDIUM",
+          "thesis": "La estrategia de financiación diversificada puede permitir a Sony realizar adquisiciones accretivas sin dilución excesiva, apoyando el crecimiento a largo plazo en sus negocios centrales."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1599408759241?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1507312728669?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Petróleo estable en máximos, plazo Irán",
-        "fullTitle": "Petróleo estable en máximos de 6 meses con plazo de EEUU a Irán",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El petróleo se mantiene cerca de máximos de seis meses. El presidente Trump dio a Irán un plazo máximo de 15 días para un acuerdo nuclear. Estados Unidos despliega fuerzas militares en la región. El mercado evalúa el riesgo de un conflicto que afecte el flujo de crudo.",
-        "relations": [
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EEUU, fijando política exterior sobre Irán"
-          },
-          {
-            "label": "Programa Nuclear Iraní",
-            "type": "entity",
-            "desc": "Foco central de la disputa y sanciones"
-          },
-          {
-            "label": "Fuerzas Militares de EEUU",
-            "type": "entity",
-            "desc": "Despliegue en Medio Oriente aumenta riesgo"
-          },
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "resource",
-            "desc": "Punto de estrangulamiento crítico para el transporte de petróleo"
-          },
-          {
-            "label": "Volatilidad del Mercado",
-            "type": "risk",
-            "desc": "Aumenta con plazos políticos y movimientos militares"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La imposición de un plazo corto aumenta la probabilidad de un resultado binario (acuerdo o escalada), manteniendo alta la volatilidad.",
-            "Cualquier interrupción en el Estrecho de Ormuz tendría un impacto inmediato y severo en los precios globales de la energía."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Opciones call sobre petróleo, acciones de petroleras con exposición al Golfo",
-          "risk": "HIGH",
-          "thesis": "El plazo crea un evento catalizador concentrado en el tiempo. Una ruptura de las negociaciones podría llevar los precios muy por encima de los niveles actuales."
-        },
-        "confidence": 86,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1615390280508?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "10 billonarios del soft power japonés",
-        "fullTitle": "10 billonarios creados por el soft power japonés (anime, comida)",
+        "title": "Colombia y Venezuela avanzan en gas",
+        "fullTitle": "Colombia y Venezuela progresan en comercio de gas natural",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "El soft power japonés, a través del anime, personajes y gastronomía, ha creado fortunas significativas. Contenidos como 'One Piece' y 'Hello Kitty' tienen fanáticos globales. Bloomberg identifica a 10 familias y fundadores ricos de este ecosistema. Muestra el valor económico de la exportación cultural.",
+        "summary": "Altos funcionarios de Venezuela y Colombia se reunieron en Caracas. El gobierno del presidente saliente colombiano Gustavo Petro busca asegurar importaciones de gas natural para cubrir un déficit creciente de este combustible crítico para fábricas y cocina. Las negociaciones representan un intento de estabilizar el suministro energético de Colombia. El éxito depende de factores políticos y de infraestructura entre los dos países.",
         "relations": [
           {
-            "label": "Soft Power Japonés",
+            "label": "Colombia",
             "type": "entity",
-            "desc": "Capacidad cultural para influir y generar valor económico"
+            "desc": "País con déficit creciente de gas natural."
           },
           {
-            "label": "Anime (Ej: One Piece)",
+            "label": "Venezuela",
             "type": "entity",
-            "desc": "Propiedad intelectual de alto valor y alcance global"
+            "desc": "País con grandes reservas de gas natural."
           },
           {
-            "label": "Personajes (Ej: Hello Kitty)",
-            "type": "entity",
-            "desc": "Licencias y mercancías que generan ingresos recurrentes"
-          },
-          {
-            "label": "Exportación Cultural",
+            "label": "Gas Natural",
             "type": "resource",
-            "desc": "Modelo de negocio basado en contenido intelectual"
+            "desc": "Combustible crítico para industria y hogares."
           },
           {
-            "label": "Toei Animation, Bandai, etc.",
+            "label": "Gustavo Petro",
             "type": "entity",
-            "desc": "Empresas cotizadas detrás de estos contenidos"
+            "desc": "Presidente saliente de Colombia."
+          },
+          {
+            "label": "Seguridad Energética",
+            "type": "risk",
+            "desc": "Riesgo asociado a la dependencia de importaciones."
           }
         ],
         "analysis": {
           "strategic": [
-            "El éxito del soft power japonés demuestra un modelo de negocio escalable y defensible basado en propiedad intelectual, menos cíclico que otros sectores.",
-            "Estas fortunas están vinculadas a la globalización del consumo cultural, una tendencia estructural que probablemente continúe."
+            "La reactivación del comercio de gas podría aliviar presiones inflacionarias en Colombia y mejorar la competitividad industrial, pero está sujeta a la volatilidad política regional.",
+            "Un acuerdo estable crearía un corredor energético clave en Sudamérica, potencialmente atrayendo inversión en infraestructura de gasoductos y logística."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de estudios de anime y empresas de licencias japonesas (Ej: 4320.T, 7832.T)",
-          "risk": "MEDIUM",
-          "thesis": "La demanda global por contenido japonés sigue creciendo, impulsando ingresos por licencias, streaming y mercancías, con márgenes atractivos."
+          "asset": "ECOPETROL (EC)",
+          "risk": "HIGH",
+          "thesis": "Un suministro estable de gas natural podría beneficiar a la principal empresa energética de Colombia, Ecopetrol, al mejorar la confiabilidad del mercado interno y potencialmente abrir oportunidades de transporte y comercio."
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1582150269734?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1681994850800?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Gemini Pro de Google bate récords",
-        "fullTitle": "Nuevo modelo Gemini Pro de Google bate récords en benchmarks",
+        "title": "Nuevo horizonte de inversión en Japón",
+        "fullTitle": "Wall Street Week: Nuevo horizonte de inversión en Japón",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Google anuncia Gemini 3.1 Pro, un nuevo modelo de lenguaje grande (LLM). Promete manejar formas de trabajo más complejas. Alcanza puntuaciones récord en benchmarks de evaluación. Refuerza la competencia en la carrera de IA generativa frente a OpenAI y otros.",
+        "summary": "Un reportaje analiza cómo la economía japonesa podría estar dejando atrás 30 años de estancamiento. Marc Rowan de Apollo Global Management habla de un 'nuevo brío' en Japón. Se explora si el capital privado puede impulsar el próximo ciclo de crecimiento del país. La cultura empresarial japonesa, tradicionalmente cauta, enfrenta una prueba definitoria mientras las reformas chocan con la tradición.",
         "relations": [
           {
-            "label": "Google (Alphabet)",
+            "label": "Japón",
             "type": "entity",
-            "desc": "Gigante tecnológico, compitiendo en la carrera de LLMs"
+            "desc": "Economía que posiblemente supera décadas de estancamiento."
           },
           {
-            "label": "Gemini 3.1 Pro",
+            "label": "Apollo Global Management",
+            "type": "entity",
+            "desc": "Firma global de gestión de activos alternativos."
+          },
+          {
+            "label": "Marc Rowan",
+            "type": "entity",
+            "desc": "CEO de Apollo Global Management."
+          },
+          {
+            "label": "Capital Privado",
+            "type": "resource",
+            "desc": "Motor potencial para el crecimiento japonés."
+          },
+          {
+            "label": "Reforma Corporativa",
+            "type": "risk",
+            "desc": "Cambio estructural en la cultura empresarial japonesa."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El creciente interés del capital privado internacional señala una reevaluación fundamental de las oportunidades de valoración y gobernanza en las empresas japonesas.",
+            "La colisión entre reforma y tradición podría desbloquear una productividad históricamente reprimida, pero también genera riesgos de disrupción en sectores establecidos."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "EWJ (iShares MSCI Japan ETF)",
+          "risk": "MEDIUM",
+          "thesis": "La narrativa de un 'renacimiento' japonés, impulsado por reformas corporativas y mayor participación de accionistas, podría generar múltiples expansión y flujos de capital hacia el mercado japonés en general."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1651488401884?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Sarvam lanza app de chat AI Indus",
+        "fullTitle": "Sarvam lanza app de chat AI Indus en beta",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "La empresa india Sarvam AI ha lanzado su aplicación de chat Indus en versión beta. El lanzamiento ocurre en un momento en que la competencia en el espacio de la IA generativa en India se intensifica. Indus busca capturar una parte del mercado local de IA conversacional. Su éxito dependerá de su capacidad para manejar idiomas y contextos indios de manera efectiva.",
+        "relations": [
+          {
+            "label": "Sarvam AI",
+            "type": "entity",
+            "desc": "Startup india de inteligencia artificial."
+          },
+          {
+            "label": "Indus Chat App",
             "type": "tech",
-            "desc": "Nuevo modelo de IA de Google, mejorado en capacidades"
+            "desc": "Aplicación de chat con IA generativa."
           },
           {
             "label": "IA Generativa",
             "type": "tech",
-            "desc": "Campo de rápido desarrollo y alta inversión"
+            "desc": "Tecnología central detrás de aplicaciones de chat."
           },
           {
-            "label": "OpenAI (GPT)",
+            "label": "Mercado Indio",
             "type": "entity",
-            "desc": "Principal competidor en el espacio de LLMs"
+            "desc": "Escenario competitivo para aplicaciones de IA."
           },
           {
-            "label": "Benchmarks de IA",
-            "type": "tech",
-            "desc": "Métricas estandarizadas para evaluar el rendimiento de modelos"
+            "label": "Competencia Tecnológica",
+            "type": "risk",
+            "desc": "Riesgo en un mercado de rápido crecimiento."
           }
         ],
         "analysis": {
           "strategic": [
-            "Los avances continuos en benchmarks indican una rápida evolución de las capacidades centrales de la IA, acortando el tiempo para aplicaciones empresariales complejas.",
-            "Google fortalece su posición en la pila de IA, crucial para defender su negocio de búsqueda y expandirse en la nube y software."
+            "El lanzamiento de Indus refleja la carrera por desarrollar soluciones de IA con ventajas locales (lenguaje, contexto) en mercados grandes como India, desafiando a actores globales.",
+            "La intensificación de la competencia en IA india podría acelerar la innovación y bajar costos, pero también llevar a una consolidación del mercado a medio plazo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Alphabet (GOOGL), ETF de IA y Semiconductores (AIQ, SOXX)",
-          "risk": "MEDIUM",
-          "thesis": "El liderazgo tecnológico en IA es un motor clave de valor a largo plazo para los gigantes tecnológicos, impulsando sus múltiples negocios."
+          "asset": "Empresas de Capital de Riesgo en Tech India",
+          "risk": "HIGH",
+          "thesis": "El ecosistema de startups de IA en India está atrayendo capital significativo. El éxito de jugadores como Sarvam podría validar inversiones en el sector, aunque la selección de ganadores es riesgosa."
         },
-        "confidence": 87,
+        "confidence": 80,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1544316731775?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1515474650582?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Nvidia profundiza en ecosistema IA de India",
-        "fullTitle": "Nvidia profundiza su impulso en el ecosistema de startups de IA de India",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Nvidia está fortaleciendo sus lazos con el ecosistema de startups de IA de la India. Colabora con inversores, organizaciones sin fines de lucro y empresas de capital de riesgo. El objetivo es construir relaciones tempranas con los fundadores. India es un mercado de talento y crecimiento clave para el futuro de la IA.",
+        "title": "Economía de creadores diversifica ingresos",
+        "fullTitle": "Economía de creadores: Problema de ingresos por anuncios",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "La economía de los creadores de contenido evoluciona rápidamente, y los ingresos por publicidad ya no son suficientes. Creadores como MrBeast están lanzando líneas de productos, adquiriendo startups y construyendo imperios comerciales. Su negocio de chocolate supera en ingresos a su brazo mediático. Esta diversificación se está convirtiendo en el nuevo manual de juego para muchos creadores.",
         "relations": [
           {
-            "label": "Nvidia",
+            "label": "Economía de Creadores",
             "type": "entity",
-            "desc": "Líder en semiconductores de IA, expandiendo su ecosistema"
+            "desc": "Ecosistema de creadores de contenido digital."
           },
           {
-            "label": "Ecosistema de Startups de IA India",
+            "label": "MrBeast",
             "type": "entity",
-            "desc": "Mercado de alto crecimiento con gran talento técnico"
+            "desc": "Creador de contenido que diversifica sus negocios."
           },
           {
-            "label": "Capital de Riesgo (VC)",
-            "type": "entity",
-            "desc": "Socios para identificar y nutrir startups prometedoras"
+            "label": "Diversificación de Ingresos",
+            "type": "risk",
+            "desc": "Estrategia para reducir dependencia de anuncios."
           },
           {
-            "label": "Talento en IA",
+            "label": "Fintech",
+            "type": "tech",
+            "desc": "Sector de la startup Step, adquirida por MrBeast."
+          },
+          {
+            "label": "Publicidad Digital",
             "type": "resource",
-            "desc": "Recurso clave, India es una fuente importante"
-          },
-          {
-            "label": "Datos (para entrenar IA)",
-            "type": "resource",
-            "desc": "India ofrece conjuntos de datos diversos y únicos"
+            "desc": "Fuente de ingresos tradicional para creadores."
           }
         ],
         "analysis": {
           "strategic": [
-            "Esta estrategia 'de abajo hacia arriba' asegura la adopción temprana de la plataforma hardware/software de Nvidia, creando dependencia y lealtad a largo plazo.",
-            "Invertir en India no es solo por el mercado local, sino para capturar talento global que construirá la próxima generación de aplicaciones de IA."
+            "La transición de los creadores hacia modelos de negocio propios (productos, adquisiciones) reduce su dependencia de plataformas y algoritmos, creando entidades más sostenibles y valiosas.",
+            "Este fenómeno representa una nueva frontera de inversión, donde el capital personal de los creadores y el capital de riesgo comienzan a converger en la construcción de marcas comerciales."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Nvidia (NVDA), Fondos de capital de riesgo centrados en India/tecnología",
+          "asset": "Plataformas de Comercio Electrónico y Herramientas para Creadores",
           "risk": "MEDIUM",
-          "thesis": "La construcción de un ecosistema dominante amplía el foso competitivo de Nvidia más allá del hardware, asegurando su relevancia en la cadena de valor de la IA."
+          "thesis": "La tendencia de diversificación creará demanda de infraestructura (logística, pagos, software) para que los creadores gestionen sus negocios, beneficiando a empresas que ofrezcan estas soluciones."
         },
-        "confidence": 85,
+        "confidence": 83,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1513239974285?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1655231949729?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Ataques 'jackpotting' a cajeros en aumento",
-        "fullTitle": "FBI: Ataques 'jackpotting' a cajeros automáticos en aumento",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El FBI reporta un aumento en los ataques de 'jackpotting' a cajeros automáticos. Los hackers engañan a los cajeros para que expulsen dinero a demanda. Cientos de ataques en el último año han resultado en millones de dólares robados. Representa un riesgo cibernético tangible para la infraestructura financiera física.",
+        "title": "Exanfitrión de HQ lanza TextSavvy",
+        "fullTitle": "Scott Rogowsky lanza TextSavvy, juego diario",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Scott Rogowsky, el exanfitrión del popular juego HQ, regresa con TextSavvy, un programa de juegos móviles en vivo diario. Está construyendo este proyecto en sus propios términos. TextSavvy representa un intento de revivir el formato de juego interactivo en vivo con un nuevo enfoque. El éxito dependerá de su capacidad para capturar la atención de la audiencia en un mercado saturado.",
         "relations": [
           {
-            "label": "FBI",
+            "label": "Scott Rogowsky",
             "type": "entity",
-            "desc": "Agencia que emite la alerta sobre el aumento de la amenaza"
+            "desc": "Exanfitrión de HQ, ahora emprendedor."
           },
           {
-            "label": "Jackpotting (ATM)",
+            "label": "TextSavvy",
+            "type": "entity",
+            "desc": "Nuevo programa de juegos móviles en vivo."
+          },
+          {
+            "label": "Juegos Móviles en Vivo",
+            "type": "tech",
+            "desc": "Categoría de entretenimiento interactivo."
+          },
+          {
+            "label": "HQ",
+            "type": "entity",
+            "desc": "Aplicación de juego de trivia anteriormente popular."
+          },
+          {
+            "label": "Entretenimiento Interactivo",
             "type": "risk",
-            "desc": "Ataque cibernético-físico para robar efectivo de cajeros"
-          },
-          {
-            "label": "Infraestructura Financiera",
-            "type": "entity",
-            "desc": "Blanco de ataques, incluye cajeros automáticos y redes bancarias"
-          },
-          {
-            "label": "Cibercrimen Organizado",
-            "type": "risk",
-            "desc": "Actores detrás de estos ataques sofisticados"
-          },
-          {
-            "label": "Proveedores de Cajeros (Diebold Nixdorf, NCR)",
-            "type": "entity",
-            "desc": "Fabricantes del hardware objetivo, bajo presión para mejorar seguridad"
+            "desc": "Mercado competitivo y de modas cambiantes."
           }
         ],
         "analysis": {
           "strategic": [
-            "La convergencia de ataques cibernéticos y físicos contra infraestructura crítica representa un riesgo operativo y de reputación creciente para las instituciones financieras.",
-            "Estos incidentes probablemente acelerarán la inversión en modernización y seguridad de la red de cajeros automáticos, un gasto de capital significativo."
+            "El regreso de Rogowsky prueba la resiliencia del formato de juego en vivo y el valor de la marca personal en la atracción de una audiencia inicial, aunque la sostenibilidad a largo plazo es incierta.",
+            "El proyecto subraya la tendencia de creadores de medios a buscar propiedad y control sobre sus plataformas, evitando la dependencia de aplicaciones de terceros."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Acciones de empresas de ciberseguridad financiera (Ej: FI, sector en ETFs como CIBR)",
-          "risk": "MEDIUM",
-          "thesis": "El aumento de ataques sofisticados contra infraestructura financiera impulsará el gasto en soluciones de seguridad especializadas, beneficiando a los proveedores del sector."
+          "action": "SHORT",
+          "asset": "Empresas de juegos casuales sin diferenciación",
+          "risk": "HIGH",
+          "thesis": "El mercado de juegos móviles casuales es extremadamente saturado y sujeto a modas. Nuevas entradas como TextSavvy enfrentan enormes desafíos para lograr escala y monetización sostenible, lo que presiona a competidores similares."
         },
-        "confidence": 84,
+        "confidence": 81,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1675753613957?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1511064435839?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
