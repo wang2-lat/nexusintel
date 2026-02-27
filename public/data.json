@@ -1,818 +1,818 @@
 {
-  "generated_at": "2026-02-26T02:14:47.604205",
+  "generated_at": "2026-02-27T02:14:04.872511",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "澳航股价大跌",
-        "fullTitle": "澳航国际航线收益意外下滑，股价创近一年最大跌幅",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "澳洲航空股价出现近一年来最大跌幅，主要原因是其国际业务部门的收益意外下滑。公司同时预警，来自工资和飞机维护的成本正在上升。这反映出航空业在需求复苏后，仍面临成本压力和盈利挑战。",
-        "relations": [
-          {
-            "label": "澳洲航空",
-            "type": "entity",
-            "desc": "澳大利亚旗舰航空公司"
-          },
-          {
-            "label": "国际航线收益",
-            "type": "risk",
-            "desc": "核心业务盈利指标下滑"
-          },
-          {
-            "label": "运营成本",
-            "type": "risk",
-            "desc": "工资与维护成本上升"
-          },
-          {
-            "label": "航空业",
-            "type": "entity",
-            "desc": "面临后疫情时代成本压力"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "航空业复苏可能呈现结构性分化，国际长航线面临更严峻的成本与竞争压力。",
-            "劳动力与供应链成本持续高企，可能成为未来一段时间内航空业盈利的主要制约因素。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Qantas Airways Ltd (QAN.AX)",
-          "risk": "MEDIUM",
-          "thesis": "国际业务盈利不及预期叠加成本压力，短期内股价面临下行风险。"
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1637811733630?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "油价因美伊谈判微涨",
-        "fullTitle": "美伊核谈判前油价微涨，中东供应不确定性增加",
-        "classification": "CONFIDENTIAL",
+        "title": "亚洲股市创二月最佳表现",
+        "fullTitle": "亚洲股市有望创下有记录以来最佳二月表现",
+        "classification": "UNCLASSIFIED",
         "impactLevel": "HIGH",
-        "summary": "在美国和伊朗进行核谈判之前，原油价格小幅上涨。中东主要产油国增加了出口，但该地区潜在的冲突风险给未来供应带来了不确定性。市场正在权衡地缘政治风险与潜在的供应增加。",
+        "summary": "亚洲股市正迈向有记录以来最佳的二月表现，主要驱动力是投资者大举涌入为人工智能基础设施提供支持的地区公司。这表明市场对AI相关硬件的需求强劲，并推动了区域资本流动。该趋势反映了全球科技投资重心向亚洲供应链的转移。",
         "relations": [
           {
-            "label": "原油",
-            "type": "resource",
-            "desc": "核心大宗商品，价格受地缘政治影响"
-          },
-          {
-            "label": "美伊核谈判",
+            "label": "亚洲股市",
             "type": "entity",
-            "desc": "影响中东局势与伊朗石油出口的关键事件"
+            "desc": "主要受益市场"
           },
           {
-            "label": "中东地区",
-            "type": "risk",
-            "desc": "地缘政治紧张，供应风险源头"
+            "label": "人工智能基础设施",
+            "type": "tech",
+            "desc": "核心投资主题"
           },
           {
-            "label": "供应不确定性",
+            "label": "供应链转移",
             "type": "risk",
-            "desc": "冲突风险对冲了增产影响"
+            "desc": "全球资本流动风险"
+          },
+          {
+            "label": "科技硬件",
+            "type": "resource",
+            "desc": "关键投资标的"
           }
         ],
         "analysis": {
           "strategic": [
-            "中东地缘政治格局的任何变动都将对全球能源供应安全产生深远影响。",
-            "市场正在形成新的风险定价模式，将地缘冲突溢价更紧密地纳入油价。"
+            "亚洲科技供应链公司正成为全球AI资本开支的核心受益者，可能重塑区域产业格局。",
+            "该趋势若持续，可能加速全球科技制造业重心向亚洲转移，并提升相关市场的估值中枢。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "布伦特原油期货",
-          "risk": "HIGH",
-          "thesis": "谈判前景不明朗叠加地区冲突风险，为油价提供短期上行支撑。"
+          "asset": "亚洲AI硬件及半导体ETF",
+          "risk": "MEDIUM",
+          "thesis": "押注于AI基础设施建设的长期资本开支周期，以及亚洲公司在全球供应链中的关键地位。"
         },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1503625327114?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1689044333896?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "黄金延续涨势",
-        "fullTitle": "黄金延续涨势，交易员关注美关税与伊朗核谈",
+        "title": "美伊延长核谈，金价持稳",
+        "fullTitle": "美伊同意延长核谈判，金价几无变动",
         "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "黄金价格继续上涨。交易员正在权衡中东地区的地缘政治紧张局势，以及美国关税政策对全球贸易的潜在影响。在不确定性增加的背景下，黄金的避险属性得到凸显。",
+        "summary": "在美国与伊朗同意进一步进行核谈判后，黄金价格趋于稳定。然而，美国在中东的军事集结使市场对潜在冲突保持警惕，限制了金价的下跌空间。地缘政治紧张局势仍是支撑避险资产的关键因素。",
         "relations": [
           {
             "label": "黄金",
             "type": "resource",
-            "desc": "传统避险资产"
+            "desc": "核心避险资产"
           },
           {
-            "label": "地缘政治紧张",
+            "label": "美伊关系",
             "type": "risk",
-            "desc": "中东局势推高避险需求"
+            "desc": "主要地缘政治风险源"
           },
           {
-            "label": "美国关税",
+            "label": "中东局势",
             "type": "risk",
-            "desc": "影响全球贸易与经济增长前景"
+            "desc": "区域不稳定因素"
           },
           {
             "label": "避险情绪",
             "type": "risk",
-            "desc": "市场不确定性驱动资金流向"
+            "desc": "市场主导情绪"
           }
         ],
         "analysis": {
           "strategic": [
-            "全球贸易政策与地缘政治风险交织，正重塑全球资产的避险逻辑。",
-            "黄金作为非信用资产，在多重不确定性时期，其战略配置价值再次提升。"
+            "中东地缘政治风险处于‘可控但持续’状态，为黄金提供了结构性支撑，削弱了其因利率高企而应有的下行压力。",
+            "任何谈判破裂或军事升级都将迅速推高市场波动率和避险需求，黄金作为传统对冲工具的地位将凸显。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "黄金ETF (如GLD)",
+          "asset": "黄金期货/黄金ETF",
           "risk": "MEDIUM",
-          "thesis": "地缘政治与贸易政策不确定性持续，支撑黄金的避险需求。"
-        },
-        "confidence": 84,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1593639213132?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Salesforce回应AI威胁论",
-        "fullTitle": "Salesforce财报稳健，CEO驳斥AI颠覆SaaS论调",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Salesforce公布了稳健的年度财报。公司CEO马克·贝尼奥夫全力驳斥了关于AI将导致其业务消亡的言论，试图消除市场对AI颠覆传统SaaS模式的担忧。这表明传统软件巨头正积极应对AI带来的挑战。",
-        "relations": [
-          {
-            "label": "Salesforce",
-            "type": "entity",
-            "desc": "全球领先的CRM SaaS提供商"
-          },
-          {
-            "label": "AI颠覆",
-            "type": "risk",
-            "desc": "市场对生成式AI冲击传统SaaS的担忧"
-          },
-          {
-            "label": "SaaS模式",
-            "type": "tech",
-            "desc": "面临AI技术演进的挑战"
-          },
-          {
-            "label": "马克·贝尼奥夫",
-            "type": "entity",
-            "desc": "Salesforce联合创始人兼CEO"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "传统企业软件巨头正通过财务表现和战略沟通，管理市场对AI冲击的预期。",
-            "AI与现有企业工作流的深度融合能力，将成为SaaS厂商下一阶段竞争的关键。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Salesforce Inc (CRM)",
-          "risk": "MEDIUM",
-          "thesis": "稳健财报显示基本盘稳固，管理层积极应对AI叙事，估值有望修复。"
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1513027390434?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Gushwork获投900万美元",
-        "fullTitle": "Gushwork获900万美元种子轮融资，押注AI搜索获客",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "初创公司Gushwork完成了由SIG和Lightspeed领投的900万美元种子轮融资。该公司专注于利用AI搜索技术（如ChatGPT）来获取客户线索，并且已经看到了早期的客户吸引力。这显示了AI在营销和销售领域的应用潜力。",
-        "relations": [
-          {
-            "label": "Gushwork",
-            "type": "entity",
-            "desc": "专注于AI搜索获客的初创公司"
-          },
-          {
-            "label": "AI搜索",
-            "type": "tech",
-            "desc": "利用大语言模型进行潜在客户挖掘"
-          },
-          {
-            "label": "SIG",
-            "type": "entity",
-            "desc": "知名风险投资机构"
-          },
-          {
-            "label": "获客",
-            "type": "tech",
-            "desc": "企业销售与营销的核心环节"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "AI正从内容生成向商业流程（如销售线索挖掘）的深层赋能演进。",
-            "资本持续涌入AI应用层，特别是在能直接带来商业回报的垂直领域。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI应用层初创公司赛道",
-          "risk": "HIGH",
-          "thesis": "AI在提升商业效率（如销售）方面的应用获得资本认可，该赛道存在高增长潜力。"
+          "thesis": "在‘高利率+地缘风险’的宏观背景下，配置黄金作为对冲潜在黑天鹅事件及市场波动的工具。"
         },
         "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1520679583164?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1631511158054?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Anthropic收购Vercept",
-        "fullTitle": "Anthropic收购AI智能体初创公司Vercept",
-        "classification": "CONFIDENTIAL",
+        "title": "新加坡博纳产业REIT启动大规模IPO",
+        "fullTitle": "新加坡博纳产业REIT寻求通过IPO融资7.7亿美元",
+        "classification": "UNCLASSIFIED",
         "impactLevel": "MEDIUM",
-        "summary": "AI公司Anthropic收购了计算机使用AI初创公司Vercept。此前，Meta挖走了Vercept的一位联合创始人。Vercept总部位于西雅图，开发了复杂的智能体工具，包括一个能像人一样在应用程序内完成任务的计算机使用代理。",
+        "summary": "新加坡博纳有限公司旗下的房地产投资信托已开始接受投资者认购，计划通过首次公开募股筹集至多9.736亿新元。这有望成为新加坡近年来规模最大的IPO之一，反映了市场对优质房地产资产的兴趣以及新加坡作为金融中心的融资活力。",
+        "relations": [
+          {
+            "label": "博纳产业REIT",
+            "type": "entity",
+            "desc": "发行主体"
+          },
+          {
+            "label": "新加坡IPO市场",
+            "type": "entity",
+            "desc": "融资环境"
+          },
+          {
+            "label": "房地产投资信托",
+            "type": "resource",
+            "desc": "资产类别"
+          },
+          {
+            "label": "融资规模",
+            "type": "risk",
+            "desc": "市场承接能力测试"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此次大规模IPO是测试新加坡资本市场深度和亚太区投资者对收益率资产需求的重要风向标。",
+            "若成功发行，可能提振新加坡REIT板块整体情绪，并吸引更多地产公司考虑类似的资本运作。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "博纳产业REIT IPO份额",
+          "risk": "MEDIUM",
+          "thesis": "参与新加坡优质商业地产资产的上市，获取稳定股息收益，并受益于可能的上市溢价及板块带动效应。"
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1537963114977?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Netflix退出竞购，派拉蒙将收购华纳",
+        "fullTitle": "Netflix退出华纳兄弟探索竞购，派拉蒙将完成收购",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "围绕华纳兄弟探索公司的千亿美元级竞购战已结束。Netflix退出竞争，由大卫·埃里森拥有的派拉蒙公司即将完成收购。这笔交易将重塑全球媒体娱乐行业的竞争格局，创造一个新的内容巨头。",
+        "relations": [
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "退出方"
+          },
+          {
+            "label": "派拉蒙",
+            "type": "entity",
+            "desc": "收购方"
+          },
+          {
+            "label": "华纳兄弟探索",
+            "type": "entity",
+            "desc": "被收购方"
+          },
+          {
+            "label": "媒体行业整合",
+            "type": "risk",
+            "desc": "行业趋势与垄断风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此次收购标志着媒体行业从‘流媒体战争’进入‘超级集团整合’阶段，规模成为对抗科技平台的关键。",
+            "Netflix的退出可能意味着其战略重心回归有机增长和内容自制，而非通过巨额并购进行扩张。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Netflix股票",
+          "risk": "HIGH",
+          "thesis": "市场可能将Netflix退出竞购解读为在内容军备竞赛中处于弱势，且新成立的媒体巨头将对其构成更直接威胁，导致估值承压。"
+        },
+        "confidence": 84,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1689785439099?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Jack Dorsey大幅裁员Block",
+        "fullTitle": "Jack Dorsey将Block公司员工规模减半",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Block公司联合创始人Jack Dorsey已将公司员工规模削减了一半。Dorsey长期以来公开钦佩Elon Musk的管理风格，此次激进裁员被视为效仿科技行业追求极致效率的趋势。这预示着更多科技公司可能跟进裁员以提升盈利能力。",
+        "relations": [
+          {
+            "label": "Jack Dorsey",
+            "type": "entity",
+            "desc": "决策者"
+          },
+          {
+            "label": "Block公司",
+            "type": "entity",
+            "desc": "实施主体"
+          },
+          {
+            "label": "裁员潮",
+            "type": "risk",
+            "desc": "行业性人力资源风险"
+          },
+          {
+            "label": "运营效率",
+            "type": "risk",
+            "desc": "管理核心目标"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "科技行业领袖的行为具有传染性，Dorsey的激进裁员可能引发新一轮硅谷效率竞赛，迫使同行重新评估人员规模。",
+            "此举反映了后疫情时代科技公司从‘增长至上’向‘盈利优先’的战略转向，资本市场对此类信号反应积极。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Block公司股票",
+          "risk": "HIGH",
+          "thesis": "激进的成本削减措施若执行得当，将显著改善公司的盈利能力和现金流，短期内可能推动股价上涨，但长期人才流失风险高。"
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1501368042764?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anthropic CEO拒绝五角大楼要求",
+        "fullTitle": "Anthropic CEO拒绝向军方提供无限制AI访问权限",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "Anthropic公司CEO Dario Amodei公开表示，基于良知，他无法同意美国国防部的要求，即给予军方对其AI系统的无限制访问权限。此举发生在五角大楼设定的最后期限临近之际，凸显了尖端AI开发者在商业、伦理与国家安全之间的巨大分歧。",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "专注于AI安全的领先大模型公司"
+            "desc": "AI技术公司"
           },
           {
-            "label": "Vercept",
+            "label": "Dario Amodei",
             "type": "entity",
-            "desc": "开发计算机使用AI智能体的初创公司"
+            "desc": "决策者"
           },
           {
-            "label": "AI智能体",
-            "type": "tech",
-            "desc": "能自主操作软件完成复杂任务的技术"
-          },
-          {
-            "label": "Meta",
+            "label": "五角大楼/美国国防部",
             "type": "entity",
-            "desc": "科技巨头，参与AI人才竞争"
+            "desc": "需求方"
+          },
+          {
+            "label": "AI军事化",
+            "type": "risk",
+            "desc": "核心伦理与安全风险"
+          },
+          {
+            "label": "AI治理",
+            "type": "risk",
+            "desc": "监管与伦理框架"
           }
         ],
         "analysis": {
           "strategic": [
-            "领先的AI基础模型公司正通过收购加速向“智能体”能力的布局，这是AI落地的关键方向。",
-            "AI人才竞争白热化，巨头与独角兽之间的人才流动与并购活动将更加频繁。"
+            "此事标志着AI巨头与政府在国家安全的合作上出现重大裂痕，可能迫使美国政府调整其AI军事化战略，或寻求立法强制合作。",
+            "Anthropic的立场可能获得部分投资者和员工的支持，但同时也使其面临失去美国政府合同、甚至遭遇监管压力的风险。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "AI智能体技术赛道",
+          "action": "SHORT",
+          "asset": "Anthropic（若上市）或其竞争对手股票",
           "risk": "HIGH",
-          "thesis": "AI智能体被视为下一代人机交互入口，头部公司的并购行为验证了其战略价值。"
+          "thesis": "与全球最大军事开支方对抗，将带来巨大的政策不确定性和商业风险，可能影响其融资能力、人才吸引力和长期市场前景。"
         },
-        "confidence": 87,
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1559506489577?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1520585176768?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Qantas Shares Fall on Costs",
-        "fullTitle": "Qantas Shares Fall as International Earnings Shrink, Costs Rise",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Qantas Airways Ltd. shares experienced their largest drop in nearly a year following an unexpected decline in earnings from its international operations. The company cited rising costs related to wages and aircraft maintenance as key factors. This event highlights ongoing profitability pressures in the aviation sector post-pandemic. The market reaction reflects concerns over the airline's ability to manage cost inflation while maintaining revenue.",
-        "relations": [
-          {
-            "label": "Qantas Airways Ltd.",
-            "type": "entity",
-            "desc": "Australian flag carrier facing cost and earnings pressure."
-          },
-          {
-            "label": "Aviation Labor Costs",
-            "type": "risk",
-            "desc": "Rising wage pressures impacting airline profitability."
-          },
-          {
-            "label": "Aircraft Maintenance",
-            "type": "cost",
-            "desc": "Increasing operational expense for airlines."
-          },
-          {
-            "label": "International Travel Demand",
-            "type": "resource",
-            "desc": "Key revenue stream showing volatility."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The earnings miss signals potential structural cost issues within legacy carriers, contrasting with leaner competitors.",
-            "Rising operational costs (wages, maintenance) could trigger broader sector re-rating if not offset by fare increases."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "QAN.AX (Qantas)",
-          "risk": "MEDIUM",
-          "thesis": "Near-term headwinds from fixed cost inflation and volatile international yields may pressure earnings and share price."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1697035852381?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Oil Rises on Iran Talks",
-        "fullTitle": "Oil Edges Higher Ahead of US-Iran Nuclear Talks",
+        "title": "Asian Stocks Best Feb on Record",
+        "fullTitle": "Asian Equities Poised for Best February on Record",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Oil prices increased slightly in anticipation of nuclear negotiations between the US and Iran. The market is balancing the potential for increased Iranian supply against geopolitical risks in the Middle East that threaten future output. Major regional producers are reportedly boosting exports ahead of the talks. The outcome of these discussions is a key uncertainty for global oil supply dynamics.",
+        "summary": "Asian stock markets are set to achieve their strongest February performance in history. The rally is primarily driven by massive investor inflows into regional companies that are building out AI infrastructure. This indicates a significant capital rotation towards technology and infrastructure plays in Asia. The trend underscores the region's pivotal role in the global AI supply chain.",
         "relations": [
           {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Commodity sensitive to geopolitical supply shocks."
-          },
-          {
-            "label": "US-Iran Nuclear Talks",
-            "type": "risk",
-            "desc": "Geopolitical event with direct impact on oil supply."
-          },
-          {
-            "label": "Middle East Producers",
+            "label": "Asian Equities",
             "type": "entity",
-            "desc": "OPEC+ nations adjusting exports amid uncertainty."
+            "desc": "Regional stock markets experiencing record inflows"
           },
           {
-            "label": "Geopolitical Risk Premium",
+            "label": "AI Infrastructure",
+            "type": "tech",
+            "desc": "Core investment theme driving the market rally"
+          },
+          {
+            "label": "Capital Rotation",
             "type": "risk",
-            "desc": "Price component reflecting regional conflict potential."
+            "desc": "Shift of investor funds into specific sectors"
+          },
+          {
+            "label": "Technology Sector",
+            "type": "entity",
+            "desc": "Primary beneficiary of current investment trend"
           }
         ],
         "analysis": {
           "strategic": [
-            "The talks represent a binary event for oil markets: a deal could release significant Iranian barrels, while failure sustains a risk premium.",
-            "Producers boosting exports pre-talks indicates a strategic move to secure market share ahead of potential supply changes."
+            "The surge highlights Asia's strategic positioning as the foundational layer for global AI development, potentially leading to long-term structural re-rating of related equities.",
+            "Record-breaking performance may attract further speculative capital, increasing volatility but also cementing the region's status as a critical tech investment hub."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Crude Oil Futures (CL)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical uncertainty and preemptive supply moves support prices; failed talks or regional escalation could trigger a sharper rally."
+          "asset": "Asian AI Infrastructure ETFs / Semiconductor Foundries",
+          "risk": "MEDIUM",
+          "thesis": "Sustained capital allocation towards AI build-out suggests a multi-year growth cycle for foundational hardware and service providers in Asia."
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1630177867818?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1593696947168?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Gold Gains on Tariffs, Iran",
-        "fullTitle": "Gold Extends Gains on US Tariffs, Iran Nuclear Talks",
-        "classification": "RESTRICTED",
+        "title": "Gold Steadies on Geopolitical Talks",
+        "fullTitle": "Gold Little Changed as US-Iran Extend Nuclear Talks",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Gold prices continued their upward move as traders assessed dual catalysts: escalating Middle East tensions related to Iran and the potential impact of new US tariffs on global trade. The metal is acting as a hedge against both geopolitical instability and trade policy uncertainty. These factors are driving safe-haven demand among investors.",
+        "summary": "Gold prices stabilized following news that the US and Iran agreed to extend their nuclear negotiations. The extension temporarily alleviated immediate fears of a breakdown and conflict. However, underlying tension persists due to a continued US military build-up in the Middle East. The market remains on edge, with gold acting as a barometer for regional geopolitical risk.",
         "relations": [
           {
             "label": "Gold",
             "type": "resource",
-            "desc": "Traditional safe-haven asset."
+            "desc": "Safe-haven asset reacting to geopolitical developments"
           },
           {
-            "label": "US Tariff Policy",
+            "label": "US-Iran Relations",
             "type": "risk",
-            "desc": "Source of global trade uncertainty and inflation risk."
+            "desc": "Primary geopolitical risk driver for commodity markets"
           },
           {
-            "label": "Geopolitical Tension",
+            "label": "Middle East Tension",
             "type": "risk",
-            "desc": "Driver of risk-off sentiment and haven demand."
+            "desc": "Ongoing source of volatility for energy and safe-haven assets"
           },
           {
-            "label": "Global Trade",
-            "type": "risk",
-            "desc": "System vulnerable to policy shifts and conflict."
+            "label": "Nuclear Negotiations",
+            "type": "entity",
+            "desc": "Diplomatic process impacting global risk sentiment"
           }
         ],
         "analysis": {
           "strategic": [
-            "Gold is benefiting from a confluence of macro and geopolitical risks, reinforcing its role as a non-correlated asset.",
-            "Prolonged trade or geopolitical friction could institutionalize higher gold allocations in portfolio strategies."
+            "The extension of talks creates a fragile equilibrium; any subsequent breakdown could trigger a sharp, risk-off move benefiting gold and oil disproportionately.",
+            "The US military posture indicates a strategy of deterrence, keeping the risk premium embedded in commodities, which limits downside for gold in the near term."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Gold Futures (GC) / GLD",
-          "risk": "MEDIUM",
-          "thesis": "Multiple concurrent risk catalysts (trade, geopolitics) support sustained haven demand and price momentum."
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1547047600368?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Salesforce Defends AI Threat",
-        "fullTitle": "Salesforce CEO Dismisses AI Threat After Solid Earnings",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Salesforce reported strong year-end earnings, prompting CEO Marc Benioff to actively counter narratives about AI posing an existential threat to its SaaS business model. The company is leveraging its financial performance to reassure investors about its competitive durability. This reflects a strategic communications effort to manage market perception in a rapidly evolving tech landscape.",
-        "relations": [
-          {
-            "label": "Salesforce",
-            "type": "entity",
-            "desc": "CRM software leader addressing AI disruption concerns."
-          },
-          {
-            "label": "Marc Benioff",
-            "type": "entity",
-            "desc": "CEO managing investor narrative on AI impact."
-          },
-          {
-            "label": "Generative AI",
-            "type": "tech",
-            "desc": "Disruptive technology perceived as threat to legacy SaaS."
-          },
-          {
-            "label": "SaaS Business Model",
-            "type": "risk",
-            "desc": "Incumbent model facing potential AI-driven obsolescence."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Salesforce's strong earnings provide a temporary shield, but the long-term strategic imperative is to integrate AI defensively and offensively.",
-            "The need for public reassurance itself signals that AI disruption is a material and credible investor concern for enterprise software."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "CRM (Salesforce)",
-          "risk": "MEDIUM",
-          "thesis": "Current financial strength and management's focus on the AI narrative may support valuation in the near term, despite long-term structural questions."
+          "asset": "Gold Futures / Gold Miners ETF (GDX)",
+          "risk": "HIGH",
+          "thesis": "Geopolitical risk premium remains elevated despite diplomatic talks. Gold serves as a hedge against potential escalation, which is not fully priced in."
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1536250016657?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1538077479137?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Gushwork Raises $9M for AI Search",
-        "fullTitle": "Gushwork Raises $9M, Betting on AI Search for Customer Leads",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Startup Gushwork has secured $9 million in a seed funding round led by SIG and Lightspeed Venture Partners. The company is developing AI-powered search tools for generating customer leads, reporting early traction with technologies like ChatGPT. This investment highlights continued venture capital interest in applied AI solutions for business development and sales.",
-        "relations": [
-          {
-            "label": "Gushwork",
-            "type": "entity",
-            "desc": "Startup using AI search for lead generation."
-          },
-          {
-            "label": "Generative AI Search",
-            "type": "tech",
-            "desc": "Application of LLMs for commercial intelligence and lead gen."
-          },
-          {
-            "label": "SIG / Lightspeed",
-            "type": "entity",
-            "desc": "Lead investors in the seed round."
-          },
-          {
-            "label": "Customer Lead Generation",
-            "type": "tech",
-            "desc": "Business process being augmented by AI tools."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Investment flow into niche AI applications like sales intelligence indicates a maturation phase beyond foundational models.",
-            "Early traction with ChatGPT suggests a 'co-pilot' model for sales is gaining commercial validation, potentially disrupting traditional CRM workflows."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Private Equity / Venture Capital in Applied AI",
-          "risk": "HIGH",
-          "thesis": "Early-stage bets on specialized AI applications for enterprise functions (e.g., sales) represent a high-growth, if risky, segment of the tech investment landscape."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1562437639754?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Anthropic Buys AI Startup Vercept",
-        "fullTitle": "Anthropic Acquires AI Startup Vercept After Meta Poaching",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "AI company Anthropic has acquired Seattle-based startup Vercept, which specialized in developing complex 'agentic' AI tools, including a computer-use agent. The acquisition follows Meta's poaching of a Vercept founder, suggesting a competitive talent and IP landscape. The move strengthens Anthropic's capabilities in building AI that can interact with and control software applications.",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "AI safety-focused company expanding into agentic AI."
-          },
-          {
-            "label": "Vercept",
-            "type": "entity",
-            "desc": "Startup developing computer-use AI agents."
-          },
-          {
-            "label": "Agentic AI",
-            "type": "tech",
-            "desc": "AI systems that autonomously execute tasks within digital environments."
-          },
-          {
-            "label": "Meta Platforms",
-            "type": "entity",
-            "desc": "Competitor involved in talent poaching prior to acquisition."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The acquisition is a defensive and offensive move by Anthropic to secure strategic IP and talent in the emerging 'AI agent' domain, a key frontier beyond chatbots.",
-            "Talent poaching by giants like Meta is accelerating consolidation, as smaller AI labs seek acquirers to secure their work and teams."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Private AI Companies / Anthropic Ecosystem",
-          "risk": "HIGH",
-          "thesis": "Strategic acquisitions in the agentic AI space highlight its perceived future value, benefiting companies with strong capabilities in this niche."
-        },
-        "confidence": 86,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1632021379617?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
-      }
-    ],
-    "es": [
-      {
-        "title": "Qantas cae por ganancias internacionales",
-        "fullTitle": "Acciones de Qantas caen tras reducirse ganancias de vuelos internacionales",
+        "title": "Boustead REIT $770M IPO in Singapore",
+        "fullTitle": "Singapore's Boustead REIT Seeks $770M From IPO",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Qantas Airways Ltd. registraron su mayor caída en casi un año. La unidad internacional reportó una caída inesperada en sus ganancias. La compañía advirtió sobre el aumento de costos en salarios y mantenimiento de aeronaves. Esto refleja presiones en la rentabilidad del sector de aviación a largo plazo.",
+        "summary": "Boustead Singapore Ltd.'s real estate investment trust has launched its IPO roadshow, aiming to raise up to S$973.6 million ($770 million). This offering is positioned to be one of Singapore's largest in recent years. The move signals strong appetite for real estate assets in the Singapore market. It also reflects Boustead's strategy to monetize its property portfolio and recycle capital.",
         "relations": [
           {
-            "label": "Qantas Airways Ltd.",
+            "label": "Boustead REIT",
             "type": "entity",
-            "desc": "Aerolínea bandera de Australia"
+            "desc": "The real estate investment trust conducting the IPO"
           },
           {
-            "label": "Ganancias internacionales",
-            "type": "risk",
-            "desc": "Rentabilidad de operaciones en el extranjero"
+            "label": "Singapore IPO Market",
+            "type": "entity",
+            "desc": "Financial hub witnessing a major capital markets transaction"
           },
           {
-            "label": "Costos de mantenimiento",
-            "type": "risk",
-            "desc": "Gastos operativos en flota"
+            "label": "Real Estate Assets",
+            "type": "resource",
+            "desc": "Underlying assets being securitized and offered to public investors"
           },
           {
-            "label": "Costos salariales",
+            "label": "Capital Recycling",
             "type": "risk",
-            "desc": "Presión por aumentos de remuneraciones"
+            "desc": "Corporate strategy of monetizing illiquid assets"
           }
         ],
         "analysis": {
           "strategic": [
-            "La aviación internacional enfrenta un ajuste de márgenes post-pandemia, con recuperación desigual por rutas.",
-            "Los costos operativos estructurales (mano de obra, combustible, mantenimiento) presionan la rentabilidad sectorial a mediano plazo."
+            "The size of the IPO is a key test for Singapore's capital market depth and investor confidence in its real estate sector post-pandemic.",
+            "Successful listing could catalyze a wave of similar REIT listings or spin-offs from other Singaporean conglomerates, increasing market liquidity."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Boustead REIT IPO Allocation",
+          "risk": "MEDIUM",
+          "thesis": "Large, cornerstone-backed IPOs in stable markets like Singapore often see initial support and premium pricing, offering a favorable risk/reward for cornerstone or anchor investors."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1539379480992?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Paramount Wins Warner Bros. Discovery",
+        "fullTitle": "Paramount to Acquire Warner Bros. Discovery, Netflix Out",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "The bidding war for Warner Bros. Discovery has concluded with a landmark acquisition by David Ellison-owned Paramount. Netflix has withdrawn from the contest, marking a significant strategic shift. The deal consolidates major media assets including Warner Bros. studios, HBO, and CNN under the Paramount umbrella. This creates a new media behemoth capable of rivaling Disney and Comcast.",
+        "relations": [
+          {
+            "label": "Paramount (Ellison-owned)",
+            "type": "entity",
+            "desc": "Acquiring entity, creating a new media conglomerate"
+          },
+          {
+            "label": "Warner Bros. Discovery",
+            "type": "entity",
+            "desc": "Target company containing vast IP and media networks"
+          },
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "Unsuccessful bidder, signaling strategic retreat from mega-acquisitions"
+          },
+          {
+            "label": "Media Consolidation",
+            "type": "risk",
+            "desc": "Industry trend towards fewer, larger players"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This consolidation radically alters the competitive landscape of global media, creating a vertically-integrated giant with unparalleled content library and distribution.",
+            "Netflix's withdrawal suggests a potential pivot towards organic growth and partnerships over debt-fueled M&A, which may be positively received by its investors."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Paramount (Post-acquisition Entity)",
+          "risk": "HIGH",
+          "thesis": "The combined entity will have immense scale, content leverage, and cost synergies. If integrated successfully, it could generate superior cash flows and compete effectively in the streaming wars."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1516814813535?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Jack Dorsey Halves Block Workforce",
+        "fullTitle": "Jack Dorsey Halves Block's Employee Base, Warns Others",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Jack Dorsey, CEO of Block (formerly Square), has implemented a drastic 50% reduction in the company's workforce. He publicly stated that other companies should expect similar cuts, implying this is an industry-wide imperative. Dorsey is known to admire Elon Musk's aggressive management style. This move signals a severe shift towards extreme cost-cutting and operational efficiency in the tech sector.",
+        "relations": [
+          {
+            "label": "Jack Dorsey",
+            "type": "entity",
+            "desc": "CEO of Block, driving radical restructuring"
+          },
+          {
+            "label": "Block (Square)",
+            "type": "entity",
+            "desc": "Fintech company undergoing massive layoffs"
+          },
+          {
+            "label": "Workforce Reduction",
+            "type": "risk",
+            "desc": "Major operational and cultural risk for tech firms"
+          },
+          {
+            "label": "Tech Sector Efficiency",
+            "type": "risk",
+            "desc": "Broader trend of prioritizing profitability over growth"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This extreme action may pressure other tech CEOs to follow suit to maintain competitive cost structures, potentially triggering a sector-wide downsizing cycle.",
+            "Dorsey's public framing normalizes deep cuts, which could reset investor expectations for tech company margins and lead to significant near-term operational disruption."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "QAN.AX (Qantas)",
-          "risk": "MEDIUM",
-          "thesis": "Presión a la baja por sorpresa negativa en ganancias, márgenes comprimidos y expectativas de costos crecientes."
+          "asset": "High-Burn Rate, Low-Profitability Tech Stocks",
+          "risk": "HIGH",
+          "thesis": "Block's move sets a precedent for aggressive cost discipline. Companies with bloated headcounts and weak unit economics will face intense investor scrutiny and potential multiple compression."
         },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1630307606425?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1500380192061?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Petróleo sube antes de negociaciones nucleares",
-        "fullTitle": "Petróleo sube antes de conversaciones nucleares entre EE.UU. e Irán",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El precio del petróleo registró un leve aumento previo a las conversaciones nucleares entre Estados Unidos e Irán. Productores clave de Medio Oriente están incrementando sus exportaciones. La incertidumbre geopolítica en la región genera preocupaciones sobre la oferta futura. Un posible acuerdo podría alterar significativamente los flujos globales de crudo.",
+        "title": "Anthropic CEO Defies Pentagon Demand",
+        "fullTitle": "Anthropic CEO Stands Firm Against Pentagon AI Access",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "Anthropic CEO Dario Amodei has publicly refused the Pentagon's demand for unrestricted military access to its AI systems, citing ethical concerns. The refusal comes as a deadline from the U.S. Department of Defense looms. This stance highlights a growing rift between leading AI developers and government/military entities over the control and application of advanced AI. It sets a significant precedent for the industry's relationship with state power.",
         "relations": [
           {
-            "label": "Petróleo (WTI/Brent)",
-            "type": "resource",
-            "desc": "Commodity energético clave"
-          },
-          {
-            "label": "Irán",
+            "label": "Dario Amodei",
             "type": "entity",
-            "desc": "Productor de petróleo, sujeto a sanciones"
+            "desc": "CEO of Anthropic making a principled stand"
           },
           {
-            "label": "Negociaciones nucleares",
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "Leading AI research company at the center of the dispute"
+          },
+          {
+            "label": "Pentagon / U.S. Military",
+            "type": "entity",
+            "desc": "Government entity seeking unrestricted AI access"
+          },
+          {
+            "label": "AI Ethics & Governance",
             "type": "risk",
-            "desc": "Factor geopolítico de oferta"
-          },
-          {
-            "label": "Estados Unidos",
-            "type": "entity",
-            "desc": "Actor clave en política energética global"
-          },
-          {
-            "label": "Oferta de petróleo",
-            "type": "resource",
-            "desc": "Volumen de crudo disponible en el mercado"
+            "desc": "Core conflict between commercial development and state use"
           }
         ],
         "analysis": {
           "strategic": [
-            "La geopolítica de Medio Oriente sigue siendo el principal catalizador de volatilidad en los precios del crudo.",
-            "Un acuerdo nuclear podría liberar significativos volúmenes de petróleo iraní al mercado, presionando los precios a la baja."
+            "Anthropic's defiance could catalyze a formal regulatory or legislative battle over AI military use, creating uncertainty and potentially limiting market access for AI firms.",
+            "This establishes a 'principled resistance' playbook that other AI CEOs may follow, potentially fragmenting the AI industry into commercial-only and government-contractor segments."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Pure-Play AI Companies with Unclear Gov't Stance",
+          "risk": "HIGH",
+          "thesis": "Regulatory and ethical scrutiny on AI-military ties is intensifying. Companies caught in the crossfire, without a clear public stance or governance framework, face reputational, legal, and contract risks."
+        },
+        "confidence": 92,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1670024499952?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+      }
+    ],
+    "es": [
+      {
+        "title": "Acciones asiáticas récord en febrero",
+        "fullTitle": "Acciones asiáticas camino a mejor febrero histórico",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Los mercados de valores asiáticos están encaminados a registrar su mejor desempeño en el mes de febrero desde que se tienen registros. Este impulso es impulsado por inversores que están canalizando capital hacia empresas de la región que proveen infraestructura para el desarrollo de inteligencia artificial. El entusiasmo por la IA está redefiniendo los flujos de capital en Asia. Esto refleja un cambio estructural hacia sectores tecnológicos clave.",
+        "relations": [
+          {
+            "label": "Mercados Asiáticos",
+            "type": "entity",
+            "desc": "Bolsa de valores de la región Asia-Pacífico"
+          },
+          {
+            "label": "Inteligencia Artificial",
+            "type": "tech",
+            "desc": "Tecnología impulsora de la inversión"
+          },
+          {
+            "label": "Infraestructura Tecnológica",
+            "type": "resource",
+            "desc": "Sector receptor de flujos de capital"
+          },
+          {
+            "label": "Riesgo de Burbuja",
+            "type": "risk",
+            "desc": "Sobrevaloración en sector tecnológico"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La carrera por la infraestructura de IA está reasignando el liderazgo de crecimiento regional, potencialmente desplazando a China en ciertos eslabones de la cadena de suministro.",
+            "Los flujos de capital hacia Asia por temas de IA podrían fortalecer las monedas locales y afectar las dinámicas de exportación."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de petróleo (CL, BZ)",
-          "risk": "HIGH",
-          "thesis": "Prima de riesgo geopolítico y volatilidad ante noticias de negociaciones, con sesgo alcista por interrupciones potenciales."
+          "asset": "ETF de semiconductores y tecnología asiática (ej. ASIA, 3110.T)",
+          "risk": "MEDIUM",
+          "thesis": "Exposición al ciclo de gasto en infraestructura de IA en Asia, con empresas coreanas y taiwanesas como principales beneficiarias en el corto y mediano plazo."
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1679073950260?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1587427368208?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Oro sube por tensiones y aranceles",
-        "fullTitle": "Oro extiende ganancias por aranceles de EE.UU. y conversaciones con Irán",
-        "classification": "CONFIDENTIAL",
+        "title": "Oro estable tras acuerdo EEUU-Irán",
+        "fullTitle": "Oro se mantiene tras extensión de conversaciones nucleares",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "El precio del oro continuó su tendencia alcista. Los operadores evalúan las tensiones geopolíticas en Medio Oriente, en particular las conversaciones nucleares con Irán. También consideran el impacto potencial de los aranceles comerciales de Estados Unidos en el comercio global. El oro actúa como refugio ante la incertidumbre política y comercial.",
+        "summary": "El precio del oro mostró poca variación después de que Estados Unidos e Irán acordaron extender las conversaciones sobre el programa nuclear iraní. Sin embargo, la tensión subyacente se mantiene debido a una acumulación militar estadounidense en Medio Oriente. Los mercados permanecen alerta ante el potencial de un conflicto en la región. El oro actúa como activo refugio ante esta incertidumbre geopolítica.",
         "relations": [
           {
             "label": "Oro (XAU)",
             "type": "resource",
-            "desc": "Activo refugio por excelencia"
+            "desc": "Activo refugio ante incertidumbre"
           },
           {
-            "label": "Aranceles de EE.UU.",
-            "type": "risk",
-            "desc": "Riesgo de tensiones comerciales globales"
+            "label": "Estados Unidos",
+            "type": "entity",
+            "desc": "Actor geopolítico clave"
           },
           {
             "label": "Irán",
             "type": "entity",
-            "desc": "Foco de tensión geopolítica"
+            "desc": "País en negociaciones nucleares"
           },
           {
-            "label": "Geopolítica",
+            "label": "Riesgo Geopolítico",
             "type": "risk",
-            "desc": "Factor de aversión al riesgo en mercados"
+            "desc": "Tensión en Medio Oriente"
           }
         ],
         "analysis": {
           "strategic": [
-            "El oro recupera su rol dual: cobertura contra inflación y refugio ante inestabilidad geopolítica y comercial.",
-            "La política comercial agresiva de EE.UU. puede impulsar la demanda de activos seguros no correlacionados con divisas."
+            "La diplomacia prolongada reduce el riesgo inmediato, pero la presencia militar sustancial de EEUU mantiene una prima de riesgo constante en los precios de las materias primas.",
+            "Cualquier ruptura en las negociaciones podría desencadenar una volatilidad abrupta en los mercados energéticos y de metales preciosos."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Oro (GLD, XAUUSD)",
+          "asset": "Oro (ETF: GLD) o Mineras de oro",
           "risk": "MEDIUM",
-          "thesis": "Tendencia alcista sostenida por aversión al riesgo geopolítico y expectativas de políticas comerciales disruptivas."
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1576679539364?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Salesforce responde a amenaza de IA",
-        "fullTitle": "CEO de Salesforce: 'No es nuestro primer SaaSpocalypse' ante la IA",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Salesforce reportó sólidos resultados de fin de año. Su CEO, Marc Benioff, salió a contrarrestar activamente los rumores sobre la amenaza existencial de la IA para su negocio de CRM. La compañía está utilizando todas sus herramientas estratégicas y de comunicación para defender su posición. El mensaje busca calmar a los inversores sobre la resiliencia del modelo de negocio.",
-        "relations": [
-          {
-            "label": "Salesforce",
-            "type": "entity",
-            "desc": "Líder global en software CRM en la nube"
-          },
-          {
-            "label": "Marc Benioff",
-            "type": "entity",
-            "desc": "CEO y cofundador de Salesforce"
-          },
-          {
-            "label": "IA Generativa",
-            "type": "tech",
-            "desc": "Tecnología disruptiva para el sector SaaS"
-          },
-          {
-            "label": "CRM",
-            "type": "tech",
-            "desc": "Software de gestión de relaciones con clientes"
-          },
-          {
-            "label": "SaaSpocalypse",
-            "type": "risk",
-            "desc": "Término para amenaza existencial de IA al SaaS"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los líderes establecidos del SaaS enfrentan presión narrativa y de valoración por el auge de la IA, requiriendo respuestas estratégicas agresivas.",
-            "La defensa de la posición de mercado y la comunicación con inversores se vuelve crítica en periodos de disrupción tecnológica."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "CRM (Salesforce)",
-          "risk": "MEDIUM",
-          "thesis": "Resultados sólidos y gestión proactiva del relato sobre IA pueden ofrecer estabilidad tras correcciones por preocupaciones tecnológicas."
-        },
-        "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1532734869283?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Gushwork apuesta por búsqueda con IA",
-        "fullTitle": "Gushwork recauda $9M para búsqueda de clientes potenciales con IA",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "La startup Gushwork ha recaudado 9 millones de dólares en una ronda semilla liderada por SIG y Lightspeed. La compañía apuesta por el uso de herramientas de búsqueda con IA, como ChatGPT, para la generación de leads comerciales (clientes potenciales). Ya se están observando los primeros resultados positivos en la atracción de clientes. Esto refleja la aplicación práctica de la IA generativa en ventas y marketing.",
-        "relations": [
-          {
-            "label": "Gushwork",
-            "type": "entity",
-            "desc": "Startup de generación de leads con IA"
-          },
-          {
-            "label": "SIG / Lightspeed",
-            "type": "entity",
-            "desc": "Firmas de capital de riesgo inversoras"
-          },
-          {
-            "label": "ChatGPT / IA de búsqueda",
-            "type": "tech",
-            "desc": "Herramientas de IA generativa aplicadas"
-          },
-          {
-            "label": "Generación de Leads",
-            "type": "tech",
-            "desc": "Proceso de identificación de clientes potenciales"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El capital de riesgo continúa fluyendo hacia aplicaciones verticales y específicas de la IA generativa, más allá de los modelos base.",
-            "La automatización de la prospección comercial (sales intelligence) es un área de adopción temprana y rápida ROI para la IA."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Capital de riesgo en SalesTech con IA",
-          "risk": "HIGH",
-          "thesis": "Segmento de crecimiento temprano pero acelerado. Las startups que aplican IA a problemas empresariales concretos (como leads) captan atención de inversores."
+          "thesis": "Cobertura contra un posible repunte de la tensión geopolítica en Medio Oriente. El entorno de tasas altas limita el alza, pero el riesgo de evento negativo proporciona soporte."
         },
         "confidence": 82,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1546119452416?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1561757901383?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Anthropic adquiere startup de agentes de IA",
-        "fullTitle": "Anthropic adquiere Vercept, startup de agentes de IA para uso en computadora",
-        "classification": "CONFIDENTIAL",
+        "title": "Boustead REIT busca $770M en IPO",
+        "fullTitle": "REIT de Boustead de Singapur busca $770 millones en OPI",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Anthropic, la empresa creadora del modelo Claude, ha adquirido la startup Vercept. Vercept, con sede en Seattle, desarrollaba herramientas de agentes de IA complejos, incluido un agente capaz de usar una computadora y completar tareas dentro de aplicaciones. La adquisición se produce después de que Meta contratara a uno de los fundadores de Vercept. Esto señala la carrera por el talento y la tecnología de 'agentes autónomos' en la industria de la IA.",
+        "summary": "El fondo de inversión inmobiliaria (REIT) de Boustead Singapore Ltd. ha iniciado la captación de órdenes de inversión para su Oferta Pública Inicial (OPI). La emisión pretende recaudar hasta 973,6 millones de dólares singapurenses (770 millones de dólares estadounidenses). Esta operación se perfila como una de las mayores ofertas en Singapur en los últimos años. Refleja una reactivación en el mercado de capitales para activos inmobiliarios estructurados.",
+        "relations": [
+          {
+            "label": "Boustead Singapore Ltd.",
+            "type": "entity",
+            "desc": "Empresa matriz del REIT"
+          },
+          {
+            "label": "Boustead REIT",
+            "type": "entity",
+            "desc": "Fondo de inversión inmobiliaria en oferta"
+          },
+          {
+            "label": "Mercado de Capitales Singapur",
+            "type": "entity",
+            "desc": "Bolsa de valores SGX"
+          },
+          {
+            "label": "Activos Inmobiliarios",
+            "type": "resource",
+            "desc": "Clase de activo subyacente"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El tamaño de la OPI indica una fuerte demanda institucional por activos inmobiliarios singapurenses, visto como refugio en la región.",
+            "Un éxito en esta emisión podría abrir la puerta a más ofertas de REITs en Asia, mejorando la liquidez del sector."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de Boustead REIT post-IPO",
+          "risk": "MEDIUM",
+          "thesis": "Acceso a un portafolio inmobiliario gestionado por un jugador establecido en Singapur, con potencial de rendimiento por dividendos atractivo en un entorno de tipos de interés estabilizados."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1635107505494?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Netflix pierde, Paramount gana Warner",
+        "fullTitle": "Paramount de Ellison adquiere Warner Bros., Netflix se retira",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "La guerra de ofertas por Warner Bros. Discovery ha concluido. Netflix se retiró de la puja, permitiendo que Paramount, propiedad de David Ellison, adquiera el conglomerado mediático. La transacción, valorada en cientos de miles de millones de dólares, consolida el poder de Ellison en la industria del entretenimiento. Esta adquisición redefine radicalmente el panorama competitivo del streaming y los estudios.",
+        "relations": [
+          {
+            "label": "Paramount Global",
+            "type": "entity",
+            "desc": "Adquirente, controlada por David Ellison"
+          },
+          {
+            "label": "Warner Bros. Discovery",
+            "type": "entity",
+            "desc": "Empresa objetivo adquirida"
+          },
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "Perdedor en la puja, se retiró"
+          },
+          {
+            "label": "David Ellison",
+            "type": "entity",
+            "desc": "Propietario de Paramount, ganador"
+          },
+          {
+            "label": "Consolidación de Medios",
+            "type": "risk",
+            "desc": "Riesgo de menor competencia"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La creación de un mega-estudio bajo Ellison desafía el dominio de Disney y altera la dinámica de licencias de contenido para todos los streamers.",
+            "El retiro de Netflix sugiere un cambio de estrategia hacia la producción orgánica o posibles adquisiciones más pequeñas y específicas."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Netflix (NFLX)",
+          "risk": "HIGH",
+          "thesis": "Posible presión sobre las acciones de Netflix por percibirse como perdedor en la consolidación de contenido clave (HBO, estudios Warner). Podría enfrentar mayores costos de licencias o una competencia más integrada."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1561204978624?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Jack Dorsey reduce plantilla de Block",
+        "fullTitle": "Dorsey reduce a la mitad la plantilla de Block, advierte a otros",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Jack Dorsey, CEO de Block (antes Square), ha reducido aproximadamente a la mitad la base de empleados de la compañía. Dorsey, conocido admirador de Elon Musk, ha insinuado que esta estrategia de recortes drásticos podría ser un modelo a seguir para otras empresas tecnológicas. Este movimiento refleja una presión intensa por la eficiencia y rentabilidad en el sector fintech. Podría desencadenar una ola de ajustes similares en la industria.",
+        "relations": [
+          {
+            "label": "Jack Dorsey",
+            "type": "entity",
+            "desc": "CEO de Block (Square)"
+          },
+          {
+            "label": "Block Inc. (Square)",
+            "type": "entity",
+            "desc": "Compañía fintech afectada"
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "Modelo referencial para Dorsey"
+          },
+          {
+            "label": "Riesgo de Contagio Laboral",
+            "type": "risk",
+            "desc": "Posibles recortes en otras tech"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Esta acción marca un punto de inflexión cultural en Silicon Valley, priorizando la rentabilidad sobre el crecimiento a cualquier costo, incluso en empresas líderes.",
+            "Podría iniciar un ciclo de despidos competitivos en el sector fintech y tech en general, impactando el consumo y el mercado inmobiliario en hubs tecnológicos."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas fintech con alto gasto en nómina y baja rentabilidad",
+          "risk": "HIGH",
+          "thesis": "Anticipar una reevaluación negativa de empresas tecnológicas con estructuras de costos infladas, siguiendo el precedente establecido por Block. Enfoque en empresas con márgenes operativos débiles."
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1686514551896?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "CEO de Anthropic desafía al Pentágono",
+        "fullTitle": "CEO de Anthropic se niega a dar acceso militar ilimitado a IA",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "Dario Amodei, CEO de Anthropic, declaró que 'no puede en conciencia acceder' a las demandas del Pentágono de otorgar acceso militar sin restricciones a sus sistemas de IA. La negativa se produce ante un plazo impuesto por el Departamento de Defensa de EE.UU. Este enfrentamiento subraya el conflicto ético fundamental entre las empresas de IA y las aplicaciones militares. Podría influir en la regulación futura y los contratos gubernamentales.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "Creadora del modelo de IA Claude, rival de OpenAI"
+            "desc": "Empresa de IA desarrolladora de Claude"
           },
           {
-            "label": "Vercept",
+            "label": "Dario Amodei",
             "type": "entity",
-            "desc": "Startup de agentes de IA para uso en computadora"
+            "desc": "CEO de Anthropic"
           },
           {
-            "label": "Agentes de IA / Agentes autónomos",
-            "type": "tech",
-            "desc": "IA que realiza acciones en entornos digitales"
-          },
-          {
-            "label": "Meta",
+            "label": "Pentágono (DoD)",
             "type": "entity",
-            "desc": "Gigante tecnológico, competidor en la carrera de IA"
+            "desc": "Departamento de Defensa de EE.UU."
           },
           {
-            "label": "Computer-use agent",
+            "label": "IA Ética/Segura",
             "type": "tech",
-            "desc": "Agente que interactúa con interfaces de software"
+            "desc": "Tecnología en disputa"
+          },
+          {
+            "label": "Riesgo Regulatorio/Contractual",
+            "type": "risk",
+            "desc": "Posible exclusión de contratos gubernamentales"
           }
         ],
         "analysis": {
           "strategic": [
-            "La próxima frontera de la IA es la capacidad de acción (agentes), no solo la generación de texto/imagen. Las grandes empresas consolidan tecnología mediante adquisiciones.",
-            "Existe una guerra de talento y adquisiciones agresiva entre los principales contendientes de IA (Anthropic, OpenAI, Meta, etc.)."
+            "Esta postura podría fracturar el ecosistema de IA en EE.UU., creando una división clara entre empresas 'con principios' y aquellas dispuestas a trabajar sin restricciones con el complejo militar-industrial.",
+            "El Pentágono podría redirigir fondos masivos hacia competidores de Anthropic (OpenAI, Google, startups de defensa), alterando el balance competitivo."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Ecosistema de IA (empresas con fuerte I+D en agentes)",
+          "action": "SHORT",
+          "asset": "Anthropic (en rondas privadas futuras) o sus inversores cercanos",
           "risk": "HIGH",
-          "thesis": "La consolidación y la carrera por los agentes autónomos crea valor en startups especializadas y en los líderes que las adquieren para acelerar su hoja de ruta."
+          "thesis": "La negativa a colaborar con el principal cliente potencial (gobierno de EE.UU.) limita severamente el mercado total direccionable (TAM) y el flujo de ingresos futuros, poniendo en riesgo su valoración."
         },
-        "confidence": 86,
+        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1548723552565?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1646759433214?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
