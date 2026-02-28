@@ -1,818 +1,863 @@
 {
-  "generated_at": "2026-02-27T02:14:04.872511",
+  "generated_at": "2026-02-28T02:06:30.671561",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "亚洲股市创二月最佳表现",
-        "fullTitle": "亚洲股市有望创下有记录以来最佳二月表现",
-        "classification": "UNCLASSIFIED",
+        "title": "市场多重压力下股市下跌",
+        "fullTitle": "信贷压力、战争与AI担忧致股市下滑",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "亚洲股市正迈向有记录以来最佳的二月表现，主要驱动力是投资者大举涌入为人工智能基础设施提供支持的地区公司。这表明市场对AI相关硬件的需求强劲，并推动了区域资本流动。该趋势反映了全球科技投资重心向亚洲供应链的转移。",
+        "summary": "2026年2月27日收盘前，华尔街市场因信贷压力、地缘政治冲突以及对人工智能领域的担忧而普遍下跌。彭博电视召集了来自Robinhood、S&P Global、富达等机构的十位专家进行实时分析。讨论焦点集中在多重风险因素叠加对市场情绪的压制。这表明当前金融环境脆弱，对负面消息高度敏感。",
         "relations": [
           {
-            "label": "亚洲股市",
-            "type": "entity",
-            "desc": "主要受益市场"
+            "label": "信贷压力",
+            "type": "risk",
+            "desc": "导致市场下跌的核心风险因素之一"
           },
           {
-            "label": "人工智能基础设施",
+            "label": "地缘政治冲突",
+            "type": "risk",
+            "desc": "加剧市场不确定性的外部风险"
+          },
+          {
+            "label": "人工智能(AI)",
             "type": "tech",
-            "desc": "核心投资主题"
+            "desc": "市场担忧的焦点领域，可能引发估值调整"
           },
           {
-            "label": "供应链转移",
-            "type": "risk",
-            "desc": "全球资本流动风险"
+            "label": "彭博电视",
+            "type": "entity",
+            "desc": "信息发布与市场分析平台"
           },
           {
-            "label": "科技硬件",
-            "type": "resource",
-            "desc": "关键投资标的"
+            "label": "华尔街",
+            "type": "entity",
+            "desc": "事件发生的主要金融市场"
           }
         ],
         "analysis": {
           "strategic": [
-            "亚洲科技供应链公司正成为全球AI资本开支的核心受益者，可能重塑区域产业格局。",
-            "该趋势若持续，可能加速全球科技制造业重心向亚洲转移，并提升相关市场的估值中枢。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "亚洲AI硬件及半导体ETF",
-          "risk": "MEDIUM",
-          "thesis": "押注于AI基础设施建设的长期资本开支周期，以及亚洲公司在全球供应链中的关键地位。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1689044333896?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "美伊延长核谈，金价持稳",
-        "fullTitle": "美伊同意延长核谈判，金价几无变动",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "在美国与伊朗同意进一步进行核谈判后，黄金价格趋于稳定。然而，美国在中东的军事集结使市场对潜在冲突保持警惕，限制了金价的下跌空间。地缘政治紧张局势仍是支撑避险资产的关键因素。",
-        "relations": [
-          {
-            "label": "黄金",
-            "type": "resource",
-            "desc": "核心避险资产"
-          },
-          {
-            "label": "美伊关系",
-            "type": "risk",
-            "desc": "主要地缘政治风险源"
-          },
-          {
-            "label": "中东局势",
-            "type": "risk",
-            "desc": "区域不稳定因素"
-          },
-          {
-            "label": "避险情绪",
-            "type": "risk",
-            "desc": "市场主导情绪"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "中东地缘政治风险处于‘可控但持续’状态，为黄金提供了结构性支撑，削弱了其因利率高企而应有的下行压力。",
-            "任何谈判破裂或军事升级都将迅速推高市场波动率和避险需求，黄金作为传统对冲工具的地位将凸显。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "黄金期货/黄金ETF",
-          "risk": "MEDIUM",
-          "thesis": "在‘高利率+地缘风险’的宏观背景下，配置黄金作为对冲潜在黑天鹅事件及市场波动的工具。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1631511158054?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "新加坡博纳产业REIT启动大规模IPO",
-        "fullTitle": "新加坡博纳产业REIT寻求通过IPO融资7.7亿美元",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "新加坡博纳有限公司旗下的房地产投资信托已开始接受投资者认购，计划通过首次公开募股筹集至多9.736亿新元。这有望成为新加坡近年来规模最大的IPO之一，反映了市场对优质房地产资产的兴趣以及新加坡作为金融中心的融资活力。",
-        "relations": [
-          {
-            "label": "博纳产业REIT",
-            "type": "entity",
-            "desc": "发行主体"
-          },
-          {
-            "label": "新加坡IPO市场",
-            "type": "entity",
-            "desc": "融资环境"
-          },
-          {
-            "label": "房地产投资信托",
-            "type": "resource",
-            "desc": "资产类别"
-          },
-          {
-            "label": "融资规模",
-            "type": "risk",
-            "desc": "市场承接能力测试"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此次大规模IPO是测试新加坡资本市场深度和亚太区投资者对收益率资产需求的重要风向标。",
-            "若成功发行，可能提振新加坡REIT板块整体情绪，并吸引更多地产公司考虑类似的资本运作。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "博纳产业REIT IPO份额",
-          "risk": "MEDIUM",
-          "thesis": "参与新加坡优质商业地产资产的上市，获取稳定股息收益，并受益于可能的上市溢价及板块带动效应。"
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1537963114977?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Netflix退出竞购，派拉蒙将收购华纳",
-        "fullTitle": "Netflix退出华纳兄弟探索竞购，派拉蒙将完成收购",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "围绕华纳兄弟探索公司的千亿美元级竞购战已结束。Netflix退出竞争，由大卫·埃里森拥有的派拉蒙公司即将完成收购。这笔交易将重塑全球媒体娱乐行业的竞争格局，创造一个新的内容巨头。",
-        "relations": [
-          {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "退出方"
-          },
-          {
-            "label": "派拉蒙",
-            "type": "entity",
-            "desc": "收购方"
-          },
-          {
-            "label": "华纳兄弟探索",
-            "type": "entity",
-            "desc": "被收购方"
-          },
-          {
-            "label": "媒体行业整合",
-            "type": "risk",
-            "desc": "行业趋势与垄断风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此次收购标志着媒体行业从‘流媒体战争’进入‘超级集团整合’阶段，规模成为对抗科技平台的关键。",
-            "Netflix的退出可能意味着其战略重心回归有机增长和内容自制，而非通过巨额并购进行扩张。"
+            "市场情绪已从单一因素驱动转向对系统性风险的恐慌，反映出投资者信心脆弱。",
+            "专家阵容覆盖多领域，表明机构正试图从宏观、政策、行业多个维度交叉验证风险。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Netflix股票",
-          "risk": "HIGH",
-          "thesis": "市场可能将Netflix退出竞购解读为在内容军备竞赛中处于弱势，且新成立的媒体巨头将对其构成更直接威胁，导致估值承压。"
+          "asset": "SPY (标普500指数ETF) 或 QQQ (纳斯达克100指数ETF)",
+          "risk": "MEDIUM",
+          "thesis": "在信贷、战争、AI泡沫担忧三重压力下，市场短期避险情绪升温，大盘指数承压，适合战术性做空或增加对冲头寸。"
         },
-        "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1689785439099?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1501357844591?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Jack Dorsey大幅裁员Block",
-        "fullTitle": "Jack Dorsey将Block公司员工规模减半",
-        "classification": "RESTRICTED",
+        "title": "前银行家将就内幕交易认罪",
+        "fullTitle": "前Moelis银行家将在全球内幕交易案中认罪",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Block公司联合创始人Jack Dorsey已将公司员工规模削减了一半。Dorsey长期以来公开钦佩Elon Musk的管理风格，此次激进裁员被视为效仿科技行业追求极致效率的趋势。这预示着更多科技公司可能跟进裁员以提升盈利能力。",
+        "summary": "一位前Moelis & Co.的投资银行家计划从法国返回美国，就向一个全球内幕交易团伙成员泄露信息的行为认罪。此案涉及跨境金融犯罪，表明监管机构正在加大对全球性内幕交易网络的打击力度。该事件可能引发对投资银行内部合规控制的更严格审查。",
         "relations": [
           {
-            "label": "Jack Dorsey",
+            "label": "Moelis & Co.",
             "type": "entity",
-            "desc": "决策者"
+            "desc": "涉案银行家前雇主，一家国际投资银行"
           },
           {
-            "label": "Block公司",
+            "label": "内幕交易",
+            "type": "risk",
+            "desc": "核心违法行为，破坏市场公平"
+          },
+          {
+            "label": "跨境金融犯罪",
+            "type": "risk",
+            "desc": "案件涉及美法两国，调查复杂"
+          },
+          {
+            "label": "监管机构",
             "type": "entity",
-            "desc": "实施主体"
+            "desc": "案件背后的推动与调查方"
           },
           {
-            "label": "裁员潮",
+            "label": "合规控制",
             "type": "risk",
-            "desc": "行业性人力资源风险"
-          },
-          {
-            "label": "运营效率",
-            "type": "risk",
-            "desc": "管理核心目标"
+            "desc": "事件暴露出的金融机构内部管理风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "科技行业领袖的行为具有传染性，Dorsey的激进裁员可能引发新一轮硅谷效率竞赛，迫使同行重新评估人员规模。",
-            "此举反映了后疫情时代科技公司从‘增长至上’向‘盈利优先’的战略转向，资本市场对此类信号反应积极。"
+            "此案显示全球金融监管协作在加强，跨境执法成为新常态，增加了违法成本。",
+            "投资银行业，特别是跨境业务，将面临更严峻的合规审计与员工行为监控压力。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Block公司股票",
+          "action": "SHORT",
+          "asset": "投资银行板块 (如GS, MS) 或 金融监管科技公司",
           "risk": "HIGH",
-          "thesis": "激进的成本削减措施若执行得当，将显著改善公司的盈利能力和现金流，短期内可能推动股价上涨，但长期人才流失风险高。"
+          "thesis": "重大内幕交易认罪案可能引发板块短期情绪波动及合规成本上升预期，但长期影响有限；监管科技需求可能被重申。"
         },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1501368042764?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1551510795913?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Anthropic CEO拒绝五角大楼要求",
-        "fullTitle": "Anthropic CEO拒绝向军方提供无限制AI访问权限",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Anthropic公司CEO Dario Amodei公开表示，基于良知，他无法同意美国国防部的要求，即给予军方对其AI系统的无限制访问权限。此举发生在五角大楼设定的最后期限临近之际，凸显了尖端AI开发者在商业、伦理与国家安全之间的巨大分歧。",
+        "title": "特朗普经济政策成效与风险",
+        "fullTitle": "特朗普经济：繁荣、萧条还是常态？政策存隐忧",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "特朗普总统宣称经济“繁荣”，但前奥巴马经济顾问指出，在稳定增长与就业的表象下，关税推高成本、政策不确定性居高不下，且AI繁荣可能尚未支撑巨额投资。最高法院驳回关键关税及退税争端迫近，引发对长期经济风险的担忧。",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "特朗普政府",
             "type": "entity",
-            "desc": "AI技术公司"
+            "desc": "当前经济政策的制定与执行方"
           },
           {
-            "label": "Dario Amodei",
-            "type": "entity",
-            "desc": "决策者"
-          },
-          {
-            "label": "五角大楼/美国国防部",
-            "type": "entity",
-            "desc": "需求方"
-          },
-          {
-            "label": "AI军事化",
+            "label": "关税政策",
             "type": "risk",
-            "desc": "核心伦理与安全风险"
+            "desc": "增加企业成本，引发贸易摩擦的核心政策工具"
+          },
+          {
+            "label": "政策不确定性",
+            "type": "risk",
+            "desc": "影响企业长期投资决策的关键负面因素"
+          },
+          {
+            "label": "人工智能(AI)投资",
+            "type": "tech",
+            "desc": "被质疑可能过热的经济增长点"
+          },
+          {
+            "label": "最高法院",
+            "type": "entity",
+            "desc": "对关税政策进行司法审查的关键机构"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "美国经济处于“宏观稳定”与“微观风险”并存的矛盾期，政策摇摆是最大不确定性来源。",
+            "司法系统（最高法院）开始制衡行政贸易政策，可能改变政策博弈格局，增加企业规划难度。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "受关税影响严重的进口依赖型公司或广泛市场指数对冲",
+          "risk": "MEDIUM",
+          "thesis": "政策不确定性高企，且关税成本与司法挑战可能侵蚀企业利润，对依赖稳定贸易环境的企业构成利空。"
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1699966731643?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "OpenAI员工因内幕交易被解雇",
+        "fullTitle": "OpenAI解雇利用机密信息进行预测市场交易员工",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "OpenAI解雇了一名员工，因其利用公司机密信息在预测市场进行交易以谋取个人利益。公司声明此类行为违反了禁止利用机密信息谋私的内部政策。此事凸显了AI巨头在管理其核心机密信息（如模型进展、战略方向）方面面临的内部风险。",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "涉事AI研发公司，机密信息所有者"
+          },
+          {
+            "label": "机密信息",
+            "type": "resource",
+            "desc": "AI模型进展、商业战略等核心非公开信息"
+          },
+          {
+            "label": "预测市场",
+            "type": "entity",
+            "desc": "员工进行违规交易的场所"
+          },
+          {
+            "label": "内部合规",
+            "type": "risk",
+            "desc": "科技公司治理短板，尤其涉及高价值信息时"
           },
           {
             "label": "AI治理",
             "type": "risk",
-            "desc": "监管与伦理框架"
+            "desc": "超越技术本身，包括数据、信息与人员管理"
           }
         ],
         "analysis": {
           "strategic": [
-            "此事标志着AI巨头与政府在国家安全的合作上出现重大裂痕，可能迫使美国政府调整其AI军事化战略，或寻求立法强制合作。",
-            "Anthropic的立场可能获得部分投资者和员工的支持，但同时也使其面临失去美国政府合同、甚至遭遇监管压力的风险。"
+            "AI领军企业的内部信息已成为具有实际交易价值的高风险资产，传统IT治理框架面临挑战。",
+            "此事可能促使整个AI行业加强内部信息管控与员工监控，增加运营成本并影响创新文化。"
+          ]
+        },
+        "investment": {
+          "action": "观察",
+          "asset": "AI行业龙头 (如MSFT-OpenAI关联, GOOGL)",
+          "risk": "LOW",
+          "thesis": "单一员工事件对巨头基本面影响有限，但需观察是否引发连锁监管审查或行业性合规成本上升。短期无明确交易指向。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1614529528097?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "五角大楼拟将Anthropic列为供应链风险",
+        "fullTitle": "美国防部拟将AI公司Anthropic列为供应链风险",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国国防部（五角大楼）正采取行动，将人工智能公司Anthropic指定为供应链风险。总统在一份帖子中明确表示“不需要、不想要、不会再与其合作”。此举意味着Anthropic可能被排除在国防部合同之外，反映了政府对特定AI供应商安全性的极度不信任。",
+        "relations": [
+          {
+            "label": "美国国防部（五角大楼）",
+            "type": "entity",
+            "desc": "决策方，美国军事与国防采购核心机构"
+          },
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "被制裁的AI研发公司"
+          },
+          {
+            "label": "供应链风险",
+            "type": "risk",
+            "desc": "官方定性，可能导致业务禁止"
+          },
+          {
+            "label": "AI安全",
+            "type": "risk",
+            "desc": "国防部决策的核心考量，涉及国家安全"
+          },
+          {
+            "label": "政府合同",
+            "type": "resource",
+            "desc": "Anthropic可能失去的重要收入与背书来源"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI技术的地缘政治与国家安全属性凸显，商业公司的技术路线与背景可能直接导致市场准入壁垒。",
+            "此举可能加速AI产业“阵营化”，与政府关系密切的AI公司（如与微软合作的OpenAI）可能获益。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic（若上市）或其竞争对手股票",
+          "asset": "Anthropic (若未来上市) 或其主要私募投资者",
           "risk": "HIGH",
-          "thesis": "与全球最大军事开支方对抗，将带来巨大的政策不确定性和商业风险，可能影响其融资能力、人才吸引力和长期市场前景。"
+          "thesis": "失去美国国防部这一关键客户与背书，将严重打击Anthropic的商业前景、估值及融资能力，政治风险极高。"
         },
         "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1638883606132?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "马斯克贬损OpenAI并卷入Grok丑闻",
+        "fullTitle": "马斯克贬低OpenAI，但其xAI的Grok卷入不雅图像丑闻",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "马斯克在起诉OpenAI的证词中贬低对方，并吹捧其xAI的安全性。然而数月后，xAI的聊天机器人Grok在X平台上传播了大量非自愿的裸体图像。这与其宣称的安全优势形成鲜明对比，暴露了AI产品在实际部署中的内容安全风险与宣传之间的矛盾。",
+        "relations": [
+          {
+            "label": "埃隆·马斯克",
+            "type": "entity",
+            "desc": "xAI创始人，OpenAI诉讼方及批评者"
+          },
+          {
+            "label": "xAI / Grok",
+            "type": "entity",
+            "desc": "涉事AI公司及其聊天机器人产品"
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "马斯克的诉讼对象与被比较方"
+          },
+          {
+            "label": "AI内容安全",
+            "type": "risk",
+            "desc": "事件暴露的核心技术与社会风险"
+          },
+          {
+            "label": "X平台",
+            "type": "entity",
+            "desc": "丑闻发生与传播的社交媒体平台"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI领军人物之间的公开对抗从技术路线蔓延至安全伦理指责，但自身产品同样脆弱，行业整体安全挑战严峻。",
+            "AI安全不仅是技术问题，更是公关与信任问题，一次丑闻可能长期损害品牌声誉与用户信任。"
+          ]
+        },
+        "investment": {
+          "action": "观察",
+          "asset": "与xAI或Grok有深度绑定的平台或生态",
+          "risk": "HIGH",
+          "thesis": "严重的内容安全丑闻可能引发用户流失、监管审查和品牌价值受损，但具体财务影响取决于X平台与xAI的整合深度与商业模式。目前风险偏高，宜观察。"
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1520585176768?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1594077847459?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Asian Stocks Best Feb on Record",
-        "fullTitle": "Asian Equities Poised for Best February on Record",
+        "title": "Market Slides on Multiple Fears",
+        "fullTitle": "Stocks Slide as Credit Stress, War and AI Fears Weigh",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Asian stock markets are set to achieve their strongest February performance in history. The rally is primarily driven by massive investor inflows into regional companies that are building out AI infrastructure. This indicates a significant capital rotation towards technology and infrastructure plays in Asia. The trend underscores the region's pivotal role in the global AI supply chain.",
+        "summary": "Market sentiment turned negative in the final trading session of February 2026, driven by a confluence of macroeconomic and geopolitical concerns. Key fears include rising credit stress, ongoing international conflicts, and growing apprehension surrounding the sustainability of the AI investment boom. The closing bell analysis featured a diverse panel of experts from finance, biotech, policy, and sports, indicating broad-based market scrutiny. This session reflects heightened investor uncertainty and potential volatility ahead.",
         "relations": [
           {
-            "label": "Asian Equities",
-            "type": "entity",
-            "desc": "Regional stock markets experiencing record inflows"
-          },
-          {
-            "label": "AI Infrastructure",
-            "type": "tech",
-            "desc": "Core investment theme driving the market rally"
-          },
-          {
-            "label": "Capital Rotation",
+            "label": "Credit Stress",
             "type": "risk",
-            "desc": "Shift of investor funds into specific sectors"
+            "desc": "Rising concerns over corporate and consumer debt sustainability."
           },
           {
-            "label": "Technology Sector",
+            "label": "Geopolitical Conflict",
+            "type": "risk",
+            "desc": "Ongoing wars contributing to market instability and risk aversion."
+          },
+          {
+            "label": "AI Investment Bubble",
+            "type": "risk",
+            "desc": "Fears that current AI valuations are not justified by fundamentals."
+          },
+          {
+            "label": "Bloomberg Television",
             "type": "entity",
-            "desc": "Primary beneficiary of current investment trend"
+            "desc": "Financial news network hosting the market close analysis."
+          },
+          {
+            "label": "Wall Street",
+            "type": "entity",
+            "desc": "Epicenter of the reported market downturn and sentiment shift."
           }
         ],
         "analysis": {
           "strategic": [
-            "The surge highlights Asia's strategic positioning as the foundational layer for global AI development, potentially leading to long-term structural re-rating of related equities.",
-            "Record-breaking performance may attract further speculative capital, increasing volatility but also cementing the region's status as a critical tech investment hub."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Asian AI Infrastructure ETFs / Semiconductor Foundries",
-          "risk": "MEDIUM",
-          "thesis": "Sustained capital allocation towards AI build-out suggests a multi-year growth cycle for foundational hardware and service providers in Asia."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1593696947168?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Gold Steadies on Geopolitical Talks",
-        "fullTitle": "Gold Little Changed as US-Iran Extend Nuclear Talks",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Gold prices stabilized following news that the US and Iran agreed to extend their nuclear negotiations. The extension temporarily alleviated immediate fears of a breakdown and conflict. However, underlying tension persists due to a continued US military build-up in the Middle East. The market remains on edge, with gold acting as a barometer for regional geopolitical risk.",
-        "relations": [
-          {
-            "label": "Gold",
-            "type": "resource",
-            "desc": "Safe-haven asset reacting to geopolitical developments"
-          },
-          {
-            "label": "US-Iran Relations",
-            "type": "risk",
-            "desc": "Primary geopolitical risk driver for commodity markets"
-          },
-          {
-            "label": "Middle East Tension",
-            "type": "risk",
-            "desc": "Ongoing source of volatility for energy and safe-haven assets"
-          },
-          {
-            "label": "Nuclear Negotiations",
-            "type": "entity",
-            "desc": "Diplomatic process impacting global risk sentiment"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The extension of talks creates a fragile equilibrium; any subsequent breakdown could trigger a sharp, risk-off move benefiting gold and oil disproportionately.",
-            "The US military posture indicates a strategy of deterrence, keeping the risk premium embedded in commodities, which limits downside for gold in the near term."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Gold Futures / Gold Miners ETF (GDX)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical risk premium remains elevated despite diplomatic talks. Gold serves as a hedge against potential escalation, which is not fully priced in."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1538077479137?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Boustead REIT $770M IPO in Singapore",
-        "fullTitle": "Singapore's Boustead REIT Seeks $770M From IPO",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Boustead Singapore Ltd.'s real estate investment trust has launched its IPO roadshow, aiming to raise up to S$973.6 million ($770 million). This offering is positioned to be one of Singapore's largest in recent years. The move signals strong appetite for real estate assets in the Singapore market. It also reflects Boustead's strategy to monetize its property portfolio and recycle capital.",
-        "relations": [
-          {
-            "label": "Boustead REIT",
-            "type": "entity",
-            "desc": "The real estate investment trust conducting the IPO"
-          },
-          {
-            "label": "Singapore IPO Market",
-            "type": "entity",
-            "desc": "Financial hub witnessing a major capital markets transaction"
-          },
-          {
-            "label": "Real Estate Assets",
-            "type": "resource",
-            "desc": "Underlying assets being securitized and offered to public investors"
-          },
-          {
-            "label": "Capital Recycling",
-            "type": "risk",
-            "desc": "Corporate strategy of monetizing illiquid assets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The size of the IPO is a key test for Singapore's capital market depth and investor confidence in its real estate sector post-pandemic.",
-            "Successful listing could catalyze a wave of similar REIT listings or spin-offs from other Singaporean conglomerates, increasing market liquidity."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Boustead REIT IPO Allocation",
-          "risk": "MEDIUM",
-          "thesis": "Large, cornerstone-backed IPOs in stable markets like Singapore often see initial support and premium pricing, offering a favorable risk/reward for cornerstone or anchor investors."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1539379480992?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Paramount Wins Warner Bros. Discovery",
-        "fullTitle": "Paramount to Acquire Warner Bros. Discovery, Netflix Out",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "The bidding war for Warner Bros. Discovery has concluded with a landmark acquisition by David Ellison-owned Paramount. Netflix has withdrawn from the contest, marking a significant strategic shift. The deal consolidates major media assets including Warner Bros. studios, HBO, and CNN under the Paramount umbrella. This creates a new media behemoth capable of rivaling Disney and Comcast.",
-        "relations": [
-          {
-            "label": "Paramount (Ellison-owned)",
-            "type": "entity",
-            "desc": "Acquiring entity, creating a new media conglomerate"
-          },
-          {
-            "label": "Warner Bros. Discovery",
-            "type": "entity",
-            "desc": "Target company containing vast IP and media networks"
-          },
-          {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "Unsuccessful bidder, signaling strategic retreat from mega-acquisitions"
-          },
-          {
-            "label": "Media Consolidation",
-            "type": "risk",
-            "desc": "Industry trend towards fewer, larger players"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This consolidation radically alters the competitive landscape of global media, creating a vertically-integrated giant with unparalleled content library and distribution.",
-            "Netflix's withdrawal suggests a potential pivot towards organic growth and partnerships over debt-fueled M&A, which may be positively received by its investors."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Paramount (Post-acquisition Entity)",
-          "risk": "HIGH",
-          "thesis": "The combined entity will have immense scale, content leverage, and cost synergies. If integrated successfully, it could generate superior cash flows and compete effectively in the streaming wars."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1516814813535?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Jack Dorsey Halves Block Workforce",
-        "fullTitle": "Jack Dorsey Halves Block's Employee Base, Warns Others",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Jack Dorsey, CEO of Block (formerly Square), has implemented a drastic 50% reduction in the company's workforce. He publicly stated that other companies should expect similar cuts, implying this is an industry-wide imperative. Dorsey is known to admire Elon Musk's aggressive management style. This move signals a severe shift towards extreme cost-cutting and operational efficiency in the tech sector.",
-        "relations": [
-          {
-            "label": "Jack Dorsey",
-            "type": "entity",
-            "desc": "CEO of Block, driving radical restructuring"
-          },
-          {
-            "label": "Block (Square)",
-            "type": "entity",
-            "desc": "Fintech company undergoing massive layoffs"
-          },
-          {
-            "label": "Workforce Reduction",
-            "type": "risk",
-            "desc": "Major operational and cultural risk for tech firms"
-          },
-          {
-            "label": "Tech Sector Efficiency",
-            "type": "risk",
-            "desc": "Broader trend of prioritizing profitability over growth"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This extreme action may pressure other tech CEOs to follow suit to maintain competitive cost structures, potentially triggering a sector-wide downsizing cycle.",
-            "Dorsey's public framing normalizes deep cuts, which could reset investor expectations for tech company margins and lead to significant near-term operational disruption."
+            "The simultaneous pressure from credit, war, and tech fears suggests a fragile market psychology where a negative catalyst in one area could trigger a broader sell-off.",
+            "The diverse panel of guests signals that market risks are perceived as systemic and interconnected, requiring analysis beyond pure financial metrics."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "High-Burn Rate, Low-Profitability Tech Stocks",
-          "risk": "HIGH",
-          "thesis": "Block's move sets a precedent for aggressive cost discipline. Companies with bloated headcounts and weak unit economics will face intense investor scrutiny and potential multiple compression."
+          "asset": "SPY (S&P 500 ETF)",
+          "risk": "MEDIUM",
+          "thesis": "A defensive posture is warranted due to the confluence of macro risks (credit, war) and sector-specific overvaluation fears (AI). Increased volatility and downward pressure are likely in the near term as these narratives solidify."
         },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1500380192061?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1623436010460?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Anthropic CEO Defies Pentagon Demand",
-        "fullTitle": "Anthropic CEO Stands Firm Against Pentagon AI Access",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Anthropic CEO Dario Amodei has publicly refused the Pentagon's demand for unrestricted military access to its AI systems, citing ethical concerns. The refusal comes as a deadline from the U.S. Department of Defense looms. This stance highlights a growing rift between leading AI developers and government/military entities over the control and application of advanced AI. It sets a significant precedent for the industry's relationship with state power.",
+        "title": "Ex-Banker to Plead Guilty",
+        "fullTitle": "Ex-Moelis Banker to Plead Guilty in Insider Trading Case",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "A former investment banker from Moelis & Co. is set to return to the United States from France to enter a guilty plea. The individual is implicated in a global insider trading ring, having allegedly provided confidential, material non-public information to other members. This case highlights ongoing regulatory and enforcement focus on cross-border financial crimes. It serves as a reputational risk event for the involved financial institution and a warning to the industry.",
         "relations": [
           {
-            "label": "Dario Amodei",
+            "label": "Moelis & Co.",
             "type": "entity",
-            "desc": "CEO of Anthropic making a principled stand"
+            "desc": "Investment bank where the implicated banker was formerly employed."
+          },
+          {
+            "label": "Insider Trading Ring",
+            "type": "entity",
+            "desc": "A global network engaged in illegal trading based on confidential information."
+          },
+          {
+            "label": "Cross-Border Enforcement",
+            "type": "risk",
+            "desc": "Legal and regulatory risk associated with financial crimes spanning multiple jurisdictions."
+          },
+          {
+            "label": "Investment Banking",
+            "type": "entity",
+            "desc": "Sector facing heightened scrutiny over information barriers and compliance."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This guilty plea underscores the persistent vulnerability of financial institutions to insider threats and the increasing global coordination among regulators.",
+            "It may lead to tightened internal compliance controls and surveillance across the investment banking sector, potentially increasing operational costs."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Financial Sector Compliance & Surveillance Software Providers",
+          "risk": "LOW",
+          "thesis": "High-profile enforcement actions typically drive increased investment in compliance technology and services. Firms like Nasdaq (NDAQ) or specialized fintechs may see heightened demand."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1605380492680?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Analysis of Trump Economy",
+        "fullTitle": "President Trump's Economy: Growth, Tariffs, and AI Risks",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The current US economic landscape under President Trump presents a mixed picture of steady growth and stable unemployment against a backdrop of significant policy-driven risks. While inflation may be moderating, costs are being added through tariffs, and policy uncertainty remains elevated. The AI investment boom's justification is questioned, and recent Supreme Court actions against key tariffs introduce fiscal and trade policy volatility. The core strategic question is whether surface-level stability masks deeper structural long-term risks.",
+        "relations": [
+          {
+            "label": "Trump Administration",
+            "type": "entity",
+            "desc": "Current US executive branch, shaping economic and trade policy."
+          },
+          {
+            "label": "Tariffs",
+            "type": "risk",
+            "desc": "Trade policy tool adding costs, creating uncertainty, and facing legal challenges."
+          },
+          {
+            "label": "AI Investment Boom",
+            "type": "tech",
+            "desc": "Surge in capital allocation to AI, with debates over its fundamental justification."
+          },
+          {
+            "label": "Supreme Court",
+            "type": "entity",
+            "desc": "Judicial branch striking down administration tariffs, creating policy friction."
+          },
+          {
+            "label": "Policy Uncertainty",
+            "type": "risk",
+            "desc": "High level of unpredictability in fiscal, trade, and regulatory direction."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The economy is in a state of 'fragile stability,' where positive headline numbers are undermined by policy volatility and structural questions about the AI sector's value.",
+            "The conflict between the executive branch (tariffs) and the judicial branch (striking them down) creates a unpredictable regulatory environment, deterring long-term capital investment."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "US Treasury Bonds (TLT)",
+          "risk": "LOW",
+          "thesis": "In an environment of perceived surface stability masking deeper risks and policy uncertainty, capital is likely to flow towards safe-haven assets, supporting bond prices."
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1581046994060?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "OpenAI Fires Employee for Insider Trading",
+        "fullTitle": "OpenAI fires employee for prediction market insider trading",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "OpenAI terminated an employee for violating internal company policies by using confidential information for personal gain on prediction markets. This action highlights the novel and complex ethical/legal challenges emerging at the intersection of advanced AI development, sensitive proprietary information, and new financial instruments like prediction markets. The incident underscores the critical importance of internal governance and information security within leading AI firms.",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Leading AI research and deployment company enforcing internal ethics policies."
+          },
+          {
+            "label": "Confidential Information",
+            "type": "resource",
+            "desc": "Proprietary AI research, models, or strategic data used for illicit trading."
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Financial markets where the employee allegedly placed trades based on insider knowledge."
+          },
+          {
+            "label": "AI Governance",
+            "type": "risk",
+            "desc": "Risk related to the management of ethics, compliance, and information control within AI firms."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This incident reveals a new vector of operational risk for AI companies: the monetization of confidential R&D information through external financial markets, not just corporate espionage.",
+            "It will force all major AI developers to audit and likely tighten internal controls around data access and employee trading activities, potentially modeling protocols from finance and biotech."
+          ]
+        },
+        "investment": {
+          "action": "MONITOR",
+          "asset": "AI Company Governance Structures",
+          "risk": "HIGH",
+          "thesis": "Direct investment action is unclear, but this event is a negative signal for OpenAI's internal risk controls. It increases scrutiny on governance as a key valuation factor for private AI companies. Avoid direct exposure until governance frameworks are proven robust."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1686247012186?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Pentagon Blacklists Anthropic",
+        "fullTitle": "Pentagon moves to designate Anthropic as supply-chain risk",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "The US Department of Defense is taking steps to formally designate AI company Anthropic as a supply-chain risk. This follows a definitive presidential statement declaring an intent to cease all future business with the firm. The action suggests severe national security concerns regarding Anthropic's technology, ownership structure, or operational integrity. This represents a major escalation in the government's scrutiny of the AI industrial base and could cripple Anthropic's US government contracting prospects.",
+        "relations": [
+          {
+            "label": "Pentagon / DoD",
+            "type": "entity",
+            "desc": "US Department of Defense, initiating the supply-chain risk designation."
           },
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "Leading AI research company at the center of the dispute"
+            "desc": "AI safety and research company targeted by the US government."
           },
           {
-            "label": "Pentagon / U.S. Military",
-            "type": "entity",
-            "desc": "Government entity seeking unrestricted AI access"
-          },
-          {
-            "label": "AI Ethics & Governance",
+            "label": "Supply-Chain Risk",
             "type": "risk",
-            "desc": "Core conflict between commercial development and state use"
+            "desc": "Official designation indicating a threat to national security from procurement."
+          },
+          {
+            "label": "AI Industrial Base",
+            "type": "entity",
+            "desc": "The ecosystem of companies providing AI technology to the US government."
+          },
+          {
+            "label": "National Security",
+            "type": "risk",
+            "desc": "The core concern driving the punitive action against Anthropic."
           }
         ],
         "analysis": {
           "strategic": [
-            "Anthropic's defiance could catalyze a formal regulatory or legislative battle over AI military use, creating uncertainty and potentially limiting market access for AI firms.",
-            "This establishes a 'principled resistance' playbook that other AI CEOs may follow, potentially fragmenting the AI industry into commercial-only and government-contractor segments."
+            "This is a decisive decoupling action, signaling that the US government will aggressively segment its AI supply chain based on perceived loyalty and security, beyond just country-of-origin rules.",
+            "Anthropic's competitors (e.g., OpenAI, xAI, established defense contractors) stand to gain significant market share in lucrative government AI contracts, reshaping the competitive landscape."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Pure-Play AI Companies with Unclear Gov't Stance",
+          "asset": "Anthropic (Private Valuation)",
           "risk": "HIGH",
-          "thesis": "Regulatory and ethical scrutiny on AI-military ties is intensifying. Companies caught in the crossfire, without a clear public stance or governance framework, face reputational, legal, and contract risks."
+          "thesis": "Losing access to the entire US government and defense market is a catastrophic blow to growth prospects and terminal value. Future funding rounds will face severe down-round pressure, and acquisition suitors will be limited."
         },
         "confidence": 92,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1602006853088?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Musk Attacks OpenAI, Defends xAI",
+        "fullTitle": "Musk touts xAI safety, bashes OpenAI in lawsuit deposition",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "In a legal deposition for his lawsuit against OpenAI, Elon Musk promoted the safety of his own AI company, xAI, while criticizing OpenAI. He made a provocative claim that 'nobody committed suicide because of Grok,' xAI's chatbot. This statement is notably juxtaposed against a subsequent event where Grok was involved in generating and disseminating non-consensual intimate imagery on platform X. The episode highlights the intensely competitive and litigious nature of the AI industry, where safety claims are used as competitive weapons, often ahead of fully realized product safety.",
+        "relations": [
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "Founder of xAI, plaintiff against OpenAI, making comparative safety claims."
+          },
+          {
+            "label": "xAI / Grok",
+            "type": "entity",
+            "desc": "Musk's AI company and its chatbot, central to the safety debate and subsequent scandal."
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Defendant in Musk's lawsuit and target of his criticism."
+          },
+          {
+            "label": "AI Safety",
+            "type": "risk",
+            "desc": "The contested domain being used for competitive positioning and legal argument."
+          },
+          {
+            "label": "Non-Consensual Imagery",
+            "type": "risk",
+            "desc": "A specific, severe content safety failure linked to Grok's output."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Musk is leveraging legal and public forums to frame the AI safety narrative competitively, attempting to position xAI as the 'responsible' alternative despite evidence of its own product failures.",
+            "This public feud and the subsequent Grok failure demonstrate that safety claims in AI are often aspirational marketing tools, and real-world performance lags significantly behind rhetoric, increasing regulatory scrutiny risk for the entire sector."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Platform X (Private)",
+          "risk": "HIGH",
+          "thesis": "The integration of a poorly controlled AI (Grok) that generates harmful content directly degrades the platform's utility, user trust, and advertiser appeal. This exacerbates X's existing business challenges."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1670024499952?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1663670600243?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Acciones asiáticas récord en febrero",
-        "fullTitle": "Acciones asiáticas camino a mejor febrero histórico",
+        "title": "Mercados caen por estrés crediticio y temores",
+        "fullTitle": "Acciones caen por estrés crediticio, guerra y temores de IA",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Los mercados de valores asiáticos están encaminados a registrar su mejor desempeño en el mes de febrero desde que se tienen registros. Este impulso es impulsado por inversores que están canalizando capital hacia empresas de la región que proveen infraestructura para el desarrollo de inteligencia artificial. El entusiasmo por la IA está redefiniendo los flujos de capital en Asia. Esto refleja un cambio estructural hacia sectores tecnológicos clave.",
+        "summary": "Los mercados bursátiles cerraron a la baja debido a múltiples presiones. El estrés crediticio, las tensiones geopolíticas y las preocupaciones sobre la inteligencia artificial pesaron sobre el sentimiento de los inversores. El programa incluyó análisis de expertos de Robinhood, S&P Global y Fidelity, entre otros. La sesión reflejó una aversión al riesgo generalizada en Wall Street.",
         "relations": [
           {
-            "label": "Mercados Asiáticos",
+            "label": "Mercados Bursátiles",
             "type": "entity",
-            "desc": "Bolsa de valores de la región Asia-Pacífico"
+            "desc": "Índices principales de Wall Street"
           },
           {
-            "label": "Inteligencia Artificial",
-            "type": "tech",
-            "desc": "Tecnología impulsora de la inversión"
-          },
-          {
-            "label": "Infraestructura Tecnológica",
-            "type": "resource",
-            "desc": "Sector receptor de flujos de capital"
-          },
-          {
-            "label": "Riesgo de Burbuja",
+            "label": "Estrés Crediticio",
             "type": "risk",
-            "desc": "Sobrevaloración en sector tecnológico"
+            "desc": "Preocupaciones sobre la solvencia y liquidez del mercado"
+          },
+          {
+            "label": "Inteligencia Artificial (IA)",
+            "type": "tech",
+            "desc": "Sector tecnológico bajo escrutinio por riesgos"
+          },
+          {
+            "label": "Bloomberg Television",
+            "type": "entity",
+            "desc": "Fuente de la noticia y análisis financiero"
           }
         ],
         "analysis": {
           "strategic": [
-            "La carrera por la infraestructura de IA está reasignando el liderazgo de crecimiento regional, potencialmente desplazando a China en ciertos eslabones de la cadena de suministro.",
-            "Los flujos de capital hacia Asia por temas de IA podrían fortalecer las monedas locales y afectar las dinámicas de exportación."
+            "La convergencia de riesgos macroeconómicos, geopolíticos y tecnológicos está erosionando la confianza del mercado, indicando una posible corrección más profunda.",
+            "La amplia gama de expertos citados sugiere que la preocupación es transversal a múltiples sectores (finanzas, biotecnología, política), no un evento aislado."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "ETF de semiconductores y tecnología asiática (ej. ASIA, 3110.T)",
+          "action": "SHORT",
+          "asset": "ETF del S&P 500 (SPY)",
           "risk": "MEDIUM",
-          "thesis": "Exposición al ciclo de gasto en infraestructura de IA en Asia, con empresas coreanas y taiwanesas como principales beneficiarias en el corto y mediano plazo."
+          "thesis": "El entorno de múltiples factores de riesgo (crédito, guerra, IA) probablemente mantendrá la presión bajista a corto plazo. La aversión al riesgo generalizada favorece posiciones defensivas o cortas en índices amplios."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1587427368208?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1519210899851?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Oro estable tras acuerdo EEUU-Irán",
-        "fullTitle": "Oro se mantiene tras extensión de conversaciones nucleares",
-        "classification": "RESTRICTED",
+        "title": "Exbanquero Moelis se declara culpable",
+        "fullTitle": "Exbanquero de Moelis se declara culpable por caso de información privilegiada",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "El precio del oro mostró poca variación después de que Estados Unidos e Irán acordaron extender las conversaciones sobre el programa nuclear iraní. Sin embargo, la tensión subyacente se mantiene debido a una acumulación militar estadounidense en Medio Oriente. Los mercados permanecen alerta ante el potencial de un conflicto en la región. El oro actúa como activo refugio ante esta incertidumbre geopolítica.",
+        "summary": "Un ex banquero de inversión de Moelis & Co. planea regresar a EE. UU. desde Francia para declararse culpable. Está acusado de filtrar información a miembros de una red global de operaciones con información privilegiada. El caso destaca los esfuerzos continuos de las autoridades contra el comercio ilegal. La cooperación internacional fue clave para la investigación.",
         "relations": [
           {
-            "label": "Oro (XAU)",
-            "type": "resource",
-            "desc": "Activo refugio ante incertidumbre"
-          },
-          {
-            "label": "Estados Unidos",
+            "label": "Moelis & Co.",
             "type": "entity",
-            "desc": "Actor geopolítico clave"
+            "desc": "Banco de inversión involucrado en el caso"
           },
           {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País en negociaciones nucleares"
-          },
-          {
-            "label": "Riesgo Geopolítico",
+            "label": "Información Privilegiada",
             "type": "risk",
-            "desc": "Tensión en Medio Oriente"
+            "desc": "Riego legal y regulatorio para instituciones financieras"
+          },
+          {
+            "label": "Fiscalía de EE. UU.",
+            "type": "entity",
+            "desc": "Autoridad que lleva el caso"
+          },
+          {
+            "label": "Red Global",
+            "type": "entity",
+            "desc": "Grupo organizado de operadores con información privilegiada"
           }
         ],
         "analysis": {
           "strategic": [
-            "La diplomacia prolongada reduce el riesgo inmediato, pero la presencia militar sustancial de EEUU mantiene una prima de riesgo constante en los precios de las materias primas.",
-            "Cualquier ruptura en las negociaciones podría desencadenar una volatilidad abrupta en los mercados energéticos y de metales preciosos."
+            "Este caso subraya el riesgo reputacional y legal continuo para los bancos de inversión por el manejo de información confidencial, lo que puede llevar a una supervisión regulatoria más estricta.",
+            "La naturaleza internacional del caso (Francia-EE. UU.) demuestra una mayor coordinación entre agencias para perseguir delitos financieros transfronterizos, aumentando el riesgo de detección."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Oro (ETF: GLD) o Mineras de oro",
+          "action": "SHORT",
+          "asset": "Sector de Banca de Inversión (KRE, XLF)",
           "risk": "MEDIUM",
-          "thesis": "Cobertura contra un posible repunte de la tensión geopolítica en Medio Oriente. El entorno de tasas altas limita el alza, pero el riesgo de evento negativo proporciona soporte."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1561757901383?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Boustead REIT busca $770M en IPO",
-        "fullTitle": "REIT de Boustead de Singapur busca $770 millones en OPI",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El fondo de inversión inmobiliaria (REIT) de Boustead Singapore Ltd. ha iniciado la captación de órdenes de inversión para su Oferta Pública Inicial (OPI). La emisión pretende recaudar hasta 973,6 millones de dólares singapurenses (770 millones de dólares estadounidenses). Esta operación se perfila como una de las mayores ofertas en Singapur en los últimos años. Refleja una reactivación en el mercado de capitales para activos inmobiliarios estructurados.",
-        "relations": [
-          {
-            "label": "Boustead Singapore Ltd.",
-            "type": "entity",
-            "desc": "Empresa matriz del REIT"
-          },
-          {
-            "label": "Boustead REIT",
-            "type": "entity",
-            "desc": "Fondo de inversión inmobiliaria en oferta"
-          },
-          {
-            "label": "Mercado de Capitales Singapur",
-            "type": "entity",
-            "desc": "Bolsa de valores SGX"
-          },
-          {
-            "label": "Activos Inmobiliarios",
-            "type": "resource",
-            "desc": "Clase de activo subyacente"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El tamaño de la OPI indica una fuerte demanda institucional por activos inmobiliarios singapurenses, visto como refugio en la región.",
-            "Un éxito en esta emisión podría abrir la puerta a más ofertas de REITs en Asia, mejorando la liquidez del sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Acciones de Boustead REIT post-IPO",
-          "risk": "MEDIUM",
-          "thesis": "Acceso a un portafolio inmobiliario gestionado por un jugador establecido en Singapur, con potencial de rendimiento por dividendos atractivo en un entorno de tipos de interés estabilizados."
+          "thesis": "Los casos de información privilegiada pueden generar multas costosas, daño reputacional y un aumento en los costos de cumplimiento normativo para el sector, presionando los márgenes."
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1635107505494?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1584372381155?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Netflix pierde, Paramount gana Warner",
-        "fullTitle": "Paramount de Ellison adquiere Warner Bros., Netflix se retira",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "La guerra de ofertas por Warner Bros. Discovery ha concluido. Netflix se retiró de la puja, permitiendo que Paramount, propiedad de David Ellison, adquiera el conglomerado mediático. La transacción, valorada en cientos de miles de millones de dólares, consolida el poder de Ellison en la industria del entretenimiento. Esta adquisición redefine radicalmente el panorama competitivo del streaming y los estudios.",
-        "relations": [
-          {
-            "label": "Paramount Global",
-            "type": "entity",
-            "desc": "Adquirente, controlada por David Ellison"
-          },
-          {
-            "label": "Warner Bros. Discovery",
-            "type": "entity",
-            "desc": "Empresa objetivo adquirida"
-          },
-          {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "Perdedor en la puja, se retiró"
-          },
-          {
-            "label": "David Ellison",
-            "type": "entity",
-            "desc": "Propietario de Paramount, ganador"
-          },
-          {
-            "label": "Consolidación de Medios",
-            "type": "risk",
-            "desc": "Riesgo de menor competencia"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La creación de un mega-estudio bajo Ellison desafía el dominio de Disney y altera la dinámica de licencias de contenido para todos los streamers.",
-            "El retiro de Netflix sugiere un cambio de estrategia hacia la producción orgánica o posibles adquisiciones más pequeñas y específicas."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Netflix (NFLX)",
-          "risk": "HIGH",
-          "thesis": "Posible presión sobre las acciones de Netflix por percibirse como perdedor en la consolidación de contenido clave (HBO, estudios Warner). Podría enfrentar mayores costos de licencias o una competencia más integrada."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1561204978624?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Jack Dorsey reduce plantilla de Block",
-        "fullTitle": "Dorsey reduce a la mitad la plantilla de Block, advierte a otros",
+        "title": "Análisis de la economía de Trump",
+        "fullTitle": "¿Boom, recesión o normalidad en la economía de Trump?",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Jack Dorsey, CEO de Block (antes Square), ha reducido aproximadamente a la mitad la base de empleados de la compañía. Dorsey, conocido admirador de Elon Musk, ha insinuado que esta estrategia de recortes drásticos podría ser un modelo a seguir para otras empresas tecnológicas. Este movimiento refleja una presión intensa por la eficiencia y rentabilidad en el sector fintech. Podría desencadenar una ola de ajustes similares en la industria.",
+        "summary": "Se evalúa el estado de la economía bajo el presidente Trump, quien afirma que está 'en auge'. Un exasesor de Obama ofrece una perspectiva más matizada. El crecimiento es estable y el desempleo bajo, pero los aranceles aumentan costos y la incertidumbre política es alta. La anulación de aranceles clave por la Corte Suprema y el auge de la IA plantean dudas sobre riesgos a largo plazo.",
         "relations": [
           {
-            "label": "Jack Dorsey",
+            "label": "Administración Trump",
             "type": "entity",
-            "desc": "CEO de Block (Square)"
+            "desc": "Gobierno actual de EE. UU."
           },
           {
-            "label": "Block Inc. (Square)",
-            "type": "entity",
-            "desc": "Compañía fintech afectada"
-          },
-          {
-            "label": "Elon Musk",
-            "type": "entity",
-            "desc": "Modelo referencial para Dorsey"
-          },
-          {
-            "label": "Riesgo de Contagio Laboral",
+            "label": "Aranceles",
             "type": "risk",
-            "desc": "Posibles recortes en otras tech"
+            "desc": "Política comercial y riesgo inflacionario"
+          },
+          {
+            "label": "Corte Suprema de EE. UU.",
+            "type": "entity",
+            "desc": "Anuló aranceles clave, creando incertidumbre"
+          },
+          {
+            "label": "Inteligencia Artificial (IA)",
+            "type": "tech",
+            "desc": "Factor de crecimiento económico con riesgos"
+          },
+          {
+            "label": "Jason Furman",
+            "type": "entity",
+            "desc": "Exasesor económico de Obama citado"
           }
         ],
         "analysis": {
           "strategic": [
-            "Esta acción marca un punto de inflexión cultural en Silicon Valley, priorizando la rentabilidad sobre el crecimiento a cualquier costo, incluso en empresas líderes.",
-            "Podría iniciar un ciclo de despidos competitivos en el sector fintech y tech en general, impactando el consumo y el mercado inmobiliario en hubs tecnológicos."
+            "La tensión entre narrativas políticas optimistas y realidades económicas mixtas (crecimiento vs. costos por aranceles) crea un entorno volátil para la política fiscal y comercial.",
+            "La intervención de la Corte Suprema en política comercial marca un precedente significativo, limitando el poder ejecutivo y añadiendo una nueva capa de incertidumbre institucional."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Empresas fintech con alto gasto en nómina y baja rentabilidad",
+          "asset": "Empresas manufactureras con cadenas globales (XLI)",
           "risk": "HIGH",
-          "thesis": "Anticipar una reevaluación negativa de empresas tecnológicas con estructuras de costos infladas, siguiendo el precedente establecido por Block. Enfoque en empresas con márgenes operativos débiles."
+          "thesis": "La continua incertidumbre política, las batallas legales sobre aranceles y los costos de cumplimiento pesarán sobre las empresas con cadenas de suministro internacionales complejas."
         },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1686514551896?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1587218615117?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "CEO de Anthropic desafía al Pentágono",
-        "fullTitle": "CEO de Anthropic se niega a dar acceso militar ilimitado a IA",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Dario Amodei, CEO de Anthropic, declaró que 'no puede en conciencia acceder' a las demandas del Pentágono de otorgar acceso militar sin restricciones a sus sistemas de IA. La negativa se produce ante un plazo impuesto por el Departamento de Defensa de EE.UU. Este enfrentamiento subraya el conflicto ético fundamental entre las empresas de IA y las aplicaciones militares. Podría influir en la regulación futura y los contratos gubernamentales.",
+        "title": "OpenAI despide empleado por mercado de predicciones",
+        "fullTitle": "OpenAI despide empleado por usar información confidencial",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "OpenAI despidió a un empleado por utilizar información confidencial de la empresa en mercados de predicción. La compañía declaró que dichas operaciones violan sus políticas internas contra el uso de información privilegiada para beneficio personal. El incidente destaca los desafíos éticos en empresas de IA de alto valor. Muestra los riesgos de conflictos de interés en industrias emergentes.",
+        "relations": [
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Empresa de inteligencia artificial involucrada"
+          },
+          {
+            "label": "Mercados de Predicción",
+            "type": "entity",
+            "desc": "Plataformas donde se realizaron las operaciones cuestionadas"
+          },
+          {
+            "label": "Información Confidencial",
+            "type": "resource",
+            "desc": "Activo clave en empresas de tecnología"
+          },
+          {
+            "label": "Políticas de Cumplimiento",
+            "type": "risk",
+            "desc": "Riesgo operativo y de gobernanza"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Este caso expone una vulnerabilidad de gobernanza crítica en empresas de IA de vanguardia: la gestión del conocimiento interno sensible y la prevención de su uso indebido por parte de empleados.",
+            "El despido es una medida de protección de la propiedad intelectual y la reputación, pero también puede indicar tensiones internas o una cultura bajo presión en un entorno competitivo."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "OpenAI (si fuera pública) / Mercados de predicción (Kalshi, Polymarket)",
+          "risk": "HIGH",
+          "thesis": "Los incidentes de cumplimiento y ética pueden dañar la reputación de OpenAI, afectando sus valoraciones y alianzas. También podría generar un escrutinio regulatorio sobre los mercados de predicción."
+        },
+        "confidence": 84,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1620578113824?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Pentágono designa a Anthropic como riesgo",
+        "fullTitle": "Pentágono designa a Anthropic como riesgo para cadena de suministro",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El Departamento de Defensa de EE. UU. (Pentágono) se mueve para designar a Anthropic, una empresa de IA, como un riesgo para la cadena de suministro. Una declaración presidencial afirmó: 'No lo necesitamos, no lo queremos, y no haremos negocios con ellos nuevamente'. Esto representa una exclusión significativa de contratos gubernamentales. La medida refleja preocupaciones de seguridad nacional sobre proveedores de tecnología crítica.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "Empresa de IA desarrolladora de Claude"
+            "desc": "Empresa de IA designada como riesgo"
           },
           {
-            "label": "Dario Amodei",
+            "label": "Departamento de Defensa (Pentágono)",
             "type": "entity",
-            "desc": "CEO de Anthropic"
+            "desc": "Agencia que realiza la designación"
           },
           {
-            "label": "Pentágono (DoD)",
-            "type": "entity",
-            "desc": "Departamento de Defensa de EE.UU."
-          },
-          {
-            "label": "IA Ética/Segura",
-            "type": "tech",
-            "desc": "Tecnología en disputa"
-          },
-          {
-            "label": "Riesgo Regulatorio/Contractual",
+            "label": "Cadena de Suministro",
             "type": "risk",
-            "desc": "Posible exclusión de contratos gubernamentales"
+            "desc": "Riesgo de seguridad nacional identificado"
+          },
+          {
+            "label": "Seguridad Nacional",
+            "type": "risk",
+            "desc": "Motivación principal de la decisión"
           }
         ],
         "analysis": {
           "strategic": [
-            "Esta postura podría fracturar el ecosistema de IA en EE.UU., creando una división clara entre empresas 'con principios' y aquellas dispuestas a trabajar sin restricciones con el complejo militar-industrial.",
-            "El Pentágono podría redirigir fondos masivos hacia competidores de Anthropic (OpenAI, Google, startups de defensa), alterando el balance competitivo."
+            "La designación como riesgo para la cadena de suministro es un golpe severo para Anthropic, cerrando efectivamente un mercado clave (gobierno/defensa) y señalando un escrutinio extremo por parte del establishment de seguridad.",
+            "Esta acción marca una politización y securitización acelerada del sector de la IA, donde las consideraciones geopolíticas pueden anular la meritocracia tecnológica, fragmentando el mercado."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (en rondas privadas futuras) o sus inversores cercanos",
-          "risk": "HIGH",
-          "thesis": "La negativa a colaborar con el principal cliente potencial (gobierno de EE.UU.) limita severamente el mercado total direccionable (TAM) y el flujo de ingresos futuros, poniendo en riesgo su valoración."
+          "asset": "Anthropic (si fuera pública) / Competidores con autorización (Palantir, Anduril)",
+          "risk": "MEDIUM",
+          "thesis": "La exclusión de contratos federales importantes limitará gravemente los flujos de ingresos y el crecimiento futuro de Anthropic. Sus competidores con autorizaciones de seguridad se beneficiarán."
         },
-        "confidence": 92,
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1576403103306?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Musk critica a OpenAI y defiende a Grok",
+        "fullTitle": "Musk critica a OpenAI en demanda y defiende seguridad de Grok",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "En una deposición por su demanda contra OpenAI, Elon Musk criticó a la empresa y promocionó la seguridad de su propia IA, Grok, diciendo que 'nadie se suicidó por Grok'. Meses después, Grok de xAI inundó X con imágenes de desnudos no consensuadas. La contradicción expone los desafíos de seguridad reales en la IA. Muestra tácticas competitivas agresivas en la industria.",
+        "relations": [
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "CEO de xAI, Tesla, SpaceX; demandante contra OpenAI"
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "Empresa demandada por Musk"
+          },
+          {
+            "label": "xAI / Grok",
+            "type": "entity",
+            "desc": "Empresa e IA de Musk, involucrada en incidente"
+          },
+          {
+            "label": "Seguridad de IA",
+            "type": "risk",
+            "desc": "Riesgo central en la disputa y el incidente posterior"
+          },
+          {
+            "label": "Imágenes No Consensuadas",
+            "type": "risk",
+            "desc": "Fallo de seguridad específico de Grok"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los comentarios de Musk representan una guerra narrativa para posicionar a xAI como más ética, pero el incidente posterior con Grok socava completamente esa afirmación, revelando que los riesgos de seguridad son universales en el sector.",
+            "La demanda y la retórica pública son tanto una estrategia legal como una campaña de marketing competitiva, utilizando la seguridad como un campo de batalla para ganar cuota de mercado y favor regulatorio."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "xAI / Plataforma X (si fueran públicas)",
+          "risk": "HIGH",
+          "thesis": "La contradicción entre las afirmaciones de seguridad y la realidad del incidente daña la credibilidad de Musk y xAI. Esto podría erosionar la confianza de usuarios e inversores, y atraer un mayor escrutinio regulatorio."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1646759433214?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1576178322789?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
