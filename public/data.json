@@ -1,883 +1,833 @@
 {
-  "generated_at": "2026-03-02T02:26:24.763064",
+  "generated_at": "2026-03-03T02:28:12.694667",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "伊朗危机冲击石油运输",
-        "fullTitle": "伊朗危机扰乱霍尔木兹海峡石油流动，油价回吐涨幅",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "美以对伊朗的战争导致全球原油市场陷入混乱，并引发了关键航道霍尔木兹海峡的实际关闭。油价在创下四年最大涨幅后回吐部分涨幅。地缘政治紧张局势直接威胁全球约20%的石油贸易通道。",
+        "title": "霍华德·马克斯警告情绪化投资",
+        "fullTitle": "霍华德·马克斯称中东冲突下勿让情绪影响投资判断",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "橡树资本联合创始人霍华德·马克斯警告投资者，在中东冲突背景下应避免情绪化决策。他强调理性分析在动荡市场中的重要性。此言论反映了资深投资者对当前地缘政治风险的普遍担忧。",
         "relations": [
           {
-            "label": "伊朗",
+            "label": "霍华德·马克斯",
             "type": "entity",
-            "desc": "冲突核心国家，地缘政治风险源头"
+            "desc": "橡树资本联合创始人，知名价值投资者"
           },
           {
-            "label": "霍尔木兹海峡",
-            "type": "resource",
-            "desc": "全球石油运输关键咽喉要道"
-          },
-          {
-            "label": "原油",
-            "type": "resource",
-            "desc": "受地缘政治冲击的核心大宗商品"
-          },
-          {
-            "label": "美以军事行动",
-            "type": "risk",
-            "desc": "引发地区冲突升级的直接原因"
-          },
-          {
-            "label": "全球石油供应",
-            "type": "risk",
-            "desc": "面临重大中断风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "霍尔木兹海峡的关闭风险是系统性威胁，将引发全球能源供应链重组和战略储备动用。",
-            "冲突可能外溢，将沙特、阿联酋等地区产油国卷入，进一步加剧供应不确定性。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "原油期货 (CL, BZ), 能源股 (XLE), 航运股 (如FRO, TNK)",
-          "risk": "HIGH",
-          "thesis": "地缘政治导致的供应物理中断是油价最强劲的短期驱动因素，尽管波动巨大，但上行风险显著。"
-        },
-        "confidence": 90,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1618926008371?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "中东冲突冲击全球市场",
-        "fullTitle": "中东冲突升级冲击市场，全球股市下跌原油上涨",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "中东冲突升级冲击金融市场，全球股市普遍下跌，原油价格大幅上涨。投资者正在削减风险敞口，转向避险资产。市场波动性显著上升。",
-        "relations": [
-          {
-            "label": "全球股市",
+            "label": "橡树资本",
             "type": "entity",
-            "desc": "风险资产，受避险情绪打压"
-          },
-          {
-            "label": "原油",
-            "type": "resource",
-            "desc": "地缘政治风险溢价推动上涨"
-          },
-          {
-            "label": "投资者风险偏好",
-            "type": "risk",
-            "desc": "显著下降，引发资产抛售"
+            "desc": "全球领先的另类投资管理公司"
           },
           {
             "label": "中东冲突",
             "type": "risk",
-            "desc": "市场波动的核心驱动因素"
+            "desc": "地缘政治风险事件，影响全球市场情绪"
           },
           {
-            "label": "避险资产",
-            "type": "entity",
-            "desc": "黄金、美元、国债等可能受益"
+            "label": "情绪化决策",
+            "type": "risk",
+            "desc": "投资者在压力下可能出现的非理性行为"
           }
         ],
         "analysis": {
           "strategic": [
-            "市场进入‘避险’模式，资金将从高风险的新兴市场和高估值科技股流出，流向传统防御板块和实物资产。",
-            "央行货币政策路径复杂性增加，通胀担忧可能延缓降息周期，加剧股债双杀风险。"
+            "地缘政治紧张局势正促使投资界领袖公开呼吁保持纪律，这可能预示市场情绪已接近恐慌边缘。",
+            "资深投资者的公开警告往往出现在市场转折点附近，可作为反向情绪指标参考。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "对利率敏感的高估值科技股 (如纳斯达克指数)，依赖原油进口的经济体股市 (如印度、部分欧洲国家)",
+          "asset": "高贝塔值股票/新兴市场ETF",
           "risk": "MEDIUM",
-          "thesis": "地缘政治风险叠加潜在的通胀再燃，将打压风险偏好并提升折现率，对成长股和依赖能源进口的市场构成压力。"
+          "thesis": "市场情绪脆弱时，过度反应可能导致风险资产短期抛售；可考虑对冲或做空波动性较大的板块。"
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1507135271831?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Thoma Bravo收购WWEX组建物流科技巨头",
+        "fullTitle": "Thoma Bravo接近收购WWEX组建120亿美元物流科技公司",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "私募股权巨头Thoma Bravo正深入谈判收购第三方物流提供商WWEX集团。该交易旨在打造一个价值高达120亿美元的航运科技业务。这反映了私募资本对物流科技整合的强烈兴趣。",
+        "relations": [
+          {
+            "label": "Thoma Bravo",
+            "type": "entity",
+            "desc": "美国领先的私募股权公司，专注软件和技术投资"
+          },
+          {
+            "label": "WWEX集团",
+            "type": "entity",
+            "desc": "第三方物流提供商"
+          },
+          {
+            "label": "物流科技",
+            "type": "tech",
+            "desc": "通过技术优化供应链和物流的领域"
+          },
+          {
+            "label": "120亿美元",
+            "type": "resource",
+            "desc": "拟创建实体的估值规模"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "大型私募股权公司持续押注物流数字化，表明该行业整合与效率提升存在巨大价值空间。",
+            "此交易可能引发物流科技领域新一轮并购竞赛，推动相关公司估值重估。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "物流科技板块股票/相关ETF",
+          "risk": "MEDIUM",
+          "thesis": "行业龙头并购将提升整个板块的关注度和估值基准，利好其他物流科技公司。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1631252865577?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1638436153575?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "油价威胁日本通胀议程",
-        "fullTitle": "分析师称油价上涨威胁日本首相的民生议程",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Monex集团的Jesper Koll指出，油价上涨可能给日本带来新的通胀冲击，使高市早苗首相缓解生活成本压力的努力复杂化。日本作为能源净进口国，对油价高度敏感。",
+        "title": "亚股下跌油价飙升引发通胀担忧",
+        "fullTitle": "亚股下跌油价飙升因中东冲突引发通胀担忧",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "HIGH",
+        "summary": "亚洲股市下跌，因与中东冲突相关的油价飙升加剧了通胀担忧。债券价格走低，交易员减少了对降息的押注。美元和黄金因避险需求而上涨。",
         "relations": [
           {
-            "label": "日本",
+            "label": "亚洲股市",
             "type": "entity",
-            "desc": "受油价冲击的主要经济体"
+            "desc": "受地缘政治和宏观因素影响的区域市场"
           },
           {
-            "label": "高市早苗",
-            "type": "entity",
-            "desc": "日本首相，政策面临挑战"
+            "label": "油价",
+            "type": "resource",
+            "desc": "关键大宗商品，通胀主要驱动因素"
           },
           {
-            "label": "通货膨胀",
+            "label": "通胀担忧",
             "type": "risk",
-            "desc": "因输入性成本而面临上行风险"
+            "desc": "物价持续上涨对经济和政策的威胁"
           },
           {
-            "label": "日元汇率",
+            "label": "避险需求",
             "type": "risk",
-            "desc": "油价上涨可能加剧日元贬值压力"
-          },
-          {
-            "label": "日本央行",
-            "type": "entity",
-            "desc": "货币政策面临更复杂局面"
+            "desc": "市场动荡时资金流向安全资产的趋势"
           }
         ],
         "analysis": {
           "strategic": [
-            "日本‘工资-通胀’良性循环的脆弱性暴露，外部成本冲击可能抵消国内政策效果，引发政治风险。",
-            "日本央行可能被迫在支撑日元和控制国债收益率之间做出更艰难抉择，增加市场不确定性。"
+            "地缘政治冲击通过能源渠道迅速传导至全球通胀预期，可能迫使央行推迟宽松政策，延长高利率环境。",
+            "传统避险资产（美元、黄金）与风险资产（股票、债券）的负相关性在危机中凸显，资产配置需调整。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "美元/黄金/能源股",
+          "risk": "MEDIUM",
+          "thesis": "通胀预期升温与避险情绪叠加，利好美元、黄金等传统避险资产以及直接受益于油价上涨的能源板块。"
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1680756165791?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Cursor年化收入突破20亿美元",
+        "fullTitle": "Cursor年化收入据报已突破20亿美元",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "据报道，成立四年的初创公司Cursor的年化收入已超过20亿美元。其收入运行率在过去三个月内翻了一番。这表明AI开发工具市场增长迅猛。",
+        "relations": [
+          {
+            "label": "Cursor",
+            "type": "entity",
+            "desc": "AI代码助手初创公司"
+          },
+          {
+            "label": "年化收入20亿美元",
+            "type": "resource",
+            "desc": "反映公司近期增长规模的财务指标"
+          },
+          {
+            "label": "AI开发工具",
+            "type": "tech",
+            "desc": "利用人工智能辅助软件开发的工具"
+          },
+          {
+            "label": "收入运行率翻倍",
+            "type": "entity",
+            "desc": "表明业务呈指数级增长态势"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI赋能开发工具赛道出现爆发式增长，验证了开发者生产力市场的巨大潜力和付费意愿。",
+            "Cursor的快速增长可能对传统IDE厂商和大型科技公司的同类产品构成直接竞争压力。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI基础设施/开发者工具类股票",
+          "risk": "HIGH",
+          "thesis": "Cursor的成功证明了AI+开发者工具的商业化可行性，可能带动整个赛道估值提升，但需注意初创公司估值波动风险。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1692124763004?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "印度Pronto估值一年内飙升8倍",
+        "fullTitle": "印度Pronto估值一年内跳涨8倍加速家政数字化",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "印度家政服务平台Pronto估值在不到一年内飙升了8倍。该公司日处理1.8万笔预订，并计划快速扩张，以在印度庞大的线下家政服务市场数字化竞争中抢占先机。",
+        "relations": [
+          {
+            "label": "Pronto",
+            "type": "entity",
+            "desc": "印度家政服务平台"
+          },
+          {
+            "label": "估值跳涨8倍",
+            "type": "resource",
+            "desc": "反映资本市场对其增长前景的高度认可"
+          },
+          {
+            "label": "印度家政服务市场",
+            "type": "entity",
+            "desc": "规模巨大但数字化程度低的蓝海市场"
+          },
+          {
+            "label": "数字化竞争",
+            "type": "tech",
+            "desc": "各平台争夺线下服务线上化的市场份额"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "印度消费科技正从电商、外卖向本地生活服务深水区拓展，家政等细分赛道迎来资本热潮。",
+            "高估值增长反映了投资者对印度中产阶级服务消费升级和线下市场数字化渗透率提升的长期押注。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "印度消费科技/本地生活服务类基金或股票",
+          "risk": "HIGH",
+          "thesis": "Pronto的案例表明印度本地生活服务数字化赛道存在高增长机会，但该市场尚处早期，竞争激烈，投资风险较高。"
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1559238972595?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "ChatGPT卸载量激增295%",
+        "fullTitle": "ChatGPT应用卸载量激增295%因与美国防部合作",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "在OpenAI与美国国防部合作的消息传出后，ChatGPT应用的卸载量激增了295%。与此同时，竞争对手Claude的下载量出现增长。这反映了部分用户对AI军事应用的敏感和抵触。",
+        "relations": [
+          {
+            "label": "ChatGPT",
+            "type": "entity",
+            "desc": "OpenAI开发的AI聊天机器人"
+          },
+          {
+            "label": "美国国防部",
+            "type": "entity",
+            "desc": "OpenAI的合作方，引发争议"
+          },
+          {
+            "label": "Claude",
+            "type": "entity",
+            "desc": "Anthropic开发的AI助手，ChatGPT的竞争对手"
+          },
+          {
+            "label": "AI伦理与治理",
+            "type": "risk",
+            "desc": "AI技术应用引发的社会争议和监管风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI公司与政府/军事机构的合作已成为重要的品牌和用户信任风险点，可能影响消费者市场格局。",
+            "此事件凸显了AI行业“价值观”或“品牌定位”的差异化竞争策略开始产生实际市场影响。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "日元 (JPY), 日本长期国债期货",
+          "asset": "过度依赖单一消费者品牌且面临伦理争议的AI公司",
           "risk": "MEDIUM",
-          "thesis": "输入性通胀和潜在的货币政策调整压力可能削弱日元，并推高日债收益率，做空相关资产可对冲此风险。"
+          "thesis": "用户用脚投票表明AI公司的商业合作选择会直接影响其消费者基本盘，存在品牌声誉和用户流失风险。"
         },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1585491570960?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "预测市场巨资押注伊朗被炸",
-        "fullTitle": "Polymarket预测市场伊朗相关赌注交易额达5.29亿美元",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "预测平台Polymarket上，与轰炸伊朗相关的赌注交易额高达5.29亿美元。六个新创建的账户因正确押注美国将在2月28日前打击伊朗而获利100万美元。这表明部分市场参与者可能拥有信息优势。",
-        "relations": [
-          {
-            "label": "Polymarket",
-            "type": "entity",
-            "desc": "去中心化预测市场平台"
-          },
-          {
-            "label": "地缘政治预测市场",
-            "type": "tech",
-            "desc": "利用市场机制预测事件的新型情报来源"
-          },
-          {
-            "label": "信息不对称",
-            "type": "risk",
-            "desc": "部分交易者可能提前获知行动信息"
-          },
-          {
-            "label": "另类数据",
-            "type": "tech",
-            "desc": "预测市场数据可作为情绪或情报的先行指标"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "预测市场的巨额押注和精准获利行为，提示存在重大信息泄露或内幕交易可能，需反向追踪资金源。",
-            "此类平台已成为监测市场对地缘政治事件预期的重要另类数据源，其动向有时领先于传统市场。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "波动率产品 (如VIX相关ETF)，黄金",
-          "risk": "HIGH",
-          "thesis": "预测市场的异常活跃度和定向押注，是衡量潜在黑天鹅事件市场定价的敏感指标，可提前布局对冲或投机头寸。"
-        },
-        "confidence": 88,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1577778659107?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Discord替代方案探讨",
-        "fullTitle": "因年龄验证新规引发不安，探讨Discord最佳替代方案",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "由于许多用户对Discord新的年龄验证要求感到不安，文章探讨了值得考虑的一些替代平台。这反映了用户隐私担忧和平台政策变化可能引发的迁移趋势。",
-        "relations": [
-          {
-            "label": "Discord",
-            "type": "entity",
-            "desc": "主流通讯平台，因政策变更引发争议"
-          },
-          {
-            "label": "年龄验证",
-            "type": "tech",
-            "desc": "引发用户隐私担忧的合规技术"
-          },
-          {
-            "label": "隐私保护",
-            "type": "risk",
-            "desc": "用户选择替代平台的核心考量之一"
-          },
-          {
-            "label": "通讯平台竞争",
-            "type": "entity",
-            "desc": "市场格局可能因用户迁移而改变"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "科技公司的隐私与合规平衡举措可能引发用户流失，为竞争对手创造市场机会。",
-            "此事件凸显了在监管收紧环境下，以隐私为卖点的通讯工具可能获得增长动力。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "注重隐私的通讯或社交平台公司 (如Signal所属公司，若上市)",
-          "risk": "LOW",
-          "thesis": "长期来看，用户隐私意识增强是趋势，主打安全隐私的通讯工具可能从主流平台的合规困境中获益。"
-        },
-        "confidence": 80,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1635433227224?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "谷歌在印度联手治理RCS垃圾信息",
-        "fullTitle": "谷歌与Airtel合作在印度加强RCS反垃圾信息防护",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "谷歌通过与印度电信运营商Airtel合作，将运营商级过滤集成到RCS（富通信服务）中，以加强针对垃圾信息的防护。这是在印度这个关键市场提升RCS体验和可信度的举措。",
-        "relations": [
-          {
-            "label": "谷歌",
-            "type": "entity",
-            "desc": "RCS服务的主要推动者"
-          },
-          {
-            "label": "Airtel",
-            "type": "entity",
-            "desc": "印度主要电信运营商，合作伙伴"
-          },
-          {
-            "label": "RCS",
-            "type": "tech",
-            "desc": "旨在取代SMS的下一代短信协议"
-          },
-          {
-            "label": "垃圾信息过滤",
-            "type": "tech",
-            "desc": "提升通信体验和安全性的关键技术"
-          },
-          {
-            "label": "印度市场",
-            "type": "entity",
-            "desc": "重要的移动通信和数字支付市场"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "通过与本地运营商深度合作解决垃圾信息问题，是谷歌推广RCS并挑战WhatsApp等主导应用的关键战略。",
-            "此举有助于将RCS打造为更可靠的商业和支付通信渠道，为谷歌在印度的金融科技布局铺路。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "谷歌母公司Alphabet (GOOGL)",
-          "risk": "LOW",
-          "thesis": "在关键新兴市场改善核心通信基础设施，有助于巩固其生态系统，为长期服务和广告收入增长奠定基础。"
-        },
-        "confidence": 83,
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1621626749445?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1608839721597?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Oil Pares Gains Amid Hormuz Crisis",
-        "fullTitle": "Oil Pares Advance as Iran Crisis Disrupts Hormuz Flows",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "Oil prices pared their largest surge in four years following a US-Israeli military action against Iran, which has plunged the global crude market into turmoil. The conflict has effectively closed the critical Strait of Hormuz, a major chokepoint for global oil shipments. This disruption directly threatens the physical supply chain for a significant portion of the world's seaborne oil trade. The market is reacting to both the immediate supply shock and heightened geopolitical risk premium.",
+        "title": "Marks Warns on War Emotions",
+        "fullTitle": "Howard Marks Says Don't Let Emotions Cloud Judgment on War",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Oaktree Capital co-founder Howard Marks advises investors to avoid emotional decision-making regarding portfolio exposure due to the Middle East conflict. This highlights a key behavioral finance principle during geopolitical crises. The guidance is aimed at preventing reactive portfolio shifts that could lock in losses or miss opportunities. It underscores the importance of disciplined, process-driven investment strategies in volatile times.",
         "relations": [
           {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Primary commodity impacted by supply disruption."
-          },
-          {
-            "label": "Strait of Hormuz",
-            "type": "resource",
-            "desc": "Critical maritime chokepoint for global oil exports, now effectively closed."
-          },
-          {
-            "label": "Iran",
+            "label": "Howard Marks",
             "type": "entity",
-            "desc": "Target of military action, key regional actor controlling the Strait."
+            "desc": "Co-founder of Oaktree Capital, influential investor"
           },
           {
-            "label": "US-Israel Coalition",
+            "label": "Oaktree Capital Management LP",
             "type": "entity",
-            "desc": "Actors initiating the conflict, escalating regional war."
-          },
-          {
-            "label": "Supply Chain Disruption",
-            "type": "risk",
-            "desc": "Primary risk from the physical closure of a key transit route."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The closure of the Strait of Hormuz represents a 'Suez Canal moment' for energy markets, with potential for sustained supply shortages and structural price shifts if prolonged.",
-            "The conflict marks a significant escalation from proxy warfare to direct state-on-state conflict, fundamentally altering the Middle East's security paradigm and global energy security calculus."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Brent Crude Futures (ICE), Energy Sector ETFs (XLE), Key Oil Majors (e.g., XOM, CVX)",
-          "risk": "HIGH",
-          "thesis": "The physical supply shock from the Strait of Hormuz closure is a fundamental, non-speculative driver for higher oil prices. Despite near-term volatility, sustained disruption will deplete global inventories and support structurally higher prices until the transit route is secured."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1506198914704?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Global Stocks Fall, Oil Rises on Conflict",
-        "fullTitle": "Global Stocks Post Loss, Oil Rises on Iran: Markets Wrap",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Global equity markets declined while crude oil prices rallied sharply in response to the escalation of the Middle East conflict. Investors are moving to reduce risk exposure across portfolios, favoring safe-haven assets and commodities. The market reaction indicates a broad reassessment of geopolitical risk and its implications for global growth, inflation, and corporate earnings. The flight from risk assets is a direct consequence of the heightened uncertainty and potential for a wider regional war.",
-        "relations": [
-          {
-            "label": "Global Equities",
-            "type": "entity",
-            "desc": "Asset class experiencing sell-off due to risk aversion."
-          },
-          {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Asset class rallying on supply risk and safe-haven demand."
-          },
-          {
-            "label": "Risk Aversion",
-            "type": "risk",
-            "desc": "Prevailing market sentiment driving capital flows."
+            "desc": "Leading global investment management firm"
           },
           {
             "label": "Middle East Conflict",
             "type": "risk",
-            "desc": "Primary catalyst for market repricing of risk."
+            "desc": "Geopolitical risk driving market volatility"
           },
           {
-            "label": "Investors",
-            "type": "entity",
-            "desc": "Actors trimming risk exposure and reallocating capital."
+            "label": "Behavioral Finance",
+            "type": "risk",
+            "desc": "Risk of irrational investor decisions driven by emotion"
           }
         ],
         "analysis": {
           "strategic": [
-            "The synchronized market move (stocks down, oil up) confirms the conflict is being interpreted as a net negative for global growth, introducing stagflationary pressures.",
-            "The rapid de-risking suggests institutional portfolios were not adequately hedged for a direct-state conflict of this magnitude, indicating potential for further volatility as positions are adjusted."
+            "High-profile investor commentary can shape market sentiment and risk appetite during crises, potentially stabilizing or exacerbating flows.",
+            "The advice signals institutional focus on maintaining strategic asset allocation, suggesting large funds may not make drastic changes, limiting market dislocation."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Broad Market Equity Indices (e.g., S&P 500 Futures), Consumer Discretionary Sector",
+          "action": "LONG",
+          "asset": "High-Quality Credit / Distressed Debt Funds",
           "risk": "MEDIUM",
-          "thesis": "Equity markets are repricing for lower growth and higher inflation (stagflation). Sectors with high operational leverage and sensitivity to consumer spending will be disproportionately impacted. The initial sell-off is likely the beginning of a broader correction as earnings estimates are revised downward."
+          "thesis": "Marks' firm, Oaktree, specializes in opportunistic and distressed credit. His public stance against emotion may signal internal conviction in finding value amid volatility, making strategies like his firm's potentially attractive for capitalizing on market dislocations."
         },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1565409415697?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1536880713812?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Oil Surge Threatens Japan's Inflation Fight",
-        "fullTitle": "Rising Oil Prices Threaten Takaichi's Agenda, Says Koll",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "The surge in oil prices poses a significant risk of a fresh inflation shock to Japan, according to Monex Group's Jesper Koll. This complicates Prime Minister Sanae Takaichi's political agenda focused on easing cost-of-living pressures for Japanese households. As a net energy importer, Japan's economy is highly vulnerable to oil price spikes, which can reverse recent progress on stabilizing inflation. The situation presents a major policy dilemma between supporting growth and containing imported inflation.",
-        "relations": [
-          {
-            "label": "Japan",
-            "type": "entity",
-            "desc": "Vulnerable net energy importer facing inflation risk."
-          },
-          {
-            "label": "Prime Minister Sanae Takaichi",
-            "type": "entity",
-            "desc": "Political leader whose policy agenda is threatened."
-          },
-          {
-            "label": "Jesper Koll (Monex)",
-            "type": "entity",
-            "desc": "Analyst highlighting the macroeconomic risk."
-          },
-          {
-            "label": "Imported Inflation",
-            "type": "risk",
-            "desc": "Specific economic risk from rising global commodity prices."
-          },
-          {
-            "label": "Monetary Policy",
-            "type": "risk",
-            "desc": "Potential complication for Bank of Japan's policy path."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Japan's vulnerability highlights the asymmetric impact of the energy shock, weakening a major G7 economy and potentially forcing a more hawkish BoJ stance, impacting global FX and bond markets.",
-            "The political risk for Takaichi's administration increases, as failure to shield consumers from cost-push inflation could erode public support and destabilize fiscal policy plans."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Japanese Government Bonds (JGBs), JPY vs. USD (USD/JPY Long)",
-          "risk": "MEDIUM",
-          "thesis": "Persistent oil-driven inflation increases pressure on the Bank of Japan to further normalize policy, leading to higher yields on JGBs. A widening interest rate differential with the US should continue to weigh on the Yen, supporting a stronger USD/JPY pair."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1622233456611?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "$529M Bet on Iran Strike via Polymarket",
-        "fullTitle": "Polymarket Saw $529M Traded on Bets Tied to Iran Bombing",
+        "title": "Thoma Bravo Nears $12B Deal",
+        "fullTitle": "Thoma Bravo Nears Deal to Create $12B Shipping Tech Firm",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "The prediction market Polymarket saw $529 million in volume traded on contracts related to the bombing of Iran. Six newly-created accounts profited by approximately $1 million by correctly predicting a U.S. strike on Iran by February 28. This indicates sophisticated, possibly insider, actors had high-confidence foreknowledge of the geopolitical event. The scale of betting activity suggests prediction markets can act as leading indicators for high-impact events.",
+        "impactLevel": "HIGH",
+        "summary": "Private equity firm Thoma Bravo is in advanced talks to acquire WWEX Group Inc., a third-party logistics provider. The acquisition is part of a plan to build a shipping technology business valued at up to $12 billion. This move signifies major consolidation in the logistics tech sector driven by private capital. It highlights the strategic value of digitizing global supply chains and logistics operations.",
         "relations": [
           {
-            "label": "Polymarket",
+            "label": "Thoma Bravo",
             "type": "entity",
-            "desc": "Prediction market platform where bets were placed."
+            "desc": "Major private equity firm focused on software and technology"
           },
           {
-            "label": "Six New Accounts",
+            "label": "WWEX Group Inc.",
             "type": "entity",
-            "desc": "Profiting entities, potential source of intelligence concern."
+            "desc": "Third-party logistics (3PL) provider, acquisition target"
           },
           {
-            "label": "Information Asymmetry",
+            "label": "Shipping Technology",
+            "type": "tech",
+            "desc": "Sector involving digitization of logistics and supply chain"
+          },
+          {
+            "label": "Private Equity Consolidation",
             "type": "risk",
-            "desc": "Risk that non-public information was used for profit."
-          },
-          {
-            "label": "Prediction Markets",
-            "type": "tech",
-            "desc": "Alternative data source for gauging event probability."
-          },
-          {
-            "label": "Geopolitical Forecasting",
-            "type": "tech",
-            "desc": "Use of markets to predict state actions."
+            "desc": "Trend of PE firms building large platforms via M&A"
           }
         ],
         "analysis": {
           "strategic": [
-            "The concentrated, profitable bets by new accounts prior to a covert military action strongly suggest a potential intelligence leak or sophisticated analysis bypassing official channels, warranting investigation.",
-            "This event validates prediction markets as a powerful, real-time sentiment and probability tool for geopolitical risk, potentially more agile than traditional intelligence in some scenarios."
+            "This deal accelerates the convergence of traditional logistics with software, creating a mega-platform that could set new competitive standards and pricing power in the sector.",
+            "Thoma Bravo's move signals strong, long-term conviction in supply chain digitization, likely prompting further M&A activity and valuation re-ratings for comparable logistics tech assets."
           ]
         },
         "investment": {
-          "action": "INFO",
-          "asset": "Prediction Market Data Feeds",
-          "risk": "HIGH",
-          "thesis": "While not a direct investment, activity on platforms like Polymarket should be monitored as a leading indicator for binary geopolitical events. Large, concentrated bets on low-probability outcomes can signal impending market-moving news, allowing for pre-positioning in related asset classes (e.g., oil, defense stocks, volatility)."
+          "action": "LONG",
+          "asset": "Logistics & Supply Chain Software Equities (e.g., project44, Descartes)",
+          "risk": "MEDIUM",
+          "thesis": "A landmark deal at a $12B valuation creates a new public comp and validates high growth multiples for the entire logistics tech ecosystem. Peer companies may see upward valuation pressure as investors seek similar exposure."
         },
         "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1681248886242?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1636916680764?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Discord Alternatives Explored",
-        "fullTitle": "Let's Explore the Best Alternatives to Discord",
+        "title": "Stocks Drop on Oil, Inflation",
+        "fullTitle": "Stocks Drop, Oil's Rise Fans Inflation Concerns: Markets Wrap",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "An article discusses alternative platforms to Discord, prompted by user unease over Discord's new age verification requirements. The piece catalogs various communication platforms that could serve as substitutes for Discord's community and chat functionalities. This reflects growing user sensitivity to privacy and data collection policies among tech platforms. The trend indicates potential competitive pressure on incumbent social/communication apps.",
+        "impactLevel": "HIGH",
+        "summary": "Asian stocks fell as surging oil prices, linked to the Middle East conflict, reignited inflation concerns. This sent bond yields higher and caused traders to reduce bets on imminent central bank interest rate cuts. The US dollar and gold rose due to safe-haven demand. The market reaction demonstrates the persistent sensitivity of financial assets to energy-driven inflation shocks.",
         "relations": [
           {
-            "label": "Discord",
-            "type": "entity",
-            "desc": "Incumbent platform facing user discontent."
+            "label": "Oil Prices",
+            "type": "resource",
+            "desc": "Key commodity, price surge driving inflation fears"
           },
           {
-            "label": "Age Verification",
-            "type": "tech",
-            "desc": "Privacy-related policy catalyst for user migration."
-          },
-          {
-            "label": "Platform Competition",
+            "label": "Inflation Expectations",
             "type": "risk",
-            "desc": "Risk of user attrition for incumbents."
+            "desc": "Market fear of persistent price pressures delaying rate cuts"
           },
           {
-            "label": "User Privacy",
+            "label": "Safe-Haven Assets (USD, Gold)",
+            "type": "asset",
+            "desc": "Assets benefiting from risk-off sentiment"
+          },
+          {
+            "label": "Central Bank Policy",
             "type": "risk",
-            "desc": "Key concern driving platform evaluation."
-          },
-          {
-            "label": "Communication Platforms",
-            "type": "tech",
-            "desc": "Broader sector experiencing shifting user preferences."
+            "desc": "Risk of delayed or fewer interest rate cuts"
           }
         ],
         "analysis": {
           "strategic": [
-            "Regulatory and self-imposed privacy measures (like age verification) are becoming a tangible user acquisition/retention risk for social platforms, potentially fragmenting markets.",
-            "This is a micro-trend reflecting the broader 'decentralization' or 'platform-agnostic' movement in tech, where users are more willing to migrate based on specific feature or policy disagreements."
+            "The market's swift pivot from 'rate cut euphoria' to 'inflation fear' on an oil shock reveals underlying fragility and a lack of conviction in the disinflation narrative, making markets prone to sharp corrections.",
+            "The concurrent rise in the USD and gold indicates a complex risk-off environment combining currency safety and inflation hedging, which may pressure emerging markets and dollar-denominated debt."
           ]
         },
         "investment": {
-          "action": "INFO",
-          "asset": "N/A",
-          "risk": "LOW",
-          "thesis": "This is a low-impact, consumer tech trend with no immediate direct investment implication for public markets. It is indicative of the competitive landscape for private social/chat companies but does not present a clear long/short thesis for major listed tech firms at this time."
+          "action": "SHORT",
+          "asset": "Long-Duration Growth Stocks / High-Yield Bonds",
+          "risk": "HIGH",
+          "thesis": "Renewed inflation fears and higher bond yields directly compress valuations for long-duration assets (like tech growth stocks) and increase refinancing risks for low-grade credit. These sectors are most vulnerable to a 'higher-for-longer' rate repricing."
         },
-        "confidence": 80,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1570284055351?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1655634227285?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Google Tackles RCS Spam in India",
-        "fullTitle": "Google Looks to Tackle RCS Spam in India with Airtel",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Google is partnering with Indian telecom carrier Airtel to integrate carrier-level filtering into Rich Communication Services (RCS) in India. The initiative aims to strengthen protections against spam messages on the RCS platform. This move addresses a longstanding user experience issue that has hindered RCS adoption. The partnership represents a strategic collaboration between a tech giant and a telecom operator to improve a core communication service in a key growth market.",
+        "title": "Cursor Hits $2B Revenue Run Rate",
+        "fullTitle": "Cursor Reportedly Surpasses $2B in Annualized Revenue",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "AI coding startup Cursor has reportedly achieved a $2 billion annualized revenue run rate. The four-year-old company doubled its revenue rate in just the past three months. This explosive growth highlights tremendous enterprise demand for AI-powered developer tools. It positions Cursor as a major, fast-growing player in the competitive AI-assisted software development market.",
         "relations": [
           {
-            "label": "Google",
+            "label": "Cursor",
             "type": "entity",
-            "desc": "Tech giant driving RCS adoption and anti-spam initiative."
+            "desc": "AI-powered code editor startup"
           },
           {
-            "label": "Airtel",
-            "type": "entity",
-            "desc": "Telecom partner providing carrier-level integration in India."
-          },
-          {
-            "label": "RCS (Rich Communication Services)",
+            "label": "AI Coding Assistants",
             "type": "tech",
-            "desc": "SMS upgrade platform being secured against spam."
+            "desc": "Sector of AI tools that help developers write code"
           },
           {
-            "label": "Spam Filtering",
+            "label": "Developer Productivity",
             "type": "tech",
-            "desc": "Key technological solution being deployed."
+            "desc": "Key value proposition driving enterprise adoption"
           },
           {
-            "label": "India Market",
-            "type": "entity",
-            "desc": "Strategic growth market for mobile services."
+            "label": "Enterprise Software Spend",
+            "type": "resource",
+            "desc": "Corporate budget allocation for productivity tools"
           }
         ],
         "analysis": {
           "strategic": [
-            "Google's carrier partnership is a tactical move to remove a primary adoption barrier (spam) for RCS in a critical market, strengthening its position against competing messaging ecosystems (e.g., Apple's iMessage, WhatsApp).",
-            "This collaboration model (tech + telecom) could become a blueprint for deploying and securing advanced telecom services in other emerging markets, leveraging local operator infrastructure."
+            "Cursor's hyper-growth validates the massive, near-term ROI of AI developer tools, forcing large tech incumbents (GitHub/GitLab with Copilot) to accelerate innovation and potentially pursue defensive M&A.",
+            "The scale of revenue generation in just four years demonstrates that certain AI applications can achieve rapid enterprise monetization, shifting investor focus from future potential to present-day financial traction in AI startups."
           ]
         },
         "investment": {
-          "action": "INFO",
-          "asset": "N/A",
-          "risk": "LOW",
-          "thesis": "This is a product development and partnership announcement with minimal near-term financial impact. It supports the long-term strategic thesis for Google's services ecosystem but does not constitute a standalone investment trigger. It is negative for standalone anti-spam solution providers that might be bypassed by such integrated approaches."
+          "action": "LONG",
+          "asset": "Public SaaS/DevTools Companies with Strong AI Integration (e.g., GitLab, Atlassian)",
+          "risk": "MEDIUM",
+          "thesis": "Cursor's success proves the market size and willingness to pay for AI dev tools. Public companies that can effectively integrate and monetize similar AI features within their existing platforms should see expanded multiples and sustained growth."
         },
         "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1603141584706?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "India's Pronto Valuation Jumps 8x",
+        "fullTitle": "India's Pronto Formalizes House Help, Valuation Jumps 8x",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Indian home services platform Pronto has seen its valuation increase eightfold in under a year. The company handles 18,000 daily bookings and is planning rapid expansion. It is racing rivals to digitize India's vast, largely offline home services market. This highlights the explosive growth potential in formalizing and tech-enabling traditional service sectors in emerging economies.",
+        "relations": [
+          {
+            "label": "Pronto",
+            "type": "entity",
+            "desc": "Indian home services digitization platform"
+          },
+          {
+            "label": "India Home Services Market",
+            "type": "resource",
+            "desc": "Large, offline market undergoing digital transformation"
+          },
+          {
+            "label": "Hyperlocal Services Digitization",
+            "type": "tech",
+            "desc": "Tech-enabled formalization of local service economies"
+          },
+          {
+            "label": "Emerging Market Consumer Tech",
+            "type": "entity",
+            "desc": "High-growth sector targeting new digital consumers"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Pronto's valuation surge reflects intense investor competition for exposure to India's digitization of everyday commerce, a theme considered defensive relative to pure consumer internet plays.",
+            "The race to digitize offline services creates a land-grab dynamic where scale and network effects are critical, likely leading to a winner-take-most outcome and aggressive cash burn in the short term."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Venture Capital Funds focused on India/SEA",
+          "risk": "HIGH",
+          "thesis": "Pronto's story exemplifies the outsized returns possible from backing winners in the digitization of basic services in high-population emerging markets. Dedicated VC funds provide diversified exposure to this high-growth, high-risk theme."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1540072577888?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "ChatGPT Uninstalls Surge 295%",
+        "fullTitle": "ChatGPT Uninstalls Surged 295% After DoD Deal",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Consumer uninstalls of the ChatGPT mobile app surged by 295% following news of a deal with the U.S. Department of Defense (DoD). Concurrently, downloads of competitor Claude's app grew. This indicates significant consumer sensitivity to AI ethics and alignment, particularly regarding military applications. It demonstrates how commercial partnerships can directly impact user growth and brand perception in the AI sector.",
+        "relations": [
+          {
+            "label": "OpenAI / ChatGPT",
+            "type": "entity",
+            "desc": "AI company and its product, facing consumer backlash"
+          },
+          {
+            "label": "U.S. Department of Defense (DoD)",
+            "type": "entity",
+            "desc": "Government entity, partnership triggered backlash"
+          },
+          {
+            "label": "Anthropic / Claude",
+            "type": "entity",
+            "desc": "Competitor AI firm benefiting from the controversy"
+          },
+          {
+            "label": "AI Ethics & Alignment",
+            "type": "risk",
+            "desc": "Consumer and societal concerns about AI use cases"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The user backlash creates a strategic dilemma for AI firms: pursue lucrative government/enterprise contracts at the risk of alienating a segment of the consumer base and ceding market share to 'perceived-as-ethical' competitors.",
+            "This event validates 'trust and safety' as a tangible competitive moat in AI. Companies like Anthropic that heavily brand around these principles may gain a durable advantage in consumer and developer mindshare."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "OpenAI (via secondary markets / future IPO)",
+          "risk": "HIGH",
+          "thesis": "The severe consumer reaction reveals brand vulnerability and potential ceiling on mass-market adoption for OpenAI. If this sentiment persists among developers and enterprises, it could impair long-term network effects and ecosystem growth relative to competitors."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1673911628445?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1516321857069?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Petróleo cae tras cierre del Estrecho de Ormuz",
-        "fullTitle": "Petróleo reduce avance tras cierre del Estrecho de Ormuz por crisis con Irán",
+        "title": "Marks: Emociones vs Juicio en Guerra",
+        "fullTitle": "Howard Marks advierte sobre emociones en inversiones por conflicto",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "El petróleo redujo su mayor subida en cuatro años tras el cierre efectivo del Estrecho de Ormuz debido al conflicto entre Estados Unidos-Israel e Irán. Este estrecho es un punto crítico para el flujo global de crudo. La interrupción ha sumido al mercado petrolero mundial en una grave turbulencia. El cierre representa una amenaza inmediata para el suministro energético global.",
+        "impactLevel": "MEDIUM",
+        "summary": "Howard Marks, cofundador de Oaktree Capital, insta a los inversores a evitar decisiones emocionales debido al conflicto en Medio Oriente. Señala que el pánico o el exceso de confianza pueden llevar a errores costosos. Su advertencia llega en un momento de alta volatilidad en los mercados. La disciplina y el análisis frío son clave en entornos geopolíticos inciertos.",
         "relations": [
           {
-            "label": "Petróleo Crudo",
+            "label": "Howard Marks",
+            "type": "entity",
+            "desc": "Cofundador de Oaktree Capital, inversor de renombre"
+          },
+          {
+            "label": "Oaktree Capital Management LP",
+            "type": "entity",
+            "desc": "Gestora de inversiones global especializada en crédito"
+          },
+          {
+            "label": "Conflicto Medio Oriente",
+            "type": "risk",
+            "desc": "Riesgo geopolítico que afecta a los mercados"
+          },
+          {
+            "label": "Juicio Emocional",
+            "type": "risk",
+            "desc": "Riesgo conductual para la toma de decisiones de inversión"
+          },
+          {
+            "label": "Gestión de Riesgo",
             "type": "resource",
-            "desc": "Commodity principal afectado por la interrupción del suministro"
-          },
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "entity",
-            "desc": "Punto de estrangulamiento crítico para el transporte de petróleo"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "Actor principal en el conflicto y potencia regional"
-          },
-          {
-            "label": "Estados Unidos",
-            "type": "entity",
-            "desc": "Nación involucrada en el conflicto bélico"
-          },
-          {
-            "label": "Israel",
-            "type": "entity",
-            "desc": "Nación involucrada en el conflicto bélico"
+            "desc": "Enfoque disciplinado para proteger carteras"
           }
         ],
         "analysis": {
           "strategic": [
-            "El cierre del Estrecho de Ormuz representa un shock de oferta geopolítico de primer orden, con capacidad para alterar los equilibrios energéticos globales a medio plazo.",
-            "La escalada militar directa entre potencias aumenta el riesgo de una confrontación regional ampliada, con implicaciones para la seguridad energética de Asia y Europa."
+            "La psicología del mercado se vuelve un factor crítico durante crisis geopolíticas, creando oportunidades para inversores contrarios.",
+            "Los gestores de activos con filosofías de valor y disciplina a largo plazo pueden ganar ventaja en períodos de pánico."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de petróleo Brent (ICE)",
-          "risk": "HIGH",
-          "thesis": "La interrupción física en un punto de estrangulamiento crítico (Ormuz) crea un déficit de oferta inmediato y sostenido, impulsando los precios a pesar de la volatilidad."
+          "asset": "Fondos de gestión activa disciplinada (ej. OAKT)",
+          "risk": "MEDIUM",
+          "thesis": "La volatilidad y los errores emocionales de otros inversores crean ineficiencias de mercado que gestores experimentados como Oaktree pueden explotar."
         },
-        "confidence": 92,
+        "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1573321730995?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1505840386297?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Acciones caen, petróleo sube por Irán",
-        "fullTitle": "Acciones globales caen y petróleo sube tras escalada en Irán",
-        "classification": "RESTRICTED",
+        "title": "Thoma Bravo crea gigante logística tech",
+        "fullTitle": "Thoma Bravo cerca acuerdo para crear firma logística de $12B",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Las acciones globales registraron pérdidas moderadas mientras el crudo subía, tras una escalada del conflicto en Oriente Medio. El evento ha llevado a los inversores a reducir su exposición al riesgo en los mercados. La aversión al riesgo se manifiesta en una rotación desde activos de riesgo hacia refugios seguros. El petróleo actúa como principal beneficiario de la prima de riesgo geopolítico.",
+        "summary": "Thoma Bravo está en conversaciones avanzadas para adquirir WWEX Group Inc. El objetivo es combinar activos y crear un negocio de tecnología de envíos valorado en hasta $12 mil millones. Esta consolidación refleja el atractivo del sector de logística y tecnología de la cadena de suministro. La transacción podría redefinir el panorama competitivo en logística de terceros.",
         "relations": [
           {
-            "label": "Mercados de Valores",
+            "label": "Thoma Bravo",
             "type": "entity",
-            "desc": "Activos de riesgo que sufren ventas por aversión"
+            "desc": "Firma de capital privado centrada en software y tecnología"
           },
           {
-            "label": "Petróleo Crudo",
-            "type": "resource",
-            "desc": "Activo refugio y beneficiario de la tensión geopolítica"
+            "label": "WWEX Group Inc.",
+            "type": "entity",
+            "desc": "Proveedor de logística de terceros (3PL)"
           },
           {
-            "label": "Aversión al Riesgo",
+            "label": "Tecnología de Envíos",
+            "type": "tech",
+            "desc": "Sector de software y plataformas para logística"
+          },
+          {
+            "label": "Consolidación Sectorial",
             "type": "risk",
-            "desc": "Sentimiento del mercado que impulsa la rotación de carteras"
+            "desc": "Tendencia de fusiones en logística y tecnología"
           },
           {
-            "label": "Oriente Medio",
-            "type": "entity",
-            "desc": "Región epicentro de la inestabilidad geopolítica"
-          },
-          {
-            "label": "Inversores Institucionales",
-            "type": "entity",
-            "desc": "Actores que ajustan la exposición al riesgo"
+            "label": "Cadena de Suministro",
+            "type": "resource",
+            "desc": "Área clave para digitalización y eficiencia"
           }
         ],
         "analysis": {
           "strategic": [
-            "La reacción del mercado confirma el petróleo como el canal de transmisión primario del riesgo geopolítico en esta crisis, superando al oro o al dólar en sensibilidad inmediata.",
-            "La moderación en las pérdidas bursátiles sugiere que los mercados, por ahora, descuentan un conflicto localizado y no una guerra regional total que afecte al crecimiento global."
+            "El capital privado sigue apostando fuerte por la digitalización de industrias tradicionales como la logística, viendo alto potencial de valor.",
+            "La creación de un campeón sectorial de $12B podría desencadenar una ola de M&A defensiva entre competidores."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Índice MSCI World (ETF)",
+          "action": "LONG",
+          "asset": "Sector de software de cadena de suministro y logística (ej. ETFs temáticos)",
           "risk": "MEDIUM",
-          "thesis": "El aumento de la aversión al riesgo y las presiones inflacionistas por el petróleo pesarán sobre las valoraciones bursátiles globales en el corto plazo."
+          "thesis": "La consolidación liderada por Thoma Bravo valida el crecimiento y las valoraciones en el espacio de tecnología logística, atrayendo más capital."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1695213419629?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1621969604596?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Petróleo amenaza agenda de Takaichi en Japón",
-        "fullTitle": "Subida del petróleo amenaza agenda inflacionaria de Takaichi en Japón",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El aumento de los precios del petróleo amenaza con provocar un nuevo shock inflacionario en Japón, según Jesper Koll de Monex Group. Esto complica los esfuerzos de la Primera Ministra Sanae Takaichi para aliviar las presiones sobre el coste de la vida. Japón, como gran importador de energía, es especialmente vulnerable a esta subida. La política monetaria del Banco de Japón podría enfrentarse a nuevos dilemas.",
+        "title": "Acciones caen, petróleo sube por guerra",
+        "fullTitle": "Mercados asiáticos caen; petróleo aviva temores inflacionarios",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "CRITICAL",
+        "summary": "Las acciones asiáticas cayeron debido al aumento de los precios del petróleo vinculado al conflicto en Medio Oriente. Esto avivó los temores de inflación persistente, enviando los bonos a la baja. Los operadores redujeron sus apuestas a recortes de tasas de interés. El dólar y el oro subieron debido a la demanda de activos refugio.",
         "relations": [
           {
-            "label": "Japón",
-            "type": "entity",
-            "desc": "Economía importadora de energía vulnerable al shock"
-          },
-          {
-            "label": "Sanae Takaichi",
-            "type": "entity",
-            "desc": "Primera Ministra de Japón, agenda política en riesgo"
+            "label": "Petróleo (WTI/Brent)",
+            "type": "resource",
+            "desc": "Commodity clave, disparado por riesgos geopolíticos"
           },
           {
             "label": "Inflación",
             "type": "risk",
-            "desc": "Riesgo macroeconómico principal para la economía japonesa"
+            "desc": "Riesgo macroeconómico principal para bancos centrales"
           },
           {
-            "label": "Monex Group",
-            "type": "entity",
-            "desc": "Firma de análisis financiero que emite la advertencia"
+            "label": "Bonos",
+            "type": "asset",
+            "desc": "Rendimientos al alza por expectativas de tasas más altas"
           },
           {
-            "label": "Banco de Japón (BoJ)",
-            "type": "entity",
-            "desc": "Banco central cuyas políticas se ven complicadas"
+            "label": "Dólar Estadounidense (USD)",
+            "type": "resource",
+            "desc": "Divisa refugio que se fortalece"
+          },
+          {
+            "label": "Oro (XAU)",
+            "type": "resource",
+            "desc": "Activo refugio tradicional en crisis"
           }
         ],
         "analysis": {
           "strategic": [
-            "La vulnerabilidad de Japón destaca la asimetría del shock petrolero: perjudica a importadores netos (Japón, UE) y beneficia a exportadores (EEUU, Golfo).",
-            "La presión inflacionaria podría forzar al BoJ a reconsiderar su política ultra-laxa antes de lo previsto, con implicaciones para los mercados de deuda global."
+            "El 'shock' de oferta en el petróleo podría forzar a los bancos centrales a mantener políticas restrictivas por más tiempo, impactando el crecimiento global.",
+            "El regreso de la correlación negativa acciones-bonos (riesgo de 'stagflation') complica la construcción de carteras tradicionales."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Yen japonés (JPY) vs. Dólar (USD)",
-          "risk": "MEDIUM",
-          "thesis": "Un Japón importador de energía con inflación creciente y un BoJ potencialmente rezagado ejercería presión bajista sobre el yen."
+          "asset": "Bonos gubernamentales de largo plazo (ej. TLT)",
+          "risk": "HIGH",
+          "thesis": "Los persistentes riesgos inflacionarios geopolíticos presionarán al alza los rendimientos, haciendo bajar los precios de los bonos."
         },
-        "confidence": 83,
+        "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1621598890689?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1512702722313?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Polymarket: $529M en apuestas sobre ataque a Irán",
-        "fullTitle": "Polymarket movió $529M en apuestas sobre bombardeo a Irán",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "La plataforma de predicciones Polymarket registró 529 millones de dólares en operaciones de apuestas vinculadas al bombardeo de Irán. Seis cuentas recién creadas obtuvieron un beneficio de 1 millón de dólares al apostar correctamente que Estados Unidos atacaría Irán antes del 28 de febrero. Esto revela un volumen significativo de capital especulativo anticipando el evento. Plantea cuestiones sobre el flujo de información y el mercado de predicciones.",
+        "title": "Cursor supera $2B en ingresos anualizados",
+        "fullTitle": "Startup Cursor reporta ingresos anualizados superiores a $2B",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Cursor, una startup de cuatro años, ha superado los $2 mil millones en ingresos anualizados. Su ritmo de ingresos se duplicó en los últimos tres meses, según una fuente de Bloomberg. Este crecimiento explosivo destaca la fuerte demanda en su sector. La empresa se posiciona como un jugador formidable en el mercado de tecnología.",
         "relations": [
           {
-            "label": "Polymarket",
+            "label": "Cursor",
             "type": "entity",
-            "desc": "Plataforma de mercados de predicción/apuestas"
+            "desc": "Startup de tecnología con crecimiento hiperrápido"
           },
           {
-            "label": "Mercados de Predicción",
-            "type": "entity",
-            "desc": "Mercados alternativos que anticipan probabilidades de eventos"
+            "label": "Ingresos Anualizados",
+            "type": "metric",
+            "desc": "Métrica de crecimiento financiero clave"
           },
           {
-            "label": "Flujo de Información",
+            "label": "Mercado de Startups",
+            "type": "entity",
+            "desc": "Ecosistema de empresas de alto crecimiento"
+          },
+          {
+            "label": "Crecimiento Explosivo",
             "type": "risk",
-            "desc": "Riesgo de información privilegiada o filtraciones en apuestas"
+            "desc": "Potencial de sobrevaloración o dificultades de escalamiento"
           },
           {
-            "label": "Especulación Geopolítica",
-            "type": "risk",
-            "desc": "Capital que busca beneficiarse de eventos de alto riesgo"
-          },
-          {
-            "label": "Cuentas Nuevas",
-            "type": "entity",
-            "desc": "Entidades anónimas con información precisa y timing perfecto"
+            "label": "Tecnología",
+            "type": "tech",
+            "desc": "Sector de alto dinamismo y valoración"
           }
         ],
         "analysis": {
           "strategic": [
-            "El volumen y precisión de las apuestas sugieren que actores con información potencialmente privilegiada o superior operaron en estos mercados no regulados antes del evento.",
-            "Los mercados de predicción se están convirtiendo en un indicador alternativo y sensible para medir las expectativas del mercado sobre riesgos geopolíticos binarios."
+            "El ritmo de duplicación de ingresos en 3 meses indica una adopción masiva o un modelo comercial altamente escalable, atrayendo a grandes inversores.",
+            "Este hito podría presionar a competidores establecidos y desencadenar rondas de financiación a valoraciones muy elevadas en el sector."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de plataformas de datos/mercados alternativos (ej. Kalshi*)",
+          "asset": "Capital de riesgo (VC) en etapas tardías / rounds de crecimiento",
           "risk": "HIGH",
-          "thesis": "La creciente adopción de mercados de predicción para eventos geopolíticos señala un crecimiento estructural en este sector financiero alternativo."
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1601458821743?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Alternativas a Discord tras verificación de edad",
-        "fullTitle": "Explorando las mejores alternativas a Discord por nueva verificación",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Muchos usuarios se sienten incómodos con el nuevo requisito de verificación de edad de Discord. El artículo explora alternativas a la plataforma que podrían valer la pena considerar. Este cambio en la política de Discord ha generado descontento en parte de su base de usuarios. El mercado de aplicaciones de comunicación en tiempo real es competitivo y dinámico.",
-        "relations": [
-          {
-            "label": "Discord",
-            "type": "tech",
-            "desc": "Plataforma de comunicación afectada por cambio de política"
-          },
-          {
-            "label": "Verificación de Edad",
-            "type": "tech",
-            "desc": "Característica de cumplimiento normativo que genera fricción"
-          },
-          {
-            "label": "Aplicaciones de Comunicación",
-            "type": "tech",
-            "desc": "Sector competitivo con múltiples alternativas"
-          },
-          {
-            "label": "Experiencia de Usuario",
-            "type": "risk",
-            "desc": "Riesgo de pérdida de usuarios por cambios impopulares"
-          },
-          {
-            "label": "Cumplimiento Normativo",
-            "type": "risk",
-            "desc": "Presión regulatoria que fuerza cambios en las plataformas"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La fricción en la experiencia de usuario por exigencias de cumplimiento normativo crea oportunidades para competidores que prioricen la privacidad o simplicidad.",
-            "Este caso ilustra el riesgo constante para plataformas dominantes: cambios en políticas pueden fragmentar su base de usuarios y erosionar el efecto de red."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Acciones de Discord (si fueran públicas) / Largo en competidores",
-          "risk": "LOW",
-          "thesis": "Las decisiones de producto que alienan a los usuarios centrales pueden ralentizar el crecimiento o incluso revertir la cuota de mercado a medio plazo."
+          "thesis": "El éxito de Cursor valida mercados masivos para startups tecnológicas, aunque la valoración en una posible salida a bolsa será clave."
         },
         "confidence": 82,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1641894958006?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1692829714790?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Google y Airtel combaten spam RCS en India",
-        "fullTitle": "Google aborda spam en RCS en India con Airtel",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Google está integrando filtrado a nivel de operador en los mensajes RCS en India a través de una asociación con Airtel. El objetivo es fortalecer las protecciones contra el spam en esta tecnología de mensajería. India es un mercado crítico para la adopción de RCS como alternativa a WhatsApp. La colaboración con operadores locales es clave para abordar problemas específicos del mercado.",
+        "title": "Pronto valoración x8 en India",
+        "fullTitle": "Pronto de India digitaliza servicios domésticos; valoración x8",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Pronto, una startup india, formaliza el servicio doméstico y su valoración se multiplicó por 8 en menos de un año. Maneja 18,000 reservas diarias y planea una rápida expansión. Compite por digitalizar el gran mercado de servicios para el hogar de India, que opera principalmente offline. La carrera por la consolidación y el liderazgo del mercado se intensifica.",
         "relations": [
           {
-            "label": "Google",
+            "label": "Pronto",
             "type": "entity",
-            "desc": "Empresa tecnológica que impulsa el estándar RCS"
+            "desc": "Startup india de servicios domésticos a domicilio"
           },
           {
-            "label": "Airtel",
-            "type": "entity",
-            "desc": "Operador de telecomunicaciones asociado en India"
+            "label": "Mercado de Servicios Domésticos India",
+            "type": "resource",
+            "desc": "Mercado enorme y poco digitalizado"
           },
           {
-            "label": "RCS (Rich Communication Services)",
+            "label": "Digitalización",
             "type": "tech",
-            "desc": "Protocolo de mensajería promovido por Google"
+            "desc": "Tendencia clave en economías en desarrollo"
           },
           {
-            "label": "India",
-            "type": "entity",
-            "desc": "Mercado estratégico para la adopción de RCS"
-          },
-          {
-            "label": "Spam",
+            "label": "Hipercrecimiento en Valoración",
             "type": "risk",
-            "desc": "Problema que frena la adopción y usabilidad de RCS"
+            "desc": "Riesgo de burbuja en sectores 'hot'"
+          },
+          {
+            "label": "Economía de Plataformas",
+            "type": "entity",
+            "desc": "Modelo de negocio que conecta oferta y demanda"
           }
         ],
         "analysis": {
           "strategic": [
-            "Google adopta un enfoque localizado (India) y colaborativo (con operadores) para resolver la principal barrera de adopción del RCS: la experiencia de usuario y la seguridad.",
-            "Esta alianza refuerza la estrategia de Google de posicionar a RCS como un servicio de utilidad pública y confiable, compitiendo con aplicaciones OTT en mercados clave."
+            "La digitalización de servicios informales en economías densamente pobladas como India representa una de las mayores oportunidades de inversión de la década.",
+            "La rápida revalorización sugiere una feroz competencia por el capital, donde el ganador se lo lleva todo, pero con alto riesgo de quema de caja."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Alphabet (GOOGL) - Exposición a crecimiento en mercados emergentes vía RCS",
-          "risk": "LOW",
-          "thesis": "La resolución de problemas clave como el spam es un paso necesario para la adopción masiva de RCS, abriendo nuevos canales de monetización en mensajería y comercio."
+          "asset": "Fondos de Venture Capital centrados en India/SEA",
+          "risk": "HIGH",
+          "thesis": "La adopción digital en mercados masivos como los servicios del hogar en India ofrece un potencial de crecimiento exponencial, aunque con alta selectividad."
         },
         "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1514984107354?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "ChatGPT pierde usuarios tras acuerdo DoD",
+        "fullTitle": "Desinstalaciones de ChatGPT suben 295% tras acuerdo con DoD",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Las desinstalaciones de la aplicación de ChatGPT se dispararon un 295% después de que se hiciera público su acuerdo con el Departamento de Defensa de EE.UU. (DoD). Mientras tanto, las descargas de Claude, un competidor, crecieron. Este movimiento refleja la sensibilidad de los consumidores hacia la privacidad y el uso ético de la IA. La percepción pública se convierte en un factor de riesgo operativo clave.",
+        "relations": [
+          {
+            "label": "ChatGPT (OpenAI)",
+            "type": "entity",
+            "desc": "Modelo de IA líder, enfrenta reacción de usuarios"
+          },
+          {
+            "label": "Claude (Anthropic)",
+            "type": "entity",
+            "desc": "Competidor de IA que gana terreno"
+          },
+          {
+            "label": "Departamento de Defensa (DoD)",
+            "type": "entity",
+            "desc": "Contraparte del acuerdo polémico"
+          },
+          {
+            "label": "Privacidad y Ética en IA",
+            "type": "risk",
+            "desc": "Riesgo reputacional y regulatorio creciente"
+          },
+          {
+            "label": "Lealtad del Usuario",
+            "type": "resource",
+            "desc": "Activo intangible crítico para plataformas de IA"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La reacción de los usuarios muestra que la 'licencia social para operar' es un pilar fundamental para las empresas de IA, a veces más importante que los contratos gubernamentales.",
+            "Los competidores que enfaticen la transparencia y la alineación ética pueden capitalizar las debilidades reputacionales de los líderes del mercado."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas de IA percibidas como opacas o con riesgos éticos elevados",
+          "risk": "HIGH",
+          "thesis": "El riesgo reputacional se traduce directamente en pérdida de usuarios y de ventaja competitiva, afectando los flujos de ingresos futuros."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1688300023787?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1597704729375?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
