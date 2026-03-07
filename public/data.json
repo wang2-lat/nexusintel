@@ -1,833 +1,893 @@
 {
-  "generated_at": "2026-03-06T02:16:31.610282",
+  "generated_at": "2026-03-07T02:09:36.227199",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "俄LNG船避开地中海",
-        "fullTitle": "受制裁俄LNG船在遭袭后避开地中海航线",
+        "title": "诺和诺德与Hims和解合作",
+        "fullTitle": "诺和诺德与Hims结束纷争，将共同销售减肥药物",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "受美国制裁的俄罗斯液化天然气运输船在据称遭到乌克兰无人艇袭击后，正在改变航线，避开地中海。这表明俄乌冲突对全球能源运输路线的直接影响正在升级。此举可能扰乱欧洲的天然气供应，并推高运输成本和保险费率。地缘政治风险已直接转化为供应链风险。",
+        "summary": "诺和诺德计划通过Hims & Hers Health的平台销售其减肥药物，标志着双方此前公开的法律纠纷已告终结。此举将显著拓宽诺和诺德明星减肥药的直接面向消费者渠道。合作可能重塑在线医疗保健领域的竞争格局，并对其他减肥药生产商构成压力。",
         "relations": [
           {
-            "label": "俄罗斯液化天然气",
-            "type": "resource",
-            "desc": "受制裁的关键能源商品"
-          },
-          {
-            "label": "乌克兰无人艇",
-            "type": "tech",
-            "desc": "冲突中使用的非对称攻击手段"
-          },
-          {
-            "label": "地中海航线",
+            "label": "诺和诺德",
             "type": "entity",
-            "desc": "关键的全球能源运输通道"
+            "desc": "丹麦制药巨头，全球领先的糖尿病和肥胖症治疗公司"
           },
           {
-            "label": "能源运输安全",
-            "type": "risk",
-            "desc": "因地缘冲突而显著升高的风险"
+            "label": "Hims & Hers Health",
+            "type": "entity",
+            "desc": "美国在线药房及远程医疗服务平台"
+          },
+          {
+            "label": "减肥药物",
+            "type": "resource",
+            "desc": "指诺和诺德的Wegovy等GLP-1受体激动剂类药物"
+          },
+          {
+            "label": "直接面向消费者",
+            "type": "tech",
+            "desc": "通过数字平台直接向终端消费者销售产品和服务的商业模式"
+          },
+          {
+            "label": "在线医疗",
+            "type": "entity",
+            "desc": "通过互联网提供医疗服务和产品的行业"
           }
         ],
         "analysis": {
           "strategic": [
-            "俄乌冲突已从陆地战场延伸至海上能源通道，标志着冲突范围的扩大和对全球供应链的精准打击。",
-            "事件将迫使欧洲买家寻求更远、成本更高的替代能源路线，加剧全球能源市场的结构性紧张。"
+            "此次合作是制药巨头与数字健康平台深度融合的标志性事件，可能加速处方药DTC销售模式的普及。",
+            "诺和诺德通过Hims平台可更高效触达潜在用户，巩固其在减肥药市场的领先地位，并对礼来等竞争对手形成渠道压制。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "天然气期货 / 航运及保险类股票",
-          "risk": "HIGH",
-          "thesis": "关键航线中断将推高天然气现货价格及特定航线的运费与保费，但波动性极大，需紧密跟踪局势。"
+          "asset": "诺和诺德 (NVO) / Hims & Hers Health (HIMS)",
+          "risk": "MEDIUM",
+          "thesis": "合作带来双赢：诺和诺德拓宽高增长销售渠道；Hims获得独家重磅产品，增强用户粘性与收入。短期法律风险消除，长期看好联合市场扩张。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1540273738742?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1548383418859?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "寿司郎母公司股价大跌",
-        "fullTitle": "北京门店遭食安检查，寿司郎母公司股价暴跌",
+        "title": "斯里兰卡称可抵御油价冲击",
+        "fullTitle": "斯里兰卡央行行长称该国处于吸收油价冲击的“有利位置”",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "回转寿司连锁运营商Food & Life Companies Ltd.因旗下北京“寿司郎”门店涉嫌食品污染遭中国当局检查，股价创三个多月来最大跌幅。这反映了外资餐饮品牌在中国市场面临的监管和声誉风险。事件可能影响其在中国市场的扩张计划和短期营收。消费者信心和品牌形象受损是需要关注的重点。",
+        "summary": "斯里兰卡央行行长在IMF会议期间表示，该国目前处于能够吸收中东冲突带来的油价冲击的“有利位置”。此番言论旨在安抚市场对脆弱经济体受地缘政治影响的担忧。然而，该国仍面临高通胀和外债压力，抗风险能力有待观察。",
         "relations": [
           {
-            "label": "Food & Life Companies Ltd.",
+            "label": "斯里兰卡",
             "type": "entity",
-            "desc": "寿司郎品牌母公司，日本上市公司"
+            "desc": "南亚岛国，近年经历严重经济危机，正在IMF计划下复苏"
           },
           {
-            "label": "中国市场监管",
-            "type": "risk",
-            "desc": "外资企业运营的关键不确定性来源"
+            "label": "P Nandalal Weerasinghe",
+            "type": "entity",
+            "desc": "斯里兰卡中央银行行长"
           },
           {
-            "label": "食品安全",
+            "label": "油价冲击",
             "type": "risk",
-            "desc": "餐饮行业核心运营风险"
+            "desc": "因地缘政治冲突导致的国际原油价格剧烈波动风险"
           },
           {
-            "label": "品牌声誉",
+            "label": "国际货币基金组织",
+            "type": "entity",
+            "desc": "向成员国提供金融援助和政策建议的国际组织"
+          },
+          {
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "直接影响消费者信任和股价"
+            "desc": "指当前中东地区的紧张局势与冲突，影响全球能源供应"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件凸显了在华外资企业，特别是食品零售业，对当地监管环境的高度敏感性，一次检查即可引发市场剧烈反应。",
-            "这可能预示着中国在消费领域，特别是食品安全方面，监管趋严的态势，其他同类外资品牌需引以为戒。"
+            "行长表态意在稳定市场信心，避免资本外流和货币贬值压力加剧，是危机后经济管理的关键公关举措。",
+            "斯里兰卡的‘有利位置’可能源于IMF项目下的外汇储备改善和进口管控，但其经济基本面依然脆弱，对油价波动的实际承受力有限。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Food & Life Companies Ltd. (股票代码: 3563.T)",
-          "risk": "MEDIUM",
-          "thesis": "负面新闻导致品牌声誉受损，可能影响其在中国市场的同店销售增长，股价存在短期下行压力。"
+          "asset": "斯里兰卡卢比/斯里兰卡主权债券",
+          "risk": "HIGH",
+          "thesis": "尽管官方表态乐观，但该国经济结构脆弱，严重依赖能源进口，中东持续冲突带来的油价上涨将直接恶化其贸易赤字和通胀，加大债务违约风险。"
         },
-        "confidence": 85,
+        "confidence": 82,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1606385612424?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1538459653372?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "亚股大跌油价下跌",
-        "fullTitle": "中东冲突持续，亚股大跌油价回落",
+        "title": "亚洲多国面临燃料短缺危机",
+        "fullTitle": "亚洲多国因燃料紧缺出现排队、涨价和短缺现象",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "中东冲突持续及伊朗再次发动袭击引发广泛的风险资产抛售，亚洲股市周五下跌，市场或将迎来六年来最糟糕的一周。值得注意的是，原油价格在冲突背景下出现下跌。这表明市场情绪已从单纯担忧供应转向对全球经济增长放缓的更深层忧虑。避险情绪主导市场。",
+        "summary": "依赖进口的亚洲多国正经历严重的燃料紧缺。从泰国农民抢购柴油到印度炼油厂高管彻夜监控波斯湾局势，能源买家普遍感受到冲击。该危机已导致排队、价格飙升和实物短缺，可能拖累区域经济增长并引发社会不稳定。",
         "relations": [
           {
-            "label": "亚洲股市",
-            "type": "entity",
-            "desc": "风险情绪的集中体现"
-          },
-          {
-            "label": "中东地缘冲突",
-            "type": "risk",
-            "desc": "全球市场波动的核心驱动因素"
-          },
-          {
-            "label": "原油价格",
+            "label": "亚洲燃料紧缺",
             "type": "resource",
-            "desc": "受冲突与需求预期双重影响"
+            "desc": "亚洲多国因供应链中断和地缘政治导致的柴油、汽油等燃料供应短缺"
           },
           {
-            "label": "风险规避",
+            "label": "泰国",
+            "type": "entity",
+            "desc": "受柴油短缺影响，农业生产受到冲击"
+          },
+          {
+            "label": "印度",
+            "type": "entity",
+            "desc": "主要能源进口国，炼油产业高度关注波斯湾供应安全"
+          },
+          {
+            "label": "波斯湾",
+            "type": "resource",
+            "desc": "全球关键石油运输通道和产区，局势紧张直接影响亚洲能源供应"
+          },
+          {
+            "label": "供应链中断",
             "type": "risk",
-            "desc": "当前市场主导情绪"
+            "desc": "因地缘冲突、物流问题等导致的能源商品流通受阻"
           }
         ],
         "analysis": {
           "strategic": [
-            "市场反应显示，持续的地缘政治冲突正在从推高通胀（油价）转向压制总需求（经济衰退担忧），这对资产定价逻辑产生根本性影响。",
-            "油价与股市同跌是一个危险信号，表明投资者正在为可能出现的“滞胀”或衰退情景进行定价和布局。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "周期性股票 / 新兴市场股指",
-          "risk": "MEDIUM",
-          "thesis": "在避险情绪和增长担忧主导下，对经济周期敏感的资产和地区市场将承受更大压力。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1531843578163?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Anthropic挑战美防部标签",
-        "fullTitle": "Anthropic CEO称将法庭挑战防部供应链风险标签",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "人工智能公司Anthropic的CEO Dario Amodei计划挑战美国国防部将其公司列为供应链风险的决定。Amodei声称该标签对大多数客户没有影响。此举凸显了AI公司与美国政府，特别是国防安全机构之间在监管与合规上的紧张关系。法律挑战的结果可能为AI行业设定重要先例。",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "领先的生成式AI公司"
-          },
-          {
-            "label": "美国国防部",
-            "type": "entity",
-            "desc": "国家安全与供应链审查的核心机构"
-          },
-          {
-            "label": "供应链风险",
-            "type": "risk",
-            "desc": "涉及国家安全的关键审查领域"
-          },
-          {
-            "label": "AI监管",
-            "type": "risk",
-            "desc": "科技公司面临的核心政策风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "事件反映了美国政府对前沿AI技术“双重用途”（民用与军用）性质的高度警惕，正在通过行政手段加强控制。",
-            "Anthropic的法律挑战是一次测试，其结果将界定政府监管权力的边界，并影响其他AI公司未来的政府业务与合作模式。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Anthropic (非上市，关注其竞争对手或整个AI板块情绪)",
-          "risk": "HIGH",
-          "thesis": "与核心政府部门的公开法律冲突可能损害公司声誉，增加其获取政府合同与大企业（尤其是受监管行业）客户的难度，影响长期估值。"
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1677029993380?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "AI语音代理革新尽调",
-        "fullTitle": "DiligenceSquared用AI语音代理降低并购研究成本",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "初创公司DiligenceSquared利用AI语音代理访谈目标公司的客户，为私募股权公司提供可负担的并购尽职调查研究，替代昂贵的管理咨询公司。这代表了AI在专业服务领域的深度应用，旨在提升效率并降低成本。该模式可能颠覆传统的咨询和尽职调查行业。",
-        "relations": [
-          {
-            "label": "DiligenceSquared",
-            "type": "entity",
-            "desc": "金融科技/AI应用初创公司"
-          },
-          {
-            "label": "AI语音代理",
-            "type": "tech",
-            "desc": "执行访谈任务的人工智能体"
-          },
-          {
-            "label": "并购尽职调查",
-            "type": "entity",
-            "desc": "私募股权交易的核心环节"
-          },
-          {
-            "label": "管理咨询",
-            "type": "entity",
-            "desc": "可能被技术颠覆的传统行业"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "这标志着AI正从数据分析工具演变为能够执行复杂、交互式商业任务（如访谈）的“数字劳动力”，应用边界大幅扩展。",
-            "该模式若被验证有效，将对高价、人力密集型的专业服务（如咨询、尽调）构成长期结构性威胁，推动行业成本下降和模式变革。"
+            "此次燃料危机凸显亚洲能源进口国在面对地缘政治冲击时的集体脆弱性，可能加速各国寻求能源来源多元化和战略储备建设。",
+            "危机可能推高整体通胀水平，迫使亚洲央行在支持经济增长与控制物价之间做出更艰难抉择，影响货币政策路径。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专注于企业级AI应用自动化的科技公司",
+          "asset": "原油期货 (CL) / 亚洲炼油商 (如Reliance Industries)",
           "risk": "MEDIUM",
-          "thesis": "AI代理在专业服务领域的成功应用证实了其商业价值，相关技术提供商和成功的垂直应用公司有望获得高增长。"
+          "thesis": "供应紧张和地缘风险溢价将继续支撑油价。亚洲炼油商虽面临成本压力，但在供应短缺环境下，其成品油裂解价差可能扩大，利好具有灵活采购渠道的龙头企业。"
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1521513838747?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1605184015736?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Cluely CEO承认虚报营收",
-        "fullTitle": "Cluely CEO公开承认去年营收数据造假",
+        "title": "Robinhood初创基金上市遇挫",
+        "fullTitle": "Robinhood旗下初创企业基金在纽交所首日交易遇冷",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Cluely公司创始人兼CEO Roy Lee在社交平台X上公开承认，其去年夏天公布的700万美元年度经常性收入数据是虚假的。这是一起严重的公司治理和诚信事件，直接损害了投资者和潜在客户的信任。此类行为可能引发监管调查、法律诉讼和融资困难。",
+        "summary": "Robinhood推出的旨在让散户投资初创企业的基金在纽约证券交易所上市首日表现不佳。该基金目前提供对Mercor、Ramp、Stripe等八家初创公司的投资敞口，并计划扩大投资组合。此次遇挫反映出市场对非上市初创公司证券化产品仍存疑虑。",
         "relations": [
           {
-            "label": "Cluely",
+            "label": "Robinhood",
             "type": "entity",
-            "desc": "涉事公司，具体业务未详述"
+            "desc": "美国零佣金股票交易平台，以吸引散户投资者闻名"
           },
           {
-            "label": "Roy Lee",
+            "label": "初创企业基金",
             "type": "entity",
-            "desc": "公司CEO，承认数据造假"
+            "desc": "将多家未上市初创公司股权打包而成的上市交易基金"
           },
           {
-            "label": "财务造假",
-            "type": "risk",
-            "desc": "最严重的公司治理风险之一"
+            "label": "Stripe",
+            "type": "entity",
+            "desc": "美国头部金融科技初创公司，估值高昂"
           },
           {
-            "label": "企业诚信",
+            "label": "零售投资者",
+            "type": "entity",
+            "desc": "个人投资者，此类产品旨在降低其投资初创企业的门槛"
+          },
+          {
+            "label": "流动性风险",
             "type": "risk",
-            "desc": "创业公司获取融资与客户信任的基石"
+            "desc": "非上市公司股权在二级市场交易可能面临的买卖困难及价格失真风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件暴露了在融资竞争激烈的环境下，部分初创公司为获取关注和资本而进行数据粉饰甚至造假的道德风险。",
-            "公开承认造假是危机处理的非常规手段，可能旨在先发制人应对即将暴露的更大问题，或进行极端的企业形象重启，但成功率极低。"
+            "该产品是金融科技公司将私募资产‘民主化’的又一次尝试，但其上市遇冷表明在利率高企环境下，市场对高估值、低流动性资产的兴趣减弱。",
+            "若此模式未能成功，可能延缓其他平台类似产品的推出，并促使监管机构更密切关注面向散户的复杂非上市资产证券化产品。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Cluely (若可交易) / 其直接竞争对手",
-          "risk": "HIGH",
-          "thesis": "CEO公开承认财务数据造假，公司信誉彻底破产，面临生存危机，几乎丧失任何投资价值。其竞争对手可能因此获益。"
+          "asset": "Robinhood Markets (HOOD)",
+          "risk": "MEDIUM",
+          "thesis": "核心创新产品出师不利，可能影响其用户增长和交易活跃度叙事。在竞争激烈的零售经纪行业，产品创新失败会削弱其差异化优势，增加股价压力。"
         },
-        "confidence": 92,
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1609964911603?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "X平台测试关联帖文与产品的新广告格式",
+        "fullTitle": "X平台测试新广告格式，将原创内容与产品链接",
+        "classification": "RESTRICTIAL",
+        "impactLevel": "INFO",
+        "summary": "社交媒体平台X正在测试一种新的广告形式，该形式可将用户的原创帖文与相关产品广告关联起来。一项测试案例是在内容下方推广马斯克的星链服务。此举旨在提升广告相关性和变现效率，是X平台商业化探索的一部分。",
+        "relations": [
+          {
+            "label": "X平台",
+            "type": "entity",
+            "desc": "原名Twitter，由埃隆·马斯克拥有的社交媒体平台"
+          },
+          {
+            "label": "原生广告",
+            "type": "tech",
+            "desc": "与平台内容形式高度融合的广告类型，旨在提供更自然的用户体验"
+          },
+          {
+            "label": "星链",
+            "type": "entity",
+            "desc": "马斯克旗下SpaceX公司的卫星互联网服务"
+          },
+          {
+            "label": "内容商业化",
+            "type": "tech",
+            "desc": "将用户生成内容与商业机会（如广告、电商）相结合的模式"
+          },
+          {
+            "label": "埃隆·马斯克",
+            "type": "entity",
+            "desc": "X平台、特斯拉、SpaceX等公司的所有者或CEO"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "这是X平台试图利用其独特的实时对话数据，打造情境化、高精准度广告系统的关键一步，以挑战Meta和Google的广告主导地位。",
+            "将自有业务（如星链）作为测试案例，表明马斯克正试图打通其商业生态，实现跨平台导流和协同，但可能引发关于平台公平性的争议。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "特斯拉 (TSLA) / 私人持有的X平台及SpaceX",
+          "risk": "HIGH",
+          "thesis": "长期看，若X广告改革成功，将提升其估值，间接利好与其深度绑定的马斯克生态系统。成功的广告模式也能为特斯拉等旗下公司提供低成本营销渠道。但短期变现前景不明，风险较高。"
+        },
+        "confidence": 80,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1586589031092?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "任天堂起诉美国政府要求退还关税",
+        "fullTitle": "任天堂就关税问题起诉美国政府要求退款",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "任天堂已对美国联邦政府提起诉讼，要求退还此前缴纳的关税。此举是在最高法院一项裁决否决了总统部分广泛关税之后进行的，这些关税曾影响任天堂及数千家其他公司。诉讼结果可能为其他受影响企业提供追索先例。",
+        "relations": [
+          {
+            "label": "任天堂",
+            "type": "entity",
+            "desc": "日本知名电子游戏公司，生产Switch等游戏主机"
+          },
+          {
+            "label": "美国关税",
+            "type": "risk",
+            "desc": "美国政府对进口商品加征的税收，常被用作贸易政策工具"
+          },
+          {
+            "label": "美国最高法院",
+            "type": "entity",
+            "desc": "美国联邦法院系统最高级别，其裁决具有最终法律效力"
+          },
+          {
+            "label": "贸易政策风险",
+            "type": "risk",
+            "desc": "因国家间贸易规则变化给跨国企业带来的成本和运营不确定性"
+          },
+          {
+            "label": "供应链成本",
+            "type": "risk",
+            "desc": "商品在生产、运输、通关等环节产生的费用，关税是其中一部分"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "任天堂的诉讼是企业在法律框架内挑战不利贸易政策的标志性案例，若胜诉将鼓舞更多跨国企业寻求法律途径挽回损失。",
+            "此事件凸显了在全球供应链布局中，政治与贸易政策风险已成为企业必须核心考量的成本因素，可能加速生产或采购的多元化策略。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "任天堂 (7974.T)",
+          "risk": "LOW",
+          "thesis": "诉讼若成功，将直接带来一笔可观的现金退款，改善公司财务状况。更重要的是，此举消除了一个历史遗留的不确定成本因素，有利于稳定未来在北美市场的利润预期。"
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1547984677600?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1688682775202?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Russian LNG Tankers Reroute",
-        "fullTitle": "Sanctioned Russian LNG Tankers Avoid Mediterranean After Attack",
+        "title": "Novo-Hims End Feud, Partner",
+        "fullTitle": "Novo and Hims End Feud, Will Sell Obesity Drugs Together",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "US-sanctioned Russian liquefied natural gas (LNG) vessels are altering their routes away from the Mediterranean Sea. This follows an alleged attack by Ukrainian drone boats on one such vessel. The incident highlights the extension of the Ukraine conflict into maritime energy logistics. This rerouting could disrupt regional LNG supply chains and increase shipping costs.",
+        "summary": "Novo Nordisk and Hims & Hers have resolved their legal dispute and formed a partnership to sell Novo's weight-loss drugs on the Hims & Hers digital platform. This ends a public feud that escalated into a lawsuit last month. The deal expands direct-to-consumer access for GLP-1 drugs, a key growth market. It represents a significant shift from confrontation to collaboration in the competitive obesity treatment sector.",
         "relations": [
           {
-            "label": "Russian LNG",
-            "type": "resource",
-            "desc": "Sanctioned energy exports from Russia"
-          },
-          {
-            "label": "Mediterranean Sea",
+            "label": "Novo Nordisk A/S",
             "type": "entity",
-            "desc": "Key maritime route for energy transport"
+            "desc": "Danish pharmaceutical giant, leader in obesity drugs (Wegovy, Ozempic)"
           },
           {
-            "label": "Ukrainian Drone Boats",
+            "label": "Hims & Hers Health Inc.",
+            "type": "entity",
+            "desc": "Digital telehealth and pharmacy platform for direct-to-consumer care"
+          },
+          {
+            "label": "Obesity Drugs (GLP-1)",
+            "type": "resource",
+            "desc": "High-demand pharmaceutical class for weight loss and diabetes"
+          },
+          {
+            "label": "Direct-to-Consumer (DTC) Sales",
             "type": "tech",
-            "desc": "Asymmetric naval warfare technology"
+            "desc": "Business model bypassing traditional channels, key growth vector"
           },
           {
-            "label": "Maritime Security",
+            "label": "Legal Settlement",
             "type": "risk",
-            "desc": "Risk to commercial shipping in conflict zones"
+            "desc": "Resolution of prior litigation, reducing operational and reputational risk"
           }
         ],
         "analysis": {
           "strategic": [
-            "The attack demonstrates a new front in the Ukraine war, targeting Russia's critical energy export infrastructure to exert economic pressure.",
-            "Rerouting sanctioned vessels increases transit times and costs, potentially tightening global LNG supply and supporting prices in non-sanctioned markets."
+            "Partnership mitigates channel conflict and accelerates market penetration for Novo in the lucrative DTC segment.",
+            "Hims & Hers secures a reliable supply of a flagship product, enhancing its platform's value and competitive moat against other telehealth services."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "LNG Shipping & Non-Russian LNG Producers",
+          "asset": "HIMS (Hims & Hers Health Inc.)",
           "risk": "MEDIUM",
-          "thesis": "Increased geopolitical risk premium and longer shipping routes for sanctioned cargoes support freight rates and benefit alternative LNG suppliers (e.g., US, Qatar)."
+          "thesis": "The partnership provides HIMS with a exclusive or preferred access to a blockbuster drug category, driving user growth, average revenue per user (ARPU), and validating its platform as a key distribution channel for major pharma."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1693809050523?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1615257422565?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Sushiro Shares Drop on Probe",
-        "fullTitle": "Sushiro Parent Shares Drop After Beijing Food Probe",
+        "title": "Sri Lanka Resilient to Oil Shocks",
+        "fullTitle": "Sri Lanka Confident in Absorbing Oil Price Shocks",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Shares of Food & Life Companies Ltd., operator of the Sushiro conveyor-belt sushi chain, fell sharply. The drop followed an inspection by Chinese authorities at a Beijing outlet over suspected food contamination. This reflects the significant operational and reputational risks foreign food brands face in China's stringent regulatory environment. Market reaction shows high sensitivity to regulatory actions in key markets.",
+        "summary": "The Central Bank Governor of Sri Lanka, P Nandalal Weerasinghe, stated the country is in a 'good position' to absorb oil price shocks stemming from Middle East conflicts. He made these remarks at an IMF conference. This confidence likely stems from improved foreign exchange reserves and a stabilized economy post-crisis. However, the statement is a forward-looking risk assessment, not an immunity guarantee.",
         "relations": [
           {
-            "label": "Food & Life Companies Ltd.",
+            "label": "Central Bank of Sri Lanka",
             "type": "entity",
-            "desc": "Japanese conveyor-belt sushi chain operator"
+            "desc": "National monetary authority, key economic policy maker"
           },
           {
-            "label": "Beijing Regulatory Authorities",
+            "label": "P Nandalal Weerasinghe",
             "type": "entity",
-            "desc": "Chinese food safety and market regulators"
+            "desc": "Governor, providing official economic outlook and risk assessment"
           },
           {
-            "label": "Food Contamination",
+            "label": "Oil Price Shock",
             "type": "risk",
-            "desc": "Operational and reputational risk for F&B sector"
+            "desc": "Geopolitical risk from Middle East conflict impacting energy imports"
           },
           {
-            "label": "China Consumer Market",
+            "label": "IMF Conference",
             "type": "entity",
-            "desc": "High-growth but high-regulation market for foreign brands"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The incident underscores the non-financial risks (ESG/regulatory) that can cause immediate and severe financial impact for consumer-facing companies in Asia.",
-            "It highlights the vulnerability of foreign brands to localized regulatory scrutiny in China, which can be used as a geopolitical or trade policy tool."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Food & Life Companies Ltd. (Ticker: 3563 JP)",
-          "risk": "HIGH",
-          "thesis": "Immediate reputational damage and potential for expanded regulatory scrutiny in a major market (China) could lead to sustained negative earnings revisions and stock underperformance."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1677386851955?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Asian Stocks Fall on War Risk",
-        "fullTitle": "Asian Stocks Drop as War Drags On, Crude Oil Falls",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Asian equities declined, heading for their worst week in six years. The sell-off was driven by the protracted Middle East conflict and renewed Iranian strikes, prompting a broad risk-off sentiment. Contrary to typical patterns, oil prices dropped amidst the geopolitical tension, suggesting complex market dynamics including demand concerns. The situation indicates high macro uncertainty dominating regional market performance.",
-        "relations": [
-          {
-            "label": "Asian Equities",
-            "type": "entity",
-            "desc": "Broad regional stock markets"
+            "desc": "Forum for economic policy discussion, context for the statement"
           },
           {
-            "label": "Middle East Conflict",
-            "type": "risk",
-            "desc": "Geopolitical risk driver for global markets"
-          },
-          {
-            "label": "Crude Oil",
+            "label": "Foreign Exchange Reserves",
             "type": "resource",
-            "desc": "Key commodity sensitive to geopolitical risk"
-          },
-          {
-            "label": "Risk-Off Sentiment",
-            "type": "risk",
-            "desc": "Broad market shift away from risk assets"
+            "desc": "Critical buffer for import-dependent nations to handle commodity volatility"
           }
         ],
         "analysis": {
           "strategic": [
-            "Market reaction shows that prolonged, multi-front geopolitical instability (Ukraine, Middle East) is now a primary driver of capital allocation in Asia, overshadowing regional fundamentals.",
-            "The divergence between rising conflict risk and falling oil prices may signal underlying global demand weakness or successful market anticipation of contained supply disruptions."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Broad Asian Equity ETFs (e.g., EWM, EWY, EWJ)",
-          "risk": "MEDIUM",
-          "thesis": "Sustained geopolitical risk and a strong risk-off sentiment are likely to continue pressuring Asian equities, which are often used as liquidity sources in global portfolio de-risking."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1634275040475?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Anthropic to Challenge DOD Label",
-        "fullTitle": "Anthropic to Challenge DOD's Supply Chain Label in Court",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic CEO Dario Amodei announced plans to legally challenge the US Department of Defense's designation of the AI firm as a supply chain risk. Amodei claims the label does not affect most of its customers. This move highlights the growing friction between cutting-edge AI developers and national security frameworks. The case's outcome could set a precedent for how AI firms are regulated for national security.",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "Leading AI safety and research company"
-          },
-          {
-            "label": "US Department of Defense (DOD)",
-            "type": "entity",
-            "desc": "US military and national security agency"
-          },
-          {
-            "label": "Supply Chain Risk",
-            "type": "risk",
-            "desc": "National security designation for critical tech"
-          },
-          {
-            "label": "AI Regulation",
-            "type": "risk",
-            "desc": "Legal and compliance framework for AI firms"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The legal challenge represents a strategic push by AI firms to define the boundaries of national security oversight, seeking to protect commercial growth from restrictive classifications.",
-            "A successful challenge by Anthropic could weaken the DOD's ability to unilaterally blacklist tech firms, shifting more power to the judicial system in defining supply chain risks."
+            "The statement is a strategic communication aimed at bolstering investor and IMF confidence in Sri Lanka's ongoing economic recovery and stability.",
+            "It highlights a perceived reduction in macroeconomic vulnerability, but actual resilience will be tested by the duration and severity of any oil price spike."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Private AI/DefenseTech Companies with Clear Compliance",
+          "asset": "Sri Lanka Sovereign Bonds",
           "risk": "HIGH",
-          "thesis": "A potential precedent limiting broad DOD designations could reduce regulatory overhang for AI companies, benefiting those with robust, transparent security and governance protocols."
+          "thesis": "If the assessment is accurate, reduced vulnerability to external shocks could support continued debt restructuring progress and improve creditworthiness, potentially leading to bond price appreciation."
         },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1659447671988?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1521469722982?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "AI Voice Agents for M&A Research",
-        "fullTitle": "DiligenceSquared Uses AI Voice Agents for M&A Research",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Startup DiligenceSquared is deploying AI voice agents to conduct customer interviews for private equity firms engaged in M&A due diligence. This approach aims to replace expensive traditional management consultants. The technology promises to make deep, qualitative research more affordable and scalable. It represents a disruptive innovation in the high-value professional services market.",
+        "title": "Asia Faces Severe Fuel Crunch",
+        "fullTitle": "Queues, Price Hikes and Shortages in Asia Fuel Crunch",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Import-dependent Asian nations are experiencing a dramatic fuel crunch, manifesting in queues, price hikes, and shortages. Examples include Thai farmers scrambling for diesel and Indian refinery executives on high alert. The situation is directly impacting energy buyers across the region. This indicates supply chain stress and heightened operational risks for industries and consumers.",
         "relations": [
           {
-            "label": "DiligenceSquared",
+            "label": "Asian Energy Importers",
             "type": "entity",
-            "desc": "Startup offering AI-powered due diligence"
+            "desc": "Nations like India, Thailand with high dependence on imported fuel"
           },
           {
-            "label": "AI Voice Agents",
-            "type": "tech",
-            "desc": "AI conducting conversational interviews"
+            "label": "Fuel Crunch / Shortage",
+            "type": "risk",
+            "desc": "Operational and economic risk causing price spikes and supply disruption"
           },
           {
-            "label": "M&A Due Diligence",
-            "type": "entity",
-            "desc": "Process of investigating a company pre-acquisition"
+            "label": "Diesel",
+            "type": "resource",
+            "desc": "Critical fuel for agriculture (e.g., Thai farmers) and transportation"
           },
           {
-            "label": "Private Equity",
+            "label": "Persian Gulf",
             "type": "entity",
-            "desc": "Investment firms conducting leveraged buyouts"
+            "desc": "Key oil-producing region, source of supply disruption and monitoring focus"
+          },
+          {
+            "label": "Supply Chain Stress",
+            "type": "risk",
+            "desc": "Broader systemic risk affecting logistics, production, and inflation"
           }
         ],
         "analysis": {
           "strategic": [
-            "The adoption of AI for core due diligence tasks threatens the traditional consulting revenue model, potentially compressing fees and displacing junior analyst roles.",
-            "This democratizes deep commercial diligence, allowing smaller PE firms and hedge funds to access insights previously reserved for large players with big consulting budgets."
+            "The crunch exposes the acute energy security vulnerability of fast-growing, import-reliant Asian economies to geopolitical disruptions.",
+            "It will force accelerated policy responses, including strategic reserve draws, demand rationing, and potentially faster investments in alternative energy and efficiency."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Energy Infrastructure & Storage ETFs (e.g., ICLN, TAN with Asian focus)",
+          "risk": "MEDIUM",
+          "thesis": "Persistent supply crunches will intensify government and corporate spending on energy security, boosting renewables, LNG infrastructure, and strategic storage facilities across Asia."
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1608713309684?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Robinhood Startup Fund Stumbles",
+        "fullTitle": "Robinhood’s Startup Fund Stumbles in NYSE Debut",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Robinhood's new retail investment product, a fund offering exposure to pre-IPO startups, had a lackluster debut on the NYSE. The fund currently includes eight companies like Mercor, Ramp, and Stripe, with plans to expand. The 'stumble' suggests weak initial investor demand or skepticism. This tests Robinhood's strategy of democratizing access to private market investments.",
+        "relations": [
+          {
+            "label": "Robinhood Markets, Inc.",
+            "type": "entity",
+            "desc": "Retail trading platform, launching innovative investment products"
+          },
+          {
+            "label": "Startup Fund",
+            "type": "entity",
+            "desc": "Publicly traded fund offering retail exposure to private companies"
+          },
+          {
+            "label": "Pre-IPO Investments",
+            "type": "asset",
+            "desc": "High-risk, high-potential reward asset class traditionally for institutions"
+          },
+          {
+            "label": "Retail Investor Demand",
+            "type": "risk",
+            "desc": "Market risk related to appetite of non-professional investors for complex products"
+          },
+          {
+            "label": "Stripe, Ramp, Mercor",
+            "type": "entity",
+            "desc": "High-profile private tech companies included in the fund's portfolio"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The tepid debut indicates market skepticism about the valuation, liquidity, or structure of packaging late-stage private companies for retail investors.",
+            "This is a setback for Robinhood's product innovation narrative and may slow its expansion beyond traditional equities and crypto into alternative assets."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Traditional Management Consulting Firms (e.g., MBB)",
+          "asset": "HOOD (Robinhood Markets, Inc.)",
           "risk": "HIGH",
-          "thesis": "Technological disruption in a core service line (due diligence) poses a long-term threat to the pricing power and business model of established management consulting firms."
+          "thesis": "Failed product launches damage growth prospects and investor sentiment. If the startup fund fails to gain traction, it undermines a key future revenue stream and Robinhood's positioning as a financial innovation leader."
+        },
+        "confidence": 85,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1626701676104?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "X Tests New Native Ad Format",
+        "fullTitle": "X Tests New Ad Format Linking Posts to Products",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "X (formerly Twitter) is testing a new advertising format that seamlessly connects organic posts with related products. An initial test promoted Elon Musk's Starlink service beneath relevant original content. This represents an evolution of native advertising on the platform. The goal is to increase ad relevance, engagement, and ultimately, advertising revenue.",
+        "relations": [
+          {
+            "label": "X (Twitter)",
+            "type": "entity",
+            "desc": "Social media platform owned by Elon Musk, testing new ad products"
+          },
+          {
+            "label": "Native Advertising",
+            "type": "tech",
+            "desc": "Ad format integrated into user experience, less disruptive"
+          },
+          {
+            "label": "Starlink",
+            "type": "entity",
+            "desc": "Satellite internet service by SpaceX, used in the initial ad test"
+          },
+          {
+            "label": "Ad Revenue",
+            "type": "resource",
+            "desc": "Primary revenue stream for X, under pressure and needing innovation"
+          },
+          {
+            "label": "Content-Commerce Integration",
+            "type": "tech",
+            "desc": "Trend of directly linking social media content to product sales"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This test is a strategic move to improve ad targeting and performance by leveraging contextual relevance, potentially commanding higher CPMs from advertisers.",
+            "It aligns with Musk's broader vision of transforming X into an 'everything app' with integrated commerce and payment functionalities."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Digital Advertising Sector (e.g., Trade Desk TTD, Pinterest PINS)",
+          "risk": "LOW",
+          "thesis": "Innovation in native and contextual ad formats is a positive signal for the broader digital ad ecosystem, indicating ongoing evolution to capture consumer attention and drive ROI for advertisers."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1571798224699?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Nintendo Sues US for Tariff Refund",
+        "fullTitle": "Nintendo Sues US Government for Tariff Refund",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Nintendo has filed a lawsuit against the U.S. government seeking a refund on tariffs it previously paid. This legal action follows a recent Supreme Court decision that struck down some of the president's sweeping tariffs, which had impacted Nintendo and thousands of other companies. The suit aims to recover costs incurred under what it now argues were unlawful levies.",
+        "relations": [
+          {
+            "label": "Nintendo Co., Ltd.",
+            "type": "entity",
+            "desc": "Japanese video game company, plaintiff in the lawsuit"
+          },
+          {
+            "label": "U.S. Government",
+            "type": "entity",
+            "desc": "Defendant, specifically regarding past administration's trade policy"
+          },
+          {
+            "label": "Tariffs",
+            "type": "risk",
+            "desc": "Trade policy tool that imposed costs on imported goods (e.g., consoles)"
+          },
+          {
+            "label": "Supreme Court Ruling",
+            "type": "entity",
+            "desc": "Legal precedent that invalidated the basis for the tariffs"
+          },
+          {
+            "label": "Supply Chain Cost Recovery",
+            "type": "resource",
+            "desc": "Potential financial benefit from successful litigation"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The lawsuit is a tactical move to recoup past expenses and set a precedent, encouraging other affected firms to seek similar refunds, potentially creating a significant fiscal liability.",
+            "It reflects ongoing corporate pushback against broad, unilateral trade measures and leverages judicial checks on executive trade authority."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "NTDOY (Nintendo ADR)",
+          "risk": "LOW",
+          "thesis": "A successful or settled lawsuit would result in a one-time cash inflow, improving Nintendo's balance sheet. It also reduces future regulatory uncertainty regarding U.S. import costs for its hardware."
         },
         "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1543068632593?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Cluely CEO Admits Lying on Revenue",
-        "fullTitle": "Cluely CEO Roy Lee Admits to Lying About Revenue",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Cluely CEO Roy Lee publicly admitted on X that the $7 million annual recurring revenue figure he shared last summer was false. This admission of misrepresenting financial metrics severely damages the company's credibility. It highlights the endemic risk of founder fraud and misleading communication in the startup ecosystem, especially for private companies. The event will likely trigger severe reputational and financing challenges.",
-        "relations": [
-          {
-            "label": "Cluely",
-            "type": "entity",
-            "desc": "Startup company (sector unspecified from context)"
-          },
-          {
-            "label": "Roy Lee",
-            "type": "entity",
-            "desc": "Founder and CEO of Cluely"
-          },
-          {
-            "label": "Founder Fraud",
-            "type": "risk",
-            "desc": "Risk of misrepresentation by company leadership"
-          },
-          {
-            "label": "Startup Governance",
-            "type": "risk",
-            "desc": "Risk from weak oversight in private companies"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The public admission on social media reflects a new era of transparency enforcement via public shaming, which may deter but also expose more corporate misrepresentations.",
-            "This case will intensify scrutiny from venture capitalists and later-stage investors on revenue verification and governance in private companies, potentially raising the cost of capital for startups."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Cluely (Private Market Secondary)",
-          "risk": "HIGH",
-          "thesis": "The admission of fraudulent metrics destroys investor trust, will likely lead to a down-round or failure to raise further capital, and collapses the company's valuation."
-        },
-        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1670810137331?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1548220078395?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Buques rusos evitan Mediterráneo",
-        "fullTitle": "Buques rusos de GNL sancionados evitan Mediterráneo tras ataque",
+        "title": "Novo y Hims venden fármacos juntos",
+        "fullTitle": "Novo Nordisk y Hims & Hers acuerdan vender fármacos contra obesidad",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Buques rusos de gas natural licuado bajo sanciones estadounidenses están redirigiéndose lejos del mar Mediterráneo. Este cambio de ruta se produce después de que uno de estos buques fuera presuntamente atacado por lanchas drones ucranianas. El incidente refleja la escalada de riesgos en las rutas marítimas clave para la energía. La desviación podría afectar los flujos y precios del gas en Europa.",
+        "impactLevel": "MEDIUM",
+        "summary": "Novo Nordisk y Hims & Hers Health han resuelto su disputa legal y acordado una colaboración comercial. La farmacéutica venderá sus medicamentos para la pérdida de peso a través de la plataforma digital de Hims & Hers. Este acuerdo pone fin a una batalla legal pública que comenzó el mes pasado. La alianza combina productos farmacéuticos líderes con un canal de distribución digital directo al consumidor.",
         "relations": [
           {
-            "label": "Rusia",
+            "label": "Novo Nordisk A/S",
             "type": "entity",
-            "desc": "País exportador de GNL bajo sanciones"
+            "desc": "Compañía farmacéutica danesa líder en diabetes y obesidad"
           },
           {
-            "label": "GNL (Gas Natural Licuado)",
-            "type": "resource",
-            "desc": "Recurso energético clave en el conflicto"
-          },
-          {
-            "label": "Ucrania",
+            "label": "Hims & Hers Health Inc.",
             "type": "entity",
-            "desc": "Presunto autor del ataque con drones marinos"
+            "desc": "Plataforma de salud digital y telemedicina"
           },
           {
-            "label": "Mar Mediterráneo",
+            "label": "Medicamentos para la obesidad",
             "type": "resource",
-            "desc": "Ruta marítima estratégica ahora evitada"
+            "desc": "Mercado farmacéutico de alto crecimiento (GLP-1)"
           },
           {
-            "label": "Riesgo Geopolítico",
+            "label": "Distribución digital de salud",
+            "type": "tech",
+            "desc": "Modelo de venta directa al consumidor vía plataformas en línea"
+          },
+          {
+            "label": "Riesgo de disputas legales",
             "type": "risk",
-            "desc": "Ataques a infraestructura energética"
+            "desc": "Litigios entre socios comerciales en sector salud"
           }
         ],
         "analysis": {
           "strategic": [
-            "La interrupción de rutas marítimas seguras para el GNL ruso aumenta la presión sobre los mercados energéticos europeos y la volatilidad de precios.",
-            "Los ataques asimétricos contra infraestructura energética marítima marcan una nueva fase de escalada en el conflicto, con implicaciones para los seguros y costos logísticos globales."
+            "La colaboración acelera la penetración en el mercado de consumo directo para fármacos especializados, evitando intermediarios tradicionales.",
+            "Resuelve un conflicto que podría haber dañado la reputación de ambas empresas y abre un canal de crecimiento para Novo en ventas directas."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de Gas Natural (TTF/EUA)",
-          "risk": "HIGH",
-          "thesis": "La interrupción del suministro y el aumento del riesgo en las rutas marítimas pueden crear presión alcista sobre los precios del gas en Europa, a pesar de la caída inicial del petróleo."
+          "asset": "HIMS (Hims & Hers Health Inc.)",
+          "risk": "MEDIUM",
+          "thesis": "Acceso exclusivo a fármacos líderes de Novo Nordisk impulsará ingresos y valida su modelo de plataforma de salud digital."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1642320062446?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1537338702846?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Acciones Sushiro caen por investigación",
-        "fullTitle": "Acciones de matriz de Sushiro caen tras investigación en Beijing",
+        "title": "Sri Lanka resiste shocks petroleros",
+        "fullTitle": "Sri Lanka afirma estar preparado para shocks de precios del petróleo",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Food & Life Companies Ltd., operadora de la cadena de sushi en cinta transportadora Sushiro, registraron su mayor caída en más de tres meses. La caída se produjo después de que las autoridades chinas inspeccionaran uno de sus locales en Beijing por una sospecha de contaminación alimentaria. El evento pone de relieve los riesgos regulatorios y reputacionales para las empresas extranjeras en China. Podría afectar la confianza del consumidor y los resultados financieros a corto plazo.",
+        "summary": "El Gobernador del Banco Central de Sri Lanka, P Nandalal Weerasinghe, declaró que el país está en una 'buena posición' para absorber los shocks de precios del petróleo derivados del conflicto en Medio Oriente. Realizó estas declaraciones en la conferencia 'FMI: Asia 2050'. Sri Lanka, como importador neto de energía, ha implementado medidas de estabilización tras su reciente crisis económica. La afirmación sugiere cierta resiliencia macroeconómica y reservas de divisas mejoradas.",
         "relations": [
           {
-            "label": "Food & Life Companies Ltd.",
+            "label": "Banco Central de Sri Lanka",
             "type": "entity",
-            "desc": "Empresa matriz japonesa de la cadena Sushiro"
+            "desc": "Autoridad monetaria de Sri Lanka"
           },
           {
-            "label": "China",
+            "label": "P Nandalal Weerasinghe",
             "type": "entity",
-            "desc": "Autoridades regulatorias que realizan la inspección"
+            "desc": "Gobernador del Banco Central de Sri Lanka"
           },
           {
-            "label": "Riesgo Regulatorio",
+            "label": "Precios del petróleo",
+            "type": "resource",
+            "desc": "Volatilidad por conflicto geopolítico en Medio Oriente"
+          },
+          {
+            "label": "Fondo Monetario Internacional (FMI)",
+            "type": "entity",
+            "desc": "Organismo que supervisa programa de rescate de Sri Lanka"
+          },
+          {
+            "label": "Riesgo geopolítico energético",
             "type": "risk",
-            "desc": "Inspecciones sanitarias inesperadas"
-          },
-          {
-            "label": "Contaminación Alimentaria",
-            "type": "risk",
-            "desc": "Sospecha que desencadena la investigación"
-          },
-          {
-            "label": "Sector de Restauración",
-            "type": "entity",
-            "desc": "Sector afectado por el evento"
+            "desc": "Impacto de conflictos en precios y suministro de crudo"
           }
         ],
         "analysis": {
           "strategic": [
-            "El incidente subraya la vulnerabilidad operativa y el riesgo político-regulatorio elevado para las corporaciones multinacionales que operan en China, especialmente en sectores sensibles como la alimentación.",
-            "Una respuesta lenta o inadecuada a la crisis de seguridad alimentaria podría dañar irreversiblemente la marca en un mercado clave y altamente competitivo."
+            "Las declaraciones buscan proyectar estabilidad y confianza a los inversores tras la severa crisis de divisas y default del país.",
+            "Indica que las reservas externas y los controles de importación pueden proporcionar un colchón temporal, pero la vulnerabilidad estructural persiste."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Food & Life Companies Ltd. (Ticker JP)",
-          "risk": "MEDIUM",
-          "thesis": "La investigación sanitaria en un mercado clave como China probablemente impacte negativamente en los ingresos y la valoración a corto plazo, con potencial de multas y costos de reparación de imagen."
+          "asset": "Bonos soberanos de Sri Lanka (Eurobonos)",
+          "risk": "HIGH",
+          "thesis": "La afirmación es optimista pero el país sigue siendo hipervulnerable a shocks externos; la recuperación es frágil y los precios altos del petróleo erosionarán rápidamente las reservas."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1618691610589?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1667919795167?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Mercados asiáticos caen por guerra",
-        "fullTitle": "Acciones asiáticas caen; conflicto prolongado y petróleo baja",
+        "title": "Asia sufre escasez y colas de combustible",
+        "fullTitle": "Colas, subidas de precio y escasez en Asia por crisis de combustible",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Las acciones asiáticas cayeron el viernes, encaminando a los mercados hacia su peor semana en seis años. La venta generalizada de activos de riesgo fue impulsada por el conflicto prolongado en Medio Oriente y nuevos ataques iraníes. Contrariamente a la tendencia habitual, el precio del petróleo crudo cayó. El sentimiento refleja un fuerte apetito por la seguridad y preocupaciones sobre el crecimiento global.",
+        "summary": "Importadores de energía en Asia enfrentan colas, aumentos de precios y escasez debido a una dramática crisis de suministro. Agricultores tailandeses compiten por diésel y ejecutivos de refinerías indias monitorean el Golfo Pérsico durante la noche. La dependencia de importaciones deja a la región expuesta a disrupciones en el suministro global. La situación refleja tensiones en cadenas logísticas y presiones geopolíticas.",
         "relations": [
           {
-            "label": "Mercados Asiáticos",
+            "label": "Importadores asiáticos de energía",
             "type": "entity",
-            "desc": "Índices bursátiles en caída"
+            "desc": "Países dependientes de importaciones de petróleo y derivados"
           },
           {
-            "label": "Conflicto Medio Oriente",
-            "type": "risk",
-            "desc": "Factor geopolítico principal de la venta"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "Actor regional con ataques renovados"
-          },
-          {
-            "label": "Petróleo Crudo",
+            "label": "Golfo Pérsico",
             "type": "resource",
-            "desc": "Activo clave con comportamiento atípico (bajando)"
+            "desc": "Región crítica para el suministro global de crudo"
           },
           {
-            "label": "Aversión al Riesgo",
+            "label": "Precios del diésel",
+            "type": "resource",
+            "desc": "Combustible crítico para agricultura y transporte en Asia"
+          },
+          {
+            "label": "Crisis de suministro energético",
             "type": "risk",
-            "desc": "Sentimiento dominante en el mercado"
+            "desc": "Interrupciones logísticas y geopolíticas que afectan disponibilidad"
+          },
+          {
+            "label": "Refinerías indias",
+            "type": "entity",
+            "desc": "Sector industrial clave monitoreando riesgos de suministro"
           }
         ],
         "analysis": {
           "strategic": [
-            "La caída del petróleo junto con la venta de acciones sugiere que los mercados están descontando un escenario de desaceleración económica global severa, superando los temores inflacionarios por la oferta.",
-            "La magnitud de la venta (peor semana en años) indica un cambio estructural en el sentimiento, posiblemente marcando el fin de un ciclo de resiliencia post-pandemia."
+            "La crisis subraya la extrema vulnerabilidad de las economías asiáticas a shocks energéticos, amenazando la estabilidad económica y social.",
+            "Puede acelerar las inversiones en energías alternativas y estrategias de reservas estratégicas, pero a corto plazo el impacto inflacionario es severo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Bonos del Tesoro EE.UU. (ETF como TLT) / Oro",
-          "risk": "LOW",
-          "thesis": "En un entorno de fuerte aversión al riesgo y preocupación por el crecimiento, los activos refugio como los bonos a largo plazo y el oro deberían apreciarse."
+          "asset": "Futuros de gasóleo (Gasoil) / Empresas de almacenamiento y logística de combustibles en Asia",
+          "risk": "MEDIUM",
+          "thesis": "La escasez física y la presión sobre los precios al por menor apoyan los márgenes y la demanda de infraestructura de almacenamiento y distribución."
         },
         "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1588114390865?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1543399011071?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Anthropic desafía etiqueta del Pentágono",
-        "fullTitle": "Anthropic desafiará en corte etiqueta de riesgo de cadena de suministro del DOD",
+        "title": "Fondo de startups de Robinhood tropieza en debut",
+        "fullTitle": "Fondo de startups de Robinhood tiene debut débil en NYSE",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Dario Amodei, CEO de Anthropic, anunció que planea impugnar legalmente la designación del Departamento de Defensa de EE.UU. que etiqueta a la empresa de IA como un riesgo para la cadena de suministro. Amodei argumenta que la mayoría de los clientes de Anthropic no se ven afectados por esta etiqueta. El desafío pone de relieve las crecientes tensiones entre las empresas tecnológicas innovadoras y la regulación de seguridad nacional. El resultado podría sentar un precedente para otras empresas de IA.",
+        "summary": "El fondo de Robinhood que ofrece exposición a startups privadas tuvo un debut discreto en la Bolsa de Nueva York (NYSE). El fondo actualmente incluye ocho empresas como Mercor, Ramp y Stripe, con planes de expandir su cartera. El producto busca dar acceso a inversores minoristas a etapas de crecimiento privado. El tropiezo inicial refleja posible escepticismo del mercado o desafíos en la valoración de activos ilíquidos.",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "Robinhood Markets Inc.",
             "type": "entity",
-            "desc": "Empresa de IA que impugna la designación"
+            "desc": "Plataforma de trading minorista"
           },
           {
-            "label": "Departamento de Defensa (DOD)",
+            "label": "NYSE",
             "type": "entity",
-            "desc": "Agencia gubernamental que emitió la etiqueta"
+            "desc": "Bolsa de Valores de Nueva York"
           },
           {
-            "label": "IA (Inteligencia Artificial)",
+            "label": "Startups (Mercor, Ramp, Stripe)",
+            "type": "entity",
+            "desc": "Empresas tecnológicas privadas en cartera del fondo"
+          },
+          {
+            "label": "Inversión minorista en activos privados",
             "type": "tech",
-            "desc": "Tecnología central en la disputa"
+            "desc": "Nuevo producto financiero que democratiza el acceso a capital privado"
           },
           {
-            "label": "Riesgo Cadena de Suministro",
+            "label": "Riesgo de liquidez y valoración",
             "type": "risk",
-            "desc": "Etiqueta regulatoria en disputa"
-          },
-          {
-            "label": "Litigio Regulatorio",
-            "type": "risk",
-            "desc": "Ruta elegida por la empresa"
+            "desc": "Dificultad para valorar y negociar participaciones en empresas no cotizadas"
           }
         ],
         "analysis": {
           "strategic": [
-            "El litigio muestra la voluntad de las grandes empresas de IA de confrontar directamente a las agencias de seguridad nacional, buscando definir los límites de la regulación tecnológica.",
-            "Una victoria de Anthropic podría debilitar una herramienta clave del gobierno para controlar la difusión de tecnologías sensibles, mientras que una derrota impondría mayores costos de cumplimiento al sector."
+            "El debut débil cuestiona el apetito del inversor minorista por productos complejos que replican el capital riesgo, especialmente en un entorno de tipos altos.",
+            "Si el fondo gana tracción, podría cambiar el panorama de la financiación de startups, pero primero debe superar las dudas sobre transparencia y valoración."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (Privado) / Sector IA sensible (índices relacionados)",
+          "asset": "HOOD (Robinhood Markets Inc.)",
           "risk": "HIGH",
-          "thesis": "El litigio prolongado y costoso contra el DOD genera incertidumbre regulatoria, puede disuadir a clientes institucionales y desviar recursos de I+D, impactando la valoración."
+          "thesis": "El fracaso en lanzar nuevos productos de crecimiento podría limitar sus fuentes de ingresos futuras y refleja dificultades para innovar más allá del trading básico."
         },
         "confidence": 82,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1585980722699?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1536448032262?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Startup usa IA para due diligence en M&A",
-        "fullTitle": "DiligenceSquared usa agentes de voz con IA para investigación en M&A",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La startup DiligenceSquared está utilizando agentes de voz impulsados por inteligencia artificial para realizar entrevistas con clientes de empresas objetivo de adquisición. Este enfoque busca hacer que la investigación de due diligence en fusiones y adquisiciones sea más asequible, compitiendo con el modelo tradicional de consultores de gestión costosos. La tecnología automatiza una parte clave del proceso de evaluación. Esto podría democratizar el acceso a análisis profundos para fondos de capital privado más pequeños.",
+        "title": "X prueba formato de anuncio con productos",
+        "fullTitle": "X prueba nuevo formato de anuncio que conecta publicaciones con productos",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "La plataforma X (antes Twitter) está probando un nuevo formato publicitario que conecta publicaciones orgánicas con productos. Una prueba actual promociona Starlink, la empresa de satélites de Elon Musk, bajo contenido original. El formato busca integrar anuncios de manera más orgánica en el flujo de contenido. Representa un esfuerzo por diversificar y mejorar la efectividad de los ingresos por publicidad en la plataforma.",
         "relations": [
           {
-            "label": "DiligenceSquared",
+            "label": "X (Twitter)",
             "type": "entity",
-            "desc": "Startup que ofrece la solución"
+            "desc": "Plataforma de redes sociales y microblogging"
           },
           {
-            "label": "Agentes de Voz con IA",
+            "label": "Starlink",
+            "type": "entity",
+            "desc": "Servicio de internet por satélite de SpaceX"
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "CEO de X, Tesla y SpaceX"
+          },
+          {
+            "label": "Publicidad nativa integrada",
             "type": "tech",
-            "desc": "Tecnología central de la solución"
+            "desc": "Formato de anuncio que se mezcla con contenido orgánico"
           },
           {
-            "label": "Due Diligence",
+            "label": "Riesgo de percepción del usuario",
             "type": "risk",
-            "desc": "Proceso de investigación en M&A que se automatiza"
-          },
-          {
-            "label": "Capital Privado (PE)",
-            "type": "entity",
-            "desc": "Cliente principal del servicio"
-          },
-          {
-            "label": "Consultoría de Gestión",
-            "type": "entity",
-            "desc": "Sector tradicional desafiado"
+            "desc": "Posible rechazo por exceso de comercialización del feed"
           }
         ],
         "analysis": {
           "strategic": [
-            "La automatización de la due diligence mediante IA amenaza el modelo de negocio de alto valor de las firmas de consultoría tradicionales en el espacio de M&A, presionando sus márgenes.",
-            "Esta innovación podría aumentar la velocidad y reducir los costos de las transacciones, potencialmente impulsando el volumen de M&A al hacer la investigación profunda accesible a más compradores."
+            "X intenta crear nuevos flujos de ingresos publicitarios tras la huida de muchos anunciantes tradicionales, apostando por formatos más intrusivos pero potencialmente efectivos.",
+            "El uso de Starlink en la prueba sugiere una estrategia inicial de promoción cruzada entre las empresas de Musk, antes de abrirlo a terceros."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Sector de Software Financiero/RegTech (ETF como FINX)",
-          "risk": "MEDIUM",
-          "thesis": "La adopción de IA para automatizar procesos financieros complejos como la due diligence es una tendencia estructural de crecimiento, beneficiando a empresas que desarrollan o utilizan estas herramientas."
+          "asset": "Empresas de publicidad nativa / Tecnología de comercio social",
+          "risk": "HIGH",
+          "thesis": "Si X tiene éxito, podría impulsar una tendencia más amplia hacia formatos publicitarios de 'comercio contextual' integrado en redes sociales."
         },
-        "confidence": 87,
+        "confidence": 80,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1524334503680?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1647547499449?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "CEO de Cluely admite mentir sobre ingresos",
-        "fullTitle": "CEO de Cluely admite públicamente haber mentido sobre cifras de ingresos",
+        "title": "Nintendo demanda a EE.UU. por reembolso de aranceles",
+        "fullTitle": "Nintendo demanda al gobierno de EE.UU. para reclamar reembolso de aranceles",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Roy Lee, fundador y CEO de Cluely, admitió públicamente en la red social X que mintió sobre las cifras de ingresos recurrentes anuales de la compañía el verano pasado. La cifra compartida de 7 millones de dólares era falsa. Esta admisión representa una grave crisis de gobernanza y credibilidad para la startup. Es probable que desencadene investigaciones regulatorias, acciones legales y una pérdida total de confianza de inversores y socios.",
+        "impactLevel": "MEDIUM",
+        "summary": "Nintendo ha presentado una demanda contra el gobierno de Estados Unidos para reclamar el reembolso de aranceles pagados. La acción legal sigue a una decisión del Tribunal Supremo que anuló parte de los amplios aranceles presidenciales que afectaron a Nintendo y miles de otras empresas. La empresa busca recuperar los pagos realizados bajo reglas consideradas ilegales. El caso podría sentar un precedente para otras compañías en situaciones similares.",
         "relations": [
           {
-            "label": "Cluely",
+            "label": "Nintendo Co., Ltd.",
             "type": "entity",
-            "desc": "Startup afectada por el fraude declarativo"
+            "desc": "Compañía japonesa de videojuegos y consolas"
           },
           {
-            "label": "Roy Lee",
+            "label": "Gobierno de Estados Unidos",
             "type": "entity",
-            "desc": "CEO que admitió la falsificación"
+            "desc": "Departamento de Comercio y Aduanas (CBP)"
           },
           {
-            "label": "Fraude Financiero",
+            "label": "Tribunal Supremo de EE.UU.",
+            "type": "entity",
+            "desc": "Corte que dictaminó contra los aranceles presidenciales"
+          },
+          {
+            "label": "Aranceles comerciales",
             "type": "risk",
-            "desc": "Naturaleza del evento (mentir sobre ingresos)"
+            "desc": "Impuestos de importación que afectan a cadenas de suministro globales"
           },
           {
-            "label": "Gobernanza Corporativa",
+            "label": "Precedente legal corporativo",
             "type": "risk",
-            "desc": "Fallo grave en la supervisión y transparencia"
-          },
-          {
-            "label": "Inversores en Startups",
-            "type": "entity",
-            "desc": "Parte afectada que potencialmente fue engañada"
+            "desc": "Caso que podría animar a más empresas a reclamar reembolsos"
           }
         ],
         "analysis": {
           "strategic": [
-            "El caso expone los riesgos extremos de inversión en startups privadas, donde la información financiera no auditada y la exageración ('fake it till you make it') pueden cruzar la línea hacia el fraude.",
-            "Este incidente probablemente lleve a un escrutinio regulatorio mucho más estricto sobre las declaraciones financieras de startups no públicas y a una mayor diligencia debida por parte de los capitalistas de riesgo."
+            "Nintendo aprovecha una apertura legal para recuperar costes y mejorar su margen, en un movimiento que también presiona contra futuras medidas arancelarias arbitrarias.",
+            "El caso refleja cómo las grandes corporaciones multinacionales están dispuestas a litigar para proteger sus cadenas de suministro y rentabilidad frente al proteccionismo."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Cluely (Privado) / Fondos de VC expuestos a Cluely",
-          "risk": "HIGH",
-          "thesis": "La admisión de fraude por parte del CEO destruye la valoración de la empresa, hace inevitable una investigación de la SEC, y probablemente lleve a su desaparición o a una reestructuración total."
+          "action": "LONG",
+          "asset": "NTDOY (Nintendo Co., Ltd.)",
+          "risk": "LOW",
+          "thesis": "Un resultado favorable podría generar un reembolso de efectivo significativo y no recurrente, mejorando el balance y posiblemente liberando recursos para dividendos o inversión."
         },
-        "confidence": 95,
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1612204964056?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1615803319972?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
