@@ -1,858 +1,843 @@
 {
-  "generated_at": "2026-03-10T02:13:42.140937",
+  "generated_at": "2026-03-11T02:11:26.864959",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "印度央行干预汇债市",
-        "fullTitle": "印度央行或加大干预汇债市以应对油价波动",
+        "title": "越南动用燃料基金稳价",
+        "fullTitle": "越南动用燃料基金稳定价格以应对短缺风险",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "分析师指出，由于原油价格波动加剧了通胀上行风险，并可能对政府财政构成压力，印度储备银行可能在货币和债券市场扮演更积极的角色。这表明央行将采取防御性措施以稳定本币汇率和国内债券市场。此举旨在缓冲外部冲击对印度经济基本面的影响。",
+        "summary": "越南政府为缓冲消费者免受燃料成本急剧上涨的影响，动用了国家燃料基金。此举源于中东冲突加剧了全球能源供应担忧，可能导致短缺风险。该行动旨在短期内稳定国内燃油市场价格，减轻社会压力。",
         "relations": [
           {
-            "label": "印度储备银行",
+            "label": "越南",
             "type": "entity",
-            "desc": "印度中央银行，负责货币政策与金融稳定"
+            "desc": "采取干预措施的国家主体"
           },
           {
-            "label": "卢比",
+            "label": "燃料基金",
             "type": "resource",
-            "desc": "印度法定货币，面临贬值压力"
+            "desc": "用于平抑价格的财政工具"
           },
           {
-            "label": "原油价格",
-            "type": "resource",
-            "desc": "关键大宗商品，波动影响印度通胀与财政"
-          },
-          {
-            "label": "通货膨胀风险",
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "因输入性成本上升引发的物价上涨风险"
+            "desc": "引发全球能源供应担忧的地缘政治风险"
+          },
+          {
+            "label": "能源供应",
+            "type": "resource",
+            "desc": "面临中断风险的关键资源"
+          },
+          {
+            "label": "价格稳定",
+            "type": "risk",
+            "desc": "政府干预市场的政策目标"
           }
         ],
         "analysis": {
           "strategic": [
-            "印度央行干预行为可能引发新兴市场央行连锁反应，需关注其外汇储备消耗速度。",
-            "此举可能为做多印度国债提供短期窗口，因央行购债将提供流动性支持。"
+            "越南的干预行为表明新兴市场对能源价格波动的高度脆弱性，可能引发其他类似经济体的效仿。",
+            "此举短期可缓解社会压力，但长期消耗财政储备，并可能扭曲市场信号，影响能源转型步伐。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "USD/INR",
+          "asset": "越南相关能源进口企业股票",
           "risk": "MEDIUM",
-          "thesis": "印度央行直接干预汇市将暂时抑制卢比贬值，但若油价持续高位，干预效果有限且消耗外储，中期卢比仍承压。"
+          "thesis": "政府价格管制和基金消耗可能挤压相关企业的利润空间，增加其运营不确定性。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1546619889481?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1558119592535?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Carmignac支持维权基金施压LG化学",
-        "fullTitle": "Carmignac支持Palliser在LG化学股东大会的维权行动",
+        "title": "原油储备报告提振股市",
+        "fullTitle": "原油储备释放报告提振市场信心，股市上涨油价跌破90",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "法国资产管理公司Carmignac Gestion宣布支持英国维权基金Palliser Capital的行动，旨在推动韩国LG化学改善公司治理并提升股东价值。这标志着国际投资者对韩国大型企业治理结构的关注度上升。维权行动可能在年度股东大会上引发管理层与投资者的博弈。",
+        "summary": "一份关于释放原油储备以缓解高能源价格的报告提振了市场信心，推动股市延续涨势。同时，原油价格交易于每桶90美元下方。这表明市场对供应端干预措施抱有积极预期，暂时缓解了通胀焦虑。",
         "relations": [
           {
-            "label": "Carmignac Gestion",
-            "type": "entity",
-            "desc": "法国知名资产管理公司，支持维权行动"
+            "label": "原油储备释放",
+            "type": "resource",
+            "desc": "旨在增加供应、平抑价格的政府干预行动"
           },
           {
-            "label": "Palliser Capital",
+            "label": "股市",
             "type": "entity",
-            "desc": "英国维权投资基金，推动公司变革"
+            "desc": "对流动性及增长预期敏感的风险资产"
           },
           {
-            "label": "LG化学",
-            "type": "entity",
-            "desc": "韩国化工与电池巨头，面临治理改革压力"
+            "label": "WTI原油",
+            "type": "resource",
+            "desc": "价格受供应消息影响的关键大宗商品"
           },
           {
-            "label": "公司治理",
+            "label": "市场信心",
             "type": "risk",
-            "desc": "企业决策、监督与股东权益保护机制"
+            "desc": "受政策消息影响的关键情绪指标"
+          },
+          {
+            "label": "通胀预期",
+            "type": "risk",
+            "desc": "驱动资产价格的核心宏观变量"
           }
         ],
         "analysis": {
           "strategic": [
-            "国际维权资本持续关注亚洲大型企业，可能引发韩国财阀体系治理结构变革浪潮。",
-            "成功施压可能提升LG化学估值，并带动韩国同类企业（如三星、SK）的ESG与治理溢价重估。"
+            "释放战略储备是主要消费国应对短期供应冲击的标准化工具，但其效果和可持续性存疑。",
+            "市场反应显示，当前阶段对通胀的担忧暂时让位于对政策干预有效性的乐观情绪，但这种情绪可能脆弱。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "LG化学股票",
+          "asset": "标普500指数ETF",
           "risk": "MEDIUM",
-          "thesis": "维权压力可能促使公司采取提升股东回报的措施（如分红、回购），短期催化股价。但需关注管理层应对策略及改革实际进展。"
+          "thesis": "能源价格压力暂缓有利于改善企业盈利前景和消费者信心，对整体股市构成短期支撑。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1660073484184?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1515021965078?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "亚股反弹，油价下跌提振情绪",
-        "fullTitle": "特朗普暗示伊朗局势缓和，亚股反弹油价跌",
-        "classification": "UNCLASSIFIED",
+        "title": "IEA拟释储，金价上涨",
+        "fullTitle": "IEA拟最大规模释储以缓解冲击，金价随之上涨",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "亚洲股市从周一的抛售中反弹，原油价格下跌。此前美国总统特朗普暗示伊朗冲突可能接近尾声，这提振了投资者的风险偏好。地缘政治紧张局势的缓和降低了市场对能源供应中断和通胀加剧的担忧。",
+        "summary": "有报告称国际能源署提议进行有史以来最大规模的石油储备释放，以缓解中东战争引发的供应冲击。在此消息后，黄金价格上涨。这反映了市场在应对潜在政策干预时，仍寻求黄金作为避险和对冲不确定性的工具。",
         "relations": [
           {
-            "label": "亚洲股市",
+            "label": "国际能源署",
             "type": "entity",
-            "desc": "受地缘政治情绪影响的风险资产"
+            "desc": "提议协调释放石油储备的国际组织"
           },
           {
-            "label": "原油",
+            "label": "战略石油储备",
             "type": "resource",
-            "desc": "地缘政治风险溢价下降导致价格回落"
+            "desc": "用于应对紧急情况的石油库存"
           },
           {
-            "label": "特朗普",
-            "type": "entity",
-            "desc": "美国总统，言论影响市场情绪"
+            "label": "黄金",
+            "type": "resource",
+            "desc": "传统避险资产"
           },
           {
-            "label": "地缘政治风险",
+            "label": "供应冲击",
             "type": "risk",
-            "desc": "伊朗局势引发的市场不确定性"
+            "desc": "由地缘冲突引发的突然供应中断"
+          },
+          {
+            "label": "地缘政治不确定性",
+            "type": "risk",
+            "desc": "驱动避险资产需求的核心因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "市场对地缘政治言论高度敏感，但局势反复风险仍存，需警惕情绪快速逆转。",
-            "油价回落若持续，将缓解全球主要经济体的通胀压力，为央行货币政策提供更多空间。"
+            "IEA的激进提议凸显了主要经济体对能源安全危机的严重关切，标志着危机应对机制的升级。",
+            "金价在释储消息后上涨是矛盾信号，表明市场认为此类干预无法根本解决地缘政治风险，长期不确定性依然高企。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "MSCI亚太指数基金",
-          "risk": "MEDIUM",
-          "thesis": "地缘风险溢价短期消退，资金可能回流亚太等风险资产，推动指数技术性反弹。但反弹持续性取决于基本面与局势实际进展。"
+          "asset": "黄金ETF",
+          "risk": "LOW",
+          "thesis": "地缘政治紧张局势持续，且大规模政策干预本身增加了市场复杂性，黄金的避险属性将继续获得支撑。"
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1664374639092?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Kalshi为Threads新增分享功能",
+        "fullTitle": "Kalshi为Meta旗下Threads新增预测市场图表分享功能",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "预测市场平台Kalshi新增了一项分享功能，该功能可自动将相关预测市场图表嵌入到Meta旗下社交应用Threads的帖子中。这被视为对Threads平台的一次信心投票，旨在促进内容分享和用户互动。",
+        "relations": [
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "美国受监管的预测市场平台"
+          },
+          {
+            "label": "Meta",
+            "type": "entity",
+            "desc": "Threads应用的母公司，科技巨头"
+          },
+          {
+            "label": "Threads",
+            "type": "tech",
+            "desc": "Meta旗下的社交媒体应用"
+          },
+          {
+            "label": "预测市场",
+            "type": "tech",
+            "desc": "用于对未来事件结果进行投注的市场"
+          },
+          {
+            "label": "社交整合",
+            "type": "tech",
+            "desc": "将金融服务功能嵌入社交平台的技术趋势"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此举反映了金融科技与社交平台加速融合的趋势，旨在通过社交裂变获取用户和流量。",
+            "Kalshi选择Threads而非X，可能基于对Meta生态稳定性、用户质量或监管环境的综合判断。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Meta Platforms Inc.",
+          "risk": "LOW",
+          "thesis": "第三方重要应用（如Kalshi）的深度集成，有助于巩固Threads的生态价值，提升Meta社交矩阵的粘性。"
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1640788399248?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1554622621535?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "俄间谍iPhone黑客工具疑来自美军承包商",
-        "fullTitle": "俄间谍所用iPhone黑客工具疑源自美国防务承包商",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "谷歌发现一系列被俄罗斯间谍组织和中国网络犯罪集团使用的黑客工具。据美国防务承包商消息人士称，其中部分工具属于该公司。这揭示了国家级网络攻击工具可能通过未知渠道外流，并被敌对国家利用。事件涉及商业、政府与国家安全的多重边界。",
+        "title": "谷歌特斯拉联手挑战电网管理模式",
+        "fullTitle": "谷歌特斯拉等公司联手推出Utilize挑战电网管理模式",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "谷歌和特斯拉联合其他公司推出了名为“Utilize”的倡议，旨在改变电网的使用和监管方式。他们认为当前的电网管理方式存在根本性问题，该倡议寻求推动技术和商业模式的创新，以优化电网效率和灵活性。",
         "relations": [
           {
-            "label": "俄罗斯间谍组织",
+            "label": "谷歌",
             "type": "entity",
-            "desc": "使用疑似源自美国的黑客工具进行活动"
+            "desc": "科技巨头，在数据中心和可再生能源领域有重大投入"
           },
           {
-            "label": "美国防务承包商",
+            "label": "特斯拉",
             "type": "entity",
-            "desc": "疑似黑客工具的来源方，涉及敏感技术外泄"
+            "desc": "电动汽车和储能系统领导者"
           },
           {
-            "label": "网络攻击工具",
+            "label": "Utilize",
             "type": "tech",
-            "desc": "用于入侵iPhone等设备的恶意软件套件"
+            "desc": "旨在改革电网管理的行业倡议"
           },
           {
-            "label": "供应链安全风险",
+            "label": "电网管理",
+            "type": "tech",
+            "desc": "电力系统的调度、运行与监管体系"
+          },
+          {
+            "label": "能源转型",
             "type": "risk",
-            "desc": "国防供应链漏洞导致敏感技术扩散"
+            "desc": "推动电网改革的根本驱动力"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件将加剧美俄、美中在网络空间的互信危机，并可能引发美国政府对国防供应链的严厉审查与收缩。",
-            "科技公司（如苹果）面临更大压力以提升设备安全性，网络安全板块可能获得政策与需求双重驱动。"
+            "科技与能源巨头联盟，标志着产业资本开始系统性挑战传统电力行业的运营范式，可能引发监管框架重塑。",
+            "该倡议的核心是利用分布式能源、数据和AI算法实现电网的动态优化，这是构建未来智能电网和虚拟电厂的关键一步。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "网络安全ETF (如HACK)",
+          "asset": "智能电网及储能相关ETF",
           "risk": "MEDIUM",
-          "thesis": "国家级网络工具泄露事件将强化政府与企业对网络安全投入的紧迫性，长期利好网络安全行业需求。"
+          "thesis": "行业领军企业推动的范式变革，将加速电网数字化和柔性化投资，利好相关技术及设备供应商。"
         },
         "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1696015324335?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1592879171593?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Archer反诉Joby隐瞒中国关联",
-        "fullTitle": "电动空中出租车商Archer反诉Joby隐瞒中国关联",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "电动空中出租车制造商Archer对竞争对手Joby提起反诉，指控其隐瞒与中国的关系。此次反诉发生在Joby起诉Archer涉嫌“商业间谍活动”四个月后。这表明新兴的电动垂直起降飞行器行业竞争白热化，且地缘政治因素（中国关联）成为商业攻防的武器。",
+        "title": "亚马逊推出医疗健康AI助手",
+        "fullTitle": "亚马逊在其网站和应用上推出医疗健康AI助手",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "亚马逊在其官网和移动应用上推出了名为“Health AI”的医疗健康人工智能助手。该助手能够回答健康问题、解释健康记录、管理处方续签、预约挂号等。这是亚马逊深化医疗健康领域布局的重要一步。",
         "relations": [
           {
-            "label": "Archer Aviation",
+            "label": "亚马逊",
             "type": "entity",
-            "desc": "电动空中出租车初创公司，提起反诉"
+            "desc": "科技与零售巨头，积极拓展医疗健康业务"
           },
           {
-            "label": "Joby Aviation",
+            "label": "Health AI",
+            "type": "tech",
+            "desc": "亚马逊推出的医疗健康人工智能助手"
+          },
+          {
+            "label": "医疗健康",
             "type": "entity",
-            "desc": "Archer的竞争对手，此前起诉对方商业间谍"
+            "desc": "亚马逊战略布局的关键垂直领域"
           },
           {
-            "label": "商业间谍",
-            "type": "risk",
-            "desc": "初创企业间围绕核心技术的不正当竞争风险"
+            "label": "人工智能助手",
+            "type": "tech",
+            "desc": "基于大语言模型的交互式服务工具"
           },
           {
-            "label": "中国关联",
-            "type": "risk",
-            "desc": "在美科技公司面临的地缘政治审查风险"
+            "label": "数字医疗",
+            "type": "tech",
+            "desc": "利用技术提供医疗服务和信息的新兴市场"
           }
         ],
         "analysis": {
           "strategic": [
-            "诉讼战凸显eVTOL行业技术壁垒与人才争夺激烈，可能延缓行业整体商业化进程并增加融资成本。",
-            "“中国关联”成为美国科技公司竞争中的敏感指控，可能引发投资人对该领域公司供应链与背景的更严格审查。"
+            "亚马逊将AI助手直接集成到其消费者触点，旨在通过便捷服务获取用户信任和健康数据，构建医疗生态入口。",
+            "此举加剧了科技巨头在医疗AI应用层的竞争，可能改变患者获取初级医疗信息和服务的渠道与习惯。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Joby Aviation 股票",
+          "asset": "传统远程医疗及医疗信息平台个股",
           "risk": "HIGH",
-          "thesis": "反诉带来的负面舆论与潜在调查可能打击投资者信心，短期内加剧股价波动。行业内部恶性竞争也增加了单个公司的运营与法律风险。"
+          "thesis": "亚马逊凭借其巨大的用户基数和技术能力进入，可能对现有专注于线上问诊或医疗信息服务的平台构成直接冲击。"
         },
         "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1608282909411?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Founders Fund新募资近60亿美元",
-        "fullTitle": "Founders Fund新成长基金募资近60亿美元",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "消息人士称，Founders Fund即将完成其最新成长基金的募集，规模接近60亿美元。此次募资距离其第三只成长基金（规模46亿美元）关闭不到一年。新基金将继续专注于对其成功的后期公司进行追加投资。这表明顶级风投对头部科技公司长期价值的坚定看好，并拥有充足弹药。",
-        "relations": [
-          {
-            "label": "Founders Fund",
-            "type": "entity",
-            "desc": "美国知名风险投资机构，由彼得·蒂尔联合创立"
-          },
-          {
-            "label": "成长基金",
-            "type": "entity",
-            "desc": "专注于投资后期阶段公司的私募基金"
-          },
-          {
-            "label": "后期投资",
-            "type": "risk",
-            "desc": "对相对成熟公司的投资，估值较高，退出依赖公开市场"
-          },
-          {
-            "label": "私募市场流动性",
-            "type": "resource",
-            "desc": "大量资本涌入为未上市科技公司提供资金支持"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "巨额资金持续涌入头部风投，将进一步推高优质后期科技公司的估值，加剧一级市场“资产荒”。",
-            "Founders Fund等机构的持续加仓，为其投资组合公司提供了抵御公开市场波动的“护城河”，但可能延迟IPO进程。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Founders Fund投资组合相关ETF或指数",
-          "risk": "LOW",
-          "thesis": "顶级风投的巨额后续融资为其已投头部公司提供了强大的资金背书和估值支撑，长期看好其投资组合的整体质量与抗风险能力。"
-        },
-        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1589944705372?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1658693237722?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "RBI Supports Rupee, Bonds",
-        "fullTitle": "India's RBI Steps Up Support for Rupee, Bonds as Oil Swings",
+        "title": "Vietnam Uses Fund to Stabilize Fuel",
+        "fullTitle": "Vietnam Taps Fuel Fund to Steady Prices Amid Risks of Shortages",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Analysts indicate that India's central bank, the Reserve Bank of India (RBI), is likely to increase its intervention in both currency and bond markets. This action is a response to volatility in crude oil prices, which elevates the risk of higher inflation. Such inflationary pressures could strain government finances, prompting the RBI to take a more active role in market stabilization.",
+        "summary": "Vietnam is intervening in its domestic fuel market using a national fuel fund to cushion consumers from sharp price increases. This action is a direct response to growing concerns over global energy supply disruptions stemming from the Middle East conflict. The move highlights government-level efforts to manage inflation and social stability risks. It signals potential pressure on state finances and a reactive posture to external energy shocks.",
         "relations": [
           {
-            "label": "Reserve Bank of India (RBI)",
+            "label": "Vietnam",
             "type": "entity",
-            "desc": "India's central bank, key market regulator and monetary authority."
+            "desc": "Government intervening in energy market"
           },
           {
-            "label": "Indian Rupee (INR)",
-            "type": "asset",
-            "desc": "Indian national currency, subject to RBI intervention."
-          },
-          {
-            "label": "Crude Oil",
+            "label": "Fuel Fund",
             "type": "resource",
-            "desc": "Key commodity, price volatility drives inflation and fiscal risk."
+            "desc": "National stabilization mechanism"
           },
           {
-            "label": "Government Bonds",
-            "type": "asset",
-            "desc": "Indian sovereign debt, market stability is a key RBI concern."
-          },
-          {
-            "label": "Inflation Risk",
+            "label": "Middle East Conflict",
             "type": "risk",
-            "desc": "Primary economic threat from oil price swings, impacting policy."
+            "desc": "Source of global energy supply risk"
+          },
+          {
+            "label": "Energy Supplies",
+            "type": "resource",
+            "desc": "Global market under disruption pressure"
           }
         ],
         "analysis": {
           "strategic": [
-            "The RBI's potential dual-market intervention (FX and bonds) signals a coordinated defense against imported inflation and fiscal deterioration, prioritizing macroeconomic stability over pure currency levels.",
-            "Persistent oil volatility forces emerging market central banks like the RBI into a reactive, defensive posture, potentially limiting policy options for domestic growth if interventions become sustained."
+            "Sovereign interventions to cap energy prices may temporarily suppress inflation but could distort markets and strain fiscal resources.",
+            "Escalation in the Middle East is triggering cascading national security responses focused on essential commodity stability."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "INR/USD",
+          "asset": "Vietnamese Government Bonds (VGBs)",
           "risk": "MEDIUM",
-          "thesis": "Despite RBI support, fundamental pressures from high oil prices and a widening trade deficit are structurally negative for the rupee. Intervention may slow but not reverse depreciation trends."
+          "thesis": "Fiscal strain from fuel subsidies and price controls could weaken the state's financial position and increase bond yield pressure."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1604145815301?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1599928523290?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Carmignac Backs LG Chem Activism",
-        "fullTitle": "Carmignac to Support Activist Palliser’s LG Chem Campaign at AGM",
+        "title": "Stocks Rise as Oil Dips Below $90",
+        "fullTitle": "Stocks Advance as Oil Below $90 Lifts Sentiment: Markets Wrap",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "French asset manager Carmignac Gestion is publicly aligning with UK-based activist fund Palliser Capital in its campaign targeting South Korean chemical giant LG Chem. The campaign aims to improve corporate governance and enhance shareholder value. This alliance increases the pressure on LG Chem's management ahead of its Annual General Meeting (AGM).",
+        "summary": "Global equity markets extended gains as oil prices traded below $90 per barrel. The positive sentiment was fueled by reports of a coordinated crude reserve release aimed at easing high energy prices. This indicates a strong inverse correlation between energy costs and broader market risk appetite in the current environment. The market is responding positively to perceived government actions to mitigate an energy-driven inflation shock.",
         "relations": [
-          {
-            "label": "Carmignac Gestion",
-            "type": "entity",
-            "desc": "Major European asset manager, lending credibility to activist campaign."
-          },
-          {
-            "label": "Palliser Capital",
-            "type": "entity",
-            "desc": "UK-based activist investment fund, initiating governance campaign."
-          },
-          {
-            "label": "LG Chem Ltd.",
-            "type": "entity",
-            "desc": "South Korean chemical and battery giant, target of activist pressure."
-          },
-          {
-            "label": "Corporate Governance",
-            "type": "risk",
-            "desc": "Core focus of activist campaign, potential for operational changes."
-          },
-          {
-            "label": "Shareholder Value",
-            "type": "risk",
-            "desc": "Stated goal of activism, may involve capital allocation or spin-off demands."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The coalition between a European institutional manager (Carmignac) and a dedicated activist (Palliser) represents a potent model for driving change in Asian conglomerates, signaling a rise in cross-border shareholder activism.",
-            "Pressure on LG Chem highlights the growing scrutiny on the governance and capital efficiency of Korean chaebols, particularly those with valuable battery/IP assets perceived as undervalued within conglomerate structures."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "LG Chem Ltd. (051910 KS)",
-          "risk": "MEDIUM",
-          "thesis": "Successful activist pressure is likely to unlock shareholder value through improved governance, potential restructuring, or clearer capital return policies, leading to a re-rating of the stock."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1510466978102?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Asia Stocks Rebound on Oil Drop",
-        "fullTitle": "Stocks Jump After Drop in Oil Shores Up Sentiment: Markets Wrap",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Asian equity markets recovered from losses experienced on Monday. The rebound was driven by a decline in crude oil prices and improved investor sentiment. This sentiment shift followed signals from former US President Donald Trump that the Iran conflict might be de-escalating, reducing geopolitical risk premiums.",
-        "relations": [
-          {
-            "label": "Asian Equities",
-            "type": "asset",
-            "desc": "Broad regional stock indices, sensitive to oil prices and geopolitics."
-          },
           {
             "label": "Crude Oil",
             "type": "resource",
-            "desc": "Key market driver, price drop eased inflation and growth concerns."
+            "desc": "Trading below key $90/barrel level"
           },
           {
-            "label": "Geopolitical Risk",
-            "type": "risk",
-            "desc": "Factor driving market volatility, specifically related to Iran tensions."
+            "label": "Strategic Petroleum Reserves",
+            "type": "resource",
+            "desc": "Reported source of supply release"
           },
           {
-            "label": "Investor Sentiment",
+            "label": "Market Sentiment",
             "type": "risk",
-            "desc": "Market psychology, improved by perceived reduction in conflict risk."
+            "desc": "Improved by lower energy price outlook"
+          },
+          {
+            "label": "Equity Markets",
+            "type": "entity",
+            "desc": "Beneficiary of reduced inflation fears"
           }
         ],
         "analysis": {
           "strategic": [
-            "Market reactions highlight the continued dominance of oil prices and US geopolitical posture as primary short-term drivers for Asian risk assets, overshadowing local fundamentals.",
-            "The sensitivity to geopolitical headlines underscores the fragile nature of the current market recovery, dependent on stable or falling commodity prices and absence of major conflict."
+            "Coordinated reserve releases are a key tool for major economies to manage oil price spikes and associated economic risks.",
+            "Market psychology remains highly sensitive to energy price trajectories as a primary inflation indicator."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "MSCI Asia ex-Japan Index",
-          "risk": "HIGH",
-          "thesis": "A sustained de-escalation in Middle East tensions and lower oil prices would provide relief for Asian importers and corporates, supporting a tactical rebound in regional equities, though volatility remains high."
+          "asset": "S&P 500 Index (SPX)",
+          "risk": "MEDIUM",
+          "thesis": "Reduced energy price pressure alleviates near-term inflation and recession fears, supporting equity valuations."
         },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1546506933315?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1612019706920?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Russian Hacking Tools from US Firm",
-        "fullTitle": "iPhone-hacking toolkit used by Russian spies likely from US contractor",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Google's Threat Analysis Group identified hacking tools deployed by a Russian espionage group and a Chinese cybercriminal group. According to sources, some of these advanced tools, including an iPhone-hacking toolkit, originated from a US government defense contractor. This suggests potential leakage or theft of sensitive cyber capabilities.",
+        "title": "Gold Rises on Oil Reserve Release Plan",
+        "fullTitle": "Gold Rises After Report of Oil-Stockpile Release to Ease Shock",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Gold prices advanced following a report that the International Energy Agency (IEA) is proposing the largest-ever release of oil reserves. This action aims to ease the supply shock caused by the war in the Middle East. The gold market is interpreting the potential oil release not as a pure risk-off event, but as an inflationary mitigation measure that preserves fiat currency value. The move underscores gold's role as a hedge against policy responses to geopolitical crises.",
         "relations": [
           {
-            "label": "Russian Espionage Group",
+            "label": "Gold",
+            "type": "resource",
+            "desc": "Safe-haven asset rising on policy news"
+          },
+          {
+            "label": "International Energy Agency (IEA)",
             "type": "entity",
-            "desc": "State-sponsored hacking entity, user of sophisticated tools."
+            "desc": "Proposing major coordinated oil reserve release"
           },
           {
-            "label": "US Defense Contractor",
-            "type": "entity",
-            "desc": "Purported original developer/source of the hacking tools."
+            "label": "Oil Reserves",
+            "type": "resource",
+            "desc": "Potential source of supply to offset shock"
           },
           {
-            "label": "Cyber Capability Leak",
+            "label": "Middle East War",
             "type": "risk",
-            "desc": "Critical security breach, tools transferred to adversarial states."
-          },
-          {
-            "label": "iPhone Zero-Day",
-            "type": "tech",
-            "desc": "High-value exploit targeting Apple devices, indicates tool sophistication."
-          },
-          {
-            "label": "Supply Chain Security",
-            "type": "risk",
-            "desc": "Major vulnerability highlighted in defense/tech contractor ecosystems."
+            "desc": "Geopolitical driver of commodity volatility"
           }
         ],
         "analysis": {
           "strategic": [
-            "The proliferation of advanced US-developed cyber tools to adversaries represents a severe counter-intelligence failure and directly empowers geopolitical rivals, blurring the lines between state and criminal cyber threats.",
-            "This incident will force a major reassessment of security protocols within the US defense industrial base and likely lead to stricter controls and oversight on cyber weapon development and storage."
+            "Gold is reacting to the *character* of policy interventions (inflation-fighting) rather than just the underlying geopolitical risk.",
+            "Unprecedented stockpile releases signal a heightened level of concern among Western nations regarding energy security and economic stability."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Cybersecurity Sector (e.g., CRWD, PANW)",
+          "asset": "Gold Futures (GC)",
           "risk": "LOW",
-          "thesis": "High-profile breaches of national security-linked tools will accelerate demand for advanced threat detection, zero-trust architectures, and supply chain security solutions, benefiting leading cybersecurity firms."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1637569757195?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Arther Countersues Joby Over China Ties",
-        "fullTitle": "Archer hits back at Joby in countersuit alleging concealed Chinese ties",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Electric air taxi developer Archer Aviation has filed a countersuit against rival Joby Aviation. The legal action alleges that Joby concealed its own connections to China during a prior lawsuit where Joby accused Archer of corporate espionage. This escalates a bitter legal and competitive battle in the nascent eVTOL (electric vertical take-off and landing) industry.",
-        "relations": [
-          {
-            "label": "Archer Aviation",
-            "type": "entity",
-            "desc": "eVTOL developer, defendant in original suit, now plaintiff in countersuit."
-          },
-          {
-            "label": "Joby Aviation",
-            "type": "entity",
-            "desc": "eVTOL rival, original plaintiff, now accused of misleading the court."
-          },
-          {
-            "label": "Corporate Espionage",
-            "type": "risk",
-            "desc": "Core allegation in the original lawsuit, involving intellectual property theft."
-          },
-          {
-            "label": "China Ties",
-            "type": "risk",
-            "desc": "Geopolitical and regulatory risk factor in the countersuit allegations."
-          },
-          {
-            "label": "eVTOL Market",
-            "type": "tech",
-            "desc": "Emerging industry for electric air taxis, subject to intense competition."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The legal warfare between Archer and Joby signals that competition in the high-stakes eVTOL market is intensifying beyond technology to include aggressive legal and reputational tactics, potentially slowing industry maturation.",
-            "Allegations of concealed China ties weaponize geopolitical scrutiny, indicating that supply chain and investment origins will be critical vulnerabilities and attack vectors in competitions for US certification and market share."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Joby Aviation (JOBY)",
-          "risk": "HIGH",
-          "thesis": "The countersuit introduces significant legal, reputational, and potential regulatory risks for Joby. If allegations gain traction, they could delay certification, partnerships, and funding, negatively impacting the stock."
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1697649616612?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Founders Fund Nears $6B Fund Close",
-        "fullTitle": "Founders Fund nears $6B close for latest growth fund, sources say",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Peter Thiel's Founders Fund is close to finalizing a new $6 billion growth-stage investment fund. This massive fundraise comes less than a year after the firm closed its previous $4.6 billion growth fund. The capital is intended primarily for follow-on investments in its successful late-stage portfolio companies.",
-        "relations": [
-          {
-            "label": "Founders Fund",
-            "type": "entity",
-            "desc": "Venture capital firm founded by Peter Thiel, raising significant capital."
-          },
-          {
-            "label": "Growth-Stage Investing",
-            "type": "entity",
-            "desc": "Investment focus area, targeting mature, scaling private companies."
-          },
-          {
-            "label": "Late-Stage Companies",
-            "type": "entity",
-            "desc": "Primary investment targets for the new fund, existing portfolio winners."
-          },
-          {
-            "label": "Private Market Liquidity",
-            "type": "risk",
-            "desc": "Large funds provide capital for companies staying private longer."
-          },
-          {
-            "label": "VC Dry Powder",
-            "type": "resource",
-            "desc": "Deployable capital, signaling continued aggressive investment appetite."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The rapid succession of mega-funds at Founders Fund demonstrates a strategy of concentrated, large-scale capital deployment into perceived 'winner' companies, aiming to dominate ownership and returns in a narrowing field of late-stage winners.",
-            "This fundraise signals strong LP confidence in Thiel's model and underscores the ongoing accumulation of massive 'dry powder' in private markets, which may delay IPO timelines and inflate late-stage valuations further."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Founders Fund Portfolio (Late-Stage Unicorns)",
-          "risk": "MEDIUM",
-          "thesis": "The fund's strategy of doubling down on its best performers provides these late-stage companies with ample capital to cement dominance, making them stronger candidates for eventual successful public listings or M&A."
-        },
-        "confidence": 88,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1503308171463?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
-      }
-    ],
-    "es": [
-      {
-        "title": "RBI India apoya rupia y bonos",
-        "fullTitle": "RBI India intensifica apoyo a rupia y bonos ante volatilidad del petróleo",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El Banco de la Reserva de India (RBI) podría aumentar su intervención en los mercados de divisas y bonos. La volatilidad en los precios del crudo eleva el riesgo de una mayor inflación. Esta presión inflacionaria podría afectar las finanzas gubernamentales. Los analistas anticipan una postura más activa del banco central para estabilizar la economía.",
-        "relations": [
-          {
-            "label": "Reserva de la India (RBI)",
-            "type": "entity",
-            "desc": "Banco central de India"
-          },
-          {
-            "label": "Rupia india",
-            "type": "resource",
-            "desc": "Moneda nacional bajo presión"
-          },
-          {
-            "label": "Petróleo crudo",
-            "type": "resource",
-            "desc": "Commodity con alta volatilidad de precios"
-          },
-          {
-            "label": "Inflación",
-            "type": "risk",
-            "desc": "Riesgo macroeconómico principal"
-          },
-          {
-            "label": "Bonos gubernamentales indios",
-            "type": "asset",
-            "desc": "Mercado objetivo de intervención"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Mayor intervención del RBI indica preocupación por estabilidad macroeconómica y flujos de capital.",
-            "La volatilidad energética se convierte en factor clave para la política monetaria y fiscal en economías emergentes."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "INR/USD (Rupia India)",
-          "risk": "MEDIUM",
-          "thesis": "Presiones inflacionarias y déficit fiscal pueden debilitar la rupia a pesar de la intervención del banco central."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1518499466261?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Carmignac apoya activismo en LG Chem",
-        "fullTitle": "Carmignac apoya campaña activista de Palliser en LG Chem AGM",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Carmignac Gestion respalda la campaña del fondo activista Palliser Capital para mejorar la gobernanza corporativa en LG Chem Ltd. de Corea del Sur. El objetivo es incrementar el valor para los accionistas. La presión se ejercerá en la próxima Asamblea General Anual (AGM). Esto refleja un creciente activismo de inversionistas en mercados asiáticos.",
-        "relations": [
-          {
-            "label": "Carmignac Gestion",
-            "type": "entity",
-            "desc": "Gestor de activos francés"
-          },
-          {
-            "label": "Palliser Capital",
-            "type": "entity",
-            "desc": "Fondo de inversión activista con sede en UK"
-          },
-          {
-            "label": "LG Chem Ltd.",
-            "type": "entity",
-            "desc": "Conglomerado químico surcoreano objetivo"
-          },
-          {
-            "label": "Gobernanza corporativa",
-            "type": "risk",
-            "desc": "Área de presión para los activistas"
-          },
-          {
-            "label": "Valor para el accionista",
-            "type": "risk",
-            "desc": "Objetivo declarado de la campaña"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El activismo de fondos occidentales gana terreno en grandes corporaciones asiáticas, presionando por cambios estructurales.",
-            "Mayor escrutinio en gobernanza puede llevar a revalorizaciones o reestructuraciones en chaebols coreanos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "LG Chem (051910 KS)",
-          "risk": "MEDIUM",
-          "thesis": "La presión activista puede catalizar mejoras operativas y de gobierno, impulsando el precio de la acción."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1561716089858?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Acciones suben tras caída del petróleo",
-        "fullTitle": "Acciones asiáticas saltan tras caída del petróleo mejora sentimiento",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Las acciones asiáticas se recuperan de la venta masiva del lunes. La caída en el precio del crudo mejora el sentimiento de los inversores. El presidente Trump señaló que la guerra con Irán podría estar cerca de su fin. Este desarrollo geopolítico alivia los temores sobre una escalada y disrupción del suministro energético.",
-        "relations": [
-          {
-            "label": "Acciones asiáticas",
-            "type": "asset",
-            "desc": "Mercados bursátiles en recuperación"
-          },
-          {
-            "label": "Petróleo crudo (WTI/Brent)",
-            "type": "resource",
-            "desc": "Commodity cuya caída impulsa el mercado"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EE.UU., comentarios sobre Irán"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "Foco de tensión geopolítica"
-          },
-          {
-            "label": "Sentimiento del inversor",
-            "type": "risk",
-            "desc": "Factor clave en la recuperación del mercado"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los mercados financieros permanecen hipersensibles a la narrativa geopolítica y a los comentarios de figuras clave.",
-            "La estabilización del precio del petróleo actúa como un alivio para las economías importadoras de energía en Asia."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF iShares MSCI All Country Asia ex Japan (AAXJ)",
-          "risk": "MEDIUM",
-          "thesis": "Alivio geopolítico y menores costes energéticos pueden sostener una recuperación técnica en mercados asiáticos."
+          "thesis": "Gold benefits from both ongoing geopolitical uncertainty and policies aimed at containing its inflationary consequences."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1678822015502?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1583582668414?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Herramientas hackeo iPhone vinculadas a contratista EE.UU.",
-        "fullTitle": "Kit hackeo iPhone usado por espías rusos provino de contratista militar EE.UU.",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Google descubrió herramientas de hacking utilizadas por un grupo de espionaje ruso y un grupo cibercriminal chino. Fuentes de un contratista de defensa del gobierno de EE.UU. afirmaron que algunas de esas herramientas eran suyas. Esto sugiere una filtración o robo de herramientas de ciberinteligencia. El kit fue utilizado para atacar dispositivos iPhone.",
+        "title": "Kalshi Adds Share Feature for Threads",
+        "fullTitle": "In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Prediction market platform Kalshi has integrated a share feature for Meta's Threads social media platform. The feature automatically embeds relevant prediction market charts into a Threads post. This represents a strategic partnership and vote of confidence in Threads' growth and user engagement potential. It aims to increase the visibility and accessibility of prediction market data within social discourse.",
+        "relations": [
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "Prediction market platform integrating with Threads"
+          },
+          {
+            "label": "Meta / Threads",
+            "type": "entity",
+            "desc": "Social media platform receiving integration"
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Data being shared via new feature"
+          },
+          {
+            "label": "Social Media Integration",
+            "type": "tech",
+            "desc": "Feature enabling cross-platform content sharing"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Fintech and social media integrations are blurring the lines between information consumption, social interaction, and financial speculation.",
+            "Platforms are seeking growth through embedded financial and data products to enhance user stickiness and data flow."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Meta Platforms Inc. (META)",
+          "risk": "LOW",
+          "thesis": "Strategic integrations by third-party platforms like Kalshi reinforce Threads' ecosystem value and potential monetization avenues."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1604284605389?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Google, Tesla Challenge Grid Management",
+        "fullTitle": "Google and Tesla think we’re managing the electrical grid all wrong",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Google, Tesla, and other companies have launched a coalition named 'Utilize' seeking to fundamentally change how the electrical grid is used and regulated. The initiative argues that current grid management paradigms are inefficient and outdated. It likely advocates for greater decentralization, demand response, and integration of distributed energy resources (DERs) like EVs and batteries. This represents a significant corporate-led push to disrupt energy infrastructure policy and technology.",
         "relations": [
           {
             "label": "Google",
             "type": "entity",
-            "desc": "Empresa que descubrió las herramientas"
+            "desc": "Tech giant co-leading grid innovation coalition"
           },
           {
-            "label": "Grupo de espionaje ruso",
+            "label": "Tesla",
             "type": "entity",
-            "desc": "Usuario final de las herramientas"
+            "desc": "EV and energy storage leader co-leading initiative"
           },
           {
-            "label": "Contratista de defensa EE.UU.",
+            "label": "Utilize Coalition",
             "type": "entity",
-            "desc": "Fuente presunta de las herramientas"
+            "desc": "New alliance aiming to reform grid management"
           },
           {
-            "label": "Ciberespionaje",
-            "type": "tech",
-            "desc": "Naturaleza de la amenaza"
+            "label": "Electrical Grid",
+            "type": "resource",
+            "desc": "Critical infrastructure target for disruption"
           },
           {
-            "label": "iPhone",
-            "type": "tech",
-            "desc": "Plataforma objetivo del ataque"
+            "label": "Grid Regulation",
+            "type": "risk",
+            "desc": "Policy framework under challenge"
           }
         ],
         "analysis": {
           "strategic": [
-            "Filtración de herramientas de ciberinteligencia estadounidenses representa un fallo de seguridad grave y potencia capacidades de adversarios.",
-            "Aumenta el riesgo de ataques cibernéticos sofisticados contra infraestructura crítica y entidades corporativas a nivel global."
+            "Major tech and energy firms are moving beyond product sales to directly shape the foundational rules and architecture of critical national infrastructure.",
+            "The push for grid modernization is accelerating, with private sector consortia becoming key actors in energy policy advocacy."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Ciberseguridad (ETF: HACK, empresas como PANW, CHKP)",
+          "asset": "NextEra Energy, Inc. (NEE)",
           "risk": "MEDIUM",
-          "thesis": "Incidentes de alto perfil impulsan la demanda de soluciones de ciberseguridad avanzadas y auditoría de sistemas."
+          "thesis": "As a leader in renewable energy and grid modernization, NextEra is positioned to benefit from and potentially partner in this industry transformation."
         },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1565733864780?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1533582475944?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Archer demanda a Joby por vínculos chinos",
-        "fullTitle": "Archer contrademanda a Joby alegando vínculos chinos ocultos",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Archer Aviation presenta una contrademanda contra su rival Joby Aviation. La demanda alega que Joby ocultó sus vínculos con China. Este caso legal surge cuatro meses después de que Joby demandara a Archer por supuesto 'espionaje corporativo'. La disputa refleja la intensa competencia en el emergente sector de los taxis aéreos eléctricos.",
+        "title": "Amazon Launches Healthcare AI Assistant",
+        "fullTitle": "Amazon launches its healthcare AI assistant on its website and app",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Amazon has launched a healthcare-specific AI assistant across its website and mobile application. The 'Health AI' tool can answer medical questions, explain health records, manage prescription renewals, and book appointments. This marks a significant expansion of Amazon's vertical integration into the healthcare services sector using generative AI. It positions Amazon as a direct competitor to traditional healthcare providers and digital health platforms.",
         "relations": [
           {
-            "label": "Archer Aviation",
+            "label": "Amazon",
             "type": "entity",
-            "desc": "Fabricante de taxis aéreos eléctricos, demandante"
+            "desc": "E-commerce giant launching healthcare AI product"
           },
           {
-            "label": "Joby Aviation",
-            "type": "entity",
-            "desc": "Fabricante de taxis aéreos eléctricos, demandado"
-          },
-          {
-            "label": "Vínculos con China",
-            "type": "risk",
-            "desc": "Alegación central de la contrademanda"
-          },
-          {
-            "label": "Espionaje corporativo",
-            "type": "risk",
-            "desc": "Tema de la demanda original"
-          },
-          {
-            "label": "Taxis aéreos eléctricos (eVTOL)",
+            "label": "Health AI Assistant",
             "type": "tech",
-            "desc": "Sector industrial en disputa"
+            "desc": "Generative AI tool for healthcare tasks"
+          },
+          {
+            "label": "Healthcare Services",
+            "type": "entity",
+            "desc": "Sector being disrupted by AI integration"
+          },
+          {
+            "label": "Generative AI",
+            "type": "tech",
+            "desc": "Underlying technology for the new assistant"
           }
         ],
         "analysis": {
           "strategic": [
-            "La competencia en el sector eVTOL se intensifica, recurriendo a tácticas legales agresivas para ganar ventaja.",
-            "Las acusaciones sobre vínculos con China añaden una capa de riesgo geopolítico y regulatorio a las startups tecnológicas."
+            "Amazon is leveraging its massive consumer platform and AI capabilities to capture a foundational role in the patient healthcare journey.",
+            "The launch accelerates the convergence of big tech, AI, and healthcare, raising data privacy, regulatory, and competitive dynamics."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Joby Aviation (JOBY)",
+          "asset": "Teladoc Health, Inc. (TDOC)",
           "risk": "HIGH",
-          "thesis": "La incertidumbre legal y las acusaciones sobre transparencia pueden afectar la valoración y el progreso regulatorio de Joby."
+          "thesis": "Amazon's direct entry into AI-powered healthcare navigation and triage presents a major competitive threat to incumbent telehealth and digital health companies."
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1545418929388?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
+        "confidence": 90,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1547216687922?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+      }
+    ],
+    "es": [
       {
-        "title": "Founders Fund cierra fondo de $6 mil millones",
-        "fullTitle": "Founders Fund cerca cierre de $6B para su último fondo de crecimiento",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Founders Fund está cerca de cerrar su último fondo de crecimiento, que recaudaría unos $6 mil millones. Esta nueva captación ocurre menos de un año después del cierre de su tercer fondo de crecimiento de $4.6B. El fondo está destinado principalmente a inversiones de seguimiento en sus exitosas empresas en etapa tardía. Muestra la fuerte capacidad de recaudación del fondo de capital de riesgo.",
+        "title": "Vietnam usa fondo para estabilizar precios de combustible",
+        "fullTitle": "Vietnam usa fondo de combustible para estabilizar precios ante riesgo de escasez",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Vietnam ha activado su Fondo de Estabilización de Precios de Combustible para proteger a los consumidores de un aumento brusco de los costes. Esta medida responde a los crecientes riesgos de escasez de suministros energéticos globales, exacerbados por el conflicto en Oriente Medio. La intervención busca amortiguar el impacto de la volatilidad del mercado internacional en la economía doméstica. Refleja una política gubernamental proactiva para controlar la inflación y el malestar social.",
         "relations": [
           {
-            "label": "Founders Fund",
+            "label": "Vietnam",
             "type": "entity",
-            "desc": "Firma de capital de riesgo liderada por Peter Thiel"
+            "desc": "Gobierno implementando medidas de estabilización de precios"
           },
           {
-            "label": "Fondo de crecimiento",
-            "type": "asset",
-            "desc": "Vehículo de inversión de etapa tardía"
-          },
-          {
-            "label": "$6 mil millones",
+            "label": "Fondo de Combustible",
             "type": "resource",
-            "desc": "Tamaño objetivo del fondo"
+            "desc": "Mecanismo fiscal para amortiguar precios de energía"
           },
           {
-            "label": "Empresas en etapa tardía",
-            "type": "entity",
-            "desc": "Destino principal del capital"
+            "label": "Conflicto Oriente Medio",
+            "type": "risk",
+            "desc": "Factor geopolítico que presiona suministros energéticos"
           },
           {
-            "label": "Capital de riesgo",
-            "type": "asset",
-            "desc": "Clase de activo"
+            "label": "Suministros Energéticos Globales",
+            "type": "resource",
+            "desc": "Cadena de suministro bajo tensión geopolítica"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los grandes fondos de VC consolidan capital en campeones existentes, posiblemente reduciendo la diversificación de nuevas apuestas.",
-            "La abundancia de capital privado para etapas tardías puede mantener valoraciones elevadas y retrasar salidas a bolsa."
+            "Las intervenciones estatales en mercados energéticos pueden crear distorsiones a largo plazo y dependencia fiscal.",
+            "La medida subraya la vulnerabilidad de economías emergentes a shocks externos en commodities, impulsando posiblemente una mayor búsqueda de seguridad energética nacional."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Petróleo crudo (futuros)",
+          "risk": "MEDIUM",
+          "thesis": "Las intervenciones gubernamentales para contener precios, combinadas con riesgos geopolíticos ya descontados, podrían limitar el alza adicional del crudo a corto plazo en ciertas regiones."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1528578759362?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Acciones suben con petróleo bajo $90",
+        "fullTitle": "Acciones avanzan con petróleo bajo $90, mejora sentimiento",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Los mercados bursátiles extendieron sus ganancias mientras el petróleo cotizaba por debajo de los 90 dólares por barril. La confianza del mercado mejoró tras un informe sobre la liberación de reservas estratégicas de crudo para aliviar los altos precios de la energía. Esta acción coordinada es percibida como un esfuerzo para estabilizar los mercados. La correlación inversa entre el petróleo y el sentimiento de riesgo es evidente en esta reacción.",
+        "relations": [
+          {
+            "label": "Petróleo Crudo",
+            "type": "resource",
+            "desc": "Commodity clave, cotizando por debajo de nivel psicológico de $90"
+          },
+          {
+            "label": "Reservas Estratégicas de Petróleo",
+            "type": "resource",
+            "desc": "Inventarios gubernamentales usados para intervenir en el mercado"
+          },
+          {
+            "label": "Sentimiento del Mercado",
+            "type": "risk",
+            "desc": "Mejoró con la perspectiva de menor presión inflacionaria"
+          },
+          {
+            "label": "Mercados Bursátiles",
+            "type": "entity",
+            "desc": "Beneficiados por la caída en los precios de la energía"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La liberación de reservas es una herramienta política de corto plazo que no resuelve desequilibrios estructurales de oferta/demanda.",
+            "Los mercados interpretan el control de la inflación energética como positivo para los márgenes corporativos y el consumo, favoreciendo a las acciones."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Portafolio de Founders Fund (empresas privadas en etapa tardía)",
-          "risk": "LOW",
-          "thesis": "El acceso a capital fresco permite a Founders Fund apoyar a sus mejores empresas, aumentando probabilidad de éxito en salida."
+          "asset": "Índices bursátiles globales (ej. S&P 500)",
+          "risk": "MEDIUM",
+          "thesis": "El alivio en los precios de una materia prima clave como el petróleo reduce los temores inflacionarios y de contracción de márgenes, apoyando una continuación del rally de riesgo."
         },
-        "confidence": 92,
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1500728705767?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Oro sube tras plan de liberar reservas de petróleo",
+        "fullTitle": "Oro avanza tras informe de liberación de reservas de petróleo de la AIE",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El precio del oro registró avances tras conocerse un informe sobre una propuesta de la Agencia Internacional de la Energía (AIE) para realizar la mayor liberación de reservas petroleras de la historia. El objetivo es mitigar el shock de oferta causado por la guerra en Oriente Medio. El oro actúa como refugio ante la incertidumbre geopolítica persistente, incluso ante medidas de estabilización del mercado energético. La dinámica refleja la demanda de activos seguros en un entorno complejo.",
+        "relations": [
+          {
+            "label": "Oro",
+            "type": "resource",
+            "desc": "Activo refugio que gana ante la incertidumbre"
+          },
+          {
+            "label": "Agencia Internacional de la Energía (AIE)",
+            "type": "entity",
+            "desc": "Organización proponiendo intervención coordinada en el mercado petrolero"
+          },
+          {
+            "label": "Reservas de Petróleo",
+            "type": "resource",
+            "desc": "Herramienta de política para gestionar shocks de oferta"
+          },
+          {
+            "label": "Guerra en Oriente Medio",
+            "type": "risk",
+            "desc": "Evento geopolítico catalizador de la volatilidad"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La fortaleza del oro sugiere que los inversores ven las intervenciones en el mercado petrolero como paliativas, no como soluciones a la inestabilidad geopolítica subyacente.",
+            "El metal precioso mantiene su rol de cobertura contra la inflación y el riesgo sistémico, incluso si el petróleo se modera temporalmente."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Oro (futuros o ETF como GLD)",
+          "risk": "LOW",
+          "thesis": "El entorno de incertidumbre geopolítica elevada y respuestas políticas coordinadas sostiene la demanda de activos refugio. El oro se beneficia de su estatus de reserva de valor."
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1502641684538?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Kalshi añade función para compartir en Threads de Meta",
+        "fullTitle": "Kalshi añade opción para compartir en Threads, voto de confianza para Meta",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "La plataforma de mercados de predicción Kalshi ha introducido una función para compartir que incrusta automáticamente gráficos de sus mercados en publicaciones de Threads, la aplicación de Meta. Este movimiento se interpreta como un voto de confianza en la plataforma social emergente de Meta. Facilita la difusión de contenido de mercados de predicción en redes sociales. Refleja una integración estratégica para aumentar el engagement y la visibilidad de ambos servicios.",
+        "relations": [
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "Plataforma de mercados de predicción regulada"
+          },
+          {
+            "label": "Meta / Threads",
+            "type": "entity",
+            "desc": "Compañía de redes sociales y su plataforma de microblogging"
+          },
+          {
+            "label": "Mercados de Predicción",
+            "type": "tech",
+            "desc": "Plataformas para comerciar sobre resultados de eventos"
+          },
+          {
+            "label": "Integración de API/Compartir",
+            "type": "tech",
+            "desc": "Característica técnica que conecta servicios"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La integración busca capturar tráfico y atención en el competitivo ecosistema de redes sociales, utilizando contenido financiero/ especulativo como gancho.",
+            "Es una señal de que Meta está consolidando a Threads como una plataforma viable, atrayendo integraciones de terceros que añaden utilidad."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Meta Platforms Inc. (META)",
+          "risk": "MEDIUM",
+          "thesis": "Las integraciones estratégicas de terceros como la de Kalshi fortalecen el ecosistema y la utilidad de Threads, mejorando su potencial para monetización a largo plazo y diversificando los ingresos de Meta más allá de la publicidad principal."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1695941602264?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Google y Tesla critican gestión de red eléctrica",
+        "fullTitle": "Google y Tesla lanzan Utilize para cambiar gestión de red eléctrica",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Google y Tesla, junto con otras empresas, han lanzado la iniciativa 'Utilize'. Esta busca transformar fundamentalmente cómo se utiliza y regula la red eléctrica. El consorcio argumenta que los modelos actuales de gestión de la red son ineficientes y obsoletos. El objetivo es promover una red más flexible, descentralizada y capaz de integrar energías renovables. Representa un desafío directo a las utilities y reguladores tradicionales.",
+        "relations": [
+          {
+            "label": "Google",
+            "type": "entity",
+            "desc": "Gigante tecnológico con inversiones en energía y datos"
+          },
+          {
+            "label": "Tesla",
+            "type": "entity",
+            "desc": "Fabricante de vehículos eléctricos y sistemas de almacenamiento de energía"
+          },
+          {
+            "label": "Utilize",
+            "type": "tech",
+            "desc": "Iniciativa/consorcio para reformar la gestión de la red"
+          },
+          {
+            "label": "Red Eléctrica",
+            "type": "resource",
+            "desc": "Infraestructura crítica objetivo de modernización"
+          },
+          {
+            "label": "Utilities Tradicionales",
+            "type": "entity",
+            "desc": "Sector desafiado por nuevos modelos de negocio"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El movimiento señala una convergencia acelerada entre tecnología, transporte y energía, con grandes tecnológicas buscando dominar la infraestructura crítica del futuro.",
+            "Amenaza con disrumpir el modelo de negocio centenario de las utilities reguladas, presionando por cambios normativos que favorezcan la descentralización y la digitalización."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Tesla, Inc. (TSLA) & Alphabet Inc. (GOOGL)",
+          "risk": "HIGH",
+          "thesis": "El liderazgo en la redefinición de la infraestructura energética puede abrir nuevos mercados masivos (gestión de redes, software de energía) más allá de sus negocios principales, creando fuentes de ingresos recurrentes a largo plazo."
+        },
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1685067130519?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Amazon lanza asistente de IA para salud",
+        "fullTitle": "Amazon lanza su asistente de IA de salud en su sitio web y app",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Amazon ha lanzado oficialmente 'Health AI', su asistente de inteligencia artificial para el sector sanitario, disponible en su sitio web y aplicación. La herramienta puede responder preguntas, explicar historiales médicos, gestionar renovaciones de recetas, reservar citas y más. Representa una expansión significativa de los servicios de Amazon en el competitivo mercado de la salud digital. Apalanca la infraestructura en la nube (AWS) y el acceso a consumidores de la compañía.",
+        "relations": [
+          {
+            "label": "Amazon",
+            "type": "entity",
+            "desc": "Gigante del comercio electrónico y la nube expandiéndose en salud"
+          },
+          {
+            "label": "Health AI",
+            "type": "tech",
+            "desc": "Asistente de IA para servicios de salud del consumidor"
+          },
+          {
+            "label": "Salud Digital",
+            "type": "tech",
+            "desc": "Mercado en crecimiento objetivo de Amazon"
+          },
+          {
+            "label": "AWS (Amazon Web Services)",
+            "type": "tech",
+            "desc": "Plataforma subyacente de nube e IA probablemente utilizada"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Amazon está utilizando la IA como cuña para integrarse más profundamente en el ecosistema sanitario, desde el comercio de productos hasta la prestación de servicios de información y gestión.",
+            "Este lanzamiento intensifica la competencia con otros gigantes tecnológicos (Google, Microsoft) y actores de salud digital, impulsando la consolidación y la innovación en el sector."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Amazon.com, Inc. (AMZN)",
+          "risk": "MEDIUM",
+          "thesis": "La entrada en el mercado de salud digital, potenciada por IA, abre una nueva y vasta oportunidad de crecimiento a largo plazo, diversificando los ingresos y aumentando la fidelidad del cliente dentro del ecosistema Amazon."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1540493498808?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1691889605658?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
