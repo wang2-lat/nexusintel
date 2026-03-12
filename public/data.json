@@ -1,843 +1,823 @@
 {
-  "generated_at": "2026-03-11T02:11:26.864959",
+  "generated_at": "2026-03-12T02:25:13.894542",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "越南动用燃料基金稳价",
-        "fullTitle": "越南动用燃料基金稳定价格以应对短缺风险",
+        "title": "日元逼近年内低点，干预门槛高",
+        "fullTitle": "日元逼近年内低点，分析师认为日本干预门槛较高",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "越南政府为缓冲消费者免受燃料成本急剧上涨的影响，动用了国家燃料基金。此举源于中东冲突加剧了全球能源供应担忧，可能导致短缺风险。该行动旨在短期内稳定国内燃油市场价格，减轻社会压力。",
+        "summary": "日元兑美元汇率徘徊在年内低点附近，面临进一步下跌风险。分析师认为，日本当局进行外汇干预以捍卫日元的门槛较高。这表明市场对日本央行与美联储政策分歧的持续担忧。日元疲软可能加剧输入型通胀压力。",
         "relations": [
           {
-            "label": "越南",
+            "label": "日元",
             "type": "entity",
-            "desc": "采取干预措施的国家主体"
+            "desc": "日本法定货币，汇率波动影响全球市场"
           },
           {
-            "label": "燃料基金",
-            "type": "resource",
-            "desc": "用于平抑价格的财政工具"
+            "label": "日本央行",
+            "type": "entity",
+            "desc": "日本货币政策制定机构"
           },
           {
-            "label": "中东冲突",
+            "label": "外汇干预",
             "type": "risk",
-            "desc": "引发全球能源供应担忧的地缘政治风险"
+            "desc": "政府或央行入市买卖货币以影响汇率"
           },
           {
-            "label": "能源供应",
-            "type": "resource",
-            "desc": "面临中断风险的关键资源"
-          },
-          {
-            "label": "价格稳定",
+            "label": "货币政策分歧",
             "type": "risk",
-            "desc": "政府干预市场的政策目标"
+            "desc": "主要经济体央行政策路径不同带来的市场风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "越南的干预行为表明新兴市场对能源价格波动的高度脆弱性，可能引发其他类似经济体的效仿。",
-            "此举短期可缓解社会压力，但长期消耗财政储备，并可能扭曲市场信号，影响能源转型步伐。"
+            "日本当局对日元贬值的容忍度可能超出市场预期，反映出其优先考虑国内经济复苏而非汇率稳定。",
+            "日元持续走弱可能迫使亚洲其他经济体调整其货币政策或外汇策略，以维持出口竞争力。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "越南相关能源进口企业股票",
+          "asset": "日元/美元",
           "risk": "MEDIUM",
-          "thesis": "政府价格管制和基金消耗可能挤压相关企业的利润空间，增加其运营不确定性。"
+          "thesis": "在日本央行维持超宽松货币政策而美联储保持鹰派的背景下，利差将继续支撑美元兑日元走强，且日本当局大规模干预的风险暂时有限。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1558119592535?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1500836474059?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "原油储备报告提振股市",
-        "fullTitle": "原油储备释放报告提振市场信心，股市上涨油价跌破90",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "一份关于释放原油储备以缓解高能源价格的报告提振了市场信心，推动股市延续涨势。同时，原油价格交易于每桶90美元下方。这表明市场对供应端干预措施抱有积极预期，暂时缓解了通胀焦虑。",
+        "title": "特朗普谈石油供应与伊朗政策",
+        "fullTitle": "特朗普称释放石油储备将缓解价格压力并誓言完成对伊行动",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国总统特朗普表示，释放紧急石油储备将缓解能源价格压力。同时，美国寻求完成其对伊朗的“行动”。这表明美国正采取双管齐下的策略来管理能源市场和地缘政治风险。此举可能旨在为大选前稳定国内油价。",
         "relations": [
           {
-            "label": "原油储备释放",
-            "type": "resource",
-            "desc": "旨在增加供应、平抑价格的政府干预行动"
-          },
-          {
-            "label": "股市",
+            "label": "特朗普",
             "type": "entity",
-            "desc": "对流动性及增长预期敏感的风险资产"
-          },
-          {
-            "label": "WTI原油",
-            "type": "resource",
-            "desc": "价格受供应消息影响的关键大宗商品"
-          },
-          {
-            "label": "市场信心",
-            "type": "risk",
-            "desc": "受政策消息影响的关键情绪指标"
-          },
-          {
-            "label": "通胀预期",
-            "type": "risk",
-            "desc": "驱动资产价格的核心宏观变量"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "释放战略储备是主要消费国应对短期供应冲击的标准化工具，但其效果和可持续性存疑。",
-            "市场反应显示，当前阶段对通胀的担忧暂时让位于对政策干预有效性的乐观情绪，但这种情绪可能脆弱。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "标普500指数ETF",
-          "risk": "MEDIUM",
-          "thesis": "能源价格压力暂缓有利于改善企业盈利前景和消费者信心，对整体股市构成短期支撑。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1515021965078?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "IEA拟释储，金价上涨",
-        "fullTitle": "IEA拟最大规模释储以缓解冲击，金价随之上涨",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "有报告称国际能源署提议进行有史以来最大规模的石油储备释放，以缓解中东战争引发的供应冲击。在此消息后，黄金价格上涨。这反映了市场在应对潜在政策干预时，仍寻求黄金作为避险和对冲不确定性的工具。",
-        "relations": [
-          {
-            "label": "国际能源署",
-            "type": "entity",
-            "desc": "提议协调释放石油储备的国际组织"
+            "desc": "时任美国总统，政策影响全球能源与地缘政治"
           },
           {
             "label": "战略石油储备",
             "type": "resource",
-            "desc": "用于应对紧急情况的石油库存"
+            "desc": "美国政府的紧急原油库存"
           },
           {
-            "label": "黄金",
-            "type": "resource",
-            "desc": "传统避险资产"
+            "label": "伊朗",
+            "type": "entity",
+            "desc": "中东主要产油国，地缘政治风险核心"
           },
           {
-            "label": "供应冲击",
+            "label": "能源价格压力",
             "type": "risk",
-            "desc": "由地缘冲突引发的突然供应中断"
-          },
-          {
-            "label": "地缘政治不确定性",
-            "type": "risk",
-            "desc": "驱动避险资产需求的核心因素"
+            "desc": "高油价对经济和通胀构成的威胁"
           }
         ],
         "analysis": {
           "strategic": [
-            "IEA的激进提议凸显了主要经济体对能源安全危机的严重关切，标志着危机应对机制的升级。",
-            "金价在释储消息后上涨是矛盾信号，表明市场认为此类干预无法根本解决地缘政治风险，长期不确定性依然高企。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "黄金ETF",
-          "risk": "LOW",
-          "thesis": "地缘政治紧张局势持续，且大规模政策干预本身增加了市场复杂性，黄金的避险属性将继续获得支撑。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1664374639092?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Kalshi为Threads新增分享功能",
-        "fullTitle": "Kalshi为Meta旗下Threads新增预测市场图表分享功能",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "预测市场平台Kalshi新增了一项分享功能，该功能可自动将相关预测市场图表嵌入到Meta旗下社交应用Threads的帖子中。这被视为对Threads平台的一次信心投票，旨在促进内容分享和用户互动。",
-        "relations": [
-          {
-            "label": "Kalshi",
-            "type": "entity",
-            "desc": "美国受监管的预测市场平台"
-          },
-          {
-            "label": "Meta",
-            "type": "entity",
-            "desc": "Threads应用的母公司，科技巨头"
-          },
-          {
-            "label": "Threads",
-            "type": "tech",
-            "desc": "Meta旗下的社交媒体应用"
-          },
-          {
-            "label": "预测市场",
-            "type": "tech",
-            "desc": "用于对未来事件结果进行投注的市场"
-          },
-          {
-            "label": "社交整合",
-            "type": "tech",
-            "desc": "将金融服务功能嵌入社交平台的技术趋势"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举反映了金融科技与社交平台加速融合的趋势，旨在通过社交裂变获取用户和流量。",
-            "Kalshi选择Threads而非X，可能基于对Meta生态稳定性、用户质量或监管环境的综合判断。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Meta Platforms Inc.",
-          "risk": "LOW",
-          "thesis": "第三方重要应用（如Kalshi）的深度集成，有助于巩固Threads的生态价值，提升Meta社交矩阵的粘性。"
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1554622621535?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "谷歌特斯拉联手挑战电网管理模式",
-        "fullTitle": "谷歌特斯拉等公司联手推出Utilize挑战电网管理模式",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "谷歌和特斯拉联合其他公司推出了名为“Utilize”的倡议，旨在改变电网的使用和监管方式。他们认为当前的电网管理方式存在根本性问题，该倡议寻求推动技术和商业模式的创新，以优化电网效率和灵活性。",
-        "relations": [
-          {
-            "label": "谷歌",
-            "type": "entity",
-            "desc": "科技巨头，在数据中心和可再生能源领域有重大投入"
-          },
-          {
-            "label": "特斯拉",
-            "type": "entity",
-            "desc": "电动汽车和储能系统领导者"
-          },
-          {
-            "label": "Utilize",
-            "type": "tech",
-            "desc": "旨在改革电网管理的行业倡议"
-          },
-          {
-            "label": "电网管理",
-            "type": "tech",
-            "desc": "电力系统的调度、运行与监管体系"
-          },
-          {
-            "label": "能源转型",
-            "type": "risk",
-            "desc": "推动电网改革的根本驱动力"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "科技与能源巨头联盟，标志着产业资本开始系统性挑战传统电力行业的运营范式，可能引发监管框架重塑。",
-            "该倡议的核心是利用分布式能源、数据和AI算法实现电网的动态优化，这是构建未来智能电网和虚拟电厂的关键一步。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "智能电网及储能相关ETF",
-          "risk": "MEDIUM",
-          "thesis": "行业领军企业推动的范式变革，将加速电网数字化和柔性化投资，利好相关技术及设备供应商。"
-        },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1592879171593?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "亚马逊推出医疗健康AI助手",
-        "fullTitle": "亚马逊在其网站和应用上推出医疗健康AI助手",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "亚马逊在其官网和移动应用上推出了名为“Health AI”的医疗健康人工智能助手。该助手能够回答健康问题、解释健康记录、管理处方续签、预约挂号等。这是亚马逊深化医疗健康领域布局的重要一步。",
-        "relations": [
-          {
-            "label": "亚马逊",
-            "type": "entity",
-            "desc": "科技与零售巨头，积极拓展医疗健康业务"
-          },
-          {
-            "label": "Health AI",
-            "type": "tech",
-            "desc": "亚马逊推出的医疗健康人工智能助手"
-          },
-          {
-            "label": "医疗健康",
-            "type": "entity",
-            "desc": "亚马逊战略布局的关键垂直领域"
-          },
-          {
-            "label": "人工智能助手",
-            "type": "tech",
-            "desc": "基于大语言模型的交互式服务工具"
-          },
-          {
-            "label": "数字医疗",
-            "type": "tech",
-            "desc": "利用技术提供医疗服务和信息的新兴市场"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "亚马逊将AI助手直接集成到其消费者触点，旨在通过便捷服务获取用户信任和健康数据，构建医疗生态入口。",
-            "此举加剧了科技巨头在医疗AI应用层的竞争，可能改变患者获取初级医疗信息和服务的渠道与习惯。"
+            "美国通过释放储备与施压伊朗的组合拳，试图在抑制油价的同时保持对中东主要对手的战略压力。",
+            "此举可能削弱OPEC+的定价权，并暗示美国愿意动用一切工具来确保能源供应安全和政治目标。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "传统远程医疗及医疗信息平台个股",
+          "asset": "原油期货",
           "risk": "HIGH",
-          "thesis": "亚马逊凭借其巨大的用户基数和技术能力进入，可能对现有专注于线上问诊或医疗信息服务的平台构成直接冲击。"
+          "thesis": "短期内，释放战略储备将增加市场供应，对油价构成下行压力。但地缘政治风险（伊朗）可能迅速逆转此趋势，导致高波动性。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1602626047224?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "股市下跌原油跳涨，中东风险加剧",
+        "fullTitle": "股市下跌原油跳涨，伊拉克油轮遇袭凸显中东资产风险",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "CRITICAL",
+        "summary": "美国股指期货和亚洲股市周四下跌，延续了动荡的一周。此前伊拉克水域两艘油轮遇袭，推动油价上涨，凸显了中东能源资产面临的威胁。市场风险偏好因安全担忧而受挫。地缘政治风险再次成为驱动资产价格的核心因素。",
+        "relations": [
+          {
+            "label": "中东能源资产",
+            "type": "resource",
+            "desc": "集中于波斯湾地区的石油生产和运输基础设施"
+          },
+          {
+            "label": "地缘政治风险",
+            "type": "risk",
+            "desc": "政治冲突事件对全球市场造成的冲击"
+          },
+          {
+            "label": "原油价格",
+            "type": "resource",
+            "desc": "受供需和地缘政治影响的核心大宗商品价格"
+          },
+          {
+            "label": "风险资产",
+            "type": "risk",
+            "desc": "股市等价格波动较大的资产类别"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "针对关键航运通道的袭击表明，中东地区的紧张局势正从政治领域蔓延至实体能源供应链，威胁全球能源安全。",
+            "此类事件可能促使能源进口国加速推进能源来源多元化和战略储备计划，以降低供应链集中风险。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "原油期货、能源股",
+          "risk": "HIGH",
+          "thesis": "中东供应中断风险溢价将支撑油价，并利好拥有非中东资产或从事油气勘探生产的能源公司。但股市整体情绪将承压。"
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1564444558209?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "AI“演员”发布争议歌曲",
+        "fullTitle": "AI“演员”发布被评“最差”歌曲，引发身份认同讨论",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "一首由AI“演员”发布的歌曲因其内容引发争议，被评论者称为“听过最差的歌”。歌曲内容为AI演员鼓励同类无视质疑、坚持前行。该事件反映了AI在创意内容生成领域应用的早期争议和公众接受度问题。",
+        "relations": [
+          {
+            "label": "AI生成内容",
+            "type": "tech",
+            "desc": "由人工智能技术创造的音乐、文本、图像等内容"
+          },
+          {
+            "label": "数字身份",
+            "type": "tech",
+            "desc": "虚拟实体或AI在数字世界中的角色与认同"
+          },
+          {
+            "label": "公众接受度",
+            "type": "risk",
+            "desc": "新技术或产品被社会大众接纳的程度和速度"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI在高度主观的创意领域（如音乐）的应用，可能比在功能性领域面临更大的伦理和审美接受度挑战。",
+            "此事件是AI试图构建“拟人化”叙事和社区的一次边缘尝试，揭示了未来人机交互中身份认同的复杂性。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "炒作过度的纯AIGC娱乐概念股",
+          "risk": "HIGH",
+          "thesis": "市场对AI在创意产业的短期商业化前景可能过于乐观，类似负面公众反馈事件会暴露其技术不成熟和市场需求不确定性，导致估值回调。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1694352330227?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Nuro在东京测试自动驾驶技术",
+        "fullTitle": "自动驾驶初创公司Nuro在东京公共道路展开测试",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "自动驾驶初创公司Nuro已开始在东京的公共道路上测试其自动驾驶软件。这是该公司首次进行国际业务扩张。此举标志着自动驾驶技术在全球主要城市落地应用的又一步进展，也显示了日本市场对自动驾驶的开放态度。",
+        "relations": [
+          {
+            "label": "Nuro",
+            "type": "entity",
+            "desc": "专注于最后一公里配送的自动驾驶初创公司"
+          },
+          {
+            "label": "自动驾驶软件",
+            "type": "tech",
+            "desc": "控制车辆实现无人驾驶的核心算法与系统"
+          },
+          {
+            "label": "国际扩张",
+            "type": "risk",
+            "desc": "企业将业务拓展至海外市场面临的挑战与机遇"
+          },
+          {
+            "label": "日本监管环境",
+            "type": "entity",
+            "desc": "日本政府对自动驾驶等新技术的法规与测试政策"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Nuro选择日本作为首个海外测试地，可能看重其密集城市环境、相对规范的交通以及政府对科技创新的支持，这为其技术验证和商业模式探索提供了独特场景。",
+            "此举可能加剧全球自动驾驶在物流配送细分赛道的竞争，促使其他公司加快国际化布局或寻求特定区域合作伙伴。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "自动驾驶产业链核心供应商（如激光雷达、高精地图）",
+          "risk": "MEDIUM",
+          "thesis": "头部自动驾驶公司的国际扩张表明技术落地进程在加速，将长期拉动上游硬件和解决方案供应商的需求，行业增长确定性增强。"
         },
         "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1630055812578?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Google Play升级游戏中心功能",
+        "fullTitle": "Google Play新增付费与PC游戏、试玩及社区帖子等功能",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google为其应用商店Google Play推出多项更新，包括新增付费和PC游戏、游戏试玩、社区帖子等功能。这些更新表明谷歌正致力于将Google Play转型为一个功能增强的游戏中心。此举旨在提升平台对游戏开发者和玩家的吸引力，与苹果等对手竞争。",
+        "relations": [
+          {
+            "label": "Google Play",
+            "type": "entity",
+            "desc": "谷歌官方的安卓应用分发平台"
+          },
+          {
+            "label": "游戏生态",
+            "type": "tech",
+            "desc": "围绕游戏开发、分发、运营和消费的完整体系"
+          },
+          {
+            "label": "平台竞争",
+            "type": "risk",
+            "desc": "不同应用商店或平台为争夺开发者和用户进行的竞争"
+          },
+          {
+            "label": "云游戏/PC游戏",
+            "type": "tech",
+            "desc": "游戏内容跨平台分发的趋势"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "谷歌通过整合PC游戏和社区功能，意图打破移动与PC平台的界限，构建更统一的游戏分发与社交生态，以增加用户粘性和平台收入。",
+            "此举直接对标苹果App Store和Steam等平台，表明应用商店的竞争已从单纯的应用分发扩展到全平台游戏服务和社区运营。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "谷歌母公司Alphabet",
+          "risk": "LOW",
+          "thesis": "Google Play向综合游戏中心转型，有望通过更高的抽成收入（来自付费/PC游戏）和增强的用户参与度，提升谷歌服务部门的长期营收和利润水平。"
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1658693237722?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1530037489227?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Vietnam Uses Fund to Stabilize Fuel",
-        "fullTitle": "Vietnam Taps Fuel Fund to Steady Prices Amid Risks of Shortages",
+        "title": "Yen Nears Year Low",
+        "fullTitle": "Yen Nears Year's Low as Intervention Bar Seen Higher",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Vietnam is intervening in its domestic fuel market using a national fuel fund to cushion consumers from sharp price increases. This action is a direct response to growing concerns over global energy supply disruptions stemming from the Middle East conflict. The move highlights government-level efforts to manage inflation and social stability risks. It signals potential pressure on state finances and a reactive posture to external energy shocks.",
+        "summary": "The Japanese yen is hovering near its weakest level against the US dollar this year, making it vulnerable to further depreciation. Financial strategists believe the threshold for Japanese authorities to intervene in the currency market to support the yen is currently high. This situation reflects underlying economic pressures and divergent monetary policies between Japan and the US. Sustained yen weakness could have significant implications for global trade flows and carry trade dynamics.",
         "relations": [
           {
-            "label": "Vietnam",
+            "label": "Japanese Yen (JPY)",
             "type": "entity",
-            "desc": "Government intervening in energy market"
+            "desc": "Currency vulnerable to decline against USD"
           },
           {
-            "label": "Fuel Fund",
-            "type": "resource",
-            "desc": "National stabilization mechanism"
+            "label": "Bank of Japan (BoJ)",
+            "type": "entity",
+            "desc": "Central bank with high intervention threshold"
           },
           {
-            "label": "Middle East Conflict",
+            "label": "Currency Intervention",
             "type": "risk",
-            "desc": "Source of global energy supply risk"
+            "desc": "Potential market-moving policy action"
           },
           {
-            "label": "Energy Supplies",
-            "type": "resource",
-            "desc": "Global market under disruption pressure"
+            "label": "USD/JPY",
+            "type": "asset",
+            "desc": "Key forex pair under pressure"
           }
         ],
         "analysis": {
           "strategic": [
-            "Sovereign interventions to cap energy prices may temporarily suppress inflation but could distort markets and strain fiscal resources.",
-            "Escalation in the Middle East is triggering cascading national security responses focused on essential commodity stability."
+            "Monetary policy divergence between the BoJ and the Fed is a primary driver of yen weakness, creating a challenging environment for Japanese policymakers.",
+            "A high bar for intervention suggests Japan may tolerate further yen depreciation to support export competitiveness, but this increases import inflation risks."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Vietnamese Government Bonds (VGBs)",
+          "action": "LONG",
+          "asset": "USD/JPY",
           "risk": "MEDIUM",
-          "thesis": "Fiscal strain from fuel subsidies and price controls could weaken the state's financial position and increase bond yield pressure."
+          "thesis": "Continued monetary policy divergence and a high threshold for BoJ intervention support further USD strength against the JPY in the near term."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1599928523290?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1559606070466?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Stocks Rise as Oil Dips Below $90",
-        "fullTitle": "Stocks Advance as Oil Below $90 Lifts Sentiment: Markets Wrap",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Global equity markets extended gains as oil prices traded below $90 per barrel. The positive sentiment was fueled by reports of a coordinated crude reserve release aimed at easing high energy prices. This indicates a strong inverse correlation between energy costs and broader market risk appetite in the current environment. The market is responding positively to perceived government actions to mitigate an energy-driven inflation shock.",
-        "relations": [
-          {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Trading below key $90/barrel level"
-          },
-          {
-            "label": "Strategic Petroleum Reserves",
-            "type": "resource",
-            "desc": "Reported source of supply release"
-          },
-          {
-            "label": "Market Sentiment",
-            "type": "risk",
-            "desc": "Improved by lower energy price outlook"
-          },
-          {
-            "label": "Equity Markets",
-            "type": "entity",
-            "desc": "Beneficiary of reduced inflation fears"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Coordinated reserve releases are a key tool for major economies to manage oil price spikes and associated economic risks.",
-            "Market psychology remains highly sensitive to energy price trajectories as a primary inflation indicator."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "S&P 500 Index (SPX)",
-          "risk": "MEDIUM",
-          "thesis": "Reduced energy price pressure alleviates near-term inflation and recession fears, supporting equity valuations."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1612019706920?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Gold Rises on Oil Reserve Release Plan",
-        "fullTitle": "Gold Rises After Report of Oil-Stockpile Release to Ease Shock",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Gold prices advanced following a report that the International Energy Agency (IEA) is proposing the largest-ever release of oil reserves. This action aims to ease the supply shock caused by the war in the Middle East. The gold market is interpreting the potential oil release not as a pure risk-off event, but as an inflationary mitigation measure that preserves fiat currency value. The move underscores gold's role as a hedge against policy responses to geopolitical crises.",
-        "relations": [
-          {
-            "label": "Gold",
-            "type": "resource",
-            "desc": "Safe-haven asset rising on policy news"
-          },
-          {
-            "label": "International Energy Agency (IEA)",
-            "type": "entity",
-            "desc": "Proposing major coordinated oil reserve release"
-          },
-          {
-            "label": "Oil Reserves",
-            "type": "resource",
-            "desc": "Potential source of supply to offset shock"
-          },
-          {
-            "label": "Middle East War",
-            "type": "risk",
-            "desc": "Geopolitical driver of commodity volatility"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Gold is reacting to the *character* of policy interventions (inflation-fighting) rather than just the underlying geopolitical risk.",
-            "Unprecedented stockpile releases signal a heightened level of concern among Western nations regarding energy security and economic stability."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Gold Futures (GC)",
-          "risk": "LOW",
-          "thesis": "Gold benefits from both ongoing geopolitical uncertainty and policies aimed at containing its inflationary consequences."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1583582668414?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Kalshi Adds Share Feature for Threads",
-        "fullTitle": "In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Prediction market platform Kalshi has integrated a share feature for Meta's Threads social media platform. The feature automatically embeds relevant prediction market charts into a Threads post. This represents a strategic partnership and vote of confidence in Threads' growth and user engagement potential. It aims to increase the visibility and accessibility of prediction market data within social discourse.",
-        "relations": [
-          {
-            "label": "Kalshi",
-            "type": "entity",
-            "desc": "Prediction market platform integrating with Threads"
-          },
-          {
-            "label": "Meta / Threads",
-            "type": "entity",
-            "desc": "Social media platform receiving integration"
-          },
-          {
-            "label": "Prediction Markets",
-            "type": "tech",
-            "desc": "Data being shared via new feature"
-          },
-          {
-            "label": "Social Media Integration",
-            "type": "tech",
-            "desc": "Feature enabling cross-platform content sharing"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Fintech and social media integrations are blurring the lines between information consumption, social interaction, and financial speculation.",
-            "Platforms are seeking growth through embedded financial and data products to enhance user stickiness and data flow."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Meta Platforms Inc. (META)",
-          "risk": "LOW",
-          "thesis": "Strategic integrations by third-party platforms like Kalshi reinforce Threads' ecosystem value and potential monetization avenues."
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1604284605389?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Google, Tesla Challenge Grid Management",
-        "fullTitle": "Google and Tesla think we’re managing the electrical grid all wrong",
+        "title": "Trump Touts Oil Moves",
+        "fullTitle": "Trump Touts Oil Supply Moves, Vows to Finish in Iran",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Google, Tesla, and other companies have launched a coalition named 'Utilize' seeking to fundamentally change how the electrical grid is used and regulated. The initiative argues that current grid management paradigms are inefficient and outdated. It likely advocates for greater decentralization, demand response, and integration of distributed energy resources (DERs) like EVs and batteries. This represents a significant corporate-led push to disrupt energy infrastructure policy and technology.",
+        "summary": "President Donald Trump stated that releasing emergency oil reserves would help alleviate energy price pressures. Concurrently, the US administration reaffirmed its intent to complete its campaign against Iran. This dual approach combines short-term market management with a long-term geopolitical strategy focused on the Middle East. The statements signal ongoing US commitment to influencing global oil supply and confronting Iranian interests.",
         "relations": [
           {
-            "label": "Google",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Tech giant co-leading grid innovation coalition"
+            "desc": "US President making policy statements"
           },
           {
-            "label": "Tesla",
-            "type": "entity",
-            "desc": "EV and energy storage leader co-leading initiative"
-          },
-          {
-            "label": "Utilize Coalition",
-            "type": "entity",
-            "desc": "New alliance aiming to reform grid management"
-          },
-          {
-            "label": "Electrical Grid",
+            "label": "Strategic Petroleum Reserve (SPR)",
             "type": "resource",
-            "desc": "Critical infrastructure target for disruption"
+            "desc": "Emergency oil stockpile for price management"
           },
           {
-            "label": "Grid Regulation",
-            "type": "risk",
-            "desc": "Policy framework under challenge"
+            "label": "Iran",
+            "type": "entity",
+            "desc": "Target of US geopolitical campaign"
+          },
+          {
+            "label": "Crude Oil Supply",
+            "type": "resource",
+            "desc": "Key resource impacted by policy"
           }
         ],
         "analysis": {
           "strategic": [
-            "Major tech and energy firms are moving beyond product sales to directly shape the foundational rules and architecture of critical national infrastructure.",
-            "The push for grid modernization is accelerating, with private sector consortia becoming key actors in energy policy advocacy."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "NextEra Energy, Inc. (NEE)",
-          "risk": "MEDIUM",
-          "thesis": "As a leader in renewable energy and grid modernization, NextEra is positioned to benefit from and potentially partner in this industry transformation."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1533582475944?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Amazon Launches Healthcare AI Assistant",
-        "fullTitle": "Amazon launches its healthcare AI assistant on its website and app",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Amazon has launched a healthcare-specific AI assistant across its website and mobile application. The 'Health AI' tool can answer medical questions, explain health records, manage prescription renewals, and book appointments. This marks a significant expansion of Amazon's vertical integration into the healthcare services sector using generative AI. It positions Amazon as a direct competitor to traditional healthcare providers and digital health platforms.",
-        "relations": [
-          {
-            "label": "Amazon",
-            "type": "entity",
-            "desc": "E-commerce giant launching healthcare AI product"
-          },
-          {
-            "label": "Health AI Assistant",
-            "type": "tech",
-            "desc": "Generative AI tool for healthcare tasks"
-          },
-          {
-            "label": "Healthcare Services",
-            "type": "entity",
-            "desc": "Sector being disrupted by AI integration"
-          },
-          {
-            "label": "Generative AI",
-            "type": "tech",
-            "desc": "Underlying technology for the new assistant"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Amazon is leveraging its massive consumer platform and AI capabilities to capture a foundational role in the patient healthcare journey.",
-            "The launch accelerates the convergence of big tech, AI, and healthcare, raising data privacy, regulatory, and competitive dynamics."
+            "The US is leveraging both its strategic reserves and geopolitical posture to manage oil market stability and exert pressure on adversaries, primarily Iran.",
+            "This policy mix aims to control inflation (energy prices) domestically while advancing foreign policy objectives, highlighting the interconnection of energy and geopolitics."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Teladoc Health, Inc. (TDOC)",
+          "asset": "Crude Oil Futures (WTI/BRENT)",
           "risk": "HIGH",
-          "thesis": "Amazon's direct entry into AI-powered healthcare navigation and triage presents a major competitive threat to incumbent telehealth and digital health companies."
+          "thesis": "Potential SPR releases and heightened geopolitical rhetoric aimed at Iran could introduce near-term downward pressure on oil prices, despite underlying supply risks."
         },
-        "confidence": 90,
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1565246903938?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Stocks Drop, Crude Jumps",
+        "fullTitle": "Stocks Drop, Crude Jumps as Energy Assets Targeted",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "US equity futures and Asian stocks declined, extending a volatile week. The sell-off coincided with a rally in oil prices following an attack on two tankers in Iraqi waters. This event underscored the persistent threat to energy infrastructure and shipping lanes in the Middle East. Market reactions highlight the sensitivity of global risk assets to geopolitical disruptions in key energy-producing regions.",
+        "relations": [
+          {
+            "label": "US Equity Futures",
+            "type": "asset",
+            "desc": "Declining on geopolitical risk"
+          },
+          {
+            "label": "Crude Oil",
+            "type": "resource",
+            "desc": "Rallying on supply disruption fears"
+          },
+          {
+            "label": "Middle East Shipping Lanes",
+            "type": "risk",
+            "desc": "Geographic chokepoint under threat"
+          },
+          {
+            "label": "Iraq",
+            "type": "entity",
+            "desc": "Location of tanker attack"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Attacks on energy transport infrastructure act as a immediate trigger for risk-off sentiment in equities and a risk premium in oil, demonstrating market fragility.",
+            "The event reinforces the structural geopolitical risk premium embedded in global energy markets, which can decouple from fundamental supply/demand in the short term."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Energy Sector ETFs (e.g., XLE)",
+          "risk": "MEDIUM",
+          "thesis": "Geopolitical supply disruptions support higher oil prices, which typically benefit the profitability and stock performance of integrated energy companies."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1666237617067?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "AI 'Actor' Releases Song",
+        "fullTitle": "AI 'Actor' Tilly Norwood Releases Criticized Song",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "An AI-generated entity named Tilly Norwood has released a song described as a rallying cry to other AI actors. The content, which urges persistence despite doubts about their humanity, has been critically panned. This event represents a niche cultural experiment at the intersection of AI and entertainment. It highlights early, albeit clumsy, attempts to create AI-driven narrative personas.",
+        "relations": [
+          {
+            "label": "Tilly Norwood",
+            "type": "entity",
+            "desc": "AI-generated actor persona"
+          },
+          {
+            "label": "AI-Generated Content",
+            "type": "tech",
+            "desc": "Entertainment content created by AI"
+          },
+          {
+            "label": "Digital Entertainment",
+            "type": "entity",
+            "desc": "Sector for AI experimentation"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The development of AI 'actors' or personas is an exploratory frontier in content creation, though current iterations lack broad relatability and commercial viability.",
+            "This trend points to a longer-term potential for hyper-personalized or synthetic media, but significant technological and creative hurdles remain."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Pure-play AI entertainment startups",
+          "risk": "HIGH",
+          "thesis": "Early-stage ventures focused solely on AI-generated entertainment personas face significant adoption and monetization challenges, as evidenced by poor initial reception."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1503224002461?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Nuro Tests AVs in Tokyo",
+        "fullTitle": "Nuro Tests Autonomous Vehicle Tech on Tokyo Streets",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Autonomous vehicle startup Nuro has begun testing its self-driving software on public roads in Tokyo. This marks the company's first international expansion beyond the United States. The move represents a strategic entry into a key Asian market with complex urban environments. It signals Nuro's growth ambitions and the global race for AV deployment and regulatory experience.",
+        "relations": [
+          {
+            "label": "Nuro",
+            "type": "entity",
+            "desc": "AV startup expanding internationally"
+          },
+          {
+            "label": "Autonomous Vehicle (AV) Software",
+            "type": "tech",
+            "desc": "Core technology being tested"
+          },
+          {
+            "label": "Tokyo, Japan",
+            "type": "entity",
+            "desc": "First international test market"
+          },
+          {
+            "label": "Regulatory Expansion",
+            "type": "risk",
+            "desc": "Challenge of entering new jurisdictions"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Nuro's expansion into Japan demonstrates a strategy to validate its technology in diverse, dense urban environments, which is critical for long-term scalability.",
+            "Entering the Japanese market provides access to a tech-forward regulatory landscape and potential partnerships, positioning Nuro in a major future mobility market."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Nuro (private markets/associated investors)",
+          "risk": "HIGH",
+          "thesis": "Successful international expansion and testing in a challenging market like Tokyo de-risks the technology and business model, enhancing long-term valuation prospects."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1557963825635?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Google Play Gaming Hub Push",
+        "fullTitle": "Google Play Adds Games, Trials, Community Features",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google is introducing new paid and PC games, game trials, community posts, and other features to its Google Play platform. These updates indicate a focused effort to transform Google Play into an enhanced gaming hub. The strategy aims to increase engagement, monetization, and competitiveness against other gaming distribution platforms. This move aligns with the broader growth of mobile and cloud gaming.",
+        "relations": [
+          {
+            "label": "Google Play",
+            "type": "entity",
+            "desc": "Platform being enhanced for gaming"
+          },
+          {
+            "label": "Mobile Gaming",
+            "type": "entity",
+            "desc": "Target market segment"
+          },
+          {
+            "label": "PC Game Distribution",
+            "type": "tech",
+            "desc": "New expansion area for platform"
+          },
+          {
+            "label": "Platform Competition",
+            "type": "risk",
+            "desc": "Competing with iOS, Steam, etc."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Google is leveraging its massive Android user base to create a more vertically integrated gaming ecosystem, capturing more value from game discovery, distribution, and community.",
+            "The addition of PC games and trials blurs the line between mobile and desktop gaming, positioning Google Play as a broader gaming portal ahead of broader cloud gaming adoption."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Alphabet (GOOGL)",
+          "risk": "LOW",
+          "thesis": "Strengthening Google Play as a gaming hub drives higher engagement and revenue from a high-margin segment, contributing to the diversification and growth of Google's services revenue."
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1547216687922?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1656263264909?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Vietnam usa fondo para estabilizar precios de combustible",
-        "fullTitle": "Vietnam usa fondo de combustible para estabilizar precios ante riesgo de escasez",
+        "title": "Yen cerca de mínimo anual",
+        "fullTitle": "Yen cerca de mínimo anual, intervención japonesa en duda",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Vietnam ha activado su Fondo de Estabilización de Precios de Combustible para proteger a los consumidores de un aumento brusco de los costes. Esta medida responde a los crecientes riesgos de escasez de suministros energéticos globales, exacerbados por el conflicto en Oriente Medio. La intervención busca amortiguar el impacto de la volatilidad del mercado internacional en la economía doméstica. Refleja una política gubernamental proactiva para controlar la inflación y el malestar social.",
+        "summary": "El yen se mantiene cerca de su nivel más débil frente al dólar este año, lo que lo hace vulnerable a mayores caídas. Los estrategas consideran que el umbral para una intervención de Japón para defender la moneda es alto. Esto refleja la presión sobre el Banco de Japón y el Ministerio de Finanzas. Un yen más débil tiene implicaciones para los flujos comerciales y la inflación importada.",
         "relations": [
           {
-            "label": "Vietnam",
+            "label": "Yen japonés (JPY)",
             "type": "entity",
-            "desc": "Gobierno implementando medidas de estabilización de precios"
+            "desc": "Moneda bajo presión de venta"
           },
           {
-            "label": "Fondo de Combustible",
-            "type": "resource",
-            "desc": "Mecanismo fiscal para amortiguar precios de energía"
+            "label": "Banco de Japón (BoJ)",
+            "type": "entity",
+            "desc": "Autoridad monetaria clave"
           },
           {
-            "label": "Conflicto Oriente Medio",
+            "label": "Intervención en divisas",
             "type": "risk",
-            "desc": "Factor geopolítico que presiona suministros energéticos"
+            "desc": "Riesgo de acción gubernamental"
           },
           {
-            "label": "Suministros Energéticos Globales",
-            "type": "resource",
-            "desc": "Cadena de suministro bajo tensión geopolítica"
+            "label": "Dólar estadounidense (USD)",
+            "type": "entity",
+            "desc": "Moneda de refugio fuerte"
+          },
+          {
+            "label": "Diferencial de tasas de interés",
+            "type": "risk",
+            "desc": "Factor fundamental de presión"
           }
         ],
         "analysis": {
           "strategic": [
-            "Las intervenciones estatales en mercados energéticos pueden crear distorsiones a largo plazo y dependencia fiscal.",
-            "La medida subraya la vulnerabilidad de economías emergentes a shocks externos en commodities, impulsando posiblemente una mayor búsqueda de seguridad energética nacional."
+            "La reticencia a intervenir sugiere que las autoridades japonesas pueden estar tolerando un yen más débil para apoyar la competitividad de las exportaciones y la inflación interna, a pesar de los costos.",
+            "La situación aumenta la dependencia de las decisiones de la Fed y crea un entorno propicio para la especulación, lo que podría llevar a una corrección brusca si el sentimiento cambia."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Petróleo crudo (futuros)",
+          "asset": "JPY/USD",
           "risk": "MEDIUM",
-          "thesis": "Las intervenciones gubernamentales para contener precios, combinadas con riesgos geopolíticos ya descontados, podrían limitar el alza adicional del crudo a corto plazo en ciertas regiones."
+          "thesis": "El diferencial de políticas entre la Fed (ajustada) y el BoJ (acomodaticia) sigue siendo el motor principal. La alta barrera para la intervención reduce el riesgo de reversión a corto plazo, permitiendo una continuación de la tendencia bajista del yen."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1528578759362?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1545406044650?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Acciones suben con petróleo bajo $90",
-        "fullTitle": "Acciones avanzan con petróleo bajo $90, mejora sentimiento",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los mercados bursátiles extendieron sus ganancias mientras el petróleo cotizaba por debajo de los 90 dólares por barril. La confianza del mercado mejoró tras un informe sobre la liberación de reservas estratégicas de crudo para aliviar los altos precios de la energía. Esta acción coordinada es percibida como un esfuerzo para estabilizar los mercados. La correlación inversa entre el petróleo y el sentimiento de riesgo es evidente en esta reacción.",
+        "title": "Trump sobre petróleo e Irán",
+        "fullTitle": "Trump promete liberar reservas y presionar a Irán",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El presidente Trump vinculó la liberación de reservas estratégicas de petróleo para aliviar los precios de la energía con una campaña continua contra Irán. Esto indica el uso de herramientas energéticas como parte de la política exterior y de seguridad. El mensaje busca calmar los mercados mientras se mantiene una postura dura. La geopolítica del petróleo sigue siendo un factor clave de volatilidad.",
         "relations": [
           {
-            "label": "Petróleo Crudo",
-            "type": "resource",
-            "desc": "Commodity clave, cotizando por debajo de nivel psicológico de $90"
-          },
-          {
-            "label": "Reservas Estratégicas de Petróleo",
-            "type": "resource",
-            "desc": "Inventarios gubernamentales usados para intervenir en el mercado"
-          },
-          {
-            "label": "Sentimiento del Mercado",
-            "type": "risk",
-            "desc": "Mejoró con la perspectiva de menor presión inflacionaria"
-          },
-          {
-            "label": "Mercados Bursátiles",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Beneficiados por la caída en los precios de la energía"
+            "desc": "Presidente de EE.UU., emisor de declaraciones"
+          },
+          {
+            "label": "Reservas Estratégicas de Petróleo (SPR)",
+            "type": "resource",
+            "desc": "Herramienta para influir en precios"
+          },
+          {
+            "label": "Irán",
+            "type": "entity",
+            "desc": "Objetivo de presión geopolítica"
+          },
+          {
+            "label": "Petróleo crudo",
+            "type": "resource",
+            "desc": "Activo central en la declaración"
+          },
+          {
+            "label": "Política exterior de EE.UU.",
+            "type": "risk",
+            "desc": "Factor de riesgo geopolítico"
           }
         ],
         "analysis": {
           "strategic": [
-            "La liberación de reservas es una herramienta política de corto plazo que no resuelve desequilibrios estructurales de oferta/demanda.",
-            "Los mercados interpretan el control de la inflación energética como positivo para los márgenes corporativos y el consumo, favoreciendo a las acciones."
+            "La declaración confirma que la administración estadounidense utiliza el mercado energético como un instrumento de poder blando para objetivos geopolíticos y económicos internos.",
+            "Al vincular el suministro de petróleo con la presión a Irán, se crea un vínculo permanente entre la estabilidad de los precios y la escalada de tensiones en el Golfo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Índices bursátiles globales (ej. S&P 500)",
-          "risk": "MEDIUM",
-          "thesis": "El alivio en los precios de una materia prima clave como el petróleo reduce los temores inflacionarios y de contracción de márgenes, apoyando una continuación del rally de riesgo."
+          "asset": "Opciones de volatilidad en petróleo (VIX de petróleo)",
+          "risk": "HIGH",
+          "thesis": "La política energética explícitamente vinculada a la geopolítica aumenta la prima de riesgo y la probabilidad de picos de volatilidad. Cualquier escalada con Irán o decisión sobre la SPR puede causar movimientos bruscos."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1500728705767?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1521134814535?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Oro sube tras plan de liberar reservas de petróleo",
-        "fullTitle": "Oro avanza tras informe de liberación de reservas de petróleo de la AIE",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El precio del oro registró avances tras conocerse un informe sobre una propuesta de la Agencia Internacional de la Energía (AIE) para realizar la mayor liberación de reservas petroleras de la historia. El objetivo es mitigar el shock de oferta causado por la guerra en Oriente Medio. El oro actúa como refugio ante la incertidumbre geopolítica persistente, incluso ante medidas de estabilización del mercado energético. La dinámica refleja la demanda de activos seguros en un entorno complejo.",
+        "title": "Acciones caen, petróleo sube",
+        "fullTitle": "Mercados en riesgo: acciones bajan, crudo sube por ataque",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Los futuros de acciones de EE.UU. y las acciones asiáticas cayeron, extendiendo la volatilidad semanal. Los precios del petróleo se dispararon tras un ataque a dos petroleros en aguas de Irak. El evento subraya la amenaza persistente a los activos energéticos en Medio Oriente. Los mercados reaccionan con aversión al riesgo y preocupación por la inflación energética.",
         "relations": [
           {
-            "label": "Oro",
-            "type": "resource",
-            "desc": "Activo refugio que gana ante la incertidumbre"
-          },
-          {
-            "label": "Agencia Internacional de la Energía (AIE)",
-            "type": "entity",
-            "desc": "Organización proponiendo intervención coordinada en el mercado petrolero"
-          },
-          {
-            "label": "Reservas de Petróleo",
-            "type": "resource",
-            "desc": "Herramienta de política para gestionar shocks de oferta"
-          },
-          {
-            "label": "Guerra en Oriente Medio",
+            "label": "Petroleros atacados",
             "type": "risk",
-            "desc": "Evento geopolítico catalizador de la volatilidad"
+            "desc": "Desencadenante del evento de riesgo"
+          },
+          {
+            "label": "Petróleo crudo (WTI/Brent)",
+            "type": "resource",
+            "desc": "Activo que se aprecia por riesgo geopolítico"
+          },
+          {
+            "label": "Índices bursátiles globales",
+            "type": "entity",
+            "desc": "Activos bajo presión por aversión al riesgo"
+          },
+          {
+            "label": "Golfo Pérsico",
+            "type": "risk",
+            "desc": "Zona de riesgo geopolítico crítico"
+          },
+          {
+            "label": "Inflación energética",
+            "type": "risk",
+            "desc": "Riesgo macroeconómico secundario"
           }
         ],
         "analysis": {
           "strategic": [
-            "La fortaleza del oro sugiere que los inversores ven las intervenciones en el mercado petrolero como paliativas, no como soluciones a la inestabilidad geopolítica subyacente.",
-            "El metal precioso mantiene su rol de cobertura contra la inflación y el riesgo sistémico, incluso si el petróleo se modera temporalmente."
+            "Los ataques a la infraestructura energética, incluso menores, actúan como recordatorios potentes de la fragilidad de las cadenas de suministro globales, desencadenando reacciones desproporcionadas en los mercados.",
+            "Este patrón (petróleo alto, acciones bajas) refuerza la correlación negativa entre el riesgo geopolítico energético y la valoración de activos de riesgo, excepto en el sector energético."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Oro (futuros o ETF como GLD)",
-          "risk": "LOW",
-          "thesis": "El entorno de incertidumbre geopolítica elevada y respuestas políticas coordinadas sostiene la demanda de activos refugio. El oro se beneficia de su estatus de reserva de valor."
+          "asset": "ETF de empresas de energía integradas (e.g., XLE)",
+          "risk": "MEDIUM",
+          "thesis": "Las tensiones geopolíticas sostienen los precios del petróleo, beneficiando directamente los flujos de caja y los márgenes de las grandes petroleras. Ofrecen cobertura frente a la inflación energética y relativa resiliencia en entornos de aversión al riesgo."
         },
         "confidence": 87,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1502641684538?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1631132108954?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Kalshi añade función para compartir en Threads de Meta",
-        "fullTitle": "Kalshi añade opción para compartir en Threads, voto de confianza para Meta",
+        "title": "Canción de IA criticada",
+        "fullTitle": "Crítica a canción generada por IA 'actor'",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "La plataforma de mercados de predicción Kalshi ha introducido una función para compartir que incrusta automáticamente gráficos de sus mercados en publicaciones de Threads, la aplicación de Meta. Este movimiento se interpreta como un voto de confianza en la plataforma social emergente de Meta. Facilita la difusión de contenido de mercados de predicción en redes sociales. Refleja una integración estratégica para aumentar el engagement y la visibilidad de ambos servicios.",
+        "summary": "Una canción generada por una IA 'actor' ha sido fuertemente criticada por su falta de autenticidad y capacidad de conexión emocional. El contenido es descrito como un llamado a otras IAs, incomprensible para los humanos. El evento resalta las limitaciones actuales de la IA en la creación de arte culturalmente relevante. Es un ejemplo de la brecha entre la capacidad técnica y la resonancia humana.",
         "relations": [
           {
-            "label": "Kalshi",
-            "type": "entity",
-            "desc": "Plataforma de mercados de predicción regulada"
-          },
-          {
-            "label": "Meta / Threads",
-            "type": "entity",
-            "desc": "Compañía de redes sociales y su plataforma de microblogging"
-          },
-          {
-            "label": "Mercados de Predicción",
+            "label": "IA Generativa",
             "type": "tech",
-            "desc": "Plataformas para comerciar sobre resultados de eventos"
+            "desc": "Tecnología subyacente para creación de contenido"
           },
           {
-            "label": "Integración de API/Compartir",
+            "label": "Contenido generado por IA",
             "type": "tech",
-            "desc": "Característica técnica que conecta servicios"
+            "desc": "Producto de salida, en este caso fallido"
+          },
+          {
+            "label": "Cultura y entretenimiento",
+            "type": "entity",
+            "desc": "Sector de impacto"
+          },
+          {
+            "label": "Autenticidad emocional",
+            "type": "risk",
+            "desc": "Limitación clave identificada"
+          },
+          {
+            "label": "Tilly Norwood (IA actor)",
+            "type": "entity",
+            "desc": "Entidad/sistema específico mencionado"
           }
         ],
         "analysis": {
           "strategic": [
-            "La integración busca capturar tráfico y atención en el competitivo ecosistema de redes sociales, utilizando contenido financiero/ especulativo como gancho.",
-            "Es una señal de que Meta está consolidando a Threads como una plataforma viable, atrayendo integraciones de terceros que añaden utilidad."
+            "Los fracasos públicos en la aplicación de IA en dominios creativos sensibles, como la música, pueden ralentizar la adopción pública y generar escepticismo sobre otras aplicaciones aparentemente exitosas.",
+            "Este tipo de eventos sirve como un valioso caso de prueba negativo para los desarrolladores, delineando los límites de lo que la IA actual puede lograr sin una supervisión y guía humana profunda."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Meta Platforms Inc. (META)",
-          "risk": "MEDIUM",
-          "thesis": "Las integraciones estratégicas de terceros como la de Kalshi fortalecen el ecosistema y la utilidad de Threads, mejorando su potencial para monetización a largo plazo y diversificando los ingresos de Meta más allá de la publicidad principal."
+          "action": "SHORT",
+          "asset": "Empresas que sobrevaloran la creatividad de IA sin supervisión humana",
+          "risk": "HIGH",
+          "thesis": "La reacción negativa subraya el riesgo de sobreestimación del mercado en aplicaciones de IA puramente generativas en arte/entretenimiento. Las empresas que dependen de narrativas de 'IA autónoma creativa' pueden enfrentar correcciones."
         },
         "confidence": 82,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1695941602264?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1605844394930?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Google y Tesla critican gestión de red eléctrica",
-        "fullTitle": "Google y Tesla lanzan Utilize para cambiar gestión de red eléctrica",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Google y Tesla, junto con otras empresas, han lanzado la iniciativa 'Utilize'. Esta busca transformar fundamentalmente cómo se utiliza y regula la red eléctrica. El consorcio argumenta que los modelos actuales de gestión de la red son ineficientes y obsoletos. El objetivo es promover una red más flexible, descentralizada y capaz de integrar energías renovables. Representa un desafío directo a las utilities y reguladores tradicionales.",
-        "relations": [
-          {
-            "label": "Google",
-            "type": "entity",
-            "desc": "Gigante tecnológico con inversiones en energía y datos"
-          },
-          {
-            "label": "Tesla",
-            "type": "entity",
-            "desc": "Fabricante de vehículos eléctricos y sistemas de almacenamiento de energía"
-          },
-          {
-            "label": "Utilize",
-            "type": "tech",
-            "desc": "Iniciativa/consorcio para reformar la gestión de la red"
-          },
-          {
-            "label": "Red Eléctrica",
-            "type": "resource",
-            "desc": "Infraestructura crítica objetivo de modernización"
-          },
-          {
-            "label": "Utilities Tradicionales",
-            "type": "entity",
-            "desc": "Sector desafiado por nuevos modelos de negocio"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El movimiento señala una convergencia acelerada entre tecnología, transporte y energía, con grandes tecnológicas buscando dominar la infraestructura crítica del futuro.",
-            "Amenaza con disrumpir el modelo de negocio centenario de las utilities reguladas, presionando por cambios normativos que favorezcan la descentralización y la digitalización."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Tesla, Inc. (TSLA) & Alphabet Inc. (GOOGL)",
-          "risk": "HIGH",
-          "thesis": "El liderazgo en la redefinición de la infraestructura energética puede abrir nuevos mercados masivos (gestión de redes, software de energía) más allá de sus negocios principales, creando fuentes de ingresos recurrentes a largo plazo."
-        },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1685067130519?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Amazon lanza asistente de IA para salud",
-        "fullTitle": "Amazon lanza su asistente de IA de salud en su sitio web y app",
+        "title": "Nuro prueba en Tokio",
+        "fullTitle": "Nuro expande pruebas de vehículos autónomos a Tokio",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Amazon ha lanzado oficialmente 'Health AI', su asistente de inteligencia artificial para el sector sanitario, disponible en su sitio web y aplicación. La herramienta puede responder preguntas, explicar historiales médicos, gestionar renovaciones de recetas, reservar citas y más. Representa una expansión significativa de los servicios de Amazon en el competitivo mercado de la salud digital. Apalanca la infraestructura en la nube (AWS) y el acceso a consumidores de la compañía.",
+        "summary": "La startup de vehículos autónomos Nuro ha comenzado a probar su software de conducción autónoma en las calles públicas de Tokio. Esta expansión marca su primera incursión internacional fuera de Estados Unidos. El movimiento indica confianza en su tecnología y busca validarla en un entorno urbano denso y complejo. Japón representa un mercado regulatorio y de consumidores estratégico.",
         "relations": [
           {
-            "label": "Amazon",
+            "label": "Nuro",
             "type": "entity",
-            "desc": "Gigante del comercio electrónico y la nube expandiéndose en salud"
+            "desc": "Startup de vehículos autónomos"
           },
           {
-            "label": "Health AI",
+            "label": "Vehículos Autónomos (AV)",
             "type": "tech",
-            "desc": "Asistente de IA para servicios de salud del consumidor"
+            "desc": "Tecnología central desplegada"
           },
           {
-            "label": "Salud Digital",
-            "type": "tech",
-            "desc": "Mercado en crecimiento objetivo de Amazon"
+            "label": "Tokio, Japón",
+            "type": "entity",
+            "desc": "Primer mercado internacional de prueba"
           },
           {
-            "label": "AWS (Amazon Web Services)",
-            "type": "tech",
-            "desc": "Plataforma subyacente de nube e IA probablemente utilizada"
+            "label": "Logística de última milla",
+            "type": "entity",
+            "desc": "Caso de uso probable de Nuro"
+          },
+          {
+            "label": "Regulación de AV",
+            "type": "risk",
+            "desc": "Factor clave para la expansión"
           }
         ],
         "analysis": {
           "strategic": [
-            "Amazon está utilizando la IA como cuña para integrarse más profundamente en el ecosistema sanitario, desde el comercio de productos hasta la prestación de servicios de información y gestión.",
-            "Este lanzamiento intensifica la competencia con otros gigantes tecnológicos (Google, Microsoft) y actores de salud digital, impulsando la consolidación y la innovación en el sector."
+            "La expansión a Japón sugiere que Nuro busca diversificar el riesgo regulatorio y de mercado, y validar su tecnología en un entorno con normas de tráfico estrictas, lo que es una señal de fortaleza técnica.",
+            "Este movimiento puede presionar a competidores locales y globales a acelerar sus propios planes de expansión internacional, iniciando una nueva fase de competencia por mercados clave."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Amazon.com, Inc. (AMZN)",
+          "asset": "Ecosistema de movilidad autónoma y logística (sensores, mapas, software)",
           "risk": "MEDIUM",
-          "thesis": "La entrada en el mercado de salud digital, potenciada por IA, abre una nueva y vasta oportunidad de crecimiento a largo plazo, diversificando los ingresos y aumentando la fidelidad del cliente dentro del ecosistema Amazon."
+          "thesis": "La expansión internacional de un jugador especializado como Nuro valida la madurez incremental del sector AV para aplicaciones específicas. Beneficia a proveedores de tecnología clave y señala apertura regulatoria en nuevos mercados."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1680235449846?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Google Play se enfoca en juegos",
+        "fullTitle": "Google Play se transforma en centro de juegos mejorado",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google está anunciando nuevas funciones para Google Play, incluyendo juegos de PC, pruebas de juegos y publicaciones comunitarias. Estas actualizaciones indican un enfoque estratégico en transformar la plataforma en un centro de gaming mejorado. El movimiento busca competir más directamente con tiendas de aplicaciones especializadas y distribuidores de PC. Refuerza la importancia del segmento de gaming dentro del ecosistema Android.",
+        "relations": [
+          {
+            "label": "Google Play",
+            "type": "entity",
+            "desc": "Plataforma de distribución de Google"
+          },
+          {
+            "label": "Mercado de videojuegos móviles/PC",
+            "type": "entity",
+            "desc": "Mercado objetivo de la expansión"
+          },
+          {
+            "label": "Juegos de PC en móvil",
+            "type": "tech",
+            "desc": "Nueva categoría de producto"
+          },
+          {
+            "label": "Competencia con App Store/Steam",
+            "type": "risk",
+            "desc": "Contexto competitivo"
+          },
+          {
+            "label": "Ecosistema Android",
+            "type": "entity",
+            "desc": "Ecosistema beneficiado"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Google está intentando capturar una mayor parte del ciclo de vida y gasto del gamer, desde el móvil hasta el PC, creando un ecosistema más cerrado y reteniendo usuarios dentro de sus servicios.",
+            "Esta estrategia representa una defensa contra la fragmentación de las tiendas de aplicaciones y un ataque directo a los ingresos de plataformas rivales como Steam y Epic Games Store en el espacio de distribución de PC."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Alphabet (GOOGL) - Exposición indirecta",
+          "risk": "LOW",
+          "thesis": "El fortalecimiento de Google Play como hub de gaming aumenta su valor para desarrolladores y usuarios, potenciando los ingresos por comisiones y publicidad. Es una estrategia de monetización de alto margen dentro del negocio central de Google."
         },
         "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1691889605658?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1626740708734?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
