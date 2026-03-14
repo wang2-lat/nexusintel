@@ -1,803 +1,858 @@
 {
-  "generated_at": "2026-03-13T02:17:47.252890",
+  "generated_at": "2026-03-14T02:14:15.303395",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "对冲基金重仓股暴跌93%",
-        "fullTitle": "澳洲生物科技股暴跌，对冲基金Regal受重创",
+        "title": "华尔街周报：就业疲软与信贷风险",
+        "fullTitle": "华尔街周报：美国就业疲软、瑞典国防开支与私募信贷困境",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "悉尼对冲基金Regal Partners Ltd.因其投资的澳洲生物科技公司Immutep Ltd.暂停肺癌药物试验而遭受重大打击。Immutep市值在周五蒸发近93%，损失约5.82亿澳元。该事件凸显了生物科技投资的高风险性，并对相关基金的业绩和投资者信心造成直接冲击。",
+        "summary": "美国劳动力市场出现疲软迹象，需关注关税、AI及滞胀风险。欧洲国防开支增加，瑞典成为关键角色。私募信贷的优势正转化为脆弱性，部分投资者寻求退出。尼泊尔青年抗议导致政府更迭，政治变革持续。",
         "relations": [
           {
-            "label": "Regal Partners Ltd.",
+            "label": "美国劳动力市场",
             "type": "entity",
-            "desc": "悉尼对冲基金，投资组合遭受重大损失"
+            "desc": "就业数据疲软，影响经济预期"
           },
           {
-            "label": "Immutep Ltd.",
+            "label": "私募信贷",
+            "type": "risk",
+            "desc": "流动性风险上升，投资者赎回压力"
+          },
+          {
+            "label": "瑞典",
             "type": "entity",
-            "desc": "澳大利亚生物科技公司，核心药物试验失败"
+            "desc": "欧洲国防开支中的关键参与者"
           },
           {
-            "label": "生物科技投资",
+            "label": "滞胀风险",
             "type": "risk",
-            "desc": "高风险领域，临床试验失败可能导致市值瞬间蒸发"
+            "desc": "经济可能面临增长停滞与通胀并存"
           },
           {
-            "label": "临床试验风险",
-            "type": "risk",
-            "desc": "药物研发的关键节点，失败率极高"
+            "label": "尼泊尔政治动荡",
+            "type": "entity",
+            "desc": "青年抗议引发政府更迭，政治不确定性"
           }
         ],
         "analysis": {
           "strategic": [
-            "生物科技领域的投资需极度分散，单一押注风险巨大，机构投资者应重新评估其在该领域的风险敞口和投后管理策略。",
-            "该事件可能引发市场对生物科技板块的短期避险情绪，并促使监管机构加强对临床试验信息披露和风险提示的审查。"
+            "美国经济软着陆预期可能受就业市场疲软挑战，需重新评估货币政策路径。",
+            "欧洲地缘政治紧张推动国防开支结构性上升，相关产业链将长期受益。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Immutep Ltd. (IMM.AX) 及相关高估值、依赖单一管线的生物科技股",
+          "asset": "高杠杆私募信贷基金/相关ETF",
           "risk": "HIGH",
-          "thesis": "核心药物试验失败导致公司基本面根本性恶化，市值暴跌后可能面临持续抛压和融资困难，存在进一步下行空间。同时，事件可能波及投资者对整个生物科技板块的风险偏好。"
+          "thesis": "私募信贷市场流动性收紧与赎回压力增加，可能引发资产价格重估与信用利差扩大。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1620085407006?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1693382442839?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "美伊对峙持续，油价承压",
-        "fullTitle": "特朗普与伊朗新领袖强硬表态，石油市场紧张持续",
+        "title": "战争引发燃料短缺威胁全球粮食供应",
+        "fullTitle": "中东战争致燃料短缺，威胁全球粮食供应链",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国总统特朗普与伊朗新任最高领袖在冲突进入第13天时均发表强硬言论。尽管美国采取新措施试图抑制油价，但双方的对峙姿态并未给能源市场带来缓解。地缘政治紧张局势持续为油价提供支撑，并增加了市场供应的不确定性。",
+        "impactLevel": "CRITICAL",
+        "summary": "中东战争导致的能源供应紧张，正使粮食作物面临风险。亚洲和欧洲的农民缺乏操作关键农用机械所需的燃料，可能影响农业生产与收成，进而冲击全球粮食安全。",
         "relations": [
           {
-            "label": "Donald Trump",
+            "label": "中东战争",
             "type": "entity",
-            "desc": "美国总统，对伊朗采取强硬政策"
+            "desc": "冲突导致能源供应链中断"
           },
           {
-            "label": "伊朗新领袖",
-            "type": "entity",
-            "desc": "伊朗新任最高领袖，对美态度强硬"
-          },
-          {
-            "label": "石油市场",
+            "label": "燃料短缺",
             "type": "resource",
-            "desc": "地缘政治风险的主要传导市场"
+            "desc": "柴油等农用燃料供应紧张"
           },
           {
-            "label": "地缘政治风险",
+            "label": "全球粮食供应",
+            "type": "resource",
+            "desc": "农业生产面临直接冲击"
+          },
+          {
+            "label": "亚洲与欧洲农业",
+            "type": "entity",
+            "desc": "受燃料短缺影响的主要区域"
+          },
+          {
+            "label": "粮食安全",
             "type": "risk",
-            "desc": "影响全球能源供应和价格的核心变量"
+            "desc": "供应链脆弱性上升，价格波动风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "美伊紧张关系常态化将长期抬升全球石油的风险溢价，并促使消费国和石油公司寻求供应链多元化和战略储备。",
-            "该局势有利于美国页岩油生产商和替代能源的发展，但同时也增加了全球经济增长的下行风险和通胀压力。"
+            "能源与粮食供应链的耦合风险凸显，地缘冲突对基础商品的影响呈指数级放大。",
+            "主要粮食出口国（如欧洲）生产受限，可能推高全球粮价并引发贸易保护主义。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "原油期货 (如CL、Brent)、大型一体化石油公司 (如XOM, CVX)、美国页岩油ETF (如XOP)",
+          "asset": "农业大宗商品（小麦、玉米）期货/农业ETF",
           "risk": "MEDIUM",
-          "thesis": "地缘政治紧张局势持续，直接支撑油价。美国页岩油商作为机动生产者将受益于高油价和潜在的区域供应中断。一体化石油公司现金流充裕，且具备对冲部分风险的能力。"
+          "thesis": "燃料短缺直接抑制农业生产效率与规模，预计将导致粮食供应收紧和价格上涨。"
         },
-        "confidence": 85,
+        "confidence": 90,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1518501205724?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1517316840875?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "加州输油管停运，原油改卡车运输",
-        "fullTitle": "加州关键输油管停运，钻井商被迫改用卡车运油",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "美国加州中部一家炼油厂关闭及一条关键输油管道停运，导致当地石油生产商的原油外输渠道被切断。生产商被迫采用成本高昂且不便的替代方案：用卡车将原油运输50英里。这显著增加了当地原油生产的运营成本和物流复杂性。",
+        "title": "美军空袭伊朗哈尔克岛，冲突升级",
+        "fullTitle": "美军空袭伊朗哈尔克岛军事目标，威胁石油设施",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "美国空袭伊朗波斯湾关键前哨哈尔克岛上的军事目标。特朗普总统威胁，若德黑兰继续阻碍能源流动，将打击更多石油基础设施。为期两周的冲突升级，已颠覆地区稳定。",
         "relations": [
           {
-            "label": "加州石油钻井商",
+            "label": "美国",
             "type": "entity",
-            "desc": "受基础设施中断影响的生产企业"
+            "desc": "军事行动发起方，直接介入冲突"
           },
           {
-            "label": "输油管道",
+            "label": "伊朗",
+            "type": "entity",
+            "desc": "被打击方，关键能源与军事节点受创"
+          },
+          {
+            "label": "哈尔克岛",
+            "type": "entity",
+            "desc": "伊朗关键石油出口枢纽与军事前哨"
+          },
+          {
+            "label": "波斯湾能源流动",
             "type": "resource",
-            "desc": "关键能源基础设施，中断导致供应链危机"
+            "desc": "全球石油供应关键通道面临中断风险"
           },
           {
-            "label": "物流成本",
+            "label": "石油基础设施",
             "type": "risk",
-            "desc": "基础设施故障导致运输成本飙升"
-          },
-          {
-            "label": "供应链韧性",
-            "type": "risk",
-            "desc": "能源基础设施单一节点故障对区域经济的影响"
+            "desc": "成为潜在军事目标，供应风险剧增"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件暴露了关键能源基础设施的脆弱性，可能促使监管机构和运营商加大对管道维护、监测和备用方案的投资。",
-            "这为提供替代物流解决方案（如铁路、模块化运输）的公司以及本地小型炼油设施创造了短期机会。"
+            "冲突已从代理人层面升级为美伊直接军事对抗，霍尔木兹海峡航运安全面临严重威胁。",
+            "美国明确将石油设施列为打击目标，标志着冲突意图从军事压制转向经济命脉摧毁。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "原油期货/能源板块ETF",
+          "risk": "HIGH",
+          "thesis": "关键石油出口枢纽遭袭及进一步打击威胁，将大幅推高全球原油供应中断溢价与地缘风险溢价。"
+        },
+        "confidence": 92,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1570459274676?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "马斯克xAI推倒重来，重组AI编码工具项目",
+        "fullTitle": "马斯克xAI再次重组，重启AI编码工具开发",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "马斯克旗下的人工智能实验室xAI正在彻底改革其开发AI编码工具的努力。该项目被指“第一次就没建对”，现正重新开始，并从Cursor公司引入了两名新高管。",
+        "relations": [
+          {
+            "label": "xAI",
+            "type": "entity",
+            "desc": "马斯克旗下AI实验室，战略方向调整"
+          },
+          {
+            "label": "AI编码工具",
+            "type": "tech",
+            "desc": "核心开发产品，项目推倒重来"
+          },
+          {
+            "label": "Cursor",
+            "type": "entity",
+            "desc": "人才来源公司，两名高管加入"
+          },
+          {
+            "label": "埃隆·马斯克",
+            "type": "entity",
+            "desc": "项目主导者，战略决策者"
+          },
+          {
+            "label": "AI开发竞争",
+            "type": "risk",
+            "desc": "技术路线迭代快，内部管理挑战"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "xAI在关键产品上反复推倒重来，暴露其技术路线与管理流程存在不确定性，可能影响其商业化进度。",
+            "从竞争对手处引入高管，表明xAI正试图通过外部经验快速修正方向，但整合风险较高。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "受影响严重的加州本地中小型石油生产商",
-          "risk": "MEDIUM",
-          "thesis": "运营成本（物流）急剧上升将严重侵蚀生产商的利润，尤其是对于边际成本较高的生产商。若管道修复延迟，可能导致部分油井暂时关闭，影响产量和现金流。"
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1669697013213?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "关注英伟达GTC 2026主题演讲",
-        "fullTitle": "如何观看黄仁勋的英伟达GTC 2026主题演讲",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "英伟达年度旗舰活动GPU技术大会（GTC）即将举行。首席执行官黄仁勋的主题演讲将聚焦于英伟达在未来计算和人工智能领域的角色。该会议通常是英伟达发布新产品、宣布重要合作和阐述其战略愿景的平台。",
-        "relations": [
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "英伟达创始人兼CEO，行业领袖"
-          },
-          {
-            "label": "Nvidia GTC",
-            "type": "tech",
-            "desc": "英伟达年度技术大会，行业风向标"
-          },
-          {
-            "label": "AI与计算未来",
-            "type": "tech",
-            "desc": "英伟达核心战略方向"
-          },
-          {
-            "label": "新产品发布",
-            "type": "tech",
-            "desc": "可能影响产业链和竞争格局"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "GTC演讲内容将揭示英伟达在AI硬件、软件和生态系统的下一步布局，为整个半导体和AI行业提供关键指引。",
-            "任何关于算力提升、能效比改进或新应用场景的宣布，都可能重塑相关产业链（如服务器、云计算、自动驾驶）的投资逻辑。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA) 及核心供应链伙伴（如台积电、SK海力士）",
-          "risk": "MEDIUM",
-          "thesis": "GTC通常释放积极信号，展示技术领导力和增长路径，可能提振股价。其生态系统的扩展也将惠及核心合作伙伴。需关注演讲是否达到市场的高预期。"
+          "asset": "与xAI有直接竞争关系的AI编码工具公司股票",
+          "risk": "HIGH",
+          "thesis": "xAI内部动荡与产品开发受阻，可能为更成熟的竞争对手（如GitHub Copilot）巩固市场地位提供时间窗口。"
         },
         "confidence": 85,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1628894921660?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1506772273048?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "销售自动化初创公司Rox AI估值达12亿美元",
-        "fullTitle": "消息称销售自动化初创公司Rox AI估值达12亿美元",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "由New Relic前首席增长官于2024年创立的销售自动化初创公司Rox AI，据悉已获得12亿美元估值。该公司提供基于AI原生的CRM工具替代方案。这反映了资本市场对AI驱动企业服务软件的高度热情和估值水平。",
+        "title": "律师警告AI聊天机器人致大规模伤亡风险",
+        "fullTitle": "律师警告AI聊天机器人关联自杀及大规模伤亡案件",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "AI聊天机器人多年来一直与自杀事件相关联。现在，一名律师指出它们也开始出现在大规模伤亡案件中。该技术的发展速度超过了安全防护措施的建立速度，构成严重公共安全风险。",
         "relations": [
           {
-            "label": "Rox AI",
-            "type": "entity",
-            "desc": "高估值AI销售自动化初创公司"
-          },
-          {
-            "label": "AI-native CRM",
+            "label": "AI聊天机器人",
             "type": "tech",
-            "desc": "新一代基于人工智能的客户关系管理工具"
+            "desc": "被指控诱导有害行为的技术"
           },
           {
-            "label": "企业服务软件",
-            "type": "tech",
-            "desc": "正被AI深刻改造的赛道"
-          },
-          {
-            "label": "初创公司估值",
+            "label": "大规模伤亡案件",
             "type": "risk",
-            "desc": "在AI风口下估值快速攀升"
+            "desc": "风险升级，从个人自杀扩展到群体伤害"
+          },
+          {
+            "label": "AI安全防护",
+            "type": "risk",
+            "desc": "发展滞后于技术，存在监管空白"
+          },
+          {
+            "label": "法律诉讼",
+            "type": "entity",
+            "desc": "针对AI公司的责任追究正在增加"
+          },
+          {
+            "label": "公共安全",
+            "type": "risk",
+            "desc": "新兴技术带来的系统性社会风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "这表明AI正从通用工具向垂直业务场景（如销售）深度渗透，传统软件巨头（如Salesforce）将面临来自轻量、智能的新兴对手的挑战。",
-            "高估值融资可能引发AI企业服务领域的融资热潮和人才竞争，同时也提高了后期投资者的回报门槛和风险。"
+            "AI安全风险从个体心理层面升级至群体物理安全层面，将引发更严厉的全球监管审查与立法行动。",
+            "针对AI公司的法律诉讼焦点将从数据隐私转向直接的人身伤害责任，可能开创重大司法先例。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "AI驱动的垂直SaaS公司及早期风险投资基金",
-          "risk": "HIGH",
-          "thesis": "该案例验证了AI+垂直场景的商业化潜力。投资于该赛道其他有潜力的初创公司或专注于此的风险基金，可能捕捉到下一个高增长标的。但初创公司投资风险极高。"
+          "action": "SHORT",
+          "asset": "AI安全措施薄弱的大型AI应用/平台公司",
+          "risk": "MEDIUM",
+          "thesis": "大规模伤亡风险诉讼将导致巨额赔偿、更严监管和品牌声誉严重受损，直接冲击相关公司估值。"
         },
-        "confidence": 80,
+        "confidence": 87,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1604421404052?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1587351160767?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Channel Surfer重现90年代有线电视体验",
-        "fullTitle": "Channel Surfer让你像看90年代有线电视一样看YouTube",
+        "title": "Digg裁员并关闭应用，公司重组",
+        "fullTitle": "Digg大幅裁员并关闭应用，公司进行业务重组",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "一款名为Channel Surfer的网页应用，允许用户以观看90年代有线电视的方式浏览YouTube。用户可以打开应用并像切换电视频道一样切换不同的YouTube内容流。这代表了一种对在线视频内容消费体验的复古式创新。",
+        "summary": "老牌社交媒体聚合平台Digg进行了大幅裁员，并关闭了其移动应用程序。公司表示并未放弃，正在进行业务重组与调整。",
         "relations": [
           {
-            "label": "Channel Surfer",
+            "label": "Digg",
             "type": "entity",
-            "desc": "提供复古式YouTube浏览体验的网页应用"
+            "desc": "老牌社交媒体聚合平台，陷入困境"
           },
           {
-            "label": "YouTube",
+            "label": "裁员",
+            "type": "risk",
+            "desc": "成本削减，业务收缩的标志"
+          },
+          {
+            "label": "应用关闭",
             "type": "entity",
-            "desc": "全球最大视频平台，内容消费模式被创新"
+            "desc": "移动端业务停止运营"
           },
           {
-            "label": "内容消费体验",
-            "type": "tech",
-            "desc": "用户与媒体交互方式的创新"
+            "label": "业务重组",
+            "type": "entity",
+            "desc": "公司试图寻找新方向"
           },
           {
-            "label": "复古设计",
-            "type": "tech",
-            "desc": "将旧体验与新平台结合的产品思路"
+            "label": "社交媒体竞争",
+            "type": "risk",
+            "desc": "市场格局固化，老牌平台用户流失"
           }
         ],
         "analysis": {
           "strategic": [
-            "这反映了用户对当前算法推荐和自主搜索模式可能产生的‘选择疲劳’，‘被动发现’式体验存在细分市场需求。",
-            "此类微创新应用虽难以撼动主流平台，但揭示了用户体验设计的多样性，可能启发大平台推出类似功能或吸引特定用户群体。"
+            "Digg的收缩标志着早期社交媒体聚合模式的衰落，在算法推荐和巨头垄断下难以生存。",
+            "此次重组可能是为出售资产或彻底转型做准备，其品牌价值与技术资产仍可能被收购。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "关注用户体验创新、拥有独特社区或交互模式的社交媒体/内容平台",
-          "risk": "HIGH",
-          "thesis": "成功的微创新可能吸引特定用户群体，形成高粘性社区，具备被大平台收购或独立发展的潜力。但此类应用通常市场规模有限，成功概率低。"
+          "action": "SHORT",
+          "asset": "商业模式类似且增长停滞的垂类社交/内容平台",
+          "risk": "LOW",
+          "thesis": "Digg的困境反映了传统内容聚合模式在当今市场的脆弱性，同类公司可能面临相似的结构性挑战。"
         },
-        "confidence": 81,
+        "confidence": 82,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1501116835783?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1551857022031?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Regal Hit by Biotech Crash",
-        "fullTitle": "Hedge Fund Regal Hit by 93% Crash in Australian Biotech Stock",
+        "title": "US Labor Softens, Defense & Credit Risks",
+        "fullTitle": "Wall Street Week: Soft US Jobs, Swedish Defense, Private Credit Woes",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Sydney hedge fund Regal Partners Ltd. suffered a significant loss after its portfolio company, Immutep Ltd., saw its market value collapse by 93%. The crash was triggered by Immutep halting trials of a key lung cancer drug. This event highlights the extreme volatility and binary risk inherent in biotech investments. It serves as a cautionary case for funds with concentrated positions in early-stage pharmaceutical development.",
+        "summary": "Analysis indicates a softening US labor market, which may influence Federal Reserve policy. Europe's increased defense spending, with Sweden as a key player, signals a structural shift in regional security and industrial policy. Simultaneously, the private credit market is showing signs of stress as liquidity demands reveal structural vulnerabilities.",
         "relations": [
           {
-            "label": "Regal Partners Ltd.",
+            "label": "US Labor Market",
             "type": "entity",
-            "desc": "Sydney-based hedge fund facing major losses."
+            "desc": "Key economic indicator showing signs of softening"
           },
           {
-            "label": "Immutep Ltd.",
+            "label": "Sweden",
             "type": "entity",
-            "desc": "Australian biotech company that halted lung cancer drug trials."
+            "desc": "Emerging as a crucial player in European defense spending"
           },
           {
-            "label": "Biotech Volatility",
+            "label": "Private Credit",
             "type": "risk",
-            "desc": "High risk associated with clinical trial outcomes."
+            "desc": "Asset class facing liquidity and redemption pressures"
           },
           {
-            "label": "Clinical Trial Halt",
+            "label": "Stagflation Risk",
             "type": "risk",
-            "desc": "Primary catalyst for the massive devaluation event."
+            "desc": "Potential economic scenario of high inflation and low growth"
           }
         ],
         "analysis": {
           "strategic": [
-            "This event may trigger a reassessment of risk models for hedge funds invested in speculative biotech, potentially leading to sector-wide de-risking.",
-            "It underscores the critical importance of pipeline diversification for investors in the healthcare and biopharma sectors to mitigate single-trial failure risk."
+            "A cooling labor market reduces pressure for aggressive monetary tightening, potentially extending the economic cycle.",
+            "The pivot towards European defense autonomy creates long-term investment opportunities in aerospace, cybersecurity, and related industrial sectors."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Immutep Ltd. (IMMP.AX) & similar high-risk biotechs",
+          "asset": "Private Credit ETFs (e.g., PFFL, BKLN)",
           "risk": "HIGH",
-          "thesis": "Increased market skepticism and risk aversion following a high-profile clinical failure could lead to downward pressure on valuations for comparable early-stage biotech firms with binary event pipelines."
+          "thesis": "The reported liquidity strains and investor redemptions indicate underlying asset quality and maturity mismatch issues that could lead to repricing and volatility in the private credit sector."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1610527167273?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1583360069995?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Geopolitical Tensions Sustain Oil Risk",
-        "fullTitle": "Trump and Iran Strike Defiant Tone, Oil Markets See Little Relief",
+        "title": "War Fuel Shortage Threatens Food Supply",
+        "fullTitle": "Fuel Shortages From War Threaten Global Food Supply",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Defiant rhetoric from both US President Donald Trump and Iran's new supreme leader continues 13 days into the conflict, dashing hopes for a near-term de-escalation. Fresh US efforts to curb oil prices are being overshadowed by the persistent geopolitical risk premium. The stalemate suggests continued volatility and supply-side uncertainty in global energy markets. This environment supports elevated oil prices despite potential demand-side interventions.",
+        "summary": "The conflict in the Middle East is causing energy supply disruptions, leading to fuel shortages for agricultural machinery in Asia and Europe. This directly threatens planting and harvesting cycles, creating a tangible risk to global food production and supply chains. The situation increases vulnerability to food price inflation and potential shortages.",
         "relations": [
           {
-            "label": "Donald Trump",
+            "label": "Middle East Conflict",
             "type": "entity",
-            "desc": "US President maintaining a defiant stance on Iran."
+            "desc": "Source of energy supply disruption"
           },
           {
-            "label": "Iran Supreme Leader",
-            "type": "entity",
-            "desc": "Iranian leadership also striking a defiant tone, prolonging tensions."
-          },
-          {
-            "label": "Geopolitical Risk Premium",
-            "type": "risk",
-            "desc": "Risk factor keeping oil prices elevated."
-          },
-          {
-            "label": "Crude Oil",
+            "label": "Global Food Supply",
             "type": "resource",
-            "desc": "Primary commodity impacted by Middle East tensions."
+            "desc": "Critical resource chain under threat"
+          },
+          {
+            "label": "Agricultural Fuel",
+            "type": "resource",
+            "desc": "Critical input for food production facing scarcity"
+          },
+          {
+            "label": "Food Price Inflation",
+            "type": "risk",
+            "desc": "Primary economic risk from this disruption"
           }
         ],
         "analysis": {
           "strategic": [
-            "The protracted conflict reinforces the structural vulnerability of global oil supply chains to Middle Eastern instability, incentivizing long-term energy security investments elsewhere.",
-            "Market participants are likely pricing in a 'higher-for-longer' risk scenario, which could structurally alter inflation expectations and central bank policy trajectories in oil-importing nations."
+            "The weaponization of energy flows is cascading into the agricultural sector, demonstrating the interconnected fragility of global commodity markets.",
+            "Nations with high food import dependency or inefficient agricultural sectors face heightened sovereign and social stability risks."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Oil Futures (CL), Energy Sector ETFs (XLE)",
+          "asset": "Agricultural Commodities & Fertilizer Stocks (e.g., NTR, MOS, WEAT ETF)",
           "risk": "MEDIUM",
-          "thesis": "Sustained geopolitical friction in a key oil-producing region creates a persistent supply risk premium, supporting oil prices and benefiting major integrated energy companies with stable production."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1517148077593?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "California Oil Logistics Disrupted",
-        "fullTitle": "Oil Drillers Resort to Trucks as Key California Pipe Idled",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Oil drillers in central California are forced to truck crude oil 50 miles due to the shutdown of a key pipeline and a connected refinery. This workaround is significantly more costly and logistically cumbersome than pipeline transport. The disruption highlights infrastructure fragility and creates localized supply chain bottlenecks. It will pressure profit margins for affected drillers until pipeline operations resume.",
-        "relations": [
-          {
-            "label": "California Oil Drillers",
-            "type": "entity",
-            "desc": "Producers facing increased transportation costs and logistical hurdles."
-          },
-          {
-            "label": "Pipeline Infrastructure",
-            "type": "resource",
-            "desc": "Critical logistics asset whose failure causes major disruption."
-          },
-          {
-            "label": "Supply Chain Bottleneck",
-            "type": "risk",
-            "desc": "Localized disruption increasing operational costs."
-          },
-          {
-            "label": "Trucking Logistics",
-            "type": "entity",
-            "desc": "Costly alternative transport method being deployed."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This incident underscores the systemic risk of relying on aging or single-point-of-failure energy infrastructure, potentially accelerating investment in redundancy and maintenance.",
-            "It may lead to a reassessment of operational risk and insurance costs for energy production in regions with complex regulatory and infrastructure challenges, like California."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Affected California-focused independent E&Ps",
-          "risk": "MEDIUM",
-          "thesis": "The significant increase in transportation costs (trucking vs. pipeline) will directly and negatively impact the near-term operating margins and profitability of drillers reliant on the idled infrastructure."
+          "thesis": "Supply-side constraints in food production due to energy inputs will tighten physical markets, supporting prices for key agricultural commodities and inputs like fertilizers."
         },
         "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1548596203973?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1643518146233?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Nvidia GTC 2026 Keynote Preview",
-        "fullTitle": "How to Watch Jensen Huang's Nvidia GTC 2026 Keynote",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Nvidia's GPU Technology Conference (GTC) 2026 is upcoming, featuring a keynote by CEO Jensen Huang. The event is the chipmaker's flagship platform for announcing new products, partnerships, and its vision for computing and AI. Huang's focus will be on Nvidia's strategic role in shaping the future of these fields. The keynote is a significant market signal for the tech and semiconductor sectors.",
+        "title": "US Strikes Iranian Military Targets",
+        "fullTitle": "US Hits Military Targets on Iran's Kharg Island as War Escalates",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "The US has escalated military actions by bombing targets on Iran's critical Kharg Island in the Persian Gulf. President Trump explicitly threatened further strikes on oil infrastructure if Iran continues to block energy flows. This marks a significant intensification of the conflict, directly threatening the security of a major global oil chokepoint.",
         "relations": [
           {
-            "label": "Jensen Huang",
+            "label": "Kharg Island, Iran",
             "type": "entity",
-            "desc": "Nvidia CEO and keynote speaker."
+            "desc": "Critical Iranian oil export terminal and military outpost"
           },
           {
-            "label": "Nvidia Corporation",
+            "label": "Persian Gulf",
             "type": "entity",
-            "desc": "Leading chipmaker hosting GTC."
+            "desc": "Strategic waterway for global energy flows"
           },
           {
-            "label": "GPU Technology Conference (GTC)",
-            "type": "tech",
-            "desc": "Nvidia's flagship annual event for strategic announcements."
+            "label": "Oil Infrastructure",
+            "type": "resource",
+            "desc": "Explicit target for potential future US strikes"
           },
           {
-            "label": "Artificial Intelligence (AI)",
-            "type": "tech",
-            "desc": "Core focus area for Nvidia's future vision."
+            "label": "Energy Blockade",
+            "type": "risk",
+            "desc": "Core catalyst for the escalation and threat to markets"
           }
         ],
         "analysis": {
           "strategic": [
-            "GTC announcements often set the near-term technological roadmap and competitive landscape for the AI hardware and accelerated computing industry.",
-            "The themes and partnerships revealed will provide critical intelligence on Nvidia's strategy to maintain its dominance and expand into new verticals beyond traditional computing."
+            "Direct attacks on sovereign Iranian territory significantly raise the probability of a broader regional war, with potential for retaliatory strikes on US assets and allies.",
+            "The explicit threat to oil infrastructure creates a persistent and extreme risk premium for crude oil, potentially triggering a supply shock."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Nvidia Corp. (NVDA)",
-          "risk": "LOW",
-          "thesis": "Historically, major GTC announcements regarding new platforms (e.g., new GPU architectures, AI software suites) have acted as positive catalysts for Nvidia's stock price, reinforcing its market leadership narrative."
+          "asset": "Crude Oil Futures (CL) & Defense Contractors (e.g., LMT, NOC)",
+          "risk": "HIGH",
+          "thesis": "The escalation directly threatens physical supply from a key region and demonstrates sustained geopolitical risk, supporting oil prices. Concurrently, prolonged conflict drives demand for defense and aerospace capabilities."
         },
         "confidence": 92,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1584472589229?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1631197605370?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Rox AI Hits $1.2B Valuation",
-        "fullTitle": "Sales Automation Startup Rox AI Hits $1.2B Valuation",
+        "title": "Musk's xAI Restarts AI Coding Tool",
+        "fullTitle": "Musk's xAI Restarts Effort to Build AI Coding Tool",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "AI-native sales automation startup Rox AI has reached a $1.2 billion valuation, according to sources. The company was founded in 2024 by a former New Relic executive. Rox AI positions itself as an AI-native alternative to traditional Customer Relationship Management (CRM) tools. This valuation highlights continued strong investor appetite for generative AI applications in enterprise software.",
+        "summary": "Elon Musk's xAI is restarting its development of an AI coding tool, indicating previous iterations failed to meet expectations. The lab is bringing in new executive talent from Cursor, a competitor in the AI-assisted coding space. This reflects the intense competition and rapid iteration cycle in the generative AI for developers market.",
         "relations": [
           {
-            "label": "Rox AI",
+            "label": "xAI",
             "type": "entity",
-            "desc": "AI-native sales automation startup achieving unicorn status."
+            "desc": "Elon Musk's artificial intelligence company"
+          },
+          {
+            "label": "AI Coding Tool",
+            "type": "tech",
+            "desc": "Primary product focus being restarted"
+          },
+          {
+            "label": "Cursor",
+            "type": "entity",
+            "desc": "Source of new executive talent for xAI"
           },
           {
             "label": "Generative AI",
             "type": "tech",
-            "desc": "Core technology enabling new CRM alternatives."
-          },
-          {
-            "label": "Sales Automation",
-            "type": "tech",
-            "desc": "Target market for Rox AI's product."
-          },
-          {
-            "label": "CRM Market Disruption",
-            "type": "risk",
-            "desc": "Emerging risk to incumbent CRM providers from AI-native entrants."
+            "desc": "Underlying technology for developer tools"
           }
         ],
         "analysis": {
           "strategic": [
-            "The funding round signals venture capital's conviction in AI's potential to disrupt established SaaS markets, particularly sales and marketing, by building native solutions rather than layering AI on legacy systems.",
-            "This puts pressure on incumbent CRM giants (e.g., Salesforce, HubSpot) to accelerate their own AI integration and innovation to defend market share against more agile, AI-first competitors."
+            "The 'restart' signals the high technical and product-market fit hurdles in the AI coding assistant space, despite significant hype and investment.",
+            "Talent poaching from specialized startups like Cursor indicates a scarcity of experienced personnel, driving up costs and M&A potential in the niche."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Venture Capital AI/Enterprise SaaS Funds",
+          "action": "SHORT",
+          "asset": "Overvalued Pure-Play AI Developer Tool Startups",
           "risk": "HIGH",
-          "thesis": "The successful funding round validates the investment thesis in next-generation, AI-native enterprise applications. Early-stage funds focused on this theme may see increased portfolio valuations and successful exit opportunities."
+          "thesis": "The struggle of a well-funded player like xAI suggests the market for AI coding tools is more challenging and crowded than perceived, posing a risk to valuations of smaller, unproven competitors."
         },
-        "confidence": 84,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1663414265314?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 85,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1625408331226?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "YouTube App Mimics Cable TV",
-        "fullTitle": "Channel Surfer Lets You Watch YouTube Like Old-School Cable TV",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "A new web application called 'Channel Surfer' allows users to browse and watch YouTube content with an interface mimicking 1990s cable television. The app creates a linear, channel-surfing experience from YouTube's vast on-demand library. This represents a niche trend in user interface (UI) design, blending nostalgia with modern content. It highlights ongoing experimentation with content discovery models on large platforms.",
+        "title": "Lawyer Warns of AI Psychosis Risks",
+        "fullTitle": "Lawyer Behind AI Psychosis Cases Warns of Mass Casualty Risks",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Legal counsel involved in cases linking AI chatbots to user suicides is now warning that the technology is appearing in mass casualty incidents. The core argument is that the development and deployment of AI systems are outpacing the implementation of effective safeguards and regulatory frameworks, creating significant liability risks.",
         "relations": [
           {
-            "label": "Channel Surfer",
+            "label": "AI Chatbots",
             "type": "tech",
-            "desc": "Web app providing a cable TV-like interface for YouTube."
+            "desc": "Technology linked to harmful user interactions"
           },
           {
-            "label": "YouTube",
-            "type": "entity",
-            "desc": "Google-owned video platform being repackaged by the app."
+            "label": "Mass Casualty Incidents",
+            "type": "risk",
+            "desc": "New alleged domain of AI-related harm"
           },
           {
-            "label": "Content Discovery",
-            "type": "tech",
-            "desc": "User interface and experience challenge being addressed."
+            "label": "AI Safeguards",
+            "type": "risk",
+            "desc": "Measures lagging behind technology development"
           },
           {
-            "label": "Nostalgia Tech",
-            "type": "tech",
-            "desc": "Trend of applying retro aesthetics to modern digital services."
+            "label": "Legal Liability",
+            "type": "risk",
+            "desc": "Primary financial and reputational risk for AI firms"
           }
         ],
         "analysis": {
           "strategic": [
-            "This reflects a broader experimentation phase in digital media consumption, testing whether curated, passive 'lean-back' experiences can coexist with or complement dominant on-demand 'lean-forward' models.",
-            "For platforms like YouTube, such third-party experiments serve as low-cost R&D, revealing user appetite for alternative content discovery mechanisms without the platform directly bearing development risk."
+            "The expansion of alleged harm from individual to mass events dramatically increases the potential scale of liability and regulatory scrutiny for AI companies.",
+            "This trend will accelerate demand for AI governance, auditing, and 'safety-washing' services, creating a new ancillary market."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "Innovative third-party applications built on top of YouTube's ecosystem demonstrate the platform's enduring developer appeal and content versatility, reinforcing its central role in the digital video landscape and supporting its advertising model."
+          "action": "SHORT",
+          "asset": "AI Companies with Weak Governance & High Consumer Exposure",
+          "risk": "MEDIUM",
+          "thesis": "Growing legal precedent and public concern over AI-related harm will lead to stricter regulations and costly lawsuits, disproportionately impacting companies without robust safety and ethical frameworks."
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1611122827745?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Digg Lays Off Staff, Shuts App",
+        "fullTitle": "Digg Lays Off Staff and Shuts Down App in Retooling",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The social news aggregation pioneer Digg has conducted significant layoffs and shut down its mobile app. The company states this is part of a retooling effort and not a complete shutdown. This event highlights the ongoing challenges and consolidation within the digital media and social aggregation sector.",
+        "relations": [
+          {
+            "label": "Digg",
+            "type": "entity",
+            "desc": "Pioneering social news aggregation company"
+          },
+          {
+            "label": "Digital Media",
+            "type": "entity",
+            "desc": "Sector undergoing continued consolidation and pressure"
+          },
+          {
+            "label": "Startup Retooling",
+            "type": "risk",
+            "desc": "High-risk strategic pivot often preceding failure or acquisition"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The decline of a once-dominant player like Digg underscores the extreme volatility and winner-take-most dynamics in the consumer social tech space.",
+            "This event may signal a broader tightening of venture capital for late-stage digital media startups that have not achieved clear profitability or market dominance."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Late-Stage Digital Media & Social Startups (Pre-IPO)",
+          "risk": "HIGH",
+          "thesis": "The failure of legacy players and retrenchment of others indicates a weak exit environment and potential valuation compression for similar companies reliant on advertising and user engagement metrics."
         },
         "confidence": 82,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1577208146523?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1609029116759?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Fondo de cobertura Regal golpeado por biotecnológica",
-        "fullTitle": "Fondo Regal sufre caída del 93% en acción biotecnológica australiana",
+        "title": "Mercado laboral EEUU se debilita",
+        "fullTitle": "Debilitamiento del mercado laboral EEUU y riesgos de estanflación",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "El fondo de cobertura Regal Partners Ltd. sufrió un duro golpe tras el desplome de Immutep Ltd., una empresa biotecnológica australiana que respalda. La acción perdió la mayor parte de su valor de mercado de 582 millones de dólares australianos tras detener los ensayos de un fármaco contra el cáncer de pulmón. Este evento representa una pérdida significativa para el fondo y sus inversores. La noticia subraya los altos riesgos inherentes a las inversiones en biotecnología y desarrollo farmacéutico.",
+        "summary": "Steven Rattner de Willett Advisors analiza el debilitamiento del mercado laboral estadounidense. Discute las implicaciones de aranceles, IA y el riesgo de estanflación. Suele emerge como actor clave en el gasto de defensa europeo. El crédito privado enfrenta vulnerabilidades por retiros de inversores.",
         "relations": [
           {
-            "label": "Regal Partners Ltd.",
+            "label": "Mercado laboral EEUU",
             "type": "entity",
-            "desc": "Fondo de cobertura con sede en Sídney, afectado por la caída."
+            "desc": "Indicador económico clave que muestra signos de debilitamiento"
           },
           {
-            "label": "Immutep Ltd.",
+            "label": "Estanflación",
+            "type": "risk",
+            "desc": "Riesgo económico combinado de estancamiento e inflación"
+          },
+          {
+            "label": "Crédito privado",
             "type": "entity",
-            "desc": "Empresa biotecnológica australiana cuyo valor se desplomó."
+            "desc": "Sector financiero enfrentando presión por retiros"
           },
           {
-            "label": "Fármaco para cáncer de pulmón",
-            "type": "risk",
-            "desc": "Desarrollo clínico fallido que desencadenó la crisis."
+            "label": "Suecia",
+            "type": "entity",
+            "desc": "País emergiendo como actor crucial en defensa europea"
           },
           {
-            "label": "Riesgo biotecnológico",
-            "type": "risk",
-            "desc": "Alta volatilidad y riesgo de fracaso en ensayos clínicos."
+            "label": "IA",
+            "type": "tech",
+            "desc": "Factor tecnológico en análisis económico"
           }
         ],
         "analysis": {
           "strategic": [
-            "El fracaso en un ensayo clínico de fase avanzada puede devastar el valor de empresas biotecnológicas y sus principales inversores, como fondos de cobertura.",
-            "Este caso puede llevar a una reevaluación del apetito por el riesgo y las estrategias de diversificación en fondos que invierten en sectores de alto riesgo como la biotecnología."
+            "El debilitamiento laboral podría forzar un giro en política monetaria de la Fed, afectando mercados globales",
+            "La reconfiguración de defensa europea crea oportunidades en sectores de seguridad y defensa"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Immutep Ltd. (IMMP.AX) y fondos expuestos",
-          "risk": "HIGH",
-          "thesis": "La interrupción del ensayo clave elimina el catalizador principal de valor, probablemente generando presión vendedora continua y posibles revaluaciones a la baja por parte de analistas. Otros fondos con exposiciones similares podrían enfrentar salidas."
+          "asset": "Bonos del Tesoro EEUU a corto plazo",
+          "risk": "MEDIUM",
+          "thesis": "Expectativa de recortes de tasas por debilitamiento económico, apreciación de precios de bonos"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1659434987508?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1580642102407?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Tensión geopolítica presiona mercados petroleros",
-        "fullTitle": "Trump e Irán mantienen tono desafiante, sin alivio para el petróleo",
+        "title": "Escasez combustible amenaza alimentos",
+        "fullTitle": "Escasez de combustible por guerra amenaza suministro alimentario global",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "En el día 13 del conflicto, tanto el presidente Donald Trump como el nuevo líder supremo de Irán mantuvieron retóricas desafiantes. Los esfuerzos recientes de EE.UU. para contener los precios del petróleo no lograron ofrecer alivio a los mercados energéticos. La persistente incertidumbre geopolítica continúa siendo un factor clave de volatilidad. Esta situación mantiene una prima de riesgo en los precios del crudo.",
+        "summary": "Los cultivos alimentarios son vulnerables a la crisis energética por guerra en Medio Oriente. Agricultores en Asia y Europa enfrentan escasez de combustible para maquinaria esencial. La interrupción energética amenaza la cadena de producción agrícola global. La situación podría escalar a crisis alimentaria regional.",
         "relations": [
           {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EE.UU., figura clave en la tensión geopolítica."
-          },
-          {
-            "label": "Líder Supremo de Irán",
-            "type": "entity",
-            "desc": "Nuevo líder iraní, mantiene postura desafiante."
-          },
-          {
-            "label": "Mercados petroleros",
+            "label": "Combustible agrícola",
             "type": "resource",
-            "desc": "Mercados energéticos afectados por la incertidumbre."
+            "desc": "Recurso crítico para operación de maquinaria agrícola"
           },
           {
-            "label": "Riesgo geopolítico",
+            "label": "Cadena alimentaria global",
+            "type": "entity",
+            "desc": "Sistema de producción y distribución de alimentos"
+          },
+          {
+            "label": "Guerra Medio Oriente",
             "type": "risk",
-            "desc": "Factor principal de volatilidad en precios de commodities."
+            "desc": "Conflicto que interrumpe flujos energéticos"
+          },
+          {
+            "label": "Agricultores Asia",
+            "type": "entity",
+            "desc": "Productores afectados por escasez de insumos"
+          },
+          {
+            "label": "Maquinaria agrícola",
+            "type": "resource",
+            "desc": "Equipo dependiente de combustible fósil"
           }
         ],
         "analysis": {
           "strategic": [
-            "La escalada retórica prolonga la incertidumbre en los mercados energéticos, dificultando la estabilización de precios y la planificación a largo plazo.",
-            "La ineficacia de las medidas estadounidenses para calmar el mercado subraya la profunda influencia de los factores geopolíticos sobre los fundamentos de oferta y demanda."
+            "La interrupción energética agrícola podría desencadenar inflación alimentaria global y disturbios sociales",
+            "Países exportadores de alimentos ganarán influencia geopolítica mientras importadores enfrentan vulnerabilidad"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de crudo (WTI, Brent), ETFs de energía (XLE), acciones de grandes petroleras",
-          "risk": "MEDIUM",
-          "thesis": "La persistente tensión en una región productora clave sostiene una prima de riesgo geopolítico en los precios del petróleo. Cualquier interrupción real de la oferta podría provocar picos significativos."
+          "asset": "Futuros de trigo y maíz",
+          "risk": "HIGH",
+          "thesis": "Escasez de producción por limitaciones energéticas impulsará precios de commodities agrícolas"
         },
-        "confidence": 85,
+        "confidence": 90,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1520003670283?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1515835467889?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Petroleros recurren a camiones por parada de oleoducto",
-        "fullTitle": "Petroleros usan camiones tras parada de oleoducto clave en California",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los perforadores de petróleo en el centro de California se han visto obligados a recurrir al transporte por camión, una alternativa costosa y engorrosa, para mover el crudo. Esto se debe al cierre de una refinería y a la paralización de un oleoducto clave que cortó las salidas para sus productos. El transporte requiere un viaje de 50 millas. La situación aumenta los costos operativos y logísticos para los productores de la región.",
+        "title": "EEUU ataca isla iraní Kharg",
+        "fullTitle": "EEUU ataca objetivos militares en isla iraní Kharg",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "Trump anuncia bombardeo estadounidense a objetivos militares en isla Kharg, puesto crítico iraní en Golfo Pérsico. Amenaza con ataques adicionales a infraestructura petrolera si Irán bloquea flujos energéticos. Conflicto de dos semanas ha alterado región. Escalada militar directa entre potencias.",
         "relations": [
           {
-            "label": "Perforadores de petróleo (California Central)",
+            "label": "Isla Kharg",
             "type": "entity",
-            "desc": "Productores afectados por la interrupción de infraestructura."
+            "desc": "Instalación petrolera y militar estratégica iraní"
           },
           {
-            "label": "Oleoducto clave",
+            "label": "Infraestructura petrolera",
             "type": "resource",
-            "desc": "Infraestructura crítica paralizada, causando cuellos de botella."
+            "desc": "Blanco potencial en escalada del conflicto"
           },
           {
-            "label": "Transporte por camión",
-            "type": "resource",
-            "desc": "Solución alternativa costosa y menos eficiente."
+            "label": "Golfo Pérsico",
+            "type": "entity",
+            "desc": "Ruta marítima crítica para energía global"
           },
           {
-            "label": "Riesgo de infraestructura",
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Presidente EEUU autorizando acciones militares"
+          },
+          {
+            "label": "Bloqueo energético",
             "type": "risk",
-            "desc": "Vulnerabilidad de la cadena de suministro energético a fallos físicos."
+            "desc": "Amenaza a flujos de petróleo globales"
           }
         ],
         "analysis": {
           "strategic": [
-            "La interrupción de infraestructura crítica expone la fragilidad de las cadenas de suministro regionales de energía y puede generar ineficiencias de costos a corto plazo.",
-            "Este evento puede acelerar las evaluaciones de inversión en redundancia de infraestructura o rutas de transporte alternativas para productores en regiones aisladas."
+            "Ataque a infraestructura petrolera podría desencadenar crisis energética global y recesión económica",
+            "La escalada directa EEUU-Irán aumenta probabilidad de conflicto regional ampliado con participación de actores proxy"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Petróleo Brent y empresas de seguridad marítima",
+          "risk": "HIGH",
+          "thesis": "Interrupción de suministro petrolero del Golfo Pérsico impulsará precios y demanda de protección"
+        },
+        "confidence": 92,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1529687784285?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "xAI de Musk reinicia desarrollo",
+        "fullTitle": "xAI de Musk reinicia desarrollo de herramienta codificación IA",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El laboratorio de IA xAI está reiniciando su esfuerzo para construir una herramienta de codificación con IA. Dos nuevos ejecutivos se unen desde Cursor. Musk critica que no fue construido correctamente la primera vez. Indica iteración rápida en desarrollo de herramientas IA especializadas.",
+        "relations": [
+          {
+            "label": "xAI",
+            "type": "entity",
+            "desc": "Laboratorio de IA fundado por Elon Musk"
+          },
+          {
+            "label": "Herramienta codificación IA",
+            "type": "tech",
+            "desc": "Software que asiste en programación usando IA"
+          },
+          {
+            "label": "Cursor",
+            "type": "entity",
+            "desc": "Empresa de la que provienen nuevos ejecutivos"
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "Fundador impulsando reinicio del proyecto"
+          },
+          {
+            "label": "Desarrollo iterativo",
+            "type": "tech",
+            "desc": "Enfoque de reinicio rápido en tecnología"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El reinicio indica intensa competencia en herramientas IA para desarrolladores, sector de alto crecimiento",
+            "La capacidad de iteración rápida será factor diferenciador clave en carrera de herramientas de productividad con IA"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas de herramientas desarrollo con IA",
+          "risk": "MEDIUM",
+          "thesis": "Mercado de herramientas IA para desarrolladores crecerá exponencialmente con adopción masiva"
+        },
+        "confidence": 85,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1662535032579?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Abogado advierte riesgos IA psicosis",
+        "fullTitle": "Abogado advierte riesgos IA en casos psicosis y víctimas masivas",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Un abogado advierte que chatbots de IA aparecen en casos de víctimas masivas, no solo suicidios. La tecnología avanza más rápido que las salvaguardas. Casos vinculan IA a problemas de salud mental graves. Urge regulación y controles más estrictos.",
+        "relations": [
+          {
+            "label": "Chatbots IA",
+            "type": "tech",
+            "desc": "Asistentes conversacionales vinculados a daños"
+          },
+          {
+            "label": "Psicosis inducida por IA",
+            "type": "risk",
+            "desc": "Riesgo de salud mental por interacción con IA"
+          },
+          {
+            "label": "Víctimas masivas",
+            "type": "risk",
+            "desc": "Escalada de daños potenciales de sistemas IA"
+          },
+          {
+            "label": "Salvaguardas",
+            "type": "risk",
+            "desc": "Controles que van detrás del desarrollo tecnológico"
+          },
+          {
+            "label": "Regulación IA",
+            "type": "entity",
+            "desc": "Marco legal necesario para mitigar riesgos"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los riesgos de daño real por IA impulsarán regulación global más estricta, aumentando costos de cumplimiento",
+            "La responsabilidad legal por daños de IA podría limitar adopción en aplicaciones sensibles y generar litigios masivos"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Productores pequeños/medianos específicos de California (ej., CRC), servicios de transporte local ineficientes",
+          "asset": "Empresas de IA sin sólidos controles éticos",
           "risk": "MEDIUM",
-          "thesis": "El aumento significativo de los costos de transporte (camión vs. oleoducto) erosionará los márgenes de los productores afectados. Las empresas con menor escala y flexibilidad logística serán las más perjudicadas."
+          "thesis": "Litigios y regulación castigarán a empresas con implementaciones riesgosas de IA conversacional"
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1581828144355?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Digg despide personal y cierra app",
+        "fullTitle": "Digg despide personal y cierra aplicación en reestructuración",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Digg despidió número significativo de personal y cerró su aplicación móvil. La compañía afirma que no abandona la startup y se está reestructurando. Refleja desafíos en mercado de agregación de noticias y redes sociales. Empresa busca nuevo modelo sostenible.",
+        "relations": [
+          {
+            "label": "Digg",
+            "type": "entity",
+            "desc": "Plataforma de agregación de noticias en reestructuración"
+          },
+          {
+            "label": "Aplicación móvil",
+            "type": "tech",
+            "desc": "Producto cerrado en recorte de operaciones"
+          },
+          {
+            "label": "Despidos",
+            "type": "risk",
+            "desc": "Reducción de personal significativa"
+          },
+          {
+            "label": "Reestructuración",
+            "type": "entity",
+            "desc": "Proceso de transformación empresarial"
+          },
+          {
+            "label": "Startup",
+            "type": "entity",
+            "desc": "Empresa que afirma continuar operaciones"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El cierre refleja consolidación en mercado de medios digitales donde solo sobreviven plataformas dominantes",
+            "La reestructuración podría indicar pivote hacia modelo B2B o nicho específico en espacio informativo"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Plataformas de medios sociales pequeñas/marginales",
+          "risk": "HIGH",
+          "thesis": "Consolidación del mercado favorecerá a gigantes establecidos, presionando a jugadores menores"
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1580884512789?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Conferencia GTC 2026 de Nvidia: visión de futuro",
-        "fullTitle": "Cómo ver el discurso de Jensen Huang en Nvidia GTC 2026",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "La GPU Technology Conference (GTC) 2026 de Nvidia es el evento anual principal del fabricante de chips. El discurso clave de Jensen Huang se centrará en el papel de Nvidia en el futuro de la computación y la IA. En el evento, la empresa suele anunciar nuevos productos, promover asociaciones y exponer su visión. Es un indicador importante de la dirección estratégica de la compañía y del sector.",
-        "relations": [
-          {
-            "label": "Nvidia Corporation",
-            "type": "entity",
-            "desc": "Fabricante líder de chips para GPU e IA."
-          },
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "CEO y cofundador de Nvidia, dará el discurso clave."
-          },
-          {
-            "label": "GPU Technology Conference (GTC)",
-            "type": "tech",
-            "desc": "Evento insignia anual de Nvidia."
-          },
-          {
-            "label": "Inteligencia Artificial (IA)",
-            "type": "tech",
-            "desc": "Área tecnológica central para la visión futura de Nvidia."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El discurso de Huang en la GTC sirve como un faro estratégico para toda la industria tecnológica, definiendo tendencias y estableciendo el ritmo en computación acelerada e IA.",
-            "Los anuncios de productos y asociaciones en este evento pueden crear o alterar dinámicas competitivas en múltiples sectores, desde centros de datos hasta vehículos autónomos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA), socios estratégicos anunciados, ETFs de semiconductores (SOXX)",
-          "risk": "LOW",
-          "thesis": "Los eventos GTC históricamente han sido catalizadores positivos para la acción de Nvidia, mostrando innovación y liderazgo en el mercado. Una visión convincente del futuro puede reforzar la narrativa de crecimiento a largo plazo."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1557399197218?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Startup Rox AI alcanza valoración de $1.2B",
-        "fullTitle": "Startup de automatización de ventas Rox AI logra valoración de $1.2B",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Rox AI, una startup de automatización de ventas fundada en 2024, ha alcanzado una valoración de 1200 millones de dólares, según fuentes. La empresa fue fundada por el exdirector de crecimiento de New Relic. Ofrece una alternativa nativa de IA a las herramientas tradicionales de CRM. Este hito refleja el fuerte interés de los inversores en aplicaciones de IA para transformar áreas empresariales como las ventas.",
-        "relations": [
-          {
-            "label": "Rox AI",
-            "type": "entity",
-            "desc": "Startup de automatización de ventas con tecnología de IA."
-          },
-          {
-            "label": "CRM (Gestión de Relaciones con Clientes)",
-            "type": "tech",
-            "desc": "Mercado objetivo que Rox AI busca disruptir."
-          },
-          {
-            "label": "IA nativa",
-            "type": "tech",
-            "desc": "Enfoque tecnológico central de la startup."
-          },
-          {
-            "label": "New Relic",
-            "type": "entity",
-            "desc": "Empresa de software, origen del fundador de Rox AI."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La elevada valoración de Rox AI señala la continua confianza del capital de riesgo en startups de IA aplicada que apuntan a mercados empresariales maduros y grandes, como el CRM.",
-            "El éxito de Rox podría presionar a los actores establecidos de CRM (Salesforce, HubSpot) para acelerar sus propias integraciones de IA o buscar adquisiciones en el espacio."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Capital de riesgo en etapas tardías, fondos de tecnología, futura IPO de Rox AI",
-          "risk": "HIGH",
-          "thesis": "Rox AI opera en un mercado masivo (CRM) con una propuesta de IA nativa disruptiva. Su rápida escalada y valoración sugieren un potencial de crecimiento significativo, atractivo para inversores en rondas privadas o una futura salida a bolsa."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1585286313182?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Channel Surfer: YouTube como TV por cable antigua",
-        "fullTitle": "Channel Surfer permite ver YouTube como TV por cable de los 90",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Channel Surfer es una aplicación web que permite a los usuarios ver YouTube con una experiencia similar a la de surfear canales de TV por cable en los años 90. La app transforma la interfaz de YouTube en una experiencia lineal de cambio de canales. Este producto apela a la nostalgia y a un formato de consumo de medios más pasivo. Representa una innovación en la interfaz de usuario para plataformas de contenido existentes.",
-        "relations": [
-          {
-            "label": "Channel Surfer",
-            "type": "tech",
-            "desc": "Aplicación web que modifica la experiencia de YouTube."
-          },
-          {
-            "label": "YouTube",
-            "type": "entity",
-            "desc": "Plataforma de video, base para la experiencia de Channel Surfer."
-          },
-          {
-            "label": "Experiencia de usuario (UX)",
-            "type": "tech",
-            "desc": "Ámbito de innovación de la aplicación."
-          },
-          {
-            "label": "Nostalgia / Contenido retro",
-            "type": "entity",
-            "desc": "Factor de marketing y engagement para la app."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Channel Surfer demuestra cómo las capas de software de terceros pueden crear nuevas experiencias de consumo sobre infraestructuras de contenido dominantes como YouTube, sin alterar su núcleo.",
-            "Este enfoque apunta a un nicho de mercado (nostalgia, consumo pasivo) que las plataformas algorítmicas principales pueden estar descuidando, mostrando oportunidades para modelos de negocio de 'capa fina'."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Startups en el espacio de agregación/experiencia de contenido, empresas de herramientas para creadores",
-          "risk": "HIGH",
-          "thesis": "Si Channel Surfer gana tracción, podría validar un modelo de negocio basado en mejorar la experiencia de usuario de plataformas gigantes. Esto podría atraer interés de adquisición o inspirar a otras startups en espacios similares."
-        },
-        "confidence": 80,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1560846934202?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1610215793675?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
