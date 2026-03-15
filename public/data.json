@@ -1,858 +1,858 @@
 {
-  "generated_at": "2026-03-14T02:14:15.303395",
+  "generated_at": "2026-03-15T02:40:44.748256",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "华尔街周报：就业疲软与信贷风险",
-        "fullTitle": "华尔街周报：美国就业疲软、瑞典国防开支与私募信贷困境",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国劳动力市场出现疲软迹象，需关注关税、AI及滞胀风险。欧洲国防开支增加，瑞典成为关键角色。私募信贷的优势正转化为脆弱性，部分投资者寻求退出。尼泊尔青年抗议导致政府更迭，政治变革持续。",
+        "title": "伊朗女足球员撤回庇护申请",
+        "fullTitle": "三名伊朗女足球员撤回澳大利亚庇护申请返回伊朗",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "澳大利亚内政部长托尼·伯克证实，上周获得澳大利亚庇护的三名伊朗女足国家队成员决定返回伊朗。这一反转表明部分伊朗海外人士对国内局势的判断可能发生变化。事件本身对金融市场直接影响有限，但反映了伊朗社会与国际流动性的复杂动态。",
         "relations": [
-          {
-            "label": "美国劳动力市场",
-            "type": "entity",
-            "desc": "就业数据疲软，影响经济预期"
-          },
-          {
-            "label": "私募信贷",
-            "type": "risk",
-            "desc": "流动性风险上升，投资者赎回压力"
-          },
-          {
-            "label": "瑞典",
-            "type": "entity",
-            "desc": "欧洲国防开支中的关键参与者"
-          },
-          {
-            "label": "滞胀风险",
-            "type": "risk",
-            "desc": "经济可能面临增长停滞与通胀并存"
-          },
-          {
-            "label": "尼泊尔政治动荡",
-            "type": "entity",
-            "desc": "青年抗议引发政府更迭，政治不确定性"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "美国经济软着陆预期可能受就业市场疲软挑战，需重新评估货币政策路径。",
-            "欧洲地缘政治紧张推动国防开支结构性上升，相关产业链将长期受益。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "高杠杆私募信贷基金/相关ETF",
-          "risk": "HIGH",
-          "thesis": "私募信贷市场流动性收紧与赎回压力增加，可能引发资产价格重估与信用利差扩大。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1693382442839?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "战争引发燃料短缺威胁全球粮食供应",
-        "fullTitle": "中东战争致燃料短缺，威胁全球粮食供应链",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "中东战争导致的能源供应紧张，正使粮食作物面临风险。亚洲和欧洲的农民缺乏操作关键农用机械所需的燃料，可能影响农业生产与收成，进而冲击全球粮食安全。",
-        "relations": [
-          {
-            "label": "中东战争",
-            "type": "entity",
-            "desc": "冲突导致能源供应链中断"
-          },
-          {
-            "label": "燃料短缺",
-            "type": "resource",
-            "desc": "柴油等农用燃料供应紧张"
-          },
-          {
-            "label": "全球粮食供应",
-            "type": "resource",
-            "desc": "农业生产面临直接冲击"
-          },
-          {
-            "label": "亚洲与欧洲农业",
-            "type": "entity",
-            "desc": "受燃料短缺影响的主要区域"
-          },
-          {
-            "label": "粮食安全",
-            "type": "risk",
-            "desc": "供应链脆弱性上升，价格波动风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "能源与粮食供应链的耦合风险凸显，地缘冲突对基础商品的影响呈指数级放大。",
-            "主要粮食出口国（如欧洲）生产受限，可能推高全球粮价并引发贸易保护主义。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "农业大宗商品（小麦、玉米）期货/农业ETF",
-          "risk": "MEDIUM",
-          "thesis": "燃料短缺直接抑制农业生产效率与规模，预计将导致粮食供应收紧和价格上涨。"
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1517316840875?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "美军空袭伊朗哈尔克岛，冲突升级",
-        "fullTitle": "美军空袭伊朗哈尔克岛军事目标，威胁石油设施",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "美国空袭伊朗波斯湾关键前哨哈尔克岛上的军事目标。特朗普总统威胁，若德黑兰继续阻碍能源流动，将打击更多石油基础设施。为期两周的冲突升级，已颠覆地区稳定。",
-        "relations": [
-          {
-            "label": "美国",
-            "type": "entity",
-            "desc": "军事行动发起方，直接介入冲突"
-          },
           {
             "label": "伊朗",
             "type": "entity",
-            "desc": "被打击方，关键能源与军事节点受创"
+            "desc": "事件主体国家，涉及人员流动与政治因素"
           },
           {
-            "label": "哈尔克岛",
+            "label": "澳大利亚",
             "type": "entity",
-            "desc": "伊朗关键石油出口枢纽与军事前哨"
+            "desc": "庇护提供国，移民政策执行方"
           },
           {
-            "label": "波斯湾能源流动",
-            "type": "resource",
-            "desc": "全球石油供应关键通道面临中断风险"
-          },
-          {
-            "label": "石油基础设施",
+            "label": "人员流动风险",
             "type": "risk",
-            "desc": "成为潜在军事目标，供应风险剧增"
+            "desc": "地缘政治紧张下的人才与人员逆向流动"
+          },
+          {
+            "label": "社会稳定性",
+            "type": "risk",
+            "desc": "反映伊朗国内社会压力与外部认知"
           }
         ],
         "analysis": {
           "strategic": [
-            "冲突已从代理人层面升级为美伊直接军事对抗，霍尔木兹海峡航运安全面临严重威胁。",
-            "美国明确将石油设施列为打击目标，标志着冲突意图从军事压制转向经济命脉摧毁。"
+            "事件显示伊朗与国际社会间的人员流动存在不确定性，可能影响长期人才与资本流向。",
+            "此类个案虽小，但叠加可能形成趋势，需监测伊朗精英阶层的留驻意愿变化。"
+          ]
+        },
+        "investment": {
+          "action": "N/A",
+          "asset": "N/A",
+          "risk": "LOW",
+          "thesis": "该事件为孤立社会事件，对金融市场无直接可操作标的或显著影响。"
+        },
+        "confidence": 85,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1564090275921?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "阿联酋关键港口遇袭停运",
+        "fullTitle": "无人机袭击致阿联酋富查伊拉港石油装载暂停",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "阿联酋重要石油贸易枢纽富查伊拉港因遭遇无人机袭击并引发火灾，于周六暂停装载作业。此次袭击发生在霍尔木兹海峡受阻期间，凸显了该国唯一替代出口路线的脆弱性。事件可能短期内影响中东原油出口物流与区域安全溢价。",
+        "relations": [
+          {
+            "label": "阿联酋",
+            "type": "entity",
+            "desc": "事件发生国，关键石油出口国"
+          },
+          {
+            "label": "富查伊拉港",
+            "type": "resource",
+            "desc": "关键石油贸易与转运枢纽"
+          },
+          {
+            "label": "石油供应风险",
+            "type": "risk",
+            "desc": "关键基础设施遇袭导致的供应中断风险"
+          },
+          {
+            "label": "霍尔木兹海峡",
+            "type": "resource",
+            "desc": "全球石油运输关键咽喉，当前受阻"
+          },
+          {
+            "label": "地缘政治冲突",
+            "type": "risk",
+            "desc": "美伊冲突背景下的区域代理人袭击风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "袭击暴露了中东能源基础设施在冲突升级下的脆弱性，可能推动产油国加速投资于分散化出口路线与安保。",
+            "在霍尔木兹海峡通道受限时，替代路线的中断将放大全球原油市场的供应紧张情绪。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "原油期货/能源板块ETF",
+          "asset": "原油期货、能源基础设施安保公司、替代路线相关物流股",
           "risk": "HIGH",
-          "thesis": "关键石油出口枢纽遭袭及进一步打击威胁，将大幅推高全球原油供应中断溢价与地缘风险溢价。"
+          "thesis": "关键出口节点遇袭将推高原油风险溢价，并凸显能源供应链安保与多元化的投资价值。"
         },
-        "confidence": 92,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1570459274676?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1581086156733?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "马斯克xAI推倒重来，重组AI编码工具项目",
-        "fullTitle": "马斯克xAI再次重组，重启AI编码工具开发",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "马斯克旗下的人工智能实验室xAI正在彻底改革其开发AI编码工具的努力。该项目被指“第一次就没建对”，现正重新开始，并从Cursor公司引入了两名新高管。",
-        "relations": [
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "马斯克旗下AI实验室，战略方向调整"
-          },
-          {
-            "label": "AI编码工具",
-            "type": "tech",
-            "desc": "核心开发产品，项目推倒重来"
-          },
-          {
-            "label": "Cursor",
-            "type": "entity",
-            "desc": "人才来源公司，两名高管加入"
-          },
-          {
-            "label": "埃隆·马斯克",
-            "type": "entity",
-            "desc": "项目主导者，战略决策者"
-          },
-          {
-            "label": "AI开发竞争",
-            "type": "risk",
-            "desc": "技术路线迭代快，内部管理挑战"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "xAI在关键产品上反复推倒重来，暴露其技术路线与管理流程存在不确定性，可能影响其商业化进度。",
-            "从竞争对手处引入高管，表明xAI正试图通过外部经验快速修正方向，但整合风险较高。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "与xAI有直接竞争关系的AI编码工具公司股票",
-          "risk": "HIGH",
-          "thesis": "xAI内部动荡与产品开发受阻，可能为更成熟的竞争对手（如GitHub Copilot）巩固市场地位提供时间窗口。"
-        },
-        "confidence": 85,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1506772273048?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "律师警告AI聊天机器人致大规模伤亡风险",
-        "fullTitle": "律师警告AI聊天机器人关联自杀及大规模伤亡案件",
+        "title": "全球央行评估美伊冲突影响",
+        "fullTitle": "美伊冲突逾两周，全球主要央行将首次评估经济损害",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "AI聊天机器人多年来一直与自杀事件相关联。现在，一名律师指出它们也开始出现在大规模伤亡案件中。该技术的发展速度超过了安全防护措施的建立速度，构成严重公共安全风险。",
+        "summary": "美国与伊朗冲突持续超过两周后，从美联储、欧洲央行到日本央行及印尼央行等全球主要央行，即将首次系统性评估冲突对全球经济造成的损害。评估结果将直接影响未来的货币政策路径，尤其是利率与流动性供给决策。市场高度关注央行对能源价格冲击与增长放缓的权衡。",
         "relations": [
           {
-            "label": "AI聊天机器人",
-            "type": "tech",
-            "desc": "被指控诱导有害行为的技术"
-          },
-          {
-            "label": "大规模伤亡案件",
-            "type": "risk",
-            "desc": "风险升级，从个人自杀扩展到群体伤害"
-          },
-          {
-            "label": "AI安全防护",
-            "type": "risk",
-            "desc": "发展滞后于技术，存在监管空白"
-          },
-          {
-            "label": "法律诉讼",
+            "label": "美联储",
             "type": "entity",
-            "desc": "针对AI公司的责任追究正在增加"
+            "desc": "全球核心央行，货币政策风向标"
           },
           {
-            "label": "公共安全",
+            "label": "欧洲央行",
+            "type": "entity",
+            "desc": "欧元区货币政策制定者"
+          },
+          {
+            "label": "日本央行",
+            "type": "entity",
+            "desc": "重要发达国家央行"
+          },
+          {
+            "label": "货币政策风险",
             "type": "risk",
-            "desc": "新兴技术带来的系统性社会风险"
+            "desc": "地缘冲突引发的通胀与增长双杀，压缩央行政策空间"
+          },
+          {
+            "label": "全球经济放缓",
+            "type": "risk",
+            "desc": "冲突通过能源与信心渠道拖累全球增长"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI安全风险从个体心理层面升级至群体物理安全层面，将引发更严厉的全球监管审查与立法行动。",
-            "针对AI公司的法律诉讼焦点将从数据隐私转向直接的人身伤害责任，可能开创重大司法先例。"
+            "央行集体评估标志着冲突影响从地缘层面正式传导至全球宏观政策核心，可能引发货币政策协调或分化。",
+            "若评估显示通胀压力持续而增长受损，将迫使央行在“滞胀”环境中做出艰难抉择，增加市场波动性。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "AI安全措施薄弱的大型AI应用/平台公司",
+          "asset": "对利率敏感的高估值成长股、部分新兴市场债券",
           "risk": "MEDIUM",
-          "thesis": "大规模伤亡风险诉讼将导致巨额赔偿、更严监管和品牌声誉严重受损，直接冲击相关公司估值。"
+          "thesis": "央行可能因滞胀风险而维持紧缩或延迟宽松，对依赖流动性的资产构成压力，并推高主权债务风险溢价。"
         },
         "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1587351160767?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1694714636674?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Digg裁员并关闭应用，公司重组",
-        "fullTitle": "Digg大幅裁员并关闭应用，公司进行业务重组",
+        "title": "苹果发布高可维修性MacBook",
+        "fullTitle": "iFixit称MacBook Neo为苹果多年来最易维修笔记本",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "老牌社交媒体聚合平台Digg进行了大幅裁员，并关闭了其移动应用程序。公司表示并未放弃，正在进行业务重组与调整。",
+        "impactLevel": "MEDIUM",
+        "summary": "苹果新款MacBook Neo不仅是最实惠的MacBook，也被知名维修网站iFixit评为该公司约十四年来最易维修的笔记本电脑。这一设计转变可能响应了全球日益增长的“维修权”立法压力与消费者可持续性诉求。",
         "relations": [
           {
-            "label": "Digg",
+            "label": "苹果公司",
             "type": "entity",
-            "desc": "老牌社交媒体聚合平台，陷入困境"
+            "desc": "产品发布方，全球科技巨头"
           },
           {
-            "label": "裁员",
+            "label": "MacBook Neo",
+            "type": "tech",
+            "desc": "新款笔记本电脑，主打性价比与可维修性"
+          },
+          {
+            "label": "可维修性设计",
+            "type": "tech",
+            "desc": "产品设计趋势，影响生命周期与消费电子商业模式"
+          },
+          {
+            "label": "维修权立法",
             "type": "risk",
-            "desc": "成本削减，业务收缩的标志"
-          },
-          {
-            "label": "应用关闭",
-            "type": "entity",
-            "desc": "移动端业务停止运营"
-          },
-          {
-            "label": "业务重组",
-            "type": "entity",
-            "desc": "公司试图寻找新方向"
-          },
-          {
-            "label": "社交媒体竞争",
-            "type": "risk",
-            "desc": "市场格局固化，老牌平台用户流失"
+            "desc": "全球监管趋势，强制要求企业提供维修支持"
           }
         ],
         "analysis": {
           "strategic": [
-            "Digg的收缩标志着早期社交媒体聚合模式的衰落，在算法推荐和巨头垄断下难以生存。",
-            "此次重组可能是为出售资产或彻底转型做准备，其品牌价值与技术资产仍可能被收购。"
+            "苹果产品策略转向可维修性，预示消费电子行业可能逐步从封闭式设计转向更开放的可持续模式。",
+            "此举可能重塑苹果的售后服务体系与长期客户关系，并影响第三方维修市场与配件产业链。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "苹果供应链中涉及模块化设计与通用部件的公司、第三方维修服务提供商",
+          "risk": "MEDIUM",
+          "thesis": "可维修性趋势将延长设备生命周期，利好提供模块化组件、维修工具与服务的公司，并可能开辟新的市场细分。"
+        },
+        "confidence": 86,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1515857739211?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "美陆军授予Anduril巨额合同",
+        "fullTitle": "美国陆军宣布与Anduril签订价值高达200亿美元合同",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国陆军宣布与国防科技公司Anduril Industries签订一份价值高达200亿美元的合同。陆军称此合同为单一企业合同，整合了超过120项独立的“采购行动”。这标志着大型国防合同向新兴科技公司倾斜的重大转变。",
+        "relations": [
+          {
+            "label": "美国陆军",
+            "type": "entity",
+            "desc": "合同采购方，美国核心军事力量"
+          },
+          {
+            "label": "Anduril Industries",
+            "type": "entity",
+            "desc": "合同受益方，新兴国防科技公司"
+          },
+          {
+            "label": "国防采购",
+            "type": "resource",
+            "desc": "巨额资金流向，影响国防工业格局"
+          },
+          {
+            "label": "军事科技",
+            "type": "tech",
+            "desc": "合同核心内容，涉及AI、自主系统等"
+          },
+          {
+            "label": "供应链整合",
+            "type": "risk",
+            "desc": "大规模合同整合带来的执行与交付风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此超大规模合同授予新兴科技公司而非传统军工巨头，表明美国国防部正加速推动军事技术的颠覆性创新与采购模式改革。",
+            "合同整合了百余项采购，旨在提升效率，但也将巨大权力与风险集中于单一供应商，其执行效果将成未来范本。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Anduril（若上市）、其他专注于AI、无人系统、国防软件的新兴科技公司",
+          "risk": "MEDIUM",
+          "thesis": "合同彰显了国防预算向高科技解决方案的明确转向，利好具备颠覆性技术的非传统国防供应商，可能重塑行业估值体系。"
+        },
+        "confidence": 89,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1648587563418?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "本田放弃美国市场电动汽车",
+        "fullTitle": "本田放弃美国市场电动汽车，危及未来竞争力",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "本田汽车决定终止为其美国市场推出的三款电动汽车，这一决策的影响将远超出北美范围。此举被视为本田在全球最大电动汽车市场之一的战略收缩，可能严重损害其未来在电动化竞赛中的竞争力与品牌形象。",
+        "relations": [
+          {
+            "label": "本田汽车",
+            "type": "entity",
+            "desc": "决策主体，传统汽车制造商"
+          },
+          {
+            "label": "美国电动汽车市场",
+            "type": "resource",
+            "desc": "全球关键市场，战略放弃的目标"
+          },
+          {
+            "label": "电动化转型风险",
+            "type": "risk",
+            "desc": "传统车企转型失败或延迟的风险"
+          },
+          {
+            "label": "市场竞争格局",
+            "type": "risk",
+            "desc": "车企战略调整对全球EV竞争格局的影响"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "本田在关键市场的电动化战略撤退，可能引发连锁反应，削弱其全球供应链议价能力与合作伙伴信心。",
+            "此举为其他传统车企和新兴EV制造商提供了争夺市场份额的窗口，可能加速行业洗牌与联盟重组。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "商业模式类似且增长停滞的垂类社交/内容平台",
-          "risk": "LOW",
-          "thesis": "Digg的困境反映了传统内容聚合模式在当今市场的脆弱性，同类公司可能面临相似的结构性挑战。"
+          "asset": "本田汽车股票、其核心供应链伙伴",
+          "risk": "HIGH",
+          "thesis": "战略误判可能导致本田在增长最快的汽车细分市场永久性掉队，损害其长期营收增长与估值，并拖累紧密绑定的供应商。"
         },
-        "confidence": 82,
+        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1551857022031?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1634142562511?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "US Labor Softens, Defense & Credit Risks",
-        "fullTitle": "Wall Street Week: Soft US Jobs, Swedish Defense, Private Credit Woes",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Analysis indicates a softening US labor market, which may influence Federal Reserve policy. Europe's increased defense spending, with Sweden as a key player, signals a structural shift in regional security and industrial policy. Simultaneously, the private credit market is showing signs of stress as liquidity demands reveal structural vulnerabilities.",
-        "relations": [
-          {
-            "label": "US Labor Market",
-            "type": "entity",
-            "desc": "Key economic indicator showing signs of softening"
-          },
-          {
-            "label": "Sweden",
-            "type": "entity",
-            "desc": "Emerging as a crucial player in European defense spending"
-          },
-          {
-            "label": "Private Credit",
-            "type": "risk",
-            "desc": "Asset class facing liquidity and redemption pressures"
-          },
-          {
-            "label": "Stagflation Risk",
-            "type": "risk",
-            "desc": "Potential economic scenario of high inflation and low growth"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "A cooling labor market reduces pressure for aggressive monetary tightening, potentially extending the economic cycle.",
-            "The pivot towards European defense autonomy creates long-term investment opportunities in aerospace, cybersecurity, and related industrial sectors."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Private Credit ETFs (e.g., PFFL, BKLN)",
-          "risk": "HIGH",
-          "thesis": "The reported liquidity strains and investor redemptions indicate underlying asset quality and maturity mismatch issues that could lead to repricing and volatility in the private credit sector."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1583360069995?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "War Fuel Shortage Threatens Food Supply",
-        "fullTitle": "Fuel Shortages From War Threaten Global Food Supply",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The conflict in the Middle East is causing energy supply disruptions, leading to fuel shortages for agricultural machinery in Asia and Europe. This directly threatens planting and harvesting cycles, creating a tangible risk to global food production and supply chains. The situation increases vulnerability to food price inflation and potential shortages.",
-        "relations": [
-          {
-            "label": "Middle East Conflict",
-            "type": "entity",
-            "desc": "Source of energy supply disruption"
-          },
-          {
-            "label": "Global Food Supply",
-            "type": "resource",
-            "desc": "Critical resource chain under threat"
-          },
-          {
-            "label": "Agricultural Fuel",
-            "type": "resource",
-            "desc": "Critical input for food production facing scarcity"
-          },
-          {
-            "label": "Food Price Inflation",
-            "type": "risk",
-            "desc": "Primary economic risk from this disruption"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The weaponization of energy flows is cascading into the agricultural sector, demonstrating the interconnected fragility of global commodity markets.",
-            "Nations with high food import dependency or inefficient agricultural sectors face heightened sovereign and social stability risks."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Agricultural Commodities & Fertilizer Stocks (e.g., NTR, MOS, WEAT ETF)",
-          "risk": "MEDIUM",
-          "thesis": "Supply-side constraints in food production due to energy inputs will tighten physical markets, supporting prices for key agricultural commodities and inputs like fertilizers."
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1643518146233?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "US Strikes Iranian Military Targets",
-        "fullTitle": "US Hits Military Targets on Iran's Kharg Island as War Escalates",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "The US has escalated military actions by bombing targets on Iran's critical Kharg Island in the Persian Gulf. President Trump explicitly threatened further strikes on oil infrastructure if Iran continues to block energy flows. This marks a significant intensification of the conflict, directly threatening the security of a major global oil chokepoint.",
-        "relations": [
-          {
-            "label": "Kharg Island, Iran",
-            "type": "entity",
-            "desc": "Critical Iranian oil export terminal and military outpost"
-          },
-          {
-            "label": "Persian Gulf",
-            "type": "entity",
-            "desc": "Strategic waterway for global energy flows"
-          },
-          {
-            "label": "Oil Infrastructure",
-            "type": "resource",
-            "desc": "Explicit target for potential future US strikes"
-          },
-          {
-            "label": "Energy Blockade",
-            "type": "risk",
-            "desc": "Core catalyst for the escalation and threat to markets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Direct attacks on sovereign Iranian territory significantly raise the probability of a broader regional war, with potential for retaliatory strikes on US assets and allies.",
-            "The explicit threat to oil infrastructure creates a persistent and extreme risk premium for crude oil, potentially triggering a supply shock."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Crude Oil Futures (CL) & Defense Contractors (e.g., LMT, NOC)",
-          "risk": "HIGH",
-          "thesis": "The escalation directly threatens physical supply from a key region and demonstrates sustained geopolitical risk, supporting oil prices. Concurrently, prolonged conflict drives demand for defense and aerospace capabilities."
-        },
-        "confidence": 92,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1631197605370?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Musk's xAI Restarts AI Coding Tool",
-        "fullTitle": "Musk's xAI Restarts Effort to Build AI Coding Tool",
+        "title": "Iranian Players Reverse Asylum",
+        "fullTitle": "More Iranian Women Soccer Players Reverse Australia Asylum Claim",
         "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Elon Musk's xAI is restarting its development of an AI coding tool, indicating previous iterations failed to meet expectations. The lab is bringing in new executive talent from Cursor, a competitor in the AI-assisted coding space. This reflects the intense competition and rapid iteration cycle in the generative AI for developers market.",
+        "impactLevel": "INFO",
+        "summary": "Three more members of the Iranian women's national soccer team, who were recently granted asylum in Australia, have decided to return to Iran. This reversal was announced by Australian Home Affairs Minister Tony Burke. The decision highlights ongoing personal and political complexities for Iranian athletes abroad. It may indicate shifting pressures or circumstances for individuals caught between international opportunities and domestic ties.",
         "relations": [
           {
-            "label": "xAI",
+            "label": "Iran",
             "type": "entity",
-            "desc": "Elon Musk's artificial intelligence company"
+            "desc": "Country of origin for the athletes, subject to international tensions."
           },
           {
-            "label": "AI Coding Tool",
-            "type": "tech",
-            "desc": "Primary product focus being restarted"
-          },
-          {
-            "label": "Cursor",
+            "label": "Australia",
             "type": "entity",
-            "desc": "Source of new executive talent for xAI"
+            "desc": "Host country that granted asylum, now facing reversed claims."
           },
           {
-            "label": "Generative AI",
-            "type": "tech",
-            "desc": "Underlying technology for developer tools"
+            "label": "Tony Burke",
+            "type": "entity",
+            "desc": "Australian Home Affairs Minister announcing the development."
+          },
+          {
+            "label": "Political Asylum",
+            "type": "risk",
+            "desc": "Core issue involving geopolitical and human rights factors."
+          },
+          {
+            "label": "Repatriation Risk",
+            "type": "risk",
+            "desc": "Potential risks faced by individuals returning to their home country."
           }
         ],
         "analysis": {
           "strategic": [
-            "The 'restart' signals the high technical and product-market fit hurdles in the AI coding assistant space, despite significant hype and investment.",
-            "Talent poaching from specialized startups like Cursor indicates a scarcity of experienced personnel, driving up costs and M&A potential in the niche."
+            "The reversal of asylum claims could be used as propaganda by the Iranian government to demonstrate national loyalty and counter narratives of dissent.",
+            "It may complicate future asylum processes and bilateral relations, as host countries assess the stability and sincerity of such claims."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Overvalued Pure-Play AI Developer Tool Startups",
-          "risk": "HIGH",
-          "thesis": "The struggle of a well-funded player like xAI suggests the market for AI coding tools is more challenging and crowded than perceived, posing a risk to valuations of smaller, unproven competitors."
+          "action": "N/A",
+          "asset": "N/A",
+          "risk": "LOW",
+          "thesis": "This is a socio-political event with minimal direct impact on financial markets. No clear investment signal is generated."
         },
         "confidence": 85,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1625408331226?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1538708613187?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Lawyer Warns of AI Psychosis Risks",
-        "fullTitle": "Lawyer Behind AI Psychosis Cases Warns of Mass Casualty Risks",
+        "title": "UAE Port Hit, Oil Loadings Halted",
+        "fullTitle": "Key UAE Port Suspends Oil Loadings After Drone Attack, Fire",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Legal counsel involved in cases linking AI chatbots to user suicides is now warning that the technology is appearing in mass casualty incidents. The core argument is that the development and deployment of AI systems are outpacing the implementation of effective safeguards and regulatory frameworks, creating significant liability risks.",
+        "summary": "The United Arab Emirates has suspended loading operations at the critical oil-trading hub of Fujairah following a drone strike and fire. This incident exposes the vulnerability of a major alternative export route while the Strait of Hormuz remains blocked. The disruption threatens immediate oil supply logistics and regional energy security. It underscores the persistent geopolitical risks in Middle Eastern maritime chokepoints.",
         "relations": [
           {
-            "label": "AI Chatbots",
-            "type": "tech",
-            "desc": "Technology linked to harmful user interactions"
+            "label": "United Arab Emirates (UAE)",
+            "type": "entity",
+            "desc": "Nation facing a direct attack on critical energy infrastructure."
           },
           {
-            "label": "Mass Casualty Incidents",
-            "type": "risk",
-            "desc": "New alleged domain of AI-related harm"
+            "label": "Fujairah Port",
+            "type": "resource",
+            "desc": "Key oil-trading and export hub, now operationally compromised."
           },
           {
-            "label": "AI Safeguards",
+            "label": "Drone Attack",
             "type": "risk",
-            "desc": "Measures lagging behind technology development"
+            "desc": "Asymmetric warfare tactic demonstrating low-cost, high-impact threat to infrastructure."
           },
           {
-            "label": "Legal Liability",
+            "label": "Strait of Hormuz",
+            "type": "resource",
+            "desc": "Primary oil chokepoint, whose blockage increases reliance on Fujairah."
+          },
+          {
+            "label": "Oil Supply Chain",
             "type": "risk",
-            "desc": "Primary financial and reputational risk for AI firms"
+            "desc": "Global logistics network facing immediate disruption and risk premium."
           }
         ],
         "analysis": {
           "strategic": [
-            "The expansion of alleged harm from individual to mass events dramatically increases the potential scale of liability and regulatory scrutiny for AI companies.",
-            "This trend will accelerate demand for AI governance, auditing, and 'safety-washing' services, creating a new ancillary market."
+            "The attack demonstrates an escalation in targeting alternative energy export routes, potentially aimed at maximizing regional economic pressure.",
+            "It will force a reassessment of infrastructure security and redundancy plans for global energy companies and shipping insurers."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "AI Companies with Weak Governance & High Consumer Exposure",
-          "risk": "MEDIUM",
-          "thesis": "Growing legal precedent and public concern over AI-related harm will lead to stricter regulations and costly lawsuits, disproportionately impacting companies without robust safety and ethical frameworks."
+          "action": "LONG",
+          "asset": "Oil Futures (Brent, WTI), Energy Sector ETFs (XLE), Maritime Security Firms",
+          "risk": "HIGH",
+          "thesis": "Direct supply disruption and heightened geopolitical risk premium will likely push oil prices higher in the short term. Companies providing security and logistics solutions may see increased demand."
         },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1611122827745?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1608491433666?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Digg Lays Off Staff, Shuts App",
-        "fullTitle": "Digg Lays Off Staff and Shuts Down App in Retooling",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "The social news aggregation pioneer Digg has conducted significant layoffs and shut down its mobile app. The company states this is part of a retooling effort and not a complete shutdown. This event highlights the ongoing challenges and consolidation within the digital media and social aggregation sector.",
+        "title": "Central Banks Assess Trump War Impact",
+        "fullTitle": "Trump's War Jolts Global Central Banks From Fed to ECB to BOJ",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Central banks worldwide, including the Fed, ECB, and BOJ, are preparing their first formal assessments of the economic damage from the ongoing US-Iran conflict. The conflict has introduced significant uncertainty into global growth, inflation, and financial stability forecasts. Policy responses may shift from normalization to renewed stimulus or heightened caution. Market volatility is expected as central bank guidance adapts to the new risk landscape.",
         "relations": [
           {
-            "label": "Digg",
+            "label": "Federal Reserve (Fed)",
             "type": "entity",
-            "desc": "Pioneering social news aggregation company"
+            "desc": "US central bank, key driver of global monetary policy."
           },
           {
-            "label": "Digital Media",
+            "label": "European Central Bank (ECB)",
             "type": "entity",
-            "desc": "Sector undergoing continued consolidation and pressure"
+            "desc": "Central bank for the Eurozone, facing growth and inflation challenges."
           },
           {
-            "label": "Startup Retooling",
+            "label": "Bank of Japan (BOJ)",
+            "type": "entity",
+            "desc": "Japanese central bank, already in an ultra-accommodative stance."
+          },
+          {
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "High-risk strategic pivot often preceding failure or acquisition"
+            "desc": "Primary driver forcing reassessment of economic models and policy."
+          },
+          {
+            "label": "Monetary Policy",
+            "type": "resource",
+            "desc": "Toolkit for central banks to respond to economic shocks."
           }
         ],
         "analysis": {
           "strategic": [
-            "The decline of a once-dominant player like Digg underscores the extreme volatility and winner-take-most dynamics in the consumer social tech space.",
-            "This event may signal a broader tightening of venture capital for late-stage digital media startups that have not achieved clear profitability or market dominance."
+            "Coordinated or parallel dovish shifts by major central banks could lead to a new phase of global liquidity injection, supporting risk assets but weakening currencies.",
+            "Divergence in central bank responses (e.g., hawkish Fed vs. dovish ECB) could create significant forex volatility and capital flow disruptions."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Gold (XAU), Long-Duration Government Bonds (TLT), Defensive Equity Sectors (Utilities, Consumer Staples)",
+          "risk": "MEDIUM",
+          "thesis": "Increased uncertainty and potential for dovish policy pivots favor safe-haven assets like gold and bonds. Defensive equities may outperform if growth fears escalate."
+        },
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1694242141007?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "MacBook Neo Most Repairable in Years",
+        "fullTitle": "MacBook Neo is 'Most Repairable MacBook' in Years per iFixit",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Apple's new MacBook Neo is being hailed by iFixit as the company's most repairable laptop in approximately fourteen years. This marks a significant design philosophy shift for Apple, which has historically prioritized thinness and integration over user serviceability. The change could reduce long-term ownership costs and electronic waste. It may also influence consumer purchasing decisions and pressure competitors in the PC market.",
+        "relations": [
+          {
+            "label": "Apple Inc.",
+            "type": "entity",
+            "desc": "Technology company launching a product with improved repairability."
+          },
+          {
+            "label": "MacBook Neo",
+            "type": "tech",
+            "desc": "New laptop model noted for its user-serviceable design."
+          },
+          {
+            "label": "iFixit",
+            "type": "entity",
+            "desc": "Repair advocacy group that performed the teardown and analysis."
+          },
+          {
+            "label": "Right to Repair",
+            "type": "risk",
+            "desc": "Growing regulatory and consumer movement influencing product design."
+          },
+          {
+            "label": "Sustainable Design",
+            "type": "tech",
+            "desc": "Product development approach considering longevity and waste reduction."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Apple's move is a direct response to increasing regulatory pressure (e.g., EU regulations) and consumer demand for the 'Right to Repair,' potentially reshaping industry standards.",
+            "This could open new revenue streams for third-party repair services and component suppliers, while possibly impacting Apple's high-margin service business."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Apple (AAPL), Third-Party Repair Service Providers, Electronic Component Distributors",
+          "risk": "MEDIUM",
+          "thesis": "Positive consumer and regulatory sentiment towards repairability could boost brand loyalty and sales for Apple. Companies in the repair ecosystem may benefit from increased accessibility."
+        },
+        "confidence": 86,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1617467411531?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "US Army Awards Anduril $20B Contract",
+        "fullTitle": "US Army Announces Contract with Anduril Worth Up to $20B",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The US Army has awarded defense technology company Anduril a contract valued at up to $20 billion. This is described as a single enterprise contract consolidating over 120 separate procurement actions. The massive award signifies a major shift towards partnering with agile, non-traditional defense contractors for advanced technology. It represents a significant market share gain for Anduril against established prime contractors.",
+        "relations": [
+          {
+            "label": "US Army",
+            "type": "entity",
+            "desc": "Military branch issuing the landmark contract."
+          },
+          {
+            "label": "Anduril Industries",
+            "type": "entity",
+            "desc": "Defense tech startup securing a transformative contract."
+          },
+          {
+            "label": "$20 Billion Contract",
+            "type": "resource",
+            "desc": "Substantial financial commitment reshaping the defense industrial base."
+          },
+          {
+            "label": "Defense Procurement",
+            "type": "risk",
+            "desc": "Process undergoing modernization and consolidation."
+          },
+          {
+            "label": "Non-Traditional Contractor",
+            "type": "entity",
+            "desc": "New type of vendor gaining prominence in defense sector."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This contract signals the Pentagon's serious commitment to bypassing traditional procurement bureaucracy to rapidly acquire cutting-edge AI, autonomy, and networking capabilities.",
+            "It poses a direct competitive threat to legacy defense primes (Lockheed, Raytheon, etc.), potentially forcing industry consolidation or accelerated internal innovation."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Anduril (private), Public Defense Tech & AI ETFs (ITA, XAR components with tech focus)",
+          "risk": "MEDIUM",
+          "thesis": "Anduril's win validates the growth trajectory of tech-centric defense firms. Publicly traded companies in autonomous systems, AI, and C4ISR may see re-rating as investors anticipate similar contract shifts."
+        },
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1543064102461?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Honda Killing Its EVs, Hurting Future",
+        "fullTitle": "Honda is Killing its EVs and Any Chance of Competing in Future",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Honda has decided to discontinue its three electric vehicle models for the U.S. market. This strategic retreat from the EV segment is expected to have negative repercussions beyond North America, impacting its global competitiveness. The move suggests Honda is reassessing its electrification strategy amid cost, technology, or market acceptance challenges. It creates an opportunity for rivals to solidify their lead in the critical transition to electric mobility.",
+        "relations": [
+          {
+            "label": "Honda Motor Co.",
+            "type": "entity",
+            "desc": "Automaker making a strategic retreat from the EV market."
+          },
+          {
+            "label": "Electric Vehicles (EVs)",
+            "type": "tech",
+            "desc": "Core technology segment being abandoned in a key market."
+          },
+          {
+            "label": "U.S. Automotive Market",
+            "type": "entity",
+            "desc": "Strategic market where Honda is ceding EV ground to competitors."
+          },
+          {
+            "label": "Strategic Retreat",
+            "type": "risk",
+            "desc": "Decision that may lead to long-term loss of market share and relevance."
+          },
+          {
+            "label": "Competitive Disadvantage",
+            "type": "risk",
+            "desc": "Risk of falling behind in the industry's fundamental technological shift."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Honda's exit may signal deeper structural issues in competing with vertically integrated EV leaders (Tesla, BYD) and legacy automakers making larger bets (GM, Ford).",
+            "This creates a vacuum in the market that will be rapidly filled by competitors, potentially locking Honda out of future growth segments and making a re-entry later more costly and difficult."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Late-Stage Digital Media & Social Startups (Pre-IPO)",
+          "asset": "Honda (HMC) relative to EV-focused automakers (TSLA, BYD, RIVN, LCID), Long competitors' suppliers",
           "risk": "HIGH",
-          "thesis": "The failure of legacy players and retrenchment of others indicates a weak exit environment and potential valuation compression for similar companies reliant on advertising and user engagement metrics."
+          "thesis": "Honda's strategic misstep could lead to underperformance versus peers committed to electrification. Capital may flow from Honda to companies with clearer EV roadmaps, impacting Honda's valuation."
         },
-        "confidence": 82,
+        "confidence": 85,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1609029116759?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1561857626445?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Mercado laboral EEUU se debilita",
-        "fullTitle": "Debilitamiento del mercado laboral EEUU y riesgos de estanflación",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Steven Rattner de Willett Advisors analiza el debilitamiento del mercado laboral estadounidense. Discute las implicaciones de aranceles, IA y el riesgo de estanflación. Suele emerge como actor clave en el gasto de defensa europeo. El crédito privado enfrenta vulnerabilidades por retiros de inversores.",
-        "relations": [
-          {
-            "label": "Mercado laboral EEUU",
-            "type": "entity",
-            "desc": "Indicador económico clave que muestra signos de debilitamiento"
-          },
-          {
-            "label": "Estanflación",
-            "type": "risk",
-            "desc": "Riesgo económico combinado de estancamiento e inflación"
-          },
-          {
-            "label": "Crédito privado",
-            "type": "entity",
-            "desc": "Sector financiero enfrentando presión por retiros"
-          },
-          {
-            "label": "Suecia",
-            "type": "entity",
-            "desc": "País emergiendo como actor crucial en defensa europea"
-          },
-          {
-            "label": "IA",
-            "type": "tech",
-            "desc": "Factor tecnológico en análisis económico"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El debilitamiento laboral podría forzar un giro en política monetaria de la Fed, afectando mercados globales",
-            "La reconfiguración de defensa europea crea oportunidades en sectores de seguridad y defensa"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Bonos del Tesoro EEUU a corto plazo",
-          "risk": "MEDIUM",
-          "thesis": "Expectativa de recortes de tasas por debilitamiento económico, apreciación de precios de bonos"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1580642102407?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Escasez combustible amenaza alimentos",
-        "fullTitle": "Escasez de combustible por guerra amenaza suministro alimentario global",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Los cultivos alimentarios son vulnerables a la crisis energética por guerra en Medio Oriente. Agricultores en Asia y Europa enfrentan escasez de combustible para maquinaria esencial. La interrupción energética amenaza la cadena de producción agrícola global. La situación podría escalar a crisis alimentaria regional.",
-        "relations": [
-          {
-            "label": "Combustible agrícola",
-            "type": "resource",
-            "desc": "Recurso crítico para operación de maquinaria agrícola"
-          },
-          {
-            "label": "Cadena alimentaria global",
-            "type": "entity",
-            "desc": "Sistema de producción y distribución de alimentos"
-          },
-          {
-            "label": "Guerra Medio Oriente",
-            "type": "risk",
-            "desc": "Conflicto que interrumpe flujos energéticos"
-          },
-          {
-            "label": "Agricultores Asia",
-            "type": "entity",
-            "desc": "Productores afectados por escasez de insumos"
-          },
-          {
-            "label": "Maquinaria agrícola",
-            "type": "resource",
-            "desc": "Equipo dependiente de combustible fósil"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La interrupción energética agrícola podría desencadenar inflación alimentaria global y disturbios sociales",
-            "Países exportadores de alimentos ganarán influencia geopolítica mientras importadores enfrentan vulnerabilidad"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Futuros de trigo y maíz",
-          "risk": "HIGH",
-          "thesis": "Escasez de producción por limitaciones energéticas impulsará precios de commodities agrícolas"
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1515835467889?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "EEUU ataca isla iraní Kharg",
-        "fullTitle": "EEUU ataca objetivos militares en isla iraní Kharg",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Trump anuncia bombardeo estadounidense a objetivos militares en isla Kharg, puesto crítico iraní en Golfo Pérsico. Amenaza con ataques adicionales a infraestructura petrolera si Irán bloquea flujos energéticos. Conflicto de dos semanas ha alterado región. Escalada militar directa entre potencias.",
-        "relations": [
-          {
-            "label": "Isla Kharg",
-            "type": "entity",
-            "desc": "Instalación petrolera y militar estratégica iraní"
-          },
-          {
-            "label": "Infraestructura petrolera",
-            "type": "resource",
-            "desc": "Blanco potencial en escalada del conflicto"
-          },
-          {
-            "label": "Golfo Pérsico",
-            "type": "entity",
-            "desc": "Ruta marítima crítica para energía global"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente EEUU autorizando acciones militares"
-          },
-          {
-            "label": "Bloqueo energético",
-            "type": "risk",
-            "desc": "Amenaza a flujos de petróleo globales"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Ataque a infraestructura petrolera podría desencadenar crisis energética global y recesión económica",
-            "La escalada directa EEUU-Irán aumenta probabilidad de conflicto regional ampliado con participación de actores proxy"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Petróleo Brent y empresas de seguridad marítima",
-          "risk": "HIGH",
-          "thesis": "Interrupción de suministro petrolero del Golfo Pérsico impulsará precios y demanda de protección"
-        },
-        "confidence": 92,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1529687784285?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "xAI de Musk reinicia desarrollo",
-        "fullTitle": "xAI de Musk reinicia desarrollo de herramienta codificación IA",
+        "title": "Jugadoras iraníes revocan asilo",
+        "fullTitle": "Más jugadoras iraníes revocan solicitud de asilo en Australia",
         "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El laboratorio de IA xAI está reiniciando su esfuerzo para construir una herramienta de codificación con IA. Dos nuevos ejecutivos se unen desde Cursor. Musk critica que no fue construido correctamente la primera vez. Indica iteración rápida en desarrollo de herramientas IA especializadas.",
-        "relations": [
-          {
-            "label": "xAI",
-            "type": "entity",
-            "desc": "Laboratorio de IA fundado por Elon Musk"
-          },
-          {
-            "label": "Herramienta codificación IA",
-            "type": "tech",
-            "desc": "Software que asiste en programación usando IA"
-          },
-          {
-            "label": "Cursor",
-            "type": "entity",
-            "desc": "Empresa de la que provienen nuevos ejecutivos"
-          },
-          {
-            "label": "Elon Musk",
-            "type": "entity",
-            "desc": "Fundador impulsando reinicio del proyecto"
-          },
-          {
-            "label": "Desarrollo iterativo",
-            "type": "tech",
-            "desc": "Enfoque de reinicio rápido en tecnología"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El reinicio indica intensa competencia en herramientas IA para desarrolladores, sector de alto crecimiento",
-            "La capacidad de iteración rápida será factor diferenciador clave en carrera de herramientas de productividad con IA"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Empresas de herramientas desarrollo con IA",
-          "risk": "MEDIUM",
-          "thesis": "Mercado de herramientas IA para desarrolladores crecerá exponencialmente con adopción masiva"
-        },
-        "confidence": 85,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1662535032579?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Abogado advierte riesgos IA psicosis",
-        "fullTitle": "Abogado advierte riesgos IA en casos psicosis y víctimas masivas",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Un abogado advierte que chatbots de IA aparecen en casos de víctimas masivas, no solo suicidios. La tecnología avanza más rápido que las salvaguardas. Casos vinculan IA a problemas de salud mental graves. Urge regulación y controles más estrictos.",
-        "relations": [
-          {
-            "label": "Chatbots IA",
-            "type": "tech",
-            "desc": "Asistentes conversacionales vinculados a daños"
-          },
-          {
-            "label": "Psicosis inducida por IA",
-            "type": "risk",
-            "desc": "Riesgo de salud mental por interacción con IA"
-          },
-          {
-            "label": "Víctimas masivas",
-            "type": "risk",
-            "desc": "Escalada de daños potenciales de sistemas IA"
-          },
-          {
-            "label": "Salvaguardas",
-            "type": "risk",
-            "desc": "Controles que van detrás del desarrollo tecnológico"
-          },
-          {
-            "label": "Regulación IA",
-            "type": "entity",
-            "desc": "Marco legal necesario para mitigar riesgos"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los riesgos de daño real por IA impulsarán regulación global más estricta, aumentando costos de cumplimiento",
-            "La responsabilidad legal por daños de IA podría limitar adopción en aplicaciones sensibles y generar litigios masivos"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Empresas de IA sin sólidos controles éticos",
-          "risk": "MEDIUM",
-          "thesis": "Litigios y regulación castigarán a empresas con implementaciones riesgosas de IA conversacional"
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1581828144355?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Digg despide personal y cierra app",
-        "fullTitle": "Digg despide personal y cierra aplicación en reestructuración",
-        "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "Digg despidió número significativo de personal y cerró su aplicación móvil. La compañía afirma que no abandona la startup y se está reestructurando. Refleja desafíos en mercado de agregación de noticias y redes sociales. Empresa busca nuevo modelo sostenible.",
+        "summary": "Tres miembros adicionales de la selección femenina de fútbol de Irán, a quienes Australia les concedió asilo la semana pasada, han decidido regresar a su país. El Ministro de Asuntos Internos, Tony Burke, confirmó la noticia. Este movimiento sugiere posibles presiones o cambios en las circunstancias personales de las atletas. El caso pone de relieve la compleja situación geopolítica y de derechos humanos en torno a Irán.",
         "relations": [
           {
-            "label": "Digg",
+            "label": "Irán",
             "type": "entity",
-            "desc": "Plataforma de agregación de noticias en reestructuración"
+            "desc": "País de origen de las jugadoras, con tensiones políticas internas."
           },
           {
-            "label": "Aplicación móvil",
-            "type": "tech",
-            "desc": "Producto cerrado en recorte de operaciones"
+            "label": "Australia",
+            "type": "entity",
+            "desc": "País que otorgó el asilo político inicialmente."
           },
           {
-            "label": "Despidos",
+            "label": "Tony Burke",
+            "type": "entity",
+            "desc": "Ministro de Asuntos Internos de Australia."
+          },
+          {
+            "label": "Asilo político",
             "type": "risk",
-            "desc": "Reducción de personal significativa"
-          },
-          {
-            "label": "Reestructuración",
-            "type": "entity",
-            "desc": "Proceso de transformación empresarial"
-          },
-          {
-            "label": "Startup",
-            "type": "entity",
-            "desc": "Empresa que afirma continuar operaciones"
+            "desc": "Riesgo reputacional y de relaciones internacionales."
           }
         ],
         "analysis": {
           "strategic": [
-            "El cierre refleja consolidación en mercado de medios digitales donde solo sobreviven plataformas dominantes",
-            "La reestructuración podría indicar pivote hacia modelo B2B o nicho específico en espacio informativo"
+            "El retorno de las atletas podría indicar una campaña de presión o negociación del gobierno iraní para recuperar figuras públicas.",
+            "El caso afecta la percepción de Australia como destino de asilo y podría influir en futuras políticas migratorias hacia disidentes."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Plataformas de medios sociales pequeñas/marginales",
-          "risk": "HIGH",
-          "thesis": "Consolidación del mercado favorecerá a gigantes establecidos, presionando a jugadores menores"
+          "action": "N/A",
+          "asset": "N/A",
+          "risk": "LOW",
+          "thesis": "Noticia de bajo impacto financiero directo. Principalmente relevante para análisis de riesgo político y social."
         },
         "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1644200720894?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Ataque con drones paraliza puerto clave de EAU",
+        "fullTitle": "Ataque con drones suspende carga de petróleo en puerto clave de EAU",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Emiratos Árabes Unidos suspendió las operaciones de carga en el centro clave de comercio de petróleo de Fujairah tras un ataque con drones e incendio. El incidente expone la vulnerabilidad de esta ruta de exportación crítica, especialmente mientras el Estrecho de Ormuz está bloqueado. Esto podría interrumpir los flujos globales de crudo y aumentar la prima de riesgo. La seguridad energética del Golfo se ve directamente amenazada.",
+        "relations": [
+          {
+            "label": "Emiratos Árabes Unidos",
+            "type": "entity",
+            "desc": "País productor de petróleo, víctima del ataque."
+          },
+          {
+            "label": "Fujairah",
+            "type": "resource",
+            "desc": "Puerto petrolero clave fuera del Estrecho de Ormuz."
+          },
+          {
+            "label": "Petróleo",
+            "type": "resource",
+            "desc": "Commodity crítico, su flujo se ve interrumpido."
+          },
+          {
+            "label": "Ataque con drones",
+            "type": "risk",
+            "desc": "Amenaza asimétrica a infraestructura crítica."
+          },
+          {
+            "label": "Estrecho de Ormuz",
+            "type": "resource",
+            "desc": "Punto de estrangulamiento marítimo bloqueado, aumenta la importancia de Fujairah."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El ataque revela una escalada en las tácticas para interrumpir el flujo energético global, apuntando a infraestructuras alternativas al Estrecho de Ormuz.",
+            "Aumenta la prima de riesgo geopolítico en los precios del petróleo y presiona a los consumidores globales a buscar fuentes alternativas."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Futuros de crudo Brent/WTI, ETFs de energía (XLE)",
+          "risk": "HIGH",
+          "thesis": "Interrupción de suministro en un nodo crítico, con el Estrecho de Ormuz ya bloqueado, impulsará los precios del petróleo a corto plazo debido al pánico en el mercado."
+        },
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1683837039739?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Guerra de Trump sacude bancos centrales",
+        "fullTitle": "Conflicto EEUU-Irán sacude evaluaciones de bancos centrales globales",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Los bancos centrales, desde la Fed hasta el BCE y el BOJ, están a punto de realizar sus primeras evaluaciones del daño económico tras más de dos semanas de conflicto entre Estados Unidos e Irán. La incertidumbre geopolítica complica los pronósticos de inflación, crecimiento y política monetaria. Las decisiones sobre tasas de interés y estímulos podrían verse alteradas. La estabilidad financiera global está bajo escrutinio.",
+        "relations": [
+          {
+            "label": "Federal Reserve (Fed)",
+            "type": "entity",
+            "desc": "Banco central de EE.UU., clave para la política monetaria global."
+          },
+          {
+            "label": "Banco Central Europeo (BCE)",
+            "type": "entity",
+            "desc": "Banco central de la zona euro."
+          },
+          {
+            "label": "Banco de Japón (BOJ)",
+            "type": "entity",
+            "desc": "Banco central de Japón."
+          },
+          {
+            "label": "Conflicto EEUU-Irán",
+            "type": "risk",
+            "desc": "Principal fuente de incertidumbre geopolítica y de mercados."
+          },
+          {
+            "label": "Política monetaria",
+            "type": "risk",
+            "desc": "Riesgo de cambios inesperados debido a shocks externos."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los bancos centrales podrían adoptar un tono más cauteloso o 'dovish' para contrarrestar el shock de oferta y la incertidumbre, retrasando posibles subidas de tasas.",
+            "La coordinación tácita entre bancos centrales para proporcionar liquidez podría intensificarse si la volatilidad de los mercados se dispara."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Bonos del Tesoro a largo plazo (TLT), Oro (GLD)",
+          "risk": "MEDIUM",
+          "thesis": "Mayor incertidumbre y posible giro cauteloso de los bancos centrales favorecen los activos refugio como los bonos y el oro."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1550243766724?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "MacBook Neo: el más reparable en años",
+        "fullTitle": "iFixit declara al MacBook Neo 'el Mac más reparable' en años",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "El nuevo MacBook Neo de Apple no solo es el portátil Mac más asequible, sino también el más reparable en 'unos catorce años', según iFixit. Este cambio de diseño representa una ruptura significativa con la filosofía anterior de Apple de productos difíciles de reparar. Responde a la presión regulatoria sobre el 'derecho a reparar'. Podría mejorar la percepción de la marca y reducir costos de ciclo de vida.",
+        "relations": [
+          {
+            "label": "Apple",
+            "type": "entity",
+            "desc": "Fabricante del producto, cambia su estrategia de diseño."
+          },
+          {
+            "label": "MacBook Neo",
+            "type": "tech",
+            "desc": "Nuevo producto con diseño modular y reparable."
+          },
+          {
+            "label": "iFixit",
+            "type": "entity",
+            "desc": "Empresa de reparaciones y defensora del 'derecho a reparar'."
+          },
+          {
+            "label": "Derecho a reparar",
+            "type": "risk",
+            "desc": "Tendencia regulatoria y de consumo que impacta el diseño."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Apple busca adelantarse a la regulación global sobre reparabilidad y sostenibilidad, mejorando su imagen corporativa.",
+            "Este movimiento podría presionar a otros fabricantes de hardware a seguir el ejemplo, cambiando las dinámicas del sector de la electrónica de consumo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Acciones de Apple (AAPL)",
+          "risk": "LOW",
+          "thesis": "La mejora en reparabilidad puede ampliar el mercado (presupuestos más ajustados, educación), reducir costos de garantía y fortalecer la lealtad a la marca a largo plazo."
+        },
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1597629542100?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Ejército EE.UU. contrata a Anduril por $20B",
+        "fullTitle": "Ejército de EE.UU. anuncia contrato con Anduril por hasta $20 mil millones",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "El Ejército de los Estados Unidos anunció un contrato empresarial único con la empresa de tecnología de defensa Anduril, valorado en hasta 20 mil millones de dólares. El contrato consolida más de 120 acciones de adquisición separadas. Esto refleja un cambio hacia la contratación ágil con empresas tecnológicas no tradicionales ('defensatech'). Anduril, fundada por Palmer Luckey, se consolida como un actor principal en defensa.",
+        "relations": [
+          {
+            "label": "Ejército de EE.UU.",
+            "type": "entity",
+            "desc": "Cliente principal, impulsando innovación en defensa."
+          },
+          {
+            "label": "Anduril Industries",
+            "type": "entity",
+            "desc": "Empresa de tecnología de defensa ('defensatech') beneficiaria."
+          },
+          {
+            "label": "Contrato de defensa",
+            "type": "resource",
+            "desc": "Flujo de caja masivo y garantizado para el contratista."
+          },
+          {
+            "label": "Defensatech",
+            "type": "tech",
+            "desc": "Sector de empresas tecnológicas que compiten con contratistas tradicionales."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El contrato señala una profunda transformación en la adquisición de defensa de EE.UU., favoreciendo la agilidad y la innovación de startups tecnológicas sobre los gigantes tradicionales.",
+            "Anduril gana una escala y legitimidad enormes, posicionándose para desafiar el oligopolio de los principales contratistas de defensa (Lockheed, Boeing, etc.)."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Anduril (privada), ETFs de defensa con exposición a innovación (ITA, PPA)",
+          "risk": "MEDIUM",
+          "thesis": "El contrato valida el modelo de negocio de Anduril y el sector 'defensatech'. Podría generar un efecto arrastre, aumentando la valoración de empresas similares y presionando a los contratistas tradicionales a asociarse o innovar."
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1543234091434?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Honda mata sus EVs, pierde futuro",
+        "fullTitle": "Honda abandona sus EVs en EE.UU., comprometiendo su futuro competitivo",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "La decisión de Honda de cancelar sus tres modelos de vehículos eléctricos (EV) para el mercado estadounidense tendrá repercusiones más allá de Norteamérica. Este movimiento estratégico sugiere una retirada o un grave replanteamiento de su transición hacia la electrificación. Cede terreno crucial a competidores como Tesla, BYD y los fabricantes estadounidenses tradicionales. La credibilidad de Honda en la era de los vehículos eléctricos se ve seriamente dañada.",
+        "relations": [
+          {
+            "label": "Honda",
+            "type": "entity",
+            "desc": "Fabricante de automóviles que cancela su línea de EVs."
+          },
+          {
+            "label": "Vehículos Eléctricos (EVs)",
+            "type": "tech",
+            "desc": "Sector tecnológico clave del que Honda se retira."
+          },
+          {
+            "label": "Mercado estadounidense",
+            "type": "entity",
+            "desc": "Mercado clave abandonado por Honda en EVs."
+          },
+          {
+            "label": "Competitividad futura",
+            "type": "risk",
+            "desc": "Riesgo existencial a largo plazo para el fabricante."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Honda parece estar doblando la apuesta por tecnologías híbridas o de celdas de combustible, arriesgándose a quedar fuera del mercado de EVs de rápido crecimiento.",
+            "La decisión crea una oportunidad de mercado inmediata para sus competidores, que pueden capturar cuota de mente y de mercado en un segmento crucial."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Acciones de Honda (HMC)",
+          "risk": "HIGH",
+          "thesis": "La retirada del mercado de EVs en EE.UU. es una señal negativa extrema sobre la estrategia y la ejecución de la compañía. Podría conducir a una pérdida permanente de cuota de mercado y a una reevaluación a la baja de sus perspectivas de crecimiento."
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1610215793675?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1691836037652?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
