@@ -1,858 +1,858 @@
 {
-  "generated_at": "2026-03-15T02:40:44.748256",
+  "generated_at": "2026-03-16T02:42:34.457819",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "伊朗女足球员撤回庇护申请",
-        "fullTitle": "三名伊朗女足球员撤回澳大利亚庇护申请返回伊朗",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "澳大利亚内政部长托尼·伯克证实，上周获得澳大利亚庇护的三名伊朗女足国家队成员决定返回伊朗。这一反转表明部分伊朗海外人士对国内局势的判断可能发生变化。事件本身对金融市场直接影响有限，但反映了伊朗社会与国际流动性的复杂动态。",
+        "title": "特朗普称先解决伊朗再处理古巴",
+        "fullTitle": "特朗普称欲先结束伊朗战争再转向古巴",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国总统特朗普表示，古巴希望与美国达成协议，但他计划先结束与伊朗的战争，再将注意力转向这个共产主义岛国。这表明美国的外交政策议程存在明确的优先顺序。地缘政治冲突的解决进程将直接影响全球贸易和能源市场的稳定性。",
         "relations": [
+          {
+            "label": "唐纳德·特朗普",
+            "type": "entity",
+            "desc": "美国总统，决策核心"
+          },
           {
             "label": "伊朗",
             "type": "entity",
-            "desc": "事件主体国家，涉及人员流动与政治因素"
+            "desc": "地缘政治冲突焦点"
           },
           {
-            "label": "澳大利亚",
+            "label": "古巴",
             "type": "entity",
-            "desc": "庇护提供国，移民政策执行方"
+            "desc": "潜在外交谈判对象"
           },
           {
-            "label": "人员流动风险",
+            "label": "地缘政治风险",
             "type": "risk",
-            "desc": "地缘政治紧张下的人才与人员逆向流动"
+            "desc": "影响全球市场稳定性的主要风险"
           },
           {
-            "label": "社会稳定性",
-            "type": "risk",
-            "desc": "反映伊朗国内社会压力与外部认知"
+            "label": "外交政策",
+            "type": "resource",
+            "desc": "影响国际贸易与投资环境的关键变量"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件显示伊朗与国际社会间的人员流动存在不确定性，可能影响长期人才与资本流向。",
-            "此类个案虽小，但叠加可能形成趋势，需监测伊朗精英阶层的留驻意愿变化。"
+            "美国外交资源将优先集中于中东地区，短期内对拉美政策可能维持现状，影响相关区域的投资与贸易预期。",
+            "伊朗局势的走向将成为短期内全球地缘政治风险和市场情绪的核心驱动因素，其解决进程将释放或转移市场风险偏好。"
           ]
         },
         "investment": {
-          "action": "N/A",
-          "asset": "N/A",
-          "risk": "LOW",
-          "thesis": "该事件为孤立社会事件，对金融市场无直接可操作标的或显著影响。"
+          "action": "SHORT",
+          "asset": "新兴市场债券（拉美区域）",
+          "risk": "MEDIUM",
+          "thesis": "美国外交优先级转向中东，可能延迟对古巴等拉美国家的政策缓和，短期内该区域的地缘政治溢价难以消除，对相关资产构成压力。"
         },
-        "confidence": 85,
+        "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1564090275921?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1665647651766?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "阿联酋关键港口遇袭停运",
-        "fullTitle": "无人机袭击致阿联酋富查伊拉港石油装载暂停",
+        "title": "中国经济意外反弹但战争风险扩散",
+        "fullTitle": "中国经济指标超预期反弹，伊朗战争风险扩散",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "阿联酋重要石油贸易枢纽富查伊拉港因遭遇无人机袭击并引发火灾，于周六暂停装载作业。此次袭击发生在霍尔木兹海峡受阻期间，凸显了该国唯一替代出口路线的脆弱性。事件可能短期内影响中东原油出口物流与区域安全溢价。",
+        "summary": "中国年初主要经济指标表现优于预期，显示在伊朗战争扰乱全球增长和通胀前景之前，经济动能已有所改善。然而，地缘冲突带来的不确定性给后续复苏蒙上阴影。全球供应链和能源价格面临新的压力测试。",
         "relations": [
           {
-            "label": "阿联酋",
+            "label": "中国经济",
             "type": "entity",
-            "desc": "事件发生国，关键石油出口国"
+            "desc": "全球增长的关键引擎"
           },
           {
-            "label": "富查伊拉港",
-            "type": "resource",
-            "desc": "关键石油贸易与转运枢纽"
-          },
-          {
-            "label": "石油供应风险",
+            "label": "伊朗战争",
             "type": "risk",
-            "desc": "关键基础设施遇袭导致的供应中断风险"
+            "desc": "主要外部风险源"
+          },
+          {
+            "label": "全球增长",
+            "type": "resource",
+            "desc": "受地缘冲突威胁的宏观环境"
+          },
+          {
+            "label": "通货膨胀",
+            "type": "risk",
+            "desc": "因地缘冲突而加剧的宏观经济风险"
+          },
+          {
+            "label": "供应链",
+            "type": "resource",
+            "desc": "易受地缘政治冲击的关键经济网络"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "中国经济的内生性复苏势头与外部地缘政治冲击形成对冲，增加了全球宏观经济前景的复杂性，资产配置需兼顾内需韧性与外部风险。",
+            "伊朗冲突若持续，将通过能源和供应链渠道向全球输出通胀压力，可能迫使主要央行重新评估货币政策路径，影响全球流动性。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "中国国债/内需导向型消费ETF",
+          "risk": "MEDIUM",
+          "thesis": "中国经济内生动能显现，在外部风险加剧的背景下，内需相关资产和避险属性较强的国债可能相对受益，提供对冲。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1606992166733?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "特朗普威胁推迟中美元首峰会",
+        "fullTitle": "特朗普威胁若中国不助解霍尔木兹困局则推迟习特会",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "据《金融时报》报道，特朗普表示，如果北京不帮助解除霍尔木兹海峡的封锁，他可能推迟与习近平主席的 planned 峰会。这直接将地缘政治危机与最重要的双边关系挂钩。中国的立场和后续行动将成为关键。",
+        "relations": [
+          {
+            "label": "唐纳德·特朗普",
+            "type": "entity",
+            "desc": "美方决策者，以交易方式施压"
+          },
+          {
+            "label": "习近平",
+            "type": "entity",
+            "desc": "中方决策者，面临外交压力"
+          },
+          {
+            "label": "中美关系",
+            "type": "entity",
+            "desc": "全球最重要的双边关系"
           },
           {
             "label": "霍尔木兹海峡",
             "type": "resource",
-            "desc": "全球石油运输关键咽喉，当前受阻"
+            "desc": "全球能源运输关键通道"
           },
           {
-            "label": "地缘政治冲突",
+            "label": "外交勒索",
             "type": "risk",
-            "desc": "美伊冲突背景下的区域代理人袭击风险"
+            "desc": "将特定议题与核心关系捆绑的高风险策略"
           }
         ],
         "analysis": {
           "strategic": [
-            "袭击暴露了中东能源基础设施在冲突升级下的脆弱性，可能推动产油国加速投资于分散化出口路线与安保。",
-            "在霍尔木兹海峡通道受限时，替代路线的中断将放大全球原油市场的供应紧张情绪。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "原油期货、能源基础设施安保公司、替代路线相关物流股",
-          "risk": "HIGH",
-          "thesis": "关键出口节点遇袭将推高原油风险溢价，并凸显能源供应链安保与多元化的投资价值。"
-        },
-        "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1581086156733?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "全球央行评估美伊冲突影响",
-        "fullTitle": "美伊冲突逾两周，全球主要央行将首次评估经济损害",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国与伊朗冲突持续超过两周后，从美联储、欧洲央行到日本央行及印尼央行等全球主要央行，即将首次系统性评估冲突对全球经济造成的损害。评估结果将直接影响未来的货币政策路径，尤其是利率与流动性供给决策。市场高度关注央行对能源价格冲击与增长放缓的权衡。",
-        "relations": [
-          {
-            "label": "美联储",
-            "type": "entity",
-            "desc": "全球核心央行，货币政策风向标"
-          },
-          {
-            "label": "欧洲央行",
-            "type": "entity",
-            "desc": "欧元区货币政策制定者"
-          },
-          {
-            "label": "日本央行",
-            "type": "entity",
-            "desc": "重要发达国家央行"
-          },
-          {
-            "label": "货币政策风险",
-            "type": "risk",
-            "desc": "地缘冲突引发的通胀与增长双杀，压缩央行政策空间"
-          },
-          {
-            "label": "全球经济放缓",
-            "type": "risk",
-            "desc": "冲突通过能源与信心渠道拖累全球增长"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "央行集体评估标志着冲突影响从地缘层面正式传导至全球宏观政策核心，可能引发货币政策协调或分化。",
-            "若评估显示通胀压力持续而增长受损，将迫使央行在“滞胀”环境中做出艰难抉择，增加市场波动性。"
+            "美国试图将中国拉入其主导的中东事务框架，以此测试并塑造中国在全球安全议题上的角色，可能迫使中国在能源安全与外交独立间做出权衡。",
+            "此举将中美贸易、科技之外的博弈延伸至地缘安全领域，若峰会推迟或取消，将严重打击全球对两大经济体关系缓和的预期，加剧市场不确定性。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "对利率敏感的高估值成长股、部分新兴市场债券",
-          "risk": "MEDIUM",
-          "thesis": "央行可能因滞胀风险而维持紧缩或延迟宽松，对依赖流动性的资产构成压力，并推高主权债务风险溢价。"
+          "asset": "全球航运指数/原油期货波动率",
+          "risk": "HIGH",
+          "thesis": "霍尔木兹海峡局势与中美关系紧张叠加，极大增加了全球航运和能源市场的尾部风险，做多相关波动性或对冲性做空是合理策略。"
         },
-        "confidence": 87,
+        "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1694714636674?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1535616669171?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "苹果发布高可维修性MacBook",
-        "fullTitle": "iFixit称MacBook Neo为苹果多年来最易维修笔记本",
+        "title": "Netflix影片奥斯卡获奖",
+        "fullTitle": "Netflix出品影片在奥斯卡斩获五项大奖",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "苹果新款MacBook Neo不仅是最实惠的MacBook，也被知名维修网站iFixit评为该公司约十四年来最易维修的笔记本电脑。这一设计转变可能响应了全球日益增长的“维修权”立法压力与消费者可持续性诉求。",
+        "impactLevel": "INFO",
+        "summary": "在奥斯卡颁奖礼上，Netflix出品的《弗兰肯斯坦》获得三项技术类奖项，《KPop Demon Hunters》获得最佳动画长片和最佳原创歌曲两项大奖。这显示了Netflix在高质量原创内容领域的持续竞争力。",
         "relations": [
           {
-            "label": "苹果公司",
+            "label": "Netflix",
             "type": "entity",
-            "desc": "产品发布方，全球科技巨头"
+            "desc": "流媒体平台，内容生产者"
           },
           {
-            "label": "MacBook Neo",
-            "type": "tech",
-            "desc": "新款笔记本电脑，主打性价比与可维修性"
-          },
-          {
-            "label": "可维修性设计",
-            "type": "tech",
-            "desc": "产品设计趋势，影响生命周期与消费电子商业模式"
-          },
-          {
-            "label": "维修权立法",
-            "type": "risk",
-            "desc": "全球监管趋势，强制要求企业提供维修支持"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "苹果产品策略转向可维修性，预示消费电子行业可能逐步从封闭式设计转向更开放的可持续模式。",
-            "此举可能重塑苹果的售后服务体系与长期客户关系，并影响第三方维修市场与配件产业链。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "苹果供应链中涉及模块化设计与通用部件的公司、第三方维修服务提供商",
-          "risk": "MEDIUM",
-          "thesis": "可维修性趋势将延长设备生命周期，利好提供模块化组件、维修工具与服务的公司，并可能开辟新的市场细分。"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1515857739211?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "美陆军授予Anduril巨额合同",
-        "fullTitle": "美国陆军宣布与Anduril签订价值高达200亿美元合同",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国陆军宣布与国防科技公司Anduril Industries签订一份价值高达200亿美元的合同。陆军称此合同为单一企业合同，整合了超过120项独立的“采购行动”。这标志着大型国防合同向新兴科技公司倾斜的重大转变。",
-        "relations": [
-          {
-            "label": "美国陆军",
+            "label": "奥斯卡奖",
             "type": "entity",
-            "desc": "合同采购方，美国核心军事力量"
+            "desc": "行业权威认可标志"
           },
           {
-            "label": "Anduril Industries",
-            "type": "entity",
-            "desc": "合同受益方，新兴国防科技公司"
-          },
-          {
-            "label": "国防采购",
+            "label": "原创内容",
             "type": "resource",
-            "desc": "巨额资金流向，影响国防工业格局"
+            "desc": "流媒体平台核心竞争壁垒"
           },
           {
-            "label": "军事科技",
-            "type": "tech",
-            "desc": "合同核心内容，涉及AI、自主系统等"
-          },
-          {
-            "label": "供应链整合",
-            "type": "risk",
-            "desc": "大规模合同整合带来的执行与交付风险"
+            "label": "文化影响力",
+            "type": "resource",
+            "desc": "通过奖项积累的品牌资产"
           }
         ],
         "analysis": {
           "strategic": [
-            "此超大规模合同授予新兴科技公司而非传统军工巨头，表明美国国防部正加速推动军事技术的颠覆性创新与采购模式改革。",
-            "合同整合了百余项采购，旨在提升效率，但也将巨大权力与风险集中于单一供应商，其执行效果将成未来范本。"
+            "奖项荣誉进一步巩固Netflix在高端原创内容市场的品牌形象和创作者吸引力，有助于其在激烈的流媒体竞争中维持用户粘性和订阅溢价。",
+            "成功融合全球文化元素（如K-POP）并获主流认可，证明了其内容全球化战略的有效性，为开拓特定区域市场（如亚洲）提供助力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Anduril（若上市）、其他专注于AI、无人系统、国防软件的新兴科技公司",
-          "risk": "MEDIUM",
-          "thesis": "合同彰显了国防预算向高科技解决方案的明确转向，利好具备颠覆性技术的非传统国防供应商，可能重塑行业估值体系。"
+          "asset": "NFLX (Netflix股票)",
+          "risk": "LOW",
+          "thesis": "行业奖项认可强化其内容护城河和品牌价值，在流媒体战争进入提质增效阶段时，拥有持续产出获奖级内容的能力是长期竞争优势。"
         },
-        "confidence": 89,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1648587563418?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1547925820579?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "本田放弃美国市场电动汽车",
-        "fullTitle": "本田放弃美国市场电动汽车，危及未来竞争力",
+        "title": "谷歌Accel印度加速器选中五家非AI套壳初创公司",
+        "fullTitle": "谷歌与Accel印度加速器选中五家非AI套壳初创公司",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "本田汽车决定终止为其美国市场推出的三款电动汽车，这一决策的影响将远超出北美范围。此举被视为本田在全球最大电动汽车市场之一的战略收缩，可能严重损害其未来在电动化竞赛中的竞争力与品牌形象。",
+        "summary": "谷歌和Accel在审核了超过4000份申请后，为其Atoms加速器项目选择了5家初创公司。他们指出，约70%与印度相关的AI初创公司提案都是“套壳”应用。这表明投资方正在寻找具有更深层技术或商业模式创新的项目。",
         "relations": [
           {
-            "label": "本田汽车",
+            "label": "Google",
             "type": "entity",
-            "desc": "决策主体，传统汽车制造商"
+            "desc": "科技巨头，投资与生态构建者"
           },
           {
-            "label": "美国电动汽车市场",
-            "type": "resource",
-            "desc": "全球关键市场，战略放弃的目标"
+            "label": "Accel",
+            "type": "entity",
+            "desc": "风险投资机构"
           },
           {
-            "label": "电动化转型风险",
+            "label": "AI初创公司",
+            "type": "tech",
+            "desc": "当前投资热点领域"
+          },
+          {
+            "label": "印度市场",
+            "type": "entity",
+            "desc": "重要的新兴科技与创业市场"
+          },
+          {
+            "label": "技术泡沫风险",
             "type": "risk",
-            "desc": "传统车企转型失败或延迟的风险"
-          },
-          {
-            "label": "市场竞争格局",
-            "type": "risk",
-            "desc": "车企战略调整对全球EV竞争格局的影响"
+            "desc": "AI领域存在大量低创新度项目的风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "本田在关键市场的电动化战略撤退，可能引发连锁反应，削弱其全球供应链议价能力与合作伙伴信心。",
-            "此举为其他传统车企和新兴EV制造商提供了争夺市场份额的窗口，可能加速行业洗牌与联盟重组。"
+            "顶级资本对“AI套壳”项目的警惕，标志着AI投资正从概念炒作转向价值甄别阶段，未来资金将更集中于拥有核心数据、算法或独特应用场景的公司。",
+            "此举反映了科技巨头和风投在印度市场塑造高质量AI创业生态的意图，旨在培育本土深层创新，而不仅仅是应用层模仿，以获取长期战略回报。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "深度技术AI基金/印度科技ETF",
+          "risk": "MEDIUM",
+          "thesis": "资本向非套壳的深度技术AI初创公司集中，预示着该细分赛道将获得更优质的资源和发展潜力，有望产生更高回报的标的。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1694181857228?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "字节跳动暂停Seedance 2.0全球发布",
+        "fullTitle": "字节跳动据报暂停Seedance 2.0视频生成器的全球发布",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "据报道，字节跳动正在推迟其Seedance 2.0视频生成器的全球发布。原因是其工程师和律师团队正努力避免进一步的法律问题。这凸显了AI生成内容技术在快速发展过程中面临的严峻合规与版权挑战。",
+        "relations": [
+          {
+            "label": "字节跳动",
+            "type": "entity",
+            "desc": "中国科技巨头，AI应用积极推动者"
+          },
+          {
+            "label": "Seedance 2.0",
+            "type": "tech",
+            "desc": "AI视频生成模型"
+          },
+          {
+            "label": "AI生成内容(AIGC)",
+            "type": "tech",
+            "desc": "前沿技术领域"
+          },
+          {
+            "label": "法律与合规风险",
+            "type": "risk",
+            "desc": "制约AIGC商业化的主要障碍"
+          },
+          {
+            "label": "全球市场拓展",
+            "type": "risk",
+            "desc": "受地方法规差异影响的战略"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "字节跳动的谨慎态度表明，全球范围内（尤其是欧美）对AIGC的版权、数据隐私和虚假信息监管正在收紧，可能延缓整个行业的商业化步伐。",
+            "此举反映了中国科技公司在出海过程中，正从追求速度转向优先进行全面的合规性布局，以应对日益复杂的国际法律环境，避免重大运营风险。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "本田汽车股票、其核心供应链伙伴",
+          "asset": "AIGC概念股（缺乏清晰版权解决方案的公司）",
           "risk": "HIGH",
-          "thesis": "战略误判可能导致本田在增长最快的汽车细分市场永久性掉队，损害其长期营收增长与估值，并拖累紧密绑定的供应商。"
+          "thesis": "行业领军者因法律问题推迟重磅产品，预示整个AIGC赛道将面临更严格的监管审查和更高的合规成本，缺乏应对能力的公司估值将承压。"
         },
-        "confidence": 88,
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1634142562511?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1605348407255?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Iranian Players Reverse Asylum",
-        "fullTitle": "More Iranian Women Soccer Players Reverse Australia Asylum Claim",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "Three more members of the Iranian women's national soccer team, who were recently granted asylum in Australia, have decided to return to Iran. This reversal was announced by Australian Home Affairs Minister Tony Burke. The decision highlights ongoing personal and political complexities for Iranian athletes abroad. It may indicate shifting pressures or circumstances for individuals caught between international opportunities and domestic ties.",
+        "title": "Trump's Iran-Cuba Strategy",
+        "fullTitle": "Trump Wants to Finish Iran War Before Cuba Deal",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "President Trump indicates a sequential foreign policy approach, prioritizing resolution of the Iran conflict before engaging with Cuba. This suggests a calculated geopolitical strategy that could delay normalization of US-Cuba relations. The statement links two distinct regional tensions under a single US executive timeline.",
         "relations": [
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "US President, driving foreign policy sequence"
+          },
           {
             "label": "Iran",
             "type": "entity",
-            "desc": "Country of origin for the athletes, subject to international tensions."
+            "desc": "Primary conflict zone, delaying other diplomatic moves"
           },
           {
-            "label": "Australia",
+            "label": "Cuba",
             "type": "entity",
-            "desc": "Host country that granted asylum, now facing reversed claims."
+            "desc": "Secondary diplomatic target, deal contingent on Iran"
           },
           {
-            "label": "Tony Burke",
-            "type": "entity",
-            "desc": "Australian Home Affairs Minister announcing the development."
-          },
-          {
-            "label": "Political Asylum",
+            "label": "Geopolitical Sequencing",
             "type": "risk",
-            "desc": "Core issue involving geopolitical and human rights factors."
-          },
-          {
-            "label": "Repatriation Risk",
-            "type": "risk",
-            "desc": "Potential risks faced by individuals returning to their home country."
+            "desc": "Risk of prolonged conflict delaying other initiatives"
           }
         ],
         "analysis": {
           "strategic": [
-            "The reversal of asylum claims could be used as propaganda by the Iranian government to demonstrate national loyalty and counter narratives of dissent.",
-            "It may complicate future asylum processes and bilateral relations, as host countries assess the stability and sincerity of such claims."
+            "US foreign policy is being explicitly sequenced, creating dependencies between unrelated regions and conflicts.",
+            "This approach may signal a resource-constrained or focused strategy, potentially leaving other opportunities (like Cuba) in limbo and creating market uncertainty."
           ]
         },
         "investment": {
-          "action": "N/A",
-          "asset": "N/A",
-          "risk": "LOW",
-          "thesis": "This is a socio-political event with minimal direct impact on financial markets. No clear investment signal is generated."
+          "action": "SHORT",
+          "asset": "Tourism & Hospitality stocks tied to Cuba (e.g., airlines, cruise lines)",
+          "risk": "MEDIUM",
+          "thesis": "Any near-term bullish thesis on Cuban market opening is delayed indefinitely, creating downside pressure on related speculative investments."
         },
-        "confidence": 85,
+        "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1538708613187?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1504484289614?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "UAE Port Hit, Oil Loadings Halted",
-        "fullTitle": "Key UAE Port Suspends Oil Loadings After Drone Attack, Fire",
-        "classification": "CONFIDENTIAL",
+        "title": "China Economy Rebounds Pre-Iran War",
+        "fullTitle": "China's Economy Shows Surprise Rebound Before Iran War",
+        "classification": "RESTRICTED",
         "impactLevel": "HIGH",
-        "summary": "The United Arab Emirates has suspended loading operations at the critical oil-trading hub of Fujairah following a drone strike and fire. This incident exposes the vulnerability of a major alternative export route while the Strait of Hormuz remains blocked. The disruption threatens immediate oil supply logistics and regional energy security. It underscores the persistent geopolitical risks in Middle Eastern maritime chokepoints.",
+        "summary": "Chinese economic indicators exceeded forecasts at the start of the year, indicating improving domestic momentum. However, this positive trajectory is now under threat from the Iran war, which is roiling global growth and inflation outlooks. The rebound provides a buffer, but external shock risks are heightened.",
         "relations": [
           {
-            "label": "United Arab Emirates (UAE)",
+            "label": "China Economy",
             "type": "entity",
-            "desc": "Nation facing a direct attack on critical energy infrastructure."
+            "desc": "Showing resilience but facing external shock"
           },
           {
-            "label": "Fujairah Port",
-            "type": "resource",
-            "desc": "Key oil-trading and export hub, now operationally compromised."
-          },
-          {
-            "label": "Drone Attack",
+            "label": "Iran War",
             "type": "risk",
-            "desc": "Asymmetric warfare tactic demonstrating low-cost, high-impact threat to infrastructure."
+            "desc": "Primary external risk to global growth and inflation"
+          },
+          {
+            "label": "Global Growth",
+            "type": "resource",
+            "desc": "Key macro variable now under pressure"
+          },
+          {
+            "label": "Inflation",
+            "type": "risk",
+            "desc": "Risk factor amplified by geopolitical conflict"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "China's internal economic resilience is being tested by an external geopolitical shock it did not create, highlighting vulnerability to supply chain and energy price volatility.",
+            "The timing creates a divergence between China's cyclical recovery and a potential global stagflationary shock, complicating PBOC and fiscal policy responses."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Chinese Domestic Consumer & Infrastructure ETFs",
+          "risk": "MEDIUM",
+          "thesis": "Domestic momentum is real and provides relative safety compared to export-oriented sectors more exposed to global turmoil."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1574280392694?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Trump Threatens Xi Summit Delay",
+        "fullTitle": "Trump May Delay Xi Summit Over Hormuz Stance",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "President Trump has linked the planned summit with President Xi Jinping to China's cooperation on unblocking the Strait of Hormuz. This directly ties high-level US-China diplomacy to a specific demand in the Iran conflict. The summit's status is now a bargaining chip in the Gulf crisis.",
+        "relations": [
+          {
+            "label": "Trump-Xi Summit",
+            "type": "entity",
+            "desc": "High-level diplomacy used as leverage"
           },
           {
             "label": "Strait of Hormuz",
             "type": "resource",
-            "desc": "Primary oil chokepoint, whose blockage increases reliance on Fujairah."
+            "desc": "Critical chokepoint, subject of US demand"
           },
           {
-            "label": "Oil Supply Chain",
+            "label": "China's Position",
+            "type": "entity",
+            "desc": "Key variable; balancing US relations and Iran ties"
+          },
+          {
+            "label": "Diplomatic Leverage",
             "type": "risk",
-            "desc": "Global logistics network facing immediate disruption and risk premium."
+            "desc": "Major summit contingent on crisis cooperation"
           }
         ],
         "analysis": {
           "strategic": [
-            "The attack demonstrates an escalation in targeting alternative energy export routes, potentially aimed at maximizing regional economic pressure.",
-            "It will force a reassessment of infrastructure security and redundancy plans for global energy companies and shipping insurers."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Oil Futures (Brent, WTI), Energy Sector ETFs (XLE), Maritime Security Firms",
-          "risk": "HIGH",
-          "thesis": "Direct supply disruption and heightened geopolitical risk premium will likely push oil prices higher in the short term. Companies providing security and logistics solutions may see increased demand."
-        },
-        "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1608491433666?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Central Banks Assess Trump War Impact",
-        "fullTitle": "Trump's War Jolts Global Central Banks From Fed to ECB to BOJ",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Central banks worldwide, including the Fed, ECB, and BOJ, are preparing their first formal assessments of the economic damage from the ongoing US-Iran conflict. The conflict has introduced significant uncertainty into global growth, inflation, and financial stability forecasts. Policy responses may shift from normalization to renewed stimulus or heightened caution. Market volatility is expected as central bank guidance adapts to the new risk landscape.",
-        "relations": [
-          {
-            "label": "Federal Reserve (Fed)",
-            "type": "entity",
-            "desc": "US central bank, key driver of global monetary policy."
-          },
-          {
-            "label": "European Central Bank (ECB)",
-            "type": "entity",
-            "desc": "Central bank for the Eurozone, facing growth and inflation challenges."
-          },
-          {
-            "label": "Bank of Japan (BOJ)",
-            "type": "entity",
-            "desc": "Japanese central bank, already in an ultra-accommodative stance."
-          },
-          {
-            "label": "Geopolitical Risk",
-            "type": "risk",
-            "desc": "Primary driver forcing reassessment of economic models and policy."
-          },
-          {
-            "label": "Monetary Policy",
-            "type": "resource",
-            "desc": "Toolkit for central banks to respond to economic shocks."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Coordinated or parallel dovish shifts by major central banks could lead to a new phase of global liquidity injection, supporting risk assets but weakening currencies.",
-            "Divergence in central bank responses (e.g., hawkish Fed vs. dovish ECB) could create significant forex volatility and capital flow disruptions."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Gold (XAU), Long-Duration Government Bonds (TLT), Defensive Equity Sectors (Utilities, Consumer Staples)",
-          "risk": "MEDIUM",
-          "thesis": "Increased uncertainty and potential for dovish policy pivots favor safe-haven assets like gold and bonds. Defensive equities may outperform if growth fears escalate."
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1694242141007?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "MacBook Neo Most Repairable in Years",
-        "fullTitle": "MacBook Neo is 'Most Repairable MacBook' in Years per iFixit",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Apple's new MacBook Neo is being hailed by iFixit as the company's most repairable laptop in approximately fourteen years. This marks a significant design philosophy shift for Apple, which has historically prioritized thinness and integration over user serviceability. The change could reduce long-term ownership costs and electronic waste. It may also influence consumer purchasing decisions and pressure competitors in the PC market.",
-        "relations": [
-          {
-            "label": "Apple Inc.",
-            "type": "entity",
-            "desc": "Technology company launching a product with improved repairability."
-          },
-          {
-            "label": "MacBook Neo",
-            "type": "tech",
-            "desc": "New laptop model noted for its user-serviceable design."
-          },
-          {
-            "label": "iFixit",
-            "type": "entity",
-            "desc": "Repair advocacy group that performed the teardown and analysis."
-          },
-          {
-            "label": "Right to Repair",
-            "type": "risk",
-            "desc": "Growing regulatory and consumer movement influencing product design."
-          },
-          {
-            "label": "Sustainable Design",
-            "type": "tech",
-            "desc": "Product development approach considering longevity and waste reduction."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Apple's move is a direct response to increasing regulatory pressure (e.g., EU regulations) and consumer demand for the 'Right to Repair,' potentially reshaping industry standards.",
-            "This could open new revenue streams for third-party repair services and component suppliers, while possibly impacting Apple's high-margin service business."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Apple (AAPL), Third-Party Repair Service Providers, Electronic Component Distributors",
-          "risk": "MEDIUM",
-          "thesis": "Positive consumer and regulatory sentiment towards repairability could boost brand loyalty and sales for Apple. Companies in the repair ecosystem may benefit from increased accessibility."
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1617467411531?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "US Army Awards Anduril $20B Contract",
-        "fullTitle": "US Army Announces Contract with Anduril Worth Up to $20B",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The US Army has awarded defense technology company Anduril a contract valued at up to $20 billion. This is described as a single enterprise contract consolidating over 120 separate procurement actions. The massive award signifies a major shift towards partnering with agile, non-traditional defense contractors for advanced technology. It represents a significant market share gain for Anduril against established prime contractors.",
-        "relations": [
-          {
-            "label": "US Army",
-            "type": "entity",
-            "desc": "Military branch issuing the landmark contract."
-          },
-          {
-            "label": "Anduril Industries",
-            "type": "entity",
-            "desc": "Defense tech startup securing a transformative contract."
-          },
-          {
-            "label": "$20 Billion Contract",
-            "type": "resource",
-            "desc": "Substantial financial commitment reshaping the defense industrial base."
-          },
-          {
-            "label": "Defense Procurement",
-            "type": "risk",
-            "desc": "Process undergoing modernization and consolidation."
-          },
-          {
-            "label": "Non-Traditional Contractor",
-            "type": "entity",
-            "desc": "New type of vendor gaining prominence in defense sector."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This contract signals the Pentagon's serious commitment to bypassing traditional procurement bureaucracy to rapidly acquire cutting-edge AI, autonomy, and networking capabilities.",
-            "It poses a direct competitive threat to legacy defense primes (Lockheed, Raytheon, etc.), potentially forcing industry consolidation or accelerated internal innovation."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Anduril (private), Public Defense Tech & AI ETFs (ITA, XAR components with tech focus)",
-          "risk": "MEDIUM",
-          "thesis": "Anduril's win validates the growth trajectory of tech-centric defense firms. Publicly traded companies in autonomous systems, AI, and C4ISR may see re-rating as investors anticipate similar contract shifts."
-        },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1543064102461?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Honda Killing Its EVs, Hurting Future",
-        "fullTitle": "Honda is Killing its EVs and Any Chance of Competing in Future",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Honda has decided to discontinue its three electric vehicle models for the U.S. market. This strategic retreat from the EV segment is expected to have negative repercussions beyond North America, impacting its global competitiveness. The move suggests Honda is reassessing its electrification strategy amid cost, technology, or market acceptance challenges. It creates an opportunity for rivals to solidify their lead in the critical transition to electric mobility.",
-        "relations": [
-          {
-            "label": "Honda Motor Co.",
-            "type": "entity",
-            "desc": "Automaker making a strategic retreat from the EV market."
-          },
-          {
-            "label": "Electric Vehicles (EVs)",
-            "type": "tech",
-            "desc": "Core technology segment being abandoned in a key market."
-          },
-          {
-            "label": "U.S. Automotive Market",
-            "type": "entity",
-            "desc": "Strategic market where Honda is ceding EV ground to competitors."
-          },
-          {
-            "label": "Strategic Retreat",
-            "type": "risk",
-            "desc": "Decision that may lead to long-term loss of market share and relevance."
-          },
-          {
-            "label": "Competitive Disadvantage",
-            "type": "risk",
-            "desc": "Risk of falling behind in the industry's fundamental technological shift."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Honda's exit may signal deeper structural issues in competing with vertically integrated EV leaders (Tesla, BYD) and legacy automakers making larger bets (GM, Ford).",
-            "This creates a vacuum in the market that will be rapidly filled by competitors, potentially locking Honda out of future growth segments and making a re-entry later more costly and difficult."
+            "The US is explicitly using diplomatic engagement with its primary strategic competitor as a tool to manage a regional Middle Eastern crisis, revealing a transactional and leveraged approach to great power relations.",
+            "This forces China into a public dilemma: choose between assisting the US in the Gulf (potentially alienating Iran) or risking a diplomatic setback with the US, impacting broader trade and tech negotiations."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Honda (HMC) relative to EV-focused automakers (TSLA, BYD, RIVN, LCID), Long competitors' suppliers",
+          "asset": "Volatility Index (VIX) / Global Trade-Sensitive Equities",
           "risk": "HIGH",
-          "thesis": "Honda's strategic misstep could lead to underperformance versus peers committed to electrification. Capital may flow from Honda to companies with clearer EV roadmaps, impacting Honda's valuation."
+          "thesis": "The direct linkage between Gulf security and US-China relations significantly elevates systemic geopolitical risk, threatening any fragile trade truce and market stability."
         },
-        "confidence": 85,
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1556011347486?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Netflix Dominates Oscars",
+        "fullTitle": "Netflix's 'Frankenstein' and 'KPop' Win Five Oscars",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Netflix original films \"Frankenstein\" and \"KPop Demon Hunters\" won a combined five Academy Awards. This demonstrates the streaming giant's continued success in producing high-quality, award-winning content across genres. The wins reinforce its brand prestige and content investment thesis.",
+        "relations": [
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "Streaming platform, award-winning content producer"
+          },
+          {
+            "label": "Original Content",
+            "type": "resource",
+            "desc": "Key strategic asset for subscriber retention"
+          },
+          {
+            "label": "Academy Awards",
+            "type": "entity",
+            "desc": "Benchmark for creative excellence and prestige"
+          },
+          {
+            "label": "Content Investment",
+            "type": "tech",
+            "desc": "Core business strategy validated by awards"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Netflix's Oscar wins validate its massive content investment strategy, proving it can compete with and beat traditional studios in critical acclaim, not just volume.",
+            "The diverse wins (genre film, animation, music) showcase a broad content development capability, strengthening its value proposition against more niche competitors."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Netflix (NFLX)",
+          "risk": "LOW",
+          "thesis": "Award success reinforces brand strength, supports subscriber loyalty, and justifies content spend, contributing to long-term competitive moat."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1528349876986?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Google, Accel Reject AI Wrappers",
+        "fullTitle": "Google-Accel India Picks Startups, Shuns AI Wrappers",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google and Accel's Indian accelerator selected 5 startups, explicitly noting that about 70% of AI pitches were mere \"wrappers\" around existing models. The selection reflects a focus on startups with deeper technology or unique applications. This signals a market maturation where superficial AI applications are being filtered out.",
+        "relations": [
+          {
+            "label": "Google & Accel",
+            "type": "entity",
+            "desc": "Investors applying quality filter to AI hype"
+          },
+          {
+            "label": "AI Startups",
+            "type": "tech",
+            "desc": "Market segment undergoing quality assessment"
+          },
+          {
+            "label": "AI Wrappers",
+            "type": "risk",
+            "desc": "Superficial applications, seen as low-value"
+          },
+          {
+            "label": "India Tech Ecosystem",
+            "type": "entity",
+            "desc": "Market moving beyond copycat models"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Leading investors are actively discriminating against 'AI wrapper' startups, indicating a shift in venture capital towards defensible technology and deeper moats in the AI space.",
+            "This filtering mechanism will accelerate consolidation and failure among me-too AI products, while potentially raising the quality and sustainability of the surviving startup cohort in India."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Venture Capital funds focused on deep-tech AI",
+          "risk": "MEDIUM",
+          "thesis": "The market is discerning real innovation from hype. Funds with strong due diligence capable of identifying non-wrapper startups will see better portfolio performance."
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1510281650544?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "ByteDance Pauses Seedance 2.0",
+        "fullTitle": "ByteDance Delays Global Launch of Seedance 2.0",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "ByteDance has reportedly paused the global launch of its Seedance 2.0 video generator. The delay is attributed to engineers and lawyers working to avert further legal issues, likely related to IP and content moderation. This highlights the increasing regulatory and legal hurdles for generative AI products, especially from Chinese firms.",
+        "relations": [
+          {
+            "label": "ByteDance",
+            "type": "entity",
+            "desc": "Chinese tech giant, cautious on AI rollout"
+          },
+          {
+            "label": "Seedance 2.0",
+            "type": "tech",
+            "desc": "Video generator, launch delayed globally"
+          },
+          {
+            "label": "Legal/Regulatory Risk",
+            "type": "risk",
+            "desc": "Primary cause for product launch delay"
+          },
+          {
+            "label": "Generative AI",
+            "type": "tech",
+            "desc": "High-potential, high-risk technology sector"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "ByteDance's caution reflects heightened global scrutiny on AI, particularly around IP and content, forcing even aggressive players to prioritize legal risk mitigation over speed-to-market.",
+            "The delay may cede temporary market share to Western competitors but could result in a more robust and legally defensible product in the medium term, reducing tail risks."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Short-term hype around Chinese AI global expansion",
+          "risk": "MEDIUM",
+          "thesis": "Immediate global rollout expectations for advanced Chinese AI models are overstated due to mounting legal/compliance barriers, leading to disappointment."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1561857626445?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1520067417344?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Jugadoras iraníes revocan asilo",
-        "fullTitle": "Más jugadoras iraníes revocan solicitud de asilo en Australia",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "Tres miembros adicionales de la selección femenina de fútbol de Irán, a quienes Australia les concedió asilo la semana pasada, han decidido regresar a su país. El Ministro de Asuntos Internos, Tony Burke, confirmó la noticia. Este movimiento sugiere posibles presiones o cambios en las circunstancias personales de las atletas. El caso pone de relieve la compleja situación geopolítica y de derechos humanos en torno a Irán.",
+        "title": "Trump pospone Cuba por Irán",
+        "fullTitle": "Trump quiere terminar guerra Irán antes de Cuba",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El presidente Trump afirma que Cuba desea un acuerdo con EE.UU., pero prioriza la conclusión del conflicto con Irán antes de enfocarse en la isla. Esto sugiere una reordenación táctica de la agenda de política exterior estadounidense. La mención a Cuba como 'nación comunista' refuerza el marco ideológico del discurso.",
         "relations": [
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Presidente de EE.UU., define agenda exterior"
+          },
           {
             "label": "Irán",
             "type": "entity",
-            "desc": "País de origen de las jugadoras, con tensiones políticas internas."
+            "desc": "Escenario de conflicto geopolítico prioritario"
           },
           {
-            "label": "Australia",
+            "label": "Cuba",
             "type": "entity",
-            "desc": "País que otorgó el asilo político inicialmente."
+            "desc": "Objetivo secundario de política exterior"
           },
           {
-            "label": "Tony Burke",
-            "type": "entity",
-            "desc": "Ministro de Asuntos Internos de Australia."
-          },
-          {
-            "label": "Asilo político",
+            "label": "Guerra",
             "type": "risk",
-            "desc": "Riesgo reputacional y de relaciones internacionales."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El retorno de las atletas podría indicar una campaña de presión o negociación del gobierno iraní para recuperar figuras públicas.",
-            "El caso afecta la percepción de Australia como destino de asilo y podría influir en futuras políticas migratorias hacia disidentes."
-          ]
-        },
-        "investment": {
-          "action": "N/A",
-          "asset": "N/A",
-          "risk": "LOW",
-          "thesis": "Noticia de bajo impacto financiero directo. Principalmente relevante para análisis de riesgo político y social."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1644200720894?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Ataque con drones paraliza puerto clave de EAU",
-        "fullTitle": "Ataque con drones suspende carga de petróleo en puerto clave de EAU",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Emiratos Árabes Unidos suspendió las operaciones de carga en el centro clave de comercio de petróleo de Fujairah tras un ataque con drones e incendio. El incidente expone la vulnerabilidad de esta ruta de exportación crítica, especialmente mientras el Estrecho de Ormuz está bloqueado. Esto podría interrumpir los flujos globales de crudo y aumentar la prima de riesgo. La seguridad energética del Golfo se ve directamente amenazada.",
-        "relations": [
-          {
-            "label": "Emiratos Árabes Unidos",
-            "type": "entity",
-            "desc": "País productor de petróleo, víctima del ataque."
+            "desc": "Riesgo geopolítico y de mercado"
           },
           {
-            "label": "Fujairah",
+            "label": "Acuerdo bilateral",
             "type": "resource",
-            "desc": "Puerto petrolero clave fuera del Estrecho de Ormuz."
-          },
-          {
-            "label": "Petróleo",
-            "type": "resource",
-            "desc": "Commodity crítico, su flujo se ve interrumpido."
-          },
-          {
-            "label": "Ataque con drones",
-            "type": "risk",
-            "desc": "Amenaza asimétrica a infraestructura crítica."
-          },
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "resource",
-            "desc": "Punto de estrangulamiento marítimo bloqueado, aumenta la importancia de Fujairah."
+            "desc": "Potencial recurso diplomático"
           }
         ],
         "analysis": {
           "strategic": [
-            "El ataque revela una escalada en las tácticas para interrumpir el flujo energético global, apuntando a infraestructuras alternativas al Estrecho de Ormuz.",
-            "Aumenta la prima de riesgo geopolítico en los precios del petróleo y presiona a los consumidores globales a buscar fuentes alternativas."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Futuros de crudo Brent/WTI, ETFs de energía (XLE)",
-          "risk": "HIGH",
-          "thesis": "Interrupción de suministro en un nodo crítico, con el Estrecho de Ormuz ya bloqueado, impulsará los precios del petróleo a corto plazo debido al pánico en el mercado."
-        },
-        "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1683837039739?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Guerra de Trump sacude bancos centrales",
-        "fullTitle": "Conflicto EEUU-Irán sacude evaluaciones de bancos centrales globales",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Los bancos centrales, desde la Fed hasta el BCE y el BOJ, están a punto de realizar sus primeras evaluaciones del daño económico tras más de dos semanas de conflicto entre Estados Unidos e Irán. La incertidumbre geopolítica complica los pronósticos de inflación, crecimiento y política monetaria. Las decisiones sobre tasas de interés y estímulos podrían verse alteradas. La estabilidad financiera global está bajo escrutinio.",
-        "relations": [
-          {
-            "label": "Federal Reserve (Fed)",
-            "type": "entity",
-            "desc": "Banco central de EE.UU., clave para la política monetaria global."
-          },
-          {
-            "label": "Banco Central Europeo (BCE)",
-            "type": "entity",
-            "desc": "Banco central de la zona euro."
-          },
-          {
-            "label": "Banco de Japón (BOJ)",
-            "type": "entity",
-            "desc": "Banco central de Japón."
-          },
-          {
-            "label": "Conflicto EEUU-Irán",
-            "type": "risk",
-            "desc": "Principal fuente de incertidumbre geopolítica y de mercados."
-          },
-          {
-            "label": "Política monetaria",
-            "type": "risk",
-            "desc": "Riesgo de cambios inesperados debido a shocks externos."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los bancos centrales podrían adoptar un tono más cauteloso o 'dovish' para contrarrestar el shock de oferta y la incertidumbre, retrasando posibles subidas de tasas.",
-            "La coordinación tácita entre bancos centrales para proporcionar liquidez podría intensificarse si la volatilidad de los mercados se dispara."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Bonos del Tesoro a largo plazo (TLT), Oro (GLD)",
-          "risk": "MEDIUM",
-          "thesis": "Mayor incertidumbre y posible giro cauteloso de los bancos centrales favorecen los activos refugio como los bonos y el oro."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1550243766724?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "MacBook Neo: el más reparable en años",
-        "fullTitle": "iFixit declara al MacBook Neo 'el Mac más reparable' en años",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "El nuevo MacBook Neo de Apple no solo es el portátil Mac más asequible, sino también el más reparable en 'unos catorce años', según iFixit. Este cambio de diseño representa una ruptura significativa con la filosofía anterior de Apple de productos difíciles de reparar. Responde a la presión regulatoria sobre el 'derecho a reparar'. Podría mejorar la percepción de la marca y reducir costos de ciclo de vida.",
-        "relations": [
-          {
-            "label": "Apple",
-            "type": "entity",
-            "desc": "Fabricante del producto, cambia su estrategia de diseño."
-          },
-          {
-            "label": "MacBook Neo",
-            "type": "tech",
-            "desc": "Nuevo producto con diseño modular y reparable."
-          },
-          {
-            "label": "iFixit",
-            "type": "entity",
-            "desc": "Empresa de reparaciones y defensora del 'derecho a reparar'."
-          },
-          {
-            "label": "Derecho a reparar",
-            "type": "risk",
-            "desc": "Tendencia regulatoria y de consumo que impacta el diseño."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Apple busca adelantarse a la regulación global sobre reparabilidad y sostenibilidad, mejorando su imagen corporativa.",
-            "Este movimiento podría presionar a otros fabricantes de hardware a seguir el ejemplo, cambiando las dinámicas del sector de la electrónica de consumo."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Acciones de Apple (AAPL)",
-          "risk": "LOW",
-          "thesis": "La mejora en reparabilidad puede ampliar el mercado (presupuestos más ajustados, educación), reducir costos de garantía y fortalecer la lealtad a la marca a largo plazo."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1597629542100?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Ejército EE.UU. contrata a Anduril por $20B",
-        "fullTitle": "Ejército de EE.UU. anuncia contrato con Anduril por hasta $20 mil millones",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El Ejército de los Estados Unidos anunció un contrato empresarial único con la empresa de tecnología de defensa Anduril, valorado en hasta 20 mil millones de dólares. El contrato consolida más de 120 acciones de adquisición separadas. Esto refleja un cambio hacia la contratación ágil con empresas tecnológicas no tradicionales ('defensatech'). Anduril, fundada por Palmer Luckey, se consolida como un actor principal en defensa.",
-        "relations": [
-          {
-            "label": "Ejército de EE.UU.",
-            "type": "entity",
-            "desc": "Cliente principal, impulsando innovación en defensa."
-          },
-          {
-            "label": "Anduril Industries",
-            "type": "entity",
-            "desc": "Empresa de tecnología de defensa ('defensatech') beneficiaria."
-          },
-          {
-            "label": "Contrato de defensa",
-            "type": "resource",
-            "desc": "Flujo de caja masivo y garantizado para el contratista."
-          },
-          {
-            "label": "Defensatech",
-            "type": "tech",
-            "desc": "Sector de empresas tecnológicas que compiten con contratistas tradicionales."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El contrato señala una profunda transformación en la adquisición de defensa de EE.UU., favoreciendo la agilidad y la innovación de startups tecnológicas sobre los gigantes tradicionales.",
-            "Anduril gana una escala y legitimidad enormes, posicionándose para desafiar el oligopolio de los principales contratistas de defensa (Lockheed, Boeing, etc.)."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Anduril (privada), ETFs de defensa con exposición a innovación (ITA, PPA)",
-          "risk": "MEDIUM",
-          "thesis": "El contrato valida el modelo de negocio de Anduril y el sector 'defensatech'. Podría generar un efecto arrastre, aumentando la valoración de empresas similares y presionando a los contratistas tradicionales a asociarse o innovar."
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1543234091434?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Honda mata sus EVs, pierde futuro",
-        "fullTitle": "Honda abandona sus EVs en EE.UU., comprometiendo su futuro competitivo",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La decisión de Honda de cancelar sus tres modelos de vehículos eléctricos (EV) para el mercado estadounidense tendrá repercusiones más allá de Norteamérica. Este movimiento estratégico sugiere una retirada o un grave replanteamiento de su transición hacia la electrificación. Cede terreno crucial a competidores como Tesla, BYD y los fabricantes estadounidenses tradicionales. La credibilidad de Honda en la era de los vehículos eléctricos se ve seriamente dañada.",
-        "relations": [
-          {
-            "label": "Honda",
-            "type": "entity",
-            "desc": "Fabricante de automóviles que cancela su línea de EVs."
-          },
-          {
-            "label": "Vehículos Eléctricos (EVs)",
-            "type": "tech",
-            "desc": "Sector tecnológico clave del que Honda se retira."
-          },
-          {
-            "label": "Mercado estadounidense",
-            "type": "entity",
-            "desc": "Mercado clave abandonado por Honda en EVs."
-          },
-          {
-            "label": "Competitividad futura",
-            "type": "risk",
-            "desc": "Riesgo existencial a largo plazo para el fabricante."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Honda parece estar doblando la apuesta por tecnologías híbridas o de celdas de combustible, arriesgándose a quedar fuera del mercado de EVs de rápido crecimiento.",
-            "La decisión crea una oportunidad de mercado inmediata para sus competidores, que pueden capturar cuota de mente y de mercado en un segmento crucial."
+            "La priorización de Irán sobre Cuba indica que la administración percibe una mayor inestabilidad inmediata en Oriente Medio.",
+            "La declaración busca proyectar control sobre la agenda, aunque puede generar incertidumbre sobre la coherencia a largo plazo."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Acciones de Honda (HMC)",
+          "asset": "Petróleo (WTI/Brent)",
           "risk": "HIGH",
-          "thesis": "La retirada del mercado de EVs en EE.UU. es una señal negativa extrema sobre la estrategia y la ejecución de la compañía. Podría conducir a una pérdida permanente de cuota de mercado y a una reevaluación a la baja de sus perspectivas de crecimiento."
+          "thesis": "La prolongación del conflicto en Irán mantendrá la prima de riesgo geopolítico en los precios del crudo, con alta volatilidad."
         },
-        "confidence": 84,
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1696512750390?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Economía China rebota antes guerra",
+        "fullTitle": "Indicadores China mejoran antes de riesgo guerra Irán",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Los principales indicadores económicos de China superaron las previsiones a inicios de año, mostrando un impulso positivo. Sin embargo, la guerra en Irán ha introducido nuevos riesgos para el crecimiento e inflación globales. La resiliencia inicial podría verse desafiada por la disrupción en cadenas de suministro y mercados energéticos.",
+        "relations": [
+          {
+            "label": "China",
+            "type": "entity",
+            "desc": "Economía clave con datos positivos"
+          },
+          {
+            "label": "Indicadores económicos",
+            "type": "resource",
+            "desc": "Datos de crecimiento e inflación"
+          },
+          {
+            "label": "Guerra Irán",
+            "type": "risk",
+            "desc": "Factor de disrupción global"
+          },
+          {
+            "label": "Crecimiento global",
+            "type": "risk",
+            "desc": "Variable afectada por conflicto"
+          },
+          {
+            "label": "Inflación",
+            "type": "risk",
+            "desc": "Presión alcista por energía"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La fortaleza inicial de China ofrece un colchón, pero su dependencia energética y comercial la hace vulnerable a la escalada en el Golfo.",
+            "Los bancos centrales podrían enfrentar un dilema entre apoyar el crecimiento y combatir la inflación importada."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF de bonos chinos (ej. CNY)",
+          "risk": "MEDIUM",
+          "thesis": "La fortaleza económica relativa y la búsqueda de activos refugio dentro de mercados emergentes podrían apoyar a los bonos chinos."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1614790240891?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Trump amenaza posponer cumbre Xi",
+        "fullTitle": "Trump podría retrasar cumbre con Xi por estrecho Hormuz",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "CRITICAL",
+        "summary": "Según el Financial Times, Trump condiciona la cumbre planificada con Xi Jinping a que China ayude a desbloquear el Estrecho de Hormuz. Esto convierte un canal diplomático bilateral en una herramienta de presión sobre seguridad global. La posición de China, analizada por Bloomberg, es clave para la evolución del conflicto.",
+        "relations": [
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Emite ultimátum a China"
+          },
+          {
+            "label": "Xi Jinping",
+            "type": "entity",
+            "desc": "Líder chino, objetivo de presión"
+          },
+          {
+            "label": "Estrecho de Hormuz",
+            "type": "resource",
+            "desc": "Punto de estrangulamiento energético crítico"
+          },
+          {
+            "label": "Cumbre bilateral",
+            "type": "entity",
+            "desc": "Evento diplomático en riesgo"
+          },
+          {
+            "label": "Bloqueo marítimo",
+            "type": "risk",
+            "desc": "Riesgo de disrupción logística"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "EE.UU. instrumentaliza la relación bilateral más importante del mundo para obtener concesiones en un conflicto regional.",
+            "China se enfrenta a una elección difícil entre proteger sus intereses energéticos y mantener su postura de no injerencia."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas logísticas globales (ej. Maersk)",
+          "risk": "HIGH",
+          "thesis": "La amenaza de bloqueo en Hormuz y la tensión entre grandes potencias presionará las cadenas de suministro y los márgenes del transporte marítimo."
+        },
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1631227298172?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Netflix triunfa en Oscars",
+        "fullTitle": "'Frankenstein' y 'KPop Demon Hunters' ganan Oscars",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Las producciones de Netflix 'Frankenstein' y 'KPop Demon Hunters' obtuvieron cinco premios Oscar en conjunto. 'Frankenstein' ganó en categorías técnicas, mientras que 'KPop Demon Hunters' se llevó el premio a Mejor Película Animada y Mejor Canción Original. Refuerza la posición de Netflix en la industria del entretenimiento de gama alta.",
+        "relations": [
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "Plataforma de streaming ganadora"
+          },
+          {
+            "label": "Frankenstein",
+            "type": "entity",
+            "desc": "Película ganadora de premios técnicos"
+          },
+          {
+            "label": "KPop Demon Hunters",
+            "type": "entity",
+            "desc": "Película animada ganadora"
+          },
+          {
+            "label": "Premios Oscar",
+            "type": "resource",
+            "desc": "Reconocimiento de prestigio industrial"
+          },
+          {
+            "label": "Contenido original",
+            "type": "tech",
+            "desc": "Estrategia clave de streaming"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los premios validan la estrategia de inversión en contenido original de alta calidad y diverso (live-action y animación).",
+            "El reconocimiento fortalece la marca y puede mejorar el poder de retención y captación de suscriptores."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Netflix (NFLX)",
+          "risk": "LOW",
+          "thesis": "El éxito crítico consolida su ventaja competitiva en contenido y apoya la narrativa de crecimiento de suscripciones premium."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1622293848513?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Google y Accel eligen startups India",
+        "fullTitle": "Acelerador Google-Accel India elige 5 startups sin 'wrappers' IA",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El programa de aceleración Atoms, de Google y Accel en India, seleccionó 5 startups de entre más de 4000 solicitudes. Los socios estiman que un 70% de los pitches de IA estaban relacionados con 'wrappers' (capas sobre modelos existentes). La selección busca proyectos con innovación fundamental.",
+        "relations": [
+          {
+            "label": "Google",
+            "type": "entity",
+            "desc": "Socio tecnológico en aceleradora"
+          },
+          {
+            "label": "Accel India",
+            "type": "entity",
+            "desc": "Socio de capital riesgo"
+          },
+          {
+            "label": "Startups India",
+            "type": "entity",
+            "desc": "Ecosistema emprendedor objetivo"
+          },
+          {
+            "label": "IA (Inteligencia Artificial)",
+            "type": "tech",
+            "desc": "Área tecnológica prioritaria"
+          },
+          {
+            "label": "Wrappers de IA",
+            "type": "risk",
+            "desc": "Modelo de negocio considerado superficial"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los inversores líderes están filtrando la 'burbuja' de aplicaciones superficiales de IA, buscando valor a largo plazo en infraestructura o modelos centrales.",
+            "India se consolida como un mercado clave para la innovación en IA, pero con un enfoque más selectivo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Fondos de VC enfocados en infraestructura de IA",
+          "risk": "MEDIUM",
+          "thesis": "El filtrado de 'wrappers' por actores clave señala una migración de capital hacia capas más profundas y defensables del stack de IA."
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1609678080400?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "ByteDance pausa lanzamiento Seedance 2.0",
+        "fullTitle": "ByteDance retrasa lanzamiento global de generador video Seedance 2.0",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "ByteDance pospone el lanzamiento global de su generador de video Seedance 2.0. El retraso se debe a que ingenieros y abogados trabajan para evitar problemas legales futuros, probablemente relacionados con derechos de autor y contenido generado por IA. Muestra la creciente cautela regulatoria en el sector.",
+        "relations": [
+          {
+            "label": "ByteDance",
+            "type": "entity",
+            "desc": "Propietario de TikTok, desarrollador"
+          },
+          {
+            "label": "Seedance 2.0",
+            "type": "tech",
+            "desc": "Generador de video por IA en pausa"
+          },
+          {
+            "label": "Problemas legales",
+            "type": "risk",
+            "desc": "Riesgo principal de retraso"
+          },
+          {
+            "label": "Contenido generado por IA",
+            "type": "tech",
+            "desc": "Área de rápido desarrollo y regulación"
+          },
+          {
+            "label": "Lanzamiento global",
+            "type": "risk",
+            "desc": "Estrategia comercial afectada"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las grandes tecnológicas están priorizando la mitigación proactiva de riesgos legales sobre la velocidad de comercialización en IA generativa.",
+            "Una pausa de ByteDance puede ceder ventaja competitiva temporal a rivales, pero protege su valoración a largo plazo."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Acciones de empresas de IA generativa puramente comerciales",
+          "risk": "HIGH",
+          "thesis": "El retraso por cuestiones legales subraya un riesgo sistémico no descontado para el modelo de negocio de lanzar primero y ajustar después."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1691836037652?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1544606980667?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
