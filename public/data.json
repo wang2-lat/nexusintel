@@ -1,833 +1,863 @@
 {
-  "generated_at": "2026-03-17T02:25:08.587546",
+  "generated_at": "2026-03-18T02:31:13.793310",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "伊朗袭击推高油价",
-        "fullTitle": "伊朗袭击波斯湾能源设施，油价结束连跌后上涨",
+        "title": "中石油稳定天然气报价",
+        "fullTitle": "中石油维持下游天然气报价稳定以应对战争风险",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "伊朗升级了对波斯湾周边能源基础设施的袭击，导致油价在经历近一周的首次下跌后反弹。这一事件加剧了关键石油运输通道的地缘政治风险。市场对全球石油供应的稳定性产生新的担忧。",
+        "summary": "中石油作为中国最大的天然气供应商，宣布今年合同价格将基本保持不变。此举旨在保护工业消费者免受中东冲突导致的全球能源价格飙升影响。该公司选择牺牲部分潜在利润以维持市场稳定和客户关系。这反映了国有企业在能源安全和社会稳定方面的战略角色。",
         "relations": [
           {
-            "label": "伊朗",
+            "label": "中石油",
             "type": "entity",
-            "desc": "地缘政治风险主要来源国"
+            "desc": "中国最大的天然气供应商，国有企业"
           },
           {
-            "label": "波斯湾",
+            "label": "天然气",
             "type": "resource",
-            "desc": "全球关键石油运输通道"
+            "desc": "关键能源商品，受地缘政治影响大"
           },
           {
-            "label": "石油",
-            "type": "resource",
-            "desc": "受事件直接影响的大宗商品"
-          },
-          {
-            "label": "能源基础设施",
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "地缘冲突中的主要攻击目标"
+            "desc": "导致全球能源价格波动的主要地缘政治风险"
+          },
+          {
+            "label": "工业消费者",
+            "type": "entity",
+            "desc": "能源密集型产业，成本敏感度高"
           }
         ],
         "analysis": {
           "strategic": [
-            "霍尔木兹海峡的航运安全风险上升，可能影响全球约20%的石油贸易。",
-            "事件可能促使主要石油消费国加速战略储备释放或寻求替代供应路线。"
+            "中国通过国有企业干预能源市场，以缓冲外部冲击对国内经济的传导，体现了'以我为主'的能源安全战略。",
+            "此举可能削弱全球天然气价格波动对中国制造业竞争力的影响，但长期可能增加财政补贴压力或影响企业盈利能力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "原油期货（WTI/BRENT）",
-          "risk": "HIGH",
-          "thesis": "地缘政治紧张局势直接冲击石油供应预期，短期内将推高油价，但波动性极大。"
+          "asset": "中石油 (0857.HK / 601857.SS)",
+          "risk": "MEDIUM",
+          "thesis": "政策支持下，其下游客户稳定性增强，但牺牲了部分上游价格弹性带来的利润。可视为防御性配置，受益于稳定的国内需求和价格管控环境。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1635054603939?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1653743093886?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "DayOne数据中心拟赴美IPO",
-        "fullTitle": "亚洲DayOne数据中心据称接近秘密提交美国IPO申请",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "知情人士透露，亚洲的DayOne数据中心有限公司接近秘密提交美国首次公开募股申请。该公司正乘着人工智能热潮，有望达成又一笔数十亿美元的融资交易。这反映了市场对AI基础设施的持续追捧。",
+        "title": "香港监管趋严或影响IPO",
+        "fullTitle": "香港监管审查趋严危及股票销售热潮",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "香港监管审查的加强正在震动金融业，并可能导致这个亚洲主要融资中心的股票销售热潮放缓。监管机构对上市标准、反洗钱和公司治理的审查力度加大。这增加了企业上市的时间和合规成本。市场担忧这可能削弱香港作为国际金融中心的竞争力。",
         "relations": [
           {
-            "label": "DayOne Data Centers Ltd.",
+            "label": "香港证监会",
             "type": "entity",
-            "desc": "计划赴美IPO的亚洲数据中心运营商"
+            "desc": "香港证券及期货事务监察委员会"
           },
           {
-            "label": "IPO",
+            "label": "IPO市场",
+            "type": "entity",
+            "desc": "首次公开募股，香港核心金融业务"
+          },
+          {
+            "label": "监管风险",
             "type": "risk",
-            "desc": "企业融资与市场估值的关键事件"
+            "desc": "政策不确定性导致的业务风险"
           },
           {
-            "label": "人工智能",
-            "type": "tech",
-            "desc": "驱动数据中心需求的核心技术浪潮"
-          },
-          {
-            "label": "数据中心",
-            "type": "tech",
-            "desc": "AI算力的关键物理基础设施"
+            "label": "金融中心",
+            "type": "entity",
+            "desc": "香港的国际地位和竞争力"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI算力需求正推动数据中心资产估值重构，吸引大量资本涌入。",
-            "亚洲科技公司赴美IPO，旨在利用美国资本市场对AI主题的高估值和流动性。"
+            "香港在'国家安全'和'国际金融中心'定位间寻求平衡，监管趋严是这一平衡过程的表现，短期可能影响市场活力，长期旨在提升市场质量和韧性。",
+            "此举可能促使部分融资需求转向新加坡或其他市场，加速亚洲金融格局的潜在演变。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "数据中心/云计算相关ETF（如CIBR）",
+          "action": "SHORT",
+          "asset": "香港交易所 (0388.HK)",
           "risk": "MEDIUM",
-          "thesis": "AI基础设施是长期确定性赛道，新玩家IPO可能带动板块关注度和估值提升。"
+          "thesis": "IPO数量和融资规模是港交所收入的核心驱动力。监管收紧导致上市活动放缓，将直接冲击其交易费和上市费收入，短期内股价承压。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1611671536278?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1540026172343?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "印度银行面临存款荒",
-        "fullTitle": "印度资深银行家称需新工具应对存款流失",
-        "classification": "RESTRICTED",
+        "title": "伊拉克出口协议致油价微跌",
+        "fullTitle": "伊拉克与库尔德签署出口协议，油价小幅下跌",
         "impactLevel": "MEDIUM",
-        "summary": "印度资深银行家Neeraj Gambhir指出，印度银行正努力说服偏爱股票的投资者将资金存入银行。他表示，如果银行能有更多融资选择将大有裨益。这反映了印度金融市场结构变化对传统银行业的冲击。",
+        "classification": "RESTRICTED",
+        "summary": "伊拉克签署协议通过土耳其恢复石油出口，且该路线避开霍尔木兹海峡。与此同时，美国加大力度施压以重新开放这一关键水道。这两个因素共同缓解了部分供应中断担忧，导致油价小幅下跌。市场关注中东地缘政治对原油物流的持续影响。",
         "relations": [
           {
-            "label": "印度银行",
+            "label": "伊拉克",
             "type": "entity",
-            "desc": "面临存款竞争压力的金融机构"
+            "desc": "OPEC重要产油国"
           },
           {
-            "label": "Neeraj Gambhir",
+            "label": "库尔德地区",
             "type": "entity",
-            "desc": "提出警示的资深银行家"
+            "desc": "伊拉克半自治地区，拥有石油资源"
           },
           {
-            "label": "存款",
+            "label": "霍尔木兹海峡",
             "type": "resource",
-            "desc": "银行核心负债，正面临分流"
+            "desc": "全球石油运输关键咽喉要道"
           },
           {
-            "label": "股市",
+            "label": "原油供应",
             "type": "risk",
-            "desc": "与银行存款竞争居民储蓄的主要市场"
+            "desc": "地缘政治影响下的核心大宗商品供应风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "印度居民资产配置从存款向权益市场转移，可能长期推高银行负债成本。",
-            "银行需创新融资工具（如债券、ABS）以应对存款增长乏力，可能影响其净息差和盈利能力。"
+            "该协议显示了地区行为体在外部压力下寻求替代出口路线的努力，以规避核心海峡的封锁风险，增强了全球原油供应链的冗余度。",
+            "美国积极介入水道安全问题，意在平抑油价和通胀，但其与地区盟友的复杂关系可能使局势长期化。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "印度银行股ETF（如INDA中的银行成分股）",
-          "risk": "MEDIUM",
-          "thesis": "存款成本上升和融资结构变化可能侵蚀银行利润，对银行股估值构成压力。"
+          "asset": "原油期货 (CL)",
+          "risk": "HIGH",
+          "thesis": "地缘政治溢价短期内因供应替代路线出现和美国干预而部分消退。但中东整体局势依然脆弱，任何新的冲突都可能迅速逆转跌势，因此风险较高。"
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1641018193290?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1576027662459?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "SEC考虑改为半年报",
-        "fullTitle": "SEC考虑提案允许上市公司改为发布半年报",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "据《华尔街日报》报道，美国证券交易委员会正在制定一项提案，允许上市公司每年发布两次财报，而非现行的季度报告。此举可能从根本上改变上市公司的信息披露节奏和市场预期管理方式。",
+        "title": "Kalshi面临刑事指控",
+        "fullTitle": "亚利桑那州对Kalshi提起首例非法赌博刑事指控",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "预测市场平台Kalshi面临亚利桑那州提起的首例刑事指控，被指控经营'非法赌博业务'。这是州监管机构与该行业之间不断升级的斗争中的最新一轮交锋。该行业声称其不受传统赌博法规约束。此案可能为美国预测市场的法律地位树立重要先例。",
         "relations": [
           {
-            "label": "SEC",
+            "label": "Kalshi",
             "type": "entity",
-            "desc": "美国证券监管机构，规则制定者"
+            "desc": "美国预测市场平台"
           },
           {
-            "label": "上市公司",
-            "type": "entity",
-            "desc": "受新规影响的主体"
+            "label": "预测市场",
+            "type": "tech",
+            "desc": "用于对冲风险或投机的事件合约交易"
           },
           {
-            "label": "财报频率",
+            "label": "监管不确定性",
             "type": "risk",
-            "desc": "影响市场信息透明度和定价效率的关键变量"
+            "desc": "创新金融科技面临的主要法律与合规风险"
           },
           {
-            "label": "《华尔街日报》",
+            "label": "州监管机构",
             "type": "entity",
-            "desc": "消息来源媒体"
+            "desc": "美国各州拥有独立的金融与赌博监管权"
           }
         ],
         "analysis": {
           "strategic": [
-            "若实施，将降低上市公司短期业绩压力，但可能增加信息不对称，加剧市场波动。",
-            "这是对“唯短期业绩论”的修正，旨在鼓励企业进行长期投资，但可能削弱散户投资者的信息获取能力。"
+            "此案凸显了金融创新（预测市场）与传统法律框架（赌博法）之间的根本冲突，其结果将影响美国'另类数据'和'风险对冲'市场的发展路径。",
+            "州级监管的碎片化与严厉执法可能迫使相关企业寻求联邦层面的明确监管或转向海外市场，抑制美国在该领域的创新领导力。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "高波动性/低透明度的小盘股ETF（如IWM）",
+          "asset": "金融科技/预测市场相关私人公司估值",
           "risk": "HIGH",
-          "thesis": "财报频率降低可能使小盘股的信息不确定性增加，估值折价可能扩大。"
+          "thesis": "刑事指控开创危险先例，极大增加了预测市场类金融科技公司在美运营的法律风险和合规成本，可能引发资本撤离和估值重估。"
+        },
+        "confidence": 86,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1548613371838?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Mistral推企业自建AI挑战巨头",
+        "fullTitle": "Mistral押注'自建AI'模式挑战OpenAI等企业市场",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "法国AI公司Mistral推出Mistral Forge平台，允许企业使用自有数据从头开始训练定制AI模型。这直接挑战了OpenAI和Anthropic等依赖微调和检索增强生成（RAG）的竞争对手。该策略瞄准了对数据隐私和定制化有极高要求的企业客户。",
+        "relations": [
+          {
+            "label": "Mistral AI",
+            "type": "entity",
+            "desc": "法国开源AI模型公司"
+          },
+          {
+            "label": "定制化AI模型",
+            "type": "tech",
+            "desc": "基于企业专有数据训练的专属模型"
+          },
+          {
+            "label": "数据隐私",
+            "type": "risk",
+            "desc": "企业采用AI的核心关切与合规要求"
+          },
+          {
+            "label": "OpenAI/Anthropic",
+            "type": "entity",
+            "desc": "当前企业AI市场的主要领导者"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Mistral通过'完全自建'模式切入市场，精准打击了巨头在数据主权和深度定制方面的弱点，可能在高监管行业（金融、医疗、政府）获得突破。",
+            "这标志着企业AI市场从'模型即服务'向'训练平台即服务'的范式演进，竞争焦点从通用能力转向专属化、可控性和合规性。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Mistral AI (私人市场)",
+          "risk": "HIGH",
+          "thesis": "其差异化战略抓住了企业AI部署的下一个痛点，如果成功，有望在快速增长的企业市场中分得可观份额，挑战现有格局。但作为私营公司，面临技术执行和商业化风险。"
         },
         "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1694168054216?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "英伟达发布企业AI平台",
-        "fullTitle": "英伟达发布NemoClaw平台，旨在解决安全问题",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "英伟达宣布推出名为NemoClaw的开放企业AI智能体平台，该平台基于此前热门的OpenClaw构建。此举旨在解决企业部署AI时最关心的安全问题，巩固其在AI企业级市场的领导地位。",
-        "relations": [
-          {
-            "label": "英伟达",
-            "type": "entity",
-            "desc": "AI芯片与软件平台领导者"
-          },
-          {
-            "label": "NemoClaw",
-            "type": "tech",
-            "desc": "新发布的企业AI智能体平台"
-          },
-          {
-            "label": "OpenClaw",
-            "type": "tech",
-            "desc": "NemoClaw构建所基于的开源项目"
-          },
-          {
-            "label": "AI安全",
-            "type": "risk",
-            "desc": "企业采用AI的核心顾虑之一"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "英伟达正从硬件供应商向“硬件+软件+生态”平台转型，以构建更深的护城河。",
-            "通过解决企业级AI的安全痛点，英伟达旨在加速AI从训练到部署的闭环，扩大其TAM（总可寻址市场）。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "英伟达",
-          "risk": "MEDIUM",
-          "thesis": "软件和服务收入的增长将提升公司估值维度，降低对纯硬件周期波动的依赖。"
-        },
-        "confidence": 87,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1688890610715?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1617314237599?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "黄仁勋预测芯片订单达万亿",
-        "fullTitle": "黄仁勋预测英伟达Blackwell等芯片订单达万亿美元",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "英伟达CEO黄仁勋表示，他预计Blackwell和Vera Rubin等新一代芯片将获得价值1万亿美元的订单。这一惊人预测凸显了公司对AI算力需求持续爆炸性增长的极度乐观预期。",
+        "title": "Garry Tan的Claude代码设置引争议",
+        "fullTitle": "Garry Tan的Claude代码设置引发广泛爱恨讨论",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "数千人正在尝试Garry Tan在GitHub上分享的Claude Code开发环境设置。该设置引发了极其两极分化的评价。有趣的是，连Claude、ChatGPT和Gemini等AI模型本身也对此发表了看法。这反映了开发者社区对AI辅助编程工具最佳实践的探索和分歧。",
         "relations": [
           {
-            "label": "Jensen Huang",
+            "label": "Garry Tan",
             "type": "entity",
-            "desc": "英伟达CEO，预测发布者"
+            "desc": "知名投资人，Y Combinator总裁"
           },
           {
-            "label": "Blackwell",
+            "label": "AI辅助编程",
             "type": "tech",
-            "desc": "英伟达下一代AI芯片架构"
+            "desc": "使用大型语言模型协助软件开发的实践"
           },
           {
-            "label": "Vera Rubin",
+            "label": "开发者社区",
+            "type": "entity",
+            "desc": "开源生态与意见领袖影响技术采纳"
+          },
+          {
+            "label": "Claude/ChatGPT",
             "type": "tech",
-            "desc": "Blackwell之后的未来芯片架构"
-          },
-          {
-            "label": "AI算力需求",
-            "type": "risk",
-            "desc": "支撑万亿订单预测的核心假设"
+            "desc": "主流代码生成AI模型"
           }
         ],
         "analysis": {
           "strategic": [
-            "此预测旨在强化市场对英伟达长期增长故事的信心，支撑其高估值。",
-            "若预测属实，意味着全球科技资本开支将向AI基础设施极度倾斜，可能挤压其他领域的投资。"
+            "顶尖投资人和开发者社区的意见领袖正在通过分享具体工作流来塑造AI工具的采用标准和最佳实践，这比厂商营销更能影响早期采用者。",
+            "事件本身成为一场关于'人机协作'范式的社会实验，不同AI模型对其的'元评价'凸显了AI正在成为技术文化讨论的一部分。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "英伟达及AI算力供应链（如台积电、博通）",
-          "risk": "HIGH",
-          "thesis": "CEO的万亿订单预期若被市场采信，将打开板块的长期想象空间，但需警惕预期过高风险。"
+          "asset": "AI辅助编程工具生态 (如 GitHub Copilot, Cursor)",
+          "risk": "LOW",
+          "thesis": "此类高热度讨论表明AI编程工具已进入主流开发者视野，争议和探索将加速工具迭代和用户教育，最终推动整个细分市场的渗透率和付费意愿提升。"
         },
-        "confidence": 85,
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1694703774475?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1506675041560?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Oil Rises on Iran Attacks",
-        "fullTitle": "Oil Advances as Iran Targets Persian Gulf Energy Infrastructure",
+        "title": "PetroChina Stabilizes Gas Prices",
+        "fullTitle": "PetroChina Keeps Downstream Gas Offers Stable Despite War Risks",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Oil prices have risen following Iran's escalated attacks on energy infrastructure around the Persian Gulf. This marks a reversal from its first decline in nearly a week. The attacks directly threaten a critical global supply chokepoint. This introduces significant geopolitical risk premium into the energy market.",
+        "summary": "PetroChina, China's largest natural gas supplier, will maintain largely stable contract prices for the year. This strategic move aims to protect domestic industrial consumers from the volatility of surging global energy prices. The decision is a direct response to price pressures stemming from the ongoing Middle East conflict. It reflects a state-driven priority for economic stability over short-term profit maximization.",
         "relations": [
           {
-            "label": "Iran",
+            "label": "PetroChina Co.",
             "type": "entity",
-            "desc": "State actor escalating regional conflict"
+            "desc": "China's largest natural gas supplier, state-owned enterprise."
           },
           {
-            "label": "Persian Gulf",
+            "label": "Natural Gas",
             "type": "resource",
-            "desc": "Critical global energy transit chokepoint"
+            "desc": "Primary energy resource, subject to global price volatility."
           },
           {
-            "label": "Oil",
-            "type": "resource",
-            "desc": "Primary commodity impacted by supply disruption risk"
-          },
-          {
-            "label": "Energy Infrastructure",
+            "label": "Middle East Conflict",
             "type": "risk",
-            "desc": "Physical assets under direct threat"
+            "desc": "Geopolitical risk driving global energy price surges."
           },
           {
-            "label": "Geopolitical Risk",
+            "label": "Industrial Consumers",
+            "type": "entity",
+            "desc": "Key downstream users shielded from price volatility."
+          },
+          {
+            "label": "Price Stability Policy",
             "type": "risk",
-            "desc": "Primary market driver from conflict"
+            "desc": "Government intervention to manage inflation and economic stability."
           }
         ],
         "analysis": {
           "strategic": [
-            "Escalation in the Strait of Hormuz represents a systemic risk to global energy flows, potentially triggering broader market volatility and strategic stockpile releases.",
-            "The event reinforces the fragility of just-in-time energy supply chains and may accelerate investment in alternative routes and energy security measures by major importers."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Crude Oil Futures (CL, BZ), Energy Sector ETFs (XLE)",
-          "risk": "HIGH",
-          "thesis": "Direct supply chain attacks create an immediate risk premium. Further escalation could physically constrain supply, supporting prices despite potential demand headwinds."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1623956419147?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "DayOne Data Centers Near US IPO",
-        "fullTitle": "Asia's DayOne Data Centers Nears Confidential US IPO Filing",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "DayOne Data Centers Ltd. is reportedly close to confidentially filing for a US IPO. The deal is expected to be multibillion-dollar, capitalizing on the AI-driven data center boom. This reflects strong investor appetite for infrastructure supporting AI compute. It signals continued capital flow into physical AI assets.",
-        "relations": [
-          {
-            "label": "DayOne Data Centers Ltd.",
-            "type": "entity",
-            "desc": "Asian data center company seeking US listing"
-          },
-          {
-            "label": "US IPO",
-            "type": "entity",
-            "desc": "Capital markets event providing liquidity and growth capital"
-          },
-          {
-            "label": "Artificial Intelligence",
-            "type": "tech",
-            "desc": "Primary demand driver for data center capacity"
-          },
-          {
-            "label": "Data Center Infrastructure",
-            "type": "tech",
-            "desc": "Physical asset class in high demand"
-          },
-          {
-            "label": "Confidential Filing",
-            "type": "risk",
-            "desc": "SEC process allowing discreet IPO preparation"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The move highlights the globalization of AI infrastructure investment, with Asian players tapping deep US capital markets to fund expansion in a capital-intensive sector.",
-            "A successful IPO would provide a valuation benchmark for private data center operators globally and could catalyze a wave of similar listings, increasing sector transparency."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Data Center REITs (EQIX, DLR), AI Infrastructure ETFs (AIQ)",
-          "risk": "MEDIUM",
-          "thesis": "Successful IPOs validate and support valuations across the data center sector. Increased public market activity enhances liquidity and attracts more institutional capital to the theme."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1543821324342?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Indian Banks Face Deposit Crunch",
-        "fullTitle": "Veteran Banker Says New Tools Needed as Deposits Fizzle",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Indian banks are struggling to attract deposits as investors favor equities. Veteran banker Neeraj Gambhir highlights the need for banks to develop new funding tools. This indicates a structural shift in Indian household savings. It pressures bank net interest margins and lending capacity.",
-        "relations": [
-          {
-            "label": "Indian Lenders",
-            "type": "entity",
-            "desc": "Banking sector facing deposit growth challenges"
-          },
-          {
-            "label": "Neeraj Gambhir",
-            "type": "entity",
-            "desc": "Veteran banker signaling a sector-wide issue"
-          },
-          {
-            "label": "Deposits",
-            "type": "resource",
-            "desc": "Core banking liability under competitive pressure"
-          },
-          {
-            "label": "Equity Markets",
-            "type": "entity",
-            "desc": "Competing destination for household savings"
-          },
-          {
-            "label": "Funding Cost Risk",
-            "type": "risk",
-            "desc": "Risk of rising costs for bank liabilities"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The deposit crunch could constrain credit growth in a high-growth economy, potentially forcing the central bank to maintain higher systemic liquidity, impacting monetary policy transmission.",
-            "Banks may be pushed towards more expensive wholesale funding or innovative instruments, altering their risk profiles and potentially compressing profitability in the medium term."
+            "China is using its state-owned energy giants as a buffer against global commodity shocks, prioritizing domestic industrial stability and controlling inflation.",
+            "This action may signal a longer-term strategy of decoupling domestic energy costs from international spot markets, increasing predictability for manufacturers."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Indian Bank Sector ETFs (INDA sub-sector), High-NIM Indian Banks",
+          "asset": "International LNG Spot Price Indexes",
           "risk": "MEDIUM",
-          "thesis": "Sustained deposit competition erodes the core cheap funding advantage of banks, pressuring Net Interest Margins (NIMs) and making them vulnerable to tighter liquidity conditions."
+          "thesis": "Reduced Chinese demand for spot LNG due to capped domestic prices could remove a key support pillar for global prices, especially if other Asian buyers follow a cautious approach."
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1579117018746?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "HK Regulatory Scrutiny Rises",
+        "fullTitle": "Hong Kong Regulatory Scrutiny Puts Share Sale Boom at Risk",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Intensifying regulatory scrutiny is creating uncertainty within Hong Kong's financial industry. This environment threatens to slow down the recent boom in share sales and IPOs in the region's premier fundraising hub. The increased oversight is rattling market participants and could impact capital flow dynamics. The situation highlights the growing tension between market growth and regulatory compliance in Asian finance.",
+        "relations": [
+          {
+            "label": "Hong Kong Financial Industry",
+            "type": "entity",
+            "desc": "Asia's premier fundraising hub for IPOs and share sales."
+          },
+          {
+            "label": "Regulatory Scrutiny",
+            "type": "risk",
+            "desc": "Increased oversight by Hong Kong financial regulators."
+          },
+          {
+            "label": "Share Sales / IPOs",
+            "type": "entity",
+            "desc": "Primary market fundraising activities at risk of slowdown."
+          },
+          {
+            "label": "Capital Flow",
+            "type": "risk",
+            "desc": "Potential reduction in investment capital entering/exiting via Hong Kong."
+          },
+          {
+            "label": "Market Confidence",
+            "type": "risk",
+            "desc": "Eroding trust among issuers and investors due to regulatory uncertainty."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Hong Kong's regulatory tightening may be a response to geopolitical pressures and a desire to align more closely with mainland China's financial stability goals, potentially at the cost of its historic 'laissez-faire' reputation.",
+            "This creates an opportunity for rival financial hubs like Singapore to capture a greater share of Asia-Pacific capital market activity from risk-averse issuers."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Hong Kong Exchanges and Clearing Ltd. (HKEX)",
+          "risk": "MEDIUM",
+          "thesis": "A sustained slowdown in IPO and secondary offering volumes directly impacts HKEX's transaction fee revenue and market valuation, presenting a near-term headwind."
+        },
+        "confidence": 86,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1586571560957?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Oil Dips on Iraq Export Deal",
+        "fullTitle": "Oil Edges Lower After Iraq Signs Export Deal With Kurdistan",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Oil prices experienced a slight decline following two key developments. Iraq signed a deal to resume oil exports from the Kurdistan region via Turkey, bypassing the critical Strait of Hormuz. Concurrently, the United States increased diplomatic efforts to reopen the Strait. These events temporarily alleviated some supply route concerns that had been supporting a geopolitical risk premium in oil prices.",
+        "relations": [
+          {
+            "label": "Crude Oil",
+            "type": "resource",
+            "desc": "Global benchmark commodity, sensitive to supply route disruptions."
+          },
+          {
+            "label": "Iraq / Kurdistan Regional Government",
+            "type": "entity",
+            "desc": "Parties to a deal resuming northern oil exports via Turkey."
+          },
+          {
+            "label": "Strait of Hormuz",
+            "type": "resource",
+            "desc": "Critical global oil chokepoint, subject to closure threats."
+          },
+          {
+            "label": "Turkey (Ceyhan Port)",
+            "type": "entity",
+            "desc": "Alternative export route for Iraqi Kurdistan crude."
+          },
+          {
+            "label": "United States Diplomacy",
+            "type": "entity",
+            "desc": "Actively working to ensure Strait of Hormuz remains open."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The deal demonstrates efforts by producers and consumers to diversify and secure oil export routes away from the most vulnerable chokepoints, reducing the market's perceived geopolitical risk.",
+            "US involvement highlights its continued role as a de facto guarantor of global oil shipping lanes, which tempers extreme price spikes but ties energy security to US foreign policy."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Brent Crude Futures (Near Month)",
+          "risk": "HIGH",
+          "thesis": "The combination of new export capacity coming online (Iraq-Kurdistan) and reduced immediate threat to Hormuz creates a short-term bearish catalyst, though the overall market remains tense."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1634263611956?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1505084864594?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "SEC May Halve Earnings Reports",
-        "fullTitle": "SEC Eyes Shift to Twice-Yearly Earnings Reports",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The SEC is drafting a proposal to allow public companies to report earnings twice a year instead of quarterly. This represents a potential paradigm shift in US market disclosure norms. The change aims to reduce short-termism but may increase information asymmetry. Market structure and investor relations practices would be fundamentally altered.",
+        "title": "Kalshi Faces Criminal Charges",
+        "fullTitle": "Arizona Files Criminal Charges Against Kalshi for Illegal Gambling",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Prediction market platform Kalshi is facing escalating legal challenges, with Arizona filing the first-ever criminal charges against the company for operating an 'illegal gambling business'. This marks a significant escalation in the battle between state regulators and the prediction market industry. The industry argues its products are financial instruments, not gambling, and thus not subject to state gambling laws. The case could set a major precedent for the regulatory future of prediction markets in the US.",
         "relations": [
           {
-            "label": "SEC",
+            "label": "Kalshi",
             "type": "entity",
-            "desc": "US regulator proposing rule change"
+            "desc": "Prediction market platform facing criminal gambling charges."
           },
           {
-            "label": "Earnings Reports",
+            "label": "Arizona State Regulators",
             "type": "entity",
-            "desc": "Core periodic disclosure requirement"
+            "desc": "First state to file criminal charges against a prediction market."
           },
           {
-            "label": "Public Companies",
+            "label": "Prediction Markets",
             "type": "entity",
-            "desc": "Entities subject to disclosure rules"
+            "desc": "Industry claiming to offer financial/informational products, not gambling."
           },
           {
-            "label": "Short-termism",
+            "label": "Regulatory Classification Risk",
             "type": "risk",
-            "desc": "Market behavior the rule aims to curb"
+            "desc": "Existential risk of being classified as gambling versus financial instrument."
           },
           {
-            "label": "Information Asymmetry",
+            "label": "State vs. Federal Jurisdiction",
             "type": "risk",
-            "desc": "Potential negative consequence of reduced frequency"
+            "desc": "Conflict between state gambling laws and potential federal oversight."
           }
         ],
         "analysis": {
           "strategic": [
-            "This regulatory shift would disproportionately benefit companies with long investment cycles (e.g., biotech, industrials) while potentially harming retail investors who rely on regular disclosures, altering the balance of market power.",
-            "It could catalyze growth in alternative data providers and private market intelligence as investors seek to fill the longer information gaps, creating a new ancillary industry."
+            "The criminal charges represent a paradigm shift in regulatory approach, moving from civil actions to potential criminal liability, which could severely deter investment and operation in the US prediction market space.",
+            "This aggressive state action may force the industry to seek explicit federal legislation or regulatory clarity (e.g., from the CFTC) to preempt a patchwork of hostile state laws."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Alternative Data Providers, Long-Cycle Industrial Stocks",
+          "action": "SHORT",
+          "asset": "Private Market Valuation of Kalshi & Similar Startups",
           "risk": "HIGH",
-          "thesis": "Companies less pressured by quarterly scrutiny may see valuation re-rating. Firms providing continuous intelligence and data will see demand surge to bridge the disclosure gap."
-        },
-        "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1657886168330?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Nvidia Launches NemoClaw Platform",
-        "fullTitle": "Nvidia's NemoClaw Aims to Solve Enterprise AI Security",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Nvidia announced NemoClaw, an open enterprise AI agent platform built on OpenClaw. The platform directly addresses security, a major adoption barrier for enterprise AI. This move expands Nvidia's stack from hardware to secure, platform-level software. It strengthens its ecosystem lock-in and addresses a key customer concern.",
-        "relations": [
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "Chipmaker expanding into AI software/platform"
-          },
-          {
-            "label": "NemoClaw",
-            "type": "tech",
-            "desc": "Open enterprise AI agent platform"
-          },
-          {
-            "label": "OpenClaw",
-            "type": "tech",
-            "desc": "Open-source foundation for the platform"
-          },
-          {
-            "label": "AI Security",
-            "type": "risk",
-            "desc": "Primary adoption barrier being targeted"
-          },
-          {
-            "label": "Enterprise AI",
-            "type": "tech",
-            "desc": "Target market for the platform"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "By providing a secure, open platform, Nvidia is attempting to standardize the enterprise AI agent layer, reducing fragmentation and making its hardware more indispensable as the preferred foundation.",
-            "This strategic software move directly counters efforts by cloud hyperscalers and startups to abstract away from the hardware layer, deepening Nvidia's moat in the AI value chain."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA)",
-          "risk": "MEDIUM",
-          "thesis": "Platformization and addressing security concerns accelerate enterprise adoption, driving more predictable, recurring software revenue and strengthening the ecosystem beyond cyclical chip sales."
+          "thesis": "Criminal liability introduces an existential regulatory risk that was previously considered a civil/compliance issue, likely depressing valuations and complicating future funding rounds for the entire sector."
         },
         "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1664059443379?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1645727430613?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Huang Projects $1T Chip Orders",
-        "fullTitle": "Nvidia CEO Projects $1T Orders for Blackwell, Rubin Chips",
-        "classification": "RESTRICTED",
-        "impactLevel": "CRITICAL",
-        "summary": "Nvidia CEO Jensen Huang stated he expects $1 trillion worth of orders for its upcoming Blackwell and Vera Rubin AI chips. This projection underscores unprecedented anticipated demand for next-generation AI infrastructure. It sets a staggering growth benchmark for the semiconductor and AI sector. The statement is a powerful signal of Nvidia's pricing power and market confidence.",
+        "title": "Mistral Challenges AI Giants",
+        "fullTitle": "Mistral Bets on 'Build-Your-Own AI' to Take on OpenAI, Anthropic",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Mistral AI is launching 'Mistral Forge', a platform enabling enterprises to train custom AI models from scratch using their proprietary data. This approach directly challenges the prevailing methods of its larger rivals, OpenAI and Anthropic, which primarily rely on fine-tuning pre-trained models or retrieval-augmented generation (RAG). Mistral's strategy targets enterprise clients with high data sensitivity and a desire for complete model ownership and customization.",
         "relations": [
           {
-            "label": "Jensen Huang",
+            "label": "Mistral AI",
             "type": "entity",
-            "desc": "Nvidia CEO making forward-looking demand claim"
+            "desc": "AI startup challenging incumbents with a custom training platform."
           },
           {
-            "label": "Nvidia Blackwell",
+            "label": "Mistral Forge",
             "type": "tech",
-            "desc": "Next-generation AI GPU architecture"
+            "desc": "Platform for training custom AI models from scratch on enterprise data."
           },
           {
-            "label": "Vera Rubin",
+            "label": "OpenAI / Anthropic",
+            "type": "entity",
+            "desc": "Incumbent AI giants focused on fine-tuning and RAG approaches."
+          },
+          {
+            "label": "Enterprise AI Customization",
             "type": "tech",
-            "desc": "Future AI chip platform following Blackwell"
+            "desc": "Growing market demand for proprietary, data-secure AI models."
           },
           {
-            "label": "AI Infrastructure Demand",
+            "label": "Proprietary Data",
             "type": "resource",
-            "desc": "Macro-trend driving the projection"
-          },
-          {
-            "label": "Forward Demand Risk",
-            "type": "risk",
-            "desc": "Risk of overestimation or demand pull-forward"
+            "desc": "Key asset for enterprises, central to Mistral's value proposition."
           }
         ],
         "analysis": {
           "strategic": [
-            "A $1T order pipeline implies a multi-year visibility that is unprecedented in semiconductors, potentially justifying current valuations and reshaping capital allocation across the entire tech sector as competitors scramble to respond.",
-            "This projection, if realized, would represent a significant portion of global corporate IT spending, indicating AI is not a niche but a core, capital-intensive utility for the global economy."
+            "Mistral is attempting to carve out a defensible niche by appealing to data sovereignty and customization, areas where cloud-based API giants are perceived as less flexible or secure, potentially capturing regulated industries (finance, healthcare).",
+            "This move fragments the enterprise AI stack, forcing a strategic decision for clients between the convenience of fine-tuning a powerful base model (OpenAI/Anthropic) and the control/tailoring of a from-scratch model (Mistral)."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Nvidia (NVDA), AI Semiconductor Supply Chain (ASML, TSMC)",
+          "asset": "Mistral AI (Private/ Future IPO)",
           "risk": "HIGH",
-          "thesis": "Such extreme demand visibility, if credible, supports sustained high revenue growth and margins. It also implies massive, sustained capital expenditure by Nvidia's customers, benefiting the entire advanced manufacturing ecosystem."
+          "thesis": "If Mistral successfully captures the high-value, data-sensitive enterprise segment with its differentiated 'from-scratch' offering, it could achieve significant market share and valuation independent of the general-purpose LLM race."
         },
-        "confidence": 86,
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1646932507860?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Garry Tan's Claude Code Polarizes",
+        "fullTitle": "Garry Tan's Claude Code Setup Draws Widespread Praise and Criticism",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "A developer setup shared by Garry Tan, utilizing Anthropic's Claude for coding assistance, has gone viral on GitHub, attracting thousands of users. The setup has generated intense and polarized debate within the developer community. Notably, even AI models like Claude, ChatGPT, and Gemini have been prompted to evaluate the setup, producing their own opinions. The phenomenon highlights the growing cultural impact of AI coding tools and the community's engagement in optimizing their use.",
+        "relations": [
+          {
+            "label": "Garry Tan",
+            "type": "entity",
+            "desc": "Investor/developer who shared a viral Claude coding setup."
+          },
+          {
+            "label": "Claude (Anthropic)",
+            "type": "tech",
+            "desc": "AI model at the center of the controversial coding setup."
+          },
+          {
+            "label": "AI-Powered Development",
+            "type": "tech",
+            "desc": "Trend of using LLMs for coding, accelerating but also polarizing."
+          },
+          {
+            "label": "Developer Community",
+            "type": "entity",
+            "desc": "Active participants in debating and adopting new AI tooling workflows."
+          },
+          {
+            "label": "Workflow Optimization",
+            "type": "tech",
+            "desc": "The pursuit of maximizing efficiency in human-AI collaborative coding."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The viral debate serves as free, high-engagement market validation for AI coding assistants, demonstrating deep developer interest in customizing and debating best practices, which fuels ecosystem growth.",
+            "It reveals a meta-layer of competition where the AI models themselves are becoming subjects of discussion and benchmarks for evaluating coding advice, further embedding them into the developer culture and workflow consciousness."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Anthropic (Private)",
+          "risk": "MEDIUM",
+          "thesis": "Organic, community-driven adoption and intense discussion of its model (Claude) for a core use-case (coding) strengthens its brand, developer mindshare, and ecosystem, contributing to long-term competitive positioning against GitHub Copilot (Microsoft/OpenAI)."
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1610735130074?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1622100635627?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Petróleo sube por ataques de Irán",
-        "fullTitle": "Petróleo avanza tras ataques de Irán a infraestructura energética",
+        "title": "PetroChina estabiliza precios gas",
+        "fullTitle": "PetroChina mantiene precios gas estables pese a riesgos bélicos",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "El precio del petróleo registra un avance tras su primera caída en casi una semana. Este movimiento se produce como respuesta a la intensificación de los ataques de Irán contra infraestructuras energéticas clave en la región del Golfo Pérsico. La escalada de tensiones geopolíticas en una zona productora crítica introduce un riesgo de oferta. Este evento podría sostener una prima de riesgo en los precios del crudo a corto plazo.",
+        "summary": "PetroChina, el mayor proveedor de gas natural del país, mantendrá sus precios contractuales mayormente sin cambios este año. Esta medida busca proteger a los consumidores industriales de los precios energéticos globales en alza, impulsados por el conflicto en Oriente Medio. La decisión representa una intervención estratégica para garantizar la estabilidad del mercado interno. Sin embargo, podría presionar los márgenes de la empresa si los costos de importación continúan subiendo.",
         "relations": [
           {
-            "label": "Irán",
+            "label": "PetroChina Co.",
             "type": "entity",
-            "desc": "País actor geopolítico clave"
+            "desc": "Mayor proveedor de gas natural de China."
           },
           {
-            "label": "Golfo Pérsico",
+            "label": "Gas Natural",
             "type": "resource",
-            "desc": "Región crítica para el suministro global de petróleo"
+            "desc": "Recurso energético clave, precios afectados por conflicto."
           },
           {
-            "label": "Infraestructura Energética",
+            "label": "Consumidores Industriales",
+            "type": "entity",
+            "desc": "Beneficiarios de la estabilidad de precios."
+          },
+          {
+            "label": "Conflicto Oriente Medio",
             "type": "risk",
-            "desc": "Objetivo de ataques, riesgo de interrupción de suministro"
+            "desc": "Factor de riesgo geopolítico que impulsa precios globales."
           },
           {
-            "label": "Petróleo (WTI/Brent)",
-            "type": "resource",
-            "desc": "Commodity principal afectado por la noticia"
+            "label": "Estabilidad Precios",
+            "type": "risk",
+            "desc": "Objetivo estratégico del gobierno/empresa estatal."
           }
         ],
         "analysis": {
           "strategic": [
-            "La estrategia de Irán busca ejercer presión a través de la volatilidad energética, afectando los mercados globales.",
-            "Los eventos refuerzan la prima geopolítica en los precios del crudo y podrían acelerar búsquedas de diversificación energética."
+            "China prioriza la estabilidad económica interna y la seguridad energética sobre la maximización de ganancias en sus empresas estatales.",
+            "La medida puede ser un intento de desacoplar parcialmente el mercado energético doméstico de la volatilidad geopolítica global, fortaleciendo la resiliencia industrial."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de petróleo (CL, BZ), ETF USO, acciones de grandes petroleras integradas (XOM, CVX)",
-          "risk": "HIGH",
-          "thesis": "Los ataques introducen un riesgo de oferta inmediato y una prima de miedo en los precios. La volatilidad geopolítica suele impulsar al alza los precios del crudo a corto plazo, aunque con alto riesgo de reversión si las tensiones se calman."
+          "asset": "Acciones de empresas industriales chinas intensivas en energía (ej. manufactura, químicos)",
+          "risk": "MEDIUM",
+          "thesis": "La contención de los costos del gas natural debería apoyar los márgenes y la competitividad de los consumidores industriales chinos en el corto a mediano plazo, beneficiando a sus acciones."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1639337057638?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1529248129197?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "DayOne Data Centers cerca de OPI en EE.UU.",
-        "fullTitle": "DayOne Data Centers cerca de presentación confidencial para OPI en EE.UU.",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "DayOne Data Centers Ltd., una empresa asiática de centros de datos, se acerca a presentar una solicitud confidencial para una Oferta Pública Inicial (OPI) en los Estados Unidos. La operación, valorada en miles de millones de dólares, refleja el fuerte apetito de los inversores por el sector de infraestructura tecnológica. Este movimiento se enmarca dentro del auge de la inteligencia artificial, que demanda una capacidad de computación y almacenamiento masiva. La OPI podría proporcionar capital significativo para la expansión de la compañía.",
+        "title": "Escrutinio regulatorio frena Hong Kong",
+        "fullTitle": "Mayor escrutinio regulatorio amenaza auge venta acciones Hong Kong",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El creciente escrutinio regulatorio está generando incertidumbre en la industria financiera de Hong Kong. Esta intensificación de la supervisión aumenta las perspectivas de una desaceleración en el auge de las ventas de acciones. Hong Kong es el centro principal de captación de capital en Asia. La situación podría afectar la liquidez y la confianza de los inversores en el mercado.",
         "relations": [
           {
-            "label": "DayOne Data Centers Ltd.",
+            "label": "Hong Kong",
             "type": "entity",
-            "desc": "Empresa de centros de datos que planea OPI"
+            "desc": "Centro financiero asiático, hub principal de captación de capital."
           },
           {
-            "label": "OPI (IPO)",
+            "label": "Reguladores Financieros",
             "type": "entity",
-            "desc": "Evento de mercado de capitales para captar fondos"
+            "desc": "Entidades que intensifican la supervisión del mercado."
           },
           {
-            "label": "Centros de Datos",
-            "type": "tech",
-            "desc": "Infraestructura física crítica para la nube y la IA"
-          },
-          {
-            "label": "Inteligencia Artificial",
-            "type": "tech",
-            "desc": "Tendencia tecnológica que impulsa la demanda del sector"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La OPI señala la capitalización continua del boom de la IA, atrayendo inversión a la capa de infraestructura.",
-            "Refleja la globalización del capital de riesgo, con empresas asiáticas buscando liquidez y visibilidad en los mercados estadounidenses."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Sector de infraestructura de centros de datos (ETF: CIBR, SKYY), futuras acciones de DayOne post-OPI",
-          "risk": "MEDIUM",
-          "thesis": "La entrada al mercado de un nuevo actor respaldado por la tendencia de la IA puede generar interés de inversión. Las OPI en sectores calientes suelen tener un buen desempeño inicial, pero dependen de las condiciones generales del mercado."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1682835670764?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Bancos indios necesitan nuevas herramientas",
-        "fullTitle": "Banquero indio pide nuevas herramientas ante caída de depósitos",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los bancos indios enfrentan dificultades para atraer depósitos, ya que los inversores prefieren destinar su capital a instrumentos de renta variable. Neeraj Gambhir, un banquero veterano, ha señalado que el sector necesita desarrollar urgentemente más opciones para captar fondos. Esta situación podría presionar los márgenes de interés neto de los bancos si el costo de la financiación aumenta. El comentario subraya un desafío estructural para el sistema bancario indio en un contexto de rápido crecimiento económico.",
-        "relations": [
-          {
-            "label": "Bancos Indios",
-            "type": "entity",
-            "desc": "Sector financiero enfrentando desafíos de financiación"
-          },
-          {
-            "label": "Neeraj Gambhir",
-            "type": "entity",
-            "desc": "Banquero veterano y comentarista del sector"
-          },
-          {
-            "label": "Depósitos Bancarios",
-            "type": "resource",
-            "desc": "Fuente tradicional de financiación bancaria bajo presión"
-          },
-          {
-            "label": "Renta Variable (Equity)",
+            "label": "Ofertas Públicas de Venta (OPV)",
             "type": "risk",
-            "desc": "Activo alternativo que compite por el ahorro de los inversores"
+            "desc": "Actividad amenazada por el mayor escrutinio."
+          },
+          {
+            "label": "Confianza del Inversor",
+            "type": "risk",
+            "desc": "Factor clave que podría erosionarse."
+          },
+          {
+            "label": "Mercados de Capitales Asiáticos",
+            "type": "entity",
+            "desc": "Contexto regional afectado por la situación en HK."
           }
         ],
         "analysis": {
           "strategic": [
-            "La fuga de depósitos hacia la renta variable indica una maduración y sofisticación del inversor minorista indio, desafiando el modelo bancario tradicional.",
-            "Presiona a los bancos a innovar en productos de financiación y podría llevar a una consolidación o a una mayor competencia por el ahorro."
+            "Las autoridades pueden estar buscando un mayor control y alineación con los estándares regulatorios continentales, priorizando la estabilidad sobre el crecimiento agresivo del mercado.",
+            "Esto podría impulsar a algunas empresas a considerar otros centros de listado en Asia (Singapur) o globales para sus OPV, redistribuyendo flujos de capital."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "ETF de bancos indios (INDA tiene exposición financiera), acciones de bancos indios con alta dependencia de depósitos minoristas",
-          "risk": "MEDIUM",
-          "thesis": "La presión sobre una fuente clave y barata de financiación (depósitos) puede erosionar los márgenes de interés neto de los bancos, afectando su rentabilidad a medio plazo en un entorno de tipos altos."
-        },
-        "confidence": 84,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1662246633881?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "SEC estudia informes semestrales",
-        "fullTitle": "SEC evalúa propuesta para informes de ganancias semestrales",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "La Comisión de Bolsa y Valores de EE.UU. (SEC) está elaborando una propuesta que permitiría a las empresas públicas publicar sus informes de resultados financieros dos veces al año, en lugar de trimestralmente. Este cambio potencial, reportado por el Wall Street Journal, representaría una transformación significativa en los requisitos de transparencia del mercado estadounidense. El objetivo declarado sería reducir la carga administrativa para las empresas y fomentar una perspectiva de inversión a más largo plazo. Sin embargo, podría reducir la frecuencia de información disponible para los inversores.",
-        "relations": [
-          {
-            "label": "SEC",
-            "type": "entity",
-            "desc": "Regulador del mercado de valores de EE.UU."
-          },
-          {
-            "label": "Informes de Ganancias",
-            "type": "entity",
-            "desc": "Comunicados financieros trimestrales obligatorios"
-          },
-          {
-            "label": "Empresas Públicas",
-            "type": "entity",
-            "desc": "Entidades afectadas por el cambio regulatorio potencial"
-          },
-          {
-            "label": "Transparencia del Mercado",
-            "type": "risk",
-            "desc": "Factor clave para la eficiencia y confianza del mercado"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Un cambio así reduciría la presión a corto plazo sobre la gestión empresarial, potencialmente favoreciendo inversiones a largo plazo, pero aumentaría la asimetría de información.",
-            "Debilitaría un pilar fundamental de los mercados de capitales estadounidenses (transparencia frecuente), posiblemente beneficiando a actores con acceso a información privilegiada."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETF que rastreen volatilidad a corto plazo (VIX), empresas con alta dependencia de flujos de inversión minorista",
+          "asset": "Índice Hang Seng o ETFs de mercados chinos con alta exposición a HK",
           "risk": "HIGH",
-          "thesis": "Menos información pública frecuente puede aumentar la incertidumbre y la volatilidad entre periodos de reporte, perjudicando a los inversores minoristas y potenciando las ventajas de los actores institucionales con mejores recursos de investigación."
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1627812679666?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Nvidia lanza NemoClaw para seguridad",
-        "fullTitle": "Nvidia anuncia NemoClaw, plataforma de agente IA para empresas",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Nvidia ha anunciado NemoClaw, una plataforma abierta de agentes de IA para empresas, construida a partir del popular proyecto OpenClaw. La plataforma está diseñada para abordar uno de los mayores obstáculos para la adopción empresarial de la IA: la seguridad. Al ofrecer un marco seguro y empresarial, Nvidia busca consolidar su posición más allá del hardware, en la capa de software y ecosistema. Este movimiento es estratégico para fomentar la implementación a gran escala de soluciones de IA en entornos corporativos sensibles.",
-        "relations": [
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "Líder en chips de IA, expandiéndose al software"
-          },
-          {
-            "label": "NemoClaw",
-            "type": "tech",
-            "desc": "Plataforma de agente de IA empresarial y seguro"
-          },
-          {
-            "label": "OpenClaw",
-            "type": "tech",
-            "desc": "Proyecto de IA de código abierto en el que se basa"
-          },
-          {
-            "label": "Seguridad de IA",
-            "type": "risk",
-            "desc": "Preocupación crítica para la adopción empresarial"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Nvidia intenta 'cerrar' el ecosistema empresarial de IA, ofreciendo una pila completa (hardware + software seguro) para aumentar los costos de cambio.",
-            "Abordar la seguridad es clave para desbloquear el gasto corporativo masivo en IA, ampliando su mercado total direccionable."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA), empresas de software de seguridad cibernética que puedan colaborar/integrarse (PANW, CRWD)",
-          "risk": "MEDIUM",
-          "thesis": "La expansión de Nvidia hacia el software seguro fortalece su propuesta de valor y crea nuevas fuentes de ingresos recurrentes, profundizando su ventaja competitiva en el ecosistema de IA empresarial."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1583491354493?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Huang proyecta $1 billón en pedidos",
-        "fullTitle": "CEO de Nvidia proyecta $1 billón en pedidos para Blackwell y Rubin",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Jensen Huang, CEO de Nvidia, ha realizado una proyección extraordinaria, anticipando que la compañía recibirá pedidos por valor de un billón de dólares para sus próximas plataformas de chips, Blackwell y Vera Rubin. Esta declaración, realizada en un contexto de demanda insaciable por hardware de IA, establece expectativas extremadamente altas para el futuro crecimiento de la empresa. La cifra refleja la visión de Nvidia sobre la escala de la transformación impulsada por la IA y su posición central en ella. Tal proyección probablemente sostendrá el sentimiento alcista, pero también eleva el listón de los resultados que debe entregar.",
-        "relations": [
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "CEO y cofundador de Nvidia"
-          },
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "Empresa líder en semiconductores para IA"
-          },
-          {
-            "label": "Blackwell & Vera Rubin",
-            "type": "tech",
-            "desc": "Próximas generaciones de plataformas de chips de IA de Nvidia"
-          },
-          {
-            "label": "Demanda de IA",
-            "type": "resource",
-            "desc": "Fuerza macroeconómica y tecnológica subyacente"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La proyección es una herramienta de gestión de expectativas del mercado, diseñada para mantener el impulso narrativo y la prima de crecimiento de las acciones.",
-            "También sirve como una advertencia a los competidores, delineando la escala masiva de inversión y demanda que Nvidia anticipa dominar."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia (NVDA), proveedores clave de la cadena de suministro de Nvidia (TSM, ASML)",
-          "risk": "HIGH",
-          "thesis": "Si la proyección se materializa incluso parcialmente, justificaría una valoración aún mayor. Refuerza la narrativa de dominio del mercado y crecimiento a largo plazo, aunque el riesgo de no cumplir con expectativas tan elevadas es significativo."
+          "thesis": "La incertidumbre regulatoria y la posible desaceleración en la actividad de OPVs (fuente de nueva liquidez y entusiasmo) podrían ejercer presión a la baja sobre las valoraciones del mercado de Hong Kong en el corto plazo."
         },
         "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1520760021419?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Petróleo baja por acuerdo Irak",
+        "fullTitle": "Petróleo cae tras acuerdo de exportación Irak-Kurdistán",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "El precio del petróleo retrocedió tras la firma de un acuerdo entre Irak y la región del Kurdistán para reanudar las exportaciones a través de Turquía. Esta ruta evita el estratégico Estrecho de Ormuz. Simultáneamente, Estados Unidos intensificó los esfuerzos para forzar la reapertura de esa vía fluvial clave. Ambos factores alivian temporalmente las preocupaciones sobre la oferta.",
+        "relations": [
+          {
+            "label": "Petróleo Crudo",
+            "type": "resource",
+            "desc": "Commodity cuyo precio reacciona a cambios en oferta y rutas."
+          },
+          {
+            "label": "Irak",
+            "type": "entity",
+            "desc": "Productor de petróleo, firmó acuerdo de exportación."
+          },
+          {
+            "label": "Región del Kurdistán",
+            "type": "entity",
+            "desc": "Región autónoma de Irak, clave en el acuerdo de exportación."
+          },
+          {
+            "label": "Estrecho de Ormuz",
+            "type": "risk",
+            "desc": "Cuello de botella estratégico para el transporte de petróleo."
+          },
+          {
+            "label": "Turquía",
+            "type": "entity",
+            "desc": "Ruta alternativa de exportación para el petróleo iraquí."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El acuerdo muestra intentos pragmáticos de diversificar rutas de exportación y reducir la dependencia de puntos de estrangulamiento geopolíticamente sensibles como Ormuz.",
+            "La presión de EE.UU. para reabrir Ormuz subraya la prioridad global de mantener el flujo libre de energía, incluso mediante la diplomacia o la fuerza."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Futuros de petróleo Brent o WTI",
+          "risk": "MEDIUM",
+          "thesis": "El restablecimiento de un flujo de exportación significativo (Irak/Kurdistán) y los esfuerzos diplomáticos para asegurar Ormuz aumentan temporalmente las expectativas de oferta, ejerciendo presión bajista sobre los precios en el muy corto plazo."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1543138648584?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Kalshi enfrenta cargos penales Arizona",
+        "fullTitle": "Kalshi enfrenta primeros cargos penales por apuestas en Arizona",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Kalshi, una plataforma de mercados de predicción, enfrenta nuevos problemas legales. Arizona presentó los primeros cargos criminales en su contra, acusándola de operar un 'negocio de juego ilegal'. Este es el último episodio en una batalla escalante entre reguladores estatales y una industria que afirma no estar sujeta a su jurisdicción. El caso podría sentar un precedente importante.",
+        "relations": [
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "Plataforma de mercados de predicción (mercados de eventos)."
+          },
+          {
+            "label": "Estado de Arizona",
+            "type": "entity",
+            "desc": "Jurisdicción que presenta cargos criminales pioneros."
+          },
+          {
+            "label": "Reguladores Estatales (EE.UU.)",
+            "type": "entity",
+            "desc": "Entidades que buscan aplicar leyes de juego a nuevas plataformas."
+          },
+          {
+            "label": "Mercados de Predicción/Eventos",
+            "type": "risk",
+            "desc": "Industria en zona gris regulatoria entre finanzas y juego."
+          },
+          {
+            "label": "Precedente Legal",
+            "type": "risk",
+            "desc": "Riesgo/oportunidad de que el caso defina el marco regulatorio futuro."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El caso representa un esfuerzo agresivo por parte de los reguladores estatales para clasificar y controlar los mercados de predicción bajo leyes de juego existentes, rechazando argumentos de ser instrumentos financieros.",
+            "Un fallo en contra de Kalshi podría frenar significativamente la innovación y expansión de la industria de 'mercados de eventos' en EE.UU., consolidando el poder regulatorio estatal."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas privadas en el espacio de mercados de predicción/eventos (riesgo privado) o corto en sectores afines si son públicas",
+          "risk": "HIGH",
+          "thesis": "El riesgo regulatorio y legal para la industria de mercados de predicción acaba de escalar dramáticamente con cargos penales. Esto aumenta la probabilidad de costosas batallas legales, multas, o restricciones operativas que dañan la valoración y perspectivas de crecimiento."
+        },
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1646515322258?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Mistral apuesta por IA personalizada",
+        "fullTitle": "Mistral apuesta por 'construye tu propia IA' para empresas",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Mistral AI lanza 'Mistral Forge', una plataforma que permite a las empresas entrenar modelos de IA personalizados desde cero con sus propios datos. Este enfoque desafía a rivales como OpenAI y Anthropic, que se basan más en el ajuste fino (fine-tuning) y métodos de recuperación (RAG). La propuesta busca atraer a empresas con grandes volúmenes de datos propietarios y preocupaciones de privacidad.",
+        "relations": [
+          {
+            "label": "Mistral AI",
+            "type": "entity",
+            "desc": "Empresa europea de IA, lanza Mistral Forge."
+          },
+          {
+            "label": "Mistral Forge",
+            "type": "tech",
+            "desc": "Plataforma para entrenar modelos de IA personalizados desde cero."
+          },
+          {
+            "label": "OpenAI/Anthropic",
+            "type": "entity",
+            "desc": "Principales rivales, con enfoque en fine-tuning y RAG."
+          },
+          {
+            "label": "IA Personalizada/Desde Cero",
+            "type": "tech",
+            "desc": "Enfoque competitivo que enfatiza control, privacidad y especialización."
+          },
+          {
+            "label": "Datos Propietarios Empresariales",
+            "type": "resource",
+            "desc": "Activo clave que Mistral busca aprovechar con su propuesta."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Mistral está diferenciándose al atacar el segmento empresarial con alto valor en la soberanía de datos y modelos propietarios, un punto débil potencial de los proveedores de IA 'como servicio'.",
+            "Este movimiento fragmenta el mercado de IA empresarial, ofreciendo una ruta alternativa al dominio de los grandes modelos de lenguaje generalistas y podría acelerar la adopción de IA en industrias reguladas o con datos sensibles."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas de software/cloud que puedan albergar o facilitar el entrenamiento de modelos personalizados (ej. proveedores de GPU en cloud, plataformas MLOps)",
+          "risk": "MEDIUM",
+          "thesis": "La tendencia hacia modelos de IA personalizados y entrenados desde cero impulsará la demanda de infraestructura de computación de alto rendimiento (GPU), almacenamiento de datos y herramientas de gestión del ciclo de vida de modelos (MLOps), beneficiando a proveedores de estos servicios."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1686776246985?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Polémica setup código Claude",
+        "fullTitle": "Setup de código Claude de Garry Tan genera amor y odio",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "La configuración de desarrollo 'Claude Code' compartida por Garry Tan en GitHub está siendo probada por miles de personas, generando opiniones muy divididas. Incluso modelos de IA como Claude, ChatGPT y Gemini han emitido opiniones al respecto. El fenómeno destaca la creciente interacción entre herramientas de IA generativa y el desarrollo de software, y la comunidad activa que las rodea.",
+        "relations": [
+          {
+            "label": "Garry Tan",
+            "type": "entity",
+            "desc": "Inversor/figura tecnológica que compartió la configuración."
+          },
+          {
+            "label": "Claude Code",
+            "type": "tech",
+            "desc": "Configuración o flujo de trabajo para desarrollo usando IA."
+          },
+          {
+            "label": "IA Generativa para Código",
+            "type": "tech",
+            "desc": "Herramientas como Claude, ChatGPT, Gemini usadas en desarrollo."
+          },
+          {
+            "label": "Comunidad de Desarrolladores",
+            "type": "entity",
+            "desc": "Usuarios que adoptan, critican y debaten estas herramientas."
+          },
+          {
+            "label": "GitHub",
+            "type": "entity",
+            "desc": "Plataforma donde se comparte y discute el código/configuración."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La viralidad de este tipo de configuraciones muestra cómo la productividad en el desarrollo de software se está convirtiendo en un campo de batalla cultural y técnico, impulsado por figuras influyentes y feedback de la comunidad.",
+            "El hecho de que los propios modelos de IA opinen sobre su uso meta-reflexivo subraya la naturaleza recursiva y autocomentada de esta fase de la tecnología, influyendo en su propia percepción y adopción."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas que desarrollan o integran profundamente herramientas de IA generativa para desarrolladores (ej. GitHub (Microsoft), JetBrains, etc.)",
+          "risk": "LOW",
+          "thesis": "El intenso debate y experimentación comunitaria alrededor de setups como 'Claude Code' es un fuerte indicador de demanda y engagement en el espacio de IA para desarrolladores. Esto valida el mercado y sugiere un crecimiento sostenido para las plataformas que facilitan estas integraciones."
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1600179249780?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1578799263297?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
