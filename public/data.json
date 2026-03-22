@@ -1,848 +1,828 @@
 {
-  "generated_at": "2026-03-21T02:10:56.039725",
+  "generated_at": "2026-03-22T02:31:30.860596",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "美允许出售滞留伊朗石油以抑制油价",
-        "fullTitle": "美国允许出售滞留油轮上的伊朗石油及石化产品以应对中东战争导致的油价上涨",
+        "title": "古巴一周内二次大停电",
+        "fullTitle": "古巴因燃料短缺一周内遭遇第二次大停电",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "美国为应对中东战争导致的油价上涨，允许出售已装载上油轮的伊朗石油及石化产品。此举是美国抑制油价上涨的最新举措。该行动旨在通过增加市场供应来缓解燃料价格压力。这反映了美国在能源政策上的灵活调整。",
+        "summary": "古巴电力系统于周六再次发生大规模停电，这是本周内该国能源系统遭受的第二次重大打击。事件背景是美国政府的燃料禁运以及对哈瓦那当局施加的压力。停电反映了古巴能源基础设施的脆弱性，并可能加剧其国内经济和社会紧张局势。",
         "relations": [
+          {
+            "label": "古巴",
+            "type": "entity",
+            "desc": "受停电事件直接影响的国家实体"
+          },
           {
             "label": "美国",
             "type": "entity",
-            "desc": "政策制定与执行主体"
+            "desc": "实施燃料禁运的外部压力方"
           },
           {
-            "label": "伊朗",
-            "type": "entity",
-            "desc": "石油供应来源国"
-          },
-          {
-            "label": "石油",
-            "type": "resource",
-            "desc": "核心战略资源"
-          },
-          {
-            "label": "中东战争",
+            "label": "燃料禁运",
             "type": "risk",
-            "desc": "地缘政治风险与油价驱动因素"
+            "desc": "导致能源危机的关键地缘政治风险"
+          },
+          {
+            "label": "电力基础设施",
+            "type": "resource",
+            "desc": "事件的核心脆弱性所在"
           }
         ],
         "analysis": {
           "strategic": [
-            "美国在制裁伊朗与抑制国内通胀之间寻求平衡，展现了能源政策的实用主义转向。",
-            "此举可能暂时缓解油价压力，但削弱了对伊制裁的威慑力，长期可能影响制裁体系的效力。"
+            "古巴能源危机凸显了其经济对外部供应链的高度依赖，尤其是在地缘政治紧张局势下。",
+            "持续的电力中断可能引发社会不稳定，为区域地缘政治对手提供干预或施加影响的潜在机会。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "原油期货（如WTI、布伦特）",
-          "risk": "MEDIUM",
-          "thesis": "短期内增加市场供应预期，对油价构成下行压力，但需警惕地缘冲突升级带来的反转风险。"
+          "asset": "与古巴有业务往来的区域性能源或基建公司",
+          "risk": "HIGH",
+          "thesis": "古巴能源系统持续不稳定，加上外部制裁压力，将严重阻碍其经济活动和相关外国投资的回报，增加关联企业的运营与政治风险。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1541555601725?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1639744451134?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "美战略石油储备首批释放即将入市",
-        "fullTitle": "特朗普政府计划释放的1.72亿桶战略石油储备首批即将开始流入市场",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "美国总统特朗普计划释放的1.72亿桶战略石油储备，首批原油即将开始流入市场。这是美国政府为控制燃料价格而采取的最新行动。此举旨在通过增加短期供应来平抑油价。释放规模巨大，对市场心理和实际供应均有影响。",
+        "title": "特朗普威胁攻击伊朗电厂",
+        "fullTitle": "特朗普就霍尔木兹海峡问题威胁攻击伊朗电厂",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "美国总统特朗普威胁称，如果伊朗不迅速重新开放霍尔木兹海峡以恢复商业航运，美国将攻击伊朗的发电厂。此前，该海峡的石油和天然气运输已陷入瘫痪。这一言论急剧升级了美伊之间的紧张关系，并直接威胁到全球关键能源通道的安全。",
         "relations": [
           {
-            "label": "美国战略石油储备",
-            "type": "resource",
-            "desc": "国家应急能源储备"
-          },
-          {
-            "label": "特朗普政府",
+            "label": "特朗普",
             "type": "entity",
-            "desc": "政策决策主体"
+            "desc": "发出威胁的美国决策者"
           },
-          {
-            "label": "燃料价格",
-            "type": "risk",
-            "desc": "政策核心目标与民生经济指标"
-          },
-          {
-            "label": "原油市场",
-            "type": "entity",
-            "desc": "政策作用领域"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "大规模释放战略储备是应对短期价格压力的强力工具，但会消耗国家长期能源安全缓冲。",
-            "此举表明美国政府将抑制通胀的优先级置于储备安全之上，可能引发未来补库需求，对远期价格形成支撑。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "美国原油期货（CL）",
-          "risk": "LOW",
-          "thesis": "战略储备释放直接增加短期市场供应，对近月合约价格构成明确利空，效果相对直接。"
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1576789705512?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "伊朗称准备允许日籍船只通行霍尔木兹",
-        "fullTitle": "伊朗外长称经磋商后准备允许日本相关船只通过霍尔木兹海峡",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "据共同社报道，伊朗外长阿拉格希表示，在两国官员磋商后，伊朗准备允许日本相关船只通过霍尔木兹海峡。此举是在地区紧张局势下的外交姿态。旨在与特定国家保持能源通道的有限合作。可能分化美国主导的制裁联盟。",
-        "relations": [
           {
             "label": "伊朗",
             "type": "entity",
-            "desc": "海峡控制方与政策制定者"
-          },
-          {
-            "label": "日本",
-            "type": "entity",
-            "desc": "能源进口国与外交对象"
+            "desc": "被威胁方及海峡控制方"
           },
           {
             "label": "霍尔木兹海峡",
             "type": "resource",
-            "desc": "全球关键石油运输咽喉"
+            "desc": "全球能源运输的战略咽喉要道"
           },
           {
-            "label": "能源通道安全",
+            "label": "能源基础设施攻击",
             "type": "risk",
-            "desc": "全球能源供应链核心风险"
+            "desc": "战争行为，将导致冲突急剧升级"
           }
         ],
         "analysis": {
           "strategic": [
-            "伊朗通过区别对待特定国家（日本）的船只，试图打破外交孤立并确保关键收入来源。",
-            "此举可能引发其他进口国寻求类似特殊安排，削弱美国旨在封锁伊朗石油出口的‘极限施压’效果。"
+            "对关键民用基础设施（电厂）的公开威胁，标志着冲突门槛的降低，可能引发地区性军事对抗。",
+            "霍尔木兹海峡的持续封锁或军事化风险，将直接冲击全球石油供应安全与价格，迫使各国加速能源来源多元化。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "航运股/航运ETF（如STNG, EURN）",
+          "asset": "原油期货、美国页岩油生产商ETF、能源运输替代路线相关股票",
           "risk": "HIGH",
-          "thesis": "海峡通行紧张局势若因此出现有限缓和，可能降低航运保险溢价和风险溢价，利好航运公司，但地缘不确定性仍高。"
+          "thesis": "霍尔木兹海峡的军事威胁将引发全球原油供应恐慌，推高油价。同时，市场将寻求美国能源出口及绕过该海峡的运输方案作为避险。"
+        },
+        "confidence": 92,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1578292685598?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "战争冲击波波及全球经济",
+        "fullTitle": "中东战争冲击波正波及全球经济",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "自中东爆发战争以来，全球经济将迎来首次集体健康检查，形式是从美国到欧元区的商业调查数据。这些数据将揭示战争对全球商业信心、供应链和通胀预期的初步影响。市场正密切关注这些领先指标，以评估经济衰退风险。",
+        "relations": [
+          {
+            "label": "中东战争",
+            "type": "risk",
+            "desc": "引发全球经济不确定性的核心地缘政治事件"
+          },
+          {
+            "label": "商业调查",
+            "type": "entity",
+            "desc": "评估经济健康状况的关键先行数据"
+          },
+          {
+            "label": "全球供应链",
+            "type": "resource",
+            "desc": "受地缘冲突影响的脆弱环节"
+          },
+          {
+            "label": "通胀预期",
+            "type": "risk",
+            "desc": "可能因能源和供应链问题而再度抬升"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "战争引发的“不确定性冲击”正通过能源价格、贸易路线和商业信心等渠道向全球扩散，可能打断脆弱的经济复苏进程。",
+            "各国央行将面临更复杂的权衡：在应对潜在通胀压力与防止经济失速之间做出艰难决策。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "对经济增长敏感的高估值科技股、欧洲斯托克50指数",
+          "risk": "MEDIUM",
+          "thesis": "战争不确定性将压制企业资本开支和消费者信心，导致商业活动调查数据走弱，首先冲击对经济周期敏感的行业和地区市场。"
         },
         "confidence": 85,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1564869768316?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1594769770800?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "法庭文件揭示五角大楼与Anthropic谈判内情",
-        "fullTitle": "新法庭文件显示五角大楼曾告知Anthropic双方接近达成一致",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Anthropic向加州联邦法院提交宣誓声明，反驳五角大楼关于其构成‘不可接受国家安全风险’的指控。文件揭示，在特朗普宣布关系破裂一周前，五角大楼曾告知双方立场已接近一致。公司辩称政府指控基于技术误解和未在谈判中提出的主张。此事涉及AI公司与国家安全机构的复杂关系。",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "涉事AI公司"
-          },
-          {
-            "label": "五角大楼（美国国防部）",
-            "type": "entity",
-            "desc": "国家安全监管与谈判方"
-          },
-          {
-            "label": "AI安全",
-            "type": "tech",
-            "desc": "核心争议技术领域"
-          },
-          {
-            "label": "国家安全风险",
-            "type": "risk",
-            "desc": "政府评估的核心关切"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此事暴露了美国国家安全机构与前沿AI公司在技术认知、风险评估和合作框架上存在深刻分歧。",
-            "法律文件的披露可能迫使政府更透明地处理类似案例，并对其他AI公司与政府的合作谈判产生寒蝉效应或示范效应。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "AI概念股/高风险科技股",
-          "risk": "HIGH",
-          "thesis": "事件凸显了先进AI公司面临极高的政策与监管不确定性，特别是涉及国家安全领域时，可能引发市场对行业风险的重新定价。"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1658019295316?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "陪审团裁定马斯克误导推特投资者",
-        "fullTitle": "陪审团裁定马斯克在试图退出收购时误导了推特投资者",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "陪审团裁定，埃隆·马斯克在试图退出收购推特时，其关于推特机器人数量过多的言论误导了投资者。当时马斯克发推称推特机器人过多，并以此为由试图放弃收购承诺。此裁定明确了其在公开言论上的法律责任。可能影响未来科技巨头并购中的信息披露行为。",
-        "relations": [
-          {
-            "label": "埃隆·马斯克",
-            "type": "entity",
-            "desc": "特斯拉、SpaceX CEO，事件核心人物"
-          },
-          {
-            "label": "推特（Twitter）",
-            "type": "entity",
-            "desc": "被收购方与受影响公司"
-          },
-          {
-            "label": "并购交易",
-            "type": "risk",
-            "desc": "资本市场核心活动与风险来源"
-          },
-          {
-            "label": "信息披露",
-            "type": "risk",
-            "desc": "资本市场法规核心"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "裁决对具有市场影响力的个人（如马斯克）利用社交媒体影响交易的行为设立了法律警示。",
-            "这可能促使未来大型并购交易中，买方在公开渠道发表相关言论时更加谨慎，以避免法律和财务风险。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "特斯拉（TSLA）股票",
-          "risk": "MEDIUM",
-          "thesis": "马斯克个人法律风险增加，可能分散其管理精力，并影响市场对其旗下公司（尤其是特斯拉）治理水平的信心。"
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1530327796534?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "微软缩减Windows中Copilot AI入口",
-        "fullTitle": "微软开始减少Windows中Copilot AI的入口点，涉及照片等应用",
+        "title": "首条推特发布20周年",
+        "fullTitle": "首条推特发布已过去20年",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "微软正在减少Windows操作系统中Copilot AI的入口点，首先从照片、小组件、记事本等应用开始。这是对之前AI功能过度整合的一次回调。旨在优化用户体验，减少干扰。反映了微软在推广AI与保持系统简洁性之间的平衡调整。",
+        "summary": "2006年3月21日，杰克·多西发布了第一条推文：“just setting up my twittr”。这标志着推特（现X）平台的诞生。该事件是社交媒体发展史上的一个里程碑，但作为历史纪念性事件，对当前金融市场无直接即时影响。",
         "relations": [
           {
-            "label": "微软",
+            "label": "杰克·多西",
             "type": "entity",
-            "desc": "软件开发商与策略调整方"
+            "desc": "推特联合创始人及首条推文发布者"
           },
           {
-            "label": "Copilot AI",
+            "label": "推特/X",
+            "type": "entity",
+            "desc": "诞生的社交媒体平台"
+          },
+          {
+            "label": "社交媒体",
             "type": "tech",
-            "desc": "微软生成式AI助手"
-          },
-          {
-            "label": "Windows操作系统",
-            "type": "tech",
-            "desc": "AI集成平台"
-          },
-          {
-            "label": "用户体验",
-            "type": "risk",
-            "desc": "产品采纳与市场竞争关键"
+            "desc": "该事件所属的技术与行业领域"
           }
         ],
         "analysis": {
           "strategic": [
-            "微软主动回调AI入口，表明其AI集成策略从‘激进推广’转向‘精准优化’，更注重实际用户反馈和产品成熟度。",
-            "此举可能为行业设定一个标杆，即AI功能的成功不在于无处不在的曝光，而在于场景的恰当性与用户体验的流畅性。"
+            "此事件为历史回顾，凸显了社交媒体在过去20年中对全球信息传播、政治和社会运动产生的革命性影响。",
+            "目前X平台正处于商业模式转型和内容治理的争议中，其历史起源与当前挑战形成对比。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "微软（MSFT）股票",
+          "asset": "N/A",
           "risk": "LOW",
-          "thesis": "策略调整显示公司注重产品长期健康度与用户体验，而非短期噱头，有利于其AI产品的可持续发展和用户粘性。"
+          "thesis": "此为纯信息类历史事件，不构成直接的投资行动建议。关注点应放在社交媒体行业当前的竞争格局和监管环境上。"
         },
-        "confidence": 88,
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1517395118157?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "出版社因AI担忧撤回小说",
+        "fullTitle": "出版社因AI生成担忧撤回恐怖小说《害羞女孩》",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "阿歇特图书集团宣布将不会出版小说《害羞的女孩》，原因是担心该书的文本是由人工智能生成的。这一决定反映了出版业对AI生成内容（AIGC）的伦理、版权和质量标准日益增长的担忧。它可能成为行业处理类似问题的先例。",
+        "relations": [
+          {
+            "label": "阿歇特图书集团",
+            "type": "entity",
+            "desc": "做出撤回决定的出版业巨头"
+          },
+          {
+            "label": "《害羞的女孩》",
+            "type": "entity",
+            "desc": "涉事图书作品"
+          },
+          {
+            "label": "人工智能生成内容",
+            "type": "tech",
+            "desc": "引发争议的核心技术"
+          },
+          {
+            "label": "版权与伦理风险",
+            "type": "risk",
+            "desc": "AIGC在创意产业面临的主要挑战"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "主流出版社的公开拒斥行为，为创意产业的AIGC应用设立了明确的“质量与原创性”红线，可能减缓AIGC在该领域的渗透速度。",
+            "这一事件将加速出版、娱乐行业建立AIGC检测工具和内容披露标准，催生新的合规与认证服务需求。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "声称重度依赖AIGC进行内容创作的媒体或娱乐公司",
+          "risk": "MEDIUM",
+          "thesis": "行业对AIGC的审查和抵制正在加强，过度依赖该技术而未解决版权和品质问题的公司，其商业模式和声誉将面临显著风险。"
+        },
+        "confidence": 82,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1519689981600?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Delve被指控“虚假合规”",
+        "fullTitle": "合规初创公司Delve被指控误导客户进行“虚假合规”",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "一篇匿名的Substack帖子指控合规初创公司Delve“错误地”说服“数百名客户”他们已符合隐私和安全法规。指控称其行为是“虚假合规”。若指控属实，将严重损害该公司信誉，并使其客户面临监管处罚风险。",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "被指控的合规服务初创公司"
+          },
+          {
+            "label": "Substack匿名帖",
+            "type": "entity",
+            "desc": "指控的发布渠道与来源"
+          },
+          {
+            "label": "合规服务",
+            "type": "tech",
+            "desc": "Delve公司所处的业务领域"
+          },
+          {
+            "label": "监管与法律风险",
+            "type": "risk",
+            "desc": "客户及Delve自身可能面临的核心风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此次指控暴露了快速增长的企业合规服务市场中存在的质量控制与道德风险，可能引发监管机构对该细分领域的更严格审查。",
+            "事件将促使企业客户更加谨慎地选择合规服务商，从看重营销转向验证实际效能，利好具有强验证能力和透明流程的成熟服务商。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Delve公司及其直接竞争对手（若为上市公司）",
+          "risk": "HIGH",
+          "thesis": "严重的信誉危机可能导致Delve客户流失、法律诉讼及监管调查，直接威胁其生存。行业信任受损也可能波及同类型初创公司。"
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1539053371780?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1546103577207?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "US Allows Sale of Stranded Iran Oil",
-        "fullTitle": "US Allows Sale of Stranded Iran Oil to Cap Fuel-Price Rises",
+        "title": "Cuba Blackout Amid Fuel Squeeze",
+        "fullTitle": "Cuba Suffers Second Blackout in a Week Amid Fuel Embargo",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "The United States has authorized the sale of Iranian oil and petrochemicals already loaded onto tankers. This action is part of a broader strategy to mitigate rising global oil prices. The move represents a tactical easing of sanctions pressure to address immediate economic concerns stemming from Middle East conflict. It signals a pragmatic, albeit temporary, shift in US policy towards Iran's energy exports.",
+        "summary": "Cuba's electricity grid experienced a second major blackout this week. The disruption is linked to fuel shortages exacerbated by a US administration embargo. This highlights systemic energy vulnerabilities and geopolitical pressure on the Havana government. The situation risks further economic destabilization and social unrest.",
         "relations": [
           {
-            "label": "United States Government",
+            "label": "Cuba",
             "type": "entity",
-            "desc": "Primary actor implementing policy shift."
+            "desc": "Nation state facing energy crisis"
           },
           {
-            "label": "Iranian Oil Exports",
+            "label": "US Administration",
+            "type": "entity",
+            "desc": "Source of fuel embargo pressure"
+          },
+          {
+            "label": "Electricity Grid",
             "type": "resource",
-            "desc": "Target commodity for authorized sale."
+            "desc": "Critical national infrastructure"
           },
           {
-            "label": "Global Oil Prices",
-            "type": "resource",
-            "desc": "Key market variable being targeted."
-          },
-          {
-            "label": "Middle East Conflict",
+            "label": "Fuel Embargo",
             "type": "risk",
-            "desc": "Geopolitical driver of price volatility."
-          },
-          {
-            "label": "Fuel Price Inflation",
-            "type": "risk",
-            "desc": "Domestic economic pressure on US administration."
+            "desc": "Geopolitical tool causing supply shock"
           }
         ],
         "analysis": {
           "strategic": [
-            "The US is prioritizing short-term domestic economic stability (controlling fuel prices) over the long-term strategic goal of maximum pressure on Iran.",
-            "This creates a precedent for using sanctioned commodities as a market stabilization tool, potentially weakening the deterrent effect of future sanctions."
+            "The recurring blackouts signal a critical failure point in Cuba's national infrastructure, likely to accelerate economic decline and increase political pressure on the government.",
+            "The US embargo's tangible impact on energy security demonstrates the effectiveness of targeted resource denial as a geopolitical strategy, potentially emboldening similar tactics elsewhere."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Crude Oil Futures (CL)",
-          "risk": "MEDIUM",
-          "thesis": "Increased near-term supply from previously stranded Iranian barrels, combined with coordinated US SPR releases, applies downward pressure on global benchmark prices."
+          "asset": "Cuba-related sovereign debt / regional tourism ETFs",
+          "risk": "HIGH",
+          "thesis": "Deepening energy crisis will cripple economic output, worsen debt servicing capacity, and deter tourism, leading to further credit deterioration and capital flight."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1642407609040?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1588073266673?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "First US SPR Barrels to Market",
-        "fullTitle": "First US Oil Barrels From Emergency Release to Hit Market",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "The initial tranche of oil from the US Strategic Petroleum Reserve (SPR) release authorized by President Trump is imminent. This action is a direct component of the administration's campaign to control rising fuel costs. The release adds physical supply to the market to counteract perceived shortages and price spikes. Its timing and volume are calibrated for maximum psychological and physical market impact.",
+        "title": "Trump Threatens Iran Power Plants",
+        "fullTitle": "Trump Gives Iran 48-Hour Hormuz Ultimatum",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "President Trump issued a 48-hour ultimatum to Iran to reopen the Strait of Hormuz. He explicitly threatened to attack Iranian power plants if compliance is not met. This escalates military tensions in a key global oil chokepoint. The threat directly targets civilian infrastructure, raising the stakes for conflict.",
         "relations": [
           {
-            "label": "US Strategic Petroleum Reserve (SPR)",
-            "type": "resource",
-            "desc": "Source of the emergency oil release."
-          },
-          {
-            "label": "Donald Trump Administration",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Political entity authorizing the release."
+            "desc": "US President issuing ultimatum"
           },
           {
-            "label": "Global Oil Supply",
-            "type": "resource",
-            "desc": "Market factor being directly influenced."
-          },
-          {
-            "label": "Political Pressure on Fuel Prices",
-            "type": "risk",
-            "desc": "Primary motivation for the policy."
-          },
-          {
-            "label": "Market Sentiment",
-            "type": "risk",
-            "desc": "Target for psychological impact of release."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The use of the SPR as a frequent price-management tool risks depleting a critical national security asset for non-emergency economic goals.",
-            "This reinforces a pattern of politically-motivated market intervention, increasing uncertainty for long-term energy investors and producers."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "USO (US Oil Fund) / Energy Sector ETFs (XLE)",
-          "risk": "LOW",
-          "thesis": "Direct increase in near-term oil supply from a coordinated government action is bearish for oil prices and related equity valuations in the short term."
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1573765575349?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Iran Offers Japan Hormuz Access",
-        "fullTitle": "Iran Says Ready to Let Japan Vessels Use Hormuz",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Iran's Foreign Minister has indicated a willingness to grant safe passage to Japanese-affiliated vessels through the critical Strait of Hormuz. This follows diplomatic consultations between Iranian and Japanese officials. The offer appears to be a targeted goodwill gesture towards a major energy-importing nation that maintains diplomatic channels with Iran. It aims to isolate US pressure by fostering bilateral arrangements with key US allies.",
-        "relations": [
-          {
-            "label": "Iranian Government",
+            "label": "Iran",
             "type": "entity",
-            "desc": "Actor making the strategic offer."
-          },
-          {
-            "label": "Japan",
-            "type": "entity",
-            "desc": "Target recipient of the offer, key US ally."
+            "desc": "Target of military threat"
           },
           {
             "label": "Strait of Hormuz",
             "type": "resource",
-            "desc": "Geographic chokepoint for global oil transit."
+            "desc": "Critical global oil transit chokepoint"
           },
           {
-            "label": "Maritime Security",
+            "label": "Power Plants",
+            "type": "resource",
+            "desc": "Civilian infrastructure targeted"
+          },
+          {
+            "label": "Energy War",
             "type": "risk",
-            "desc": "Core issue being selectively managed by Iran."
-          },
-          {
-            "label": "Bilateral Diplomacy",
-            "type": "entity",
-            "desc": "Tool used to circumvent multilateral pressure."
+            "desc": "Conflict over energy transit and infrastructure"
           }
         ],
         "analysis": {
           "strategic": [
-            "Iran is employing a 'divide and rule' tactic, offering selective security assurances to undermine unified international opposition and sanctions enforcement.",
-            "This move tests the cohesion of US alliances by presenting Japan with a choice between US-led policy and its own energy security interests."
+            "The threat to attack civilian power plants marks a significant escalation in rhetoric, lowering the threshold for military action and potentially triggering a broader regional conflict.",
+            "A military incident in the Strait of Hormuz would cause an immediate and severe oil supply shock, triggering global market panic and forcing rapid strategic reserve releases."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Japanese Shipping Companies (e.g., Mitsui O.S.K. Lines)",
+          "asset": "Oil Futures (Brent/WTI), Defense Contractors (LMT, NOC)",
           "risk": "HIGH",
-          "thesis": "Potential for reduced war risk premiums and more secure, cost-effective transit for Japanese-affiliated vessels through Hormuz, improving operational certainty and margins."
+          "thesis": "Imminent threat to the world's most critical oil transit route creates extreme upside volatility risk for crude prices, while heightened conflict readiness benefits major defense firms."
+        },
+        "confidence": 92,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1586674255834?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "War Shockwaves Hit Global Economy",
+        "fullTitle": "War Shockwaves Ripple Through Global Economy",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The first comprehensive assessment of the global economy since the Middle East war began is forthcoming. Key business surveys from the US and Eurozone will gauge the initial impact. The data is expected to reveal supply chain disruptions, inflationary pressures, and dampened confidence. This provides a baseline for recession risk assessment.",
+        "relations": [
+          {
+            "label": "Global Economy",
+            "type": "entity",
+            "desc": "System under stress from geopolitical shock"
+          },
+          {
+            "label": "Middle East War",
+            "type": "risk",
+            "desc": "Source of geopolitical and economic shock"
+          },
+          {
+            "label": "Business Surveys (PMI)",
+            "type": "resource",
+            "desc": "Leading indicator of economic health"
+          },
+          {
+            "label": "Supply Chains",
+            "type": "risk",
+            "desc": "Vulnerable to disruption from conflict"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Upcoming PMI data will quantify the initial demand destruction and supply shock from the conflict, informing central bank policy between fighting inflation and supporting growth.",
+            "Persistent war-driven uncertainty will force multinational corporations to accelerate supply chain diversification and nearshoring, restructuring global trade flows."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Broad Global Equity Indices (MSCI World, ACWI)",
+          "risk": "MEDIUM",
+          "thesis": "Expected weak PMI data confirming a war-induced growth slowdown and persistent inflation will pressure corporate earnings multiples and lead to equity market de-rating."
         },
         "confidence": 85,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1605819321680?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1674238026178?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Anthropic Disputes Pentagon Claims",
-        "fullTitle": "Court Filing Reveals Anthropic-Pentagon Negotiation Gap",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "AI company Anthropic has filed legal declarations contesting the Pentagon's characterization of their negotiations and its national security risk assessment. The filings claim the government's case relies on technical misunderstandings and unraised claims. This follows a public declaration by Trump that the relationship was terminated. The documents reveal the two sides were nearly aligned just a week prior, highlighting a significant disconnect between political rhetoric and bureaucratic negotiation.",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "AI company in dispute with the US government."
-          },
-          {
-            "label": "US Department of Defense (Pentagon)",
-            "type": "entity",
-            "desc": "Government body alleging national security risk."
-          },
-          {
-            "label": "Advanced AI Models",
-            "type": "tech",
-            "desc": "Core technology at the center of the dispute."
-          },
-          {
-            "label": "National Security Risk Assessment",
-            "type": "risk",
-            "desc": "Primary point of contention."
-          },
-          {
-            "label": "Executive vs. Bureaucratic Policy",
-            "type": "risk",
-            "desc": "Revealed disconnect in government stance."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The incident exposes a critical vulnerability: the potential for abrupt, politically-driven policy reversals to disrupt sensitive national security partnerships with leading-edge technology firms.",
-            "It demonstrates the challenges of establishing clear, technically-grounded regulatory frameworks for dual-use AI technologies amidst political volatility."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Anthropic (Private Valuation / Future IPO)",
-          "risk": "HIGH",
-          "thesis": "Escalating, public legal battle with the US government over national security creates immense regulatory and reputational risk, threatening future contracts, partnerships, and valuation."
-        },
-        "confidence": 92,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1654608482116?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Musk Misled Twitter Investors",
-        "fullTitle": "Jury Finds Musk Misled Twitter Investors Over Bots",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "A jury has determined that Elon Musk made misleading statements to Twitter investors regarding the platform's bot count. These statements were used as justification for his attempt to withdraw from the acquisition agreement. The finding highlights the legal and financial risks associated with Musk's public communication style on material business matters. It establishes precedent for investor liability stemming from social media commentary by high-profile executives.",
-        "relations": [
-          {
-            "label": "Elon Musk",
-            "type": "entity",
-            "desc": "Individual found liable for misleading statements."
-          },
-          {
-            "label": "Twitter (now X Corp)",
-            "type": "entity",
-            "desc": "Company at the center of the acquisition dispute."
-          },
-          {
-            "label": "Social Media Commentary",
-            "type": "risk",
-            "desc": "Channel for the misleading statements."
-          },
-          {
-            "label": "Shareholder Litigation",
-            "type": "risk",
-            "desc": "Legal consequence of executive statements."
-          },
-          {
-            "label": "Market Manipulation Risk",
-            "type": "risk",
-            "desc": "Underlying concern raised by the case."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The verdict imposes a new layer of legal accountability for executives using informal platforms to discuss material corporate events, potentially chilling communication.",
-            "It reinforces the power of shareholder litigation as a check on perceived market manipulation by influential individuals, regardless of the eventual deal outcome."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Tesla (TSLA) / Musk-affiliated Companies",
-          "risk": "MEDIUM",
-          "thesis": "Increased legal and regulatory scrutiny on Musk's public statements raises governance risks and potential for future litigation, creating a persistent overhang on associated equities."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1540980445383?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Microsoft Reduces Copilot Bloat",
-        "fullTitle": "Microsoft Rolls Back Some Copilot AI Bloat on Windows",
+        "title": "20th Anniversary of First Tweet",
+        "fullTitle": "20 Years Since First Tweet by Jack Dorsey",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "Microsoft is scaling back the aggressive integration of its Copilot AI assistant within the Windows operating system. The rollback targets entry points in apps like Photos, Widgets, and Notepad. This indicates a strategic pivot in response to user feedback regarding intrusiveness and performance issues. The move reflects a more measured approach to AI product deployment, prioritizing user experience over blanket feature adoption.",
+        "summary": "March 21, 2006, marked the first tweet by Twitter co-founder Jack Dorsey. The message was 'just setting up my twittr'. This anniversary highlights the birth of a major social media and real-time information platform. It serves as a cultural milestone in digital communication.",
         "relations": [
           {
-            "label": "Microsoft",
+            "label": "Jack Dorsey",
             "type": "entity",
-            "desc": "Company adjusting its AI product strategy."
+            "desc": "Twitter co-founder and first user"
           },
           {
-            "label": "Copilot AI",
+            "label": "Twitter / X",
+            "type": "entity",
+            "desc": "Social media platform launched"
+          },
+          {
+            "label": "Microblogging",
             "type": "tech",
-            "desc": "The AI product being strategically redeployed."
+            "desc": "Communication paradigm established"
           },
           {
-            "label": "Windows OS",
+            "label": "Real-time Information",
             "type": "tech",
-            "desc": "Platform for the AI integration."
-          },
-          {
-            "label": "User Experience (UX)",
-            "type": "risk",
-            "desc": "Primary driver for the strategic pullback."
-          },
-          {
-            "label": "Product-Market Fit",
-            "type": "risk",
-            "desc": "Core challenge being addressed."
+            "desc": "Key utility of the platform"
           }
         ],
         "analysis": {
           "strategic": [
-            "Microsoft is demonstrating operational agility by quickly recalibrating its flagship AI integration based on market feedback, a positive sign for long-term product development.",
-            "This retreat from forced integration suggests a competitive realization that superior, context-aware AI utility will win over ubiquitous but intrusive presence."
+            "The anniversary underscores the lasting impact of platform-first communication tools on public discourse, market sentiment, and geopolitical narratives, despite platform ownership changes.",
+            "It highlights the evolution of social media from a novelty to a critical, albeit volatile, infrastructure for news dissemination and asset price discovery."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Microsoft (MSFT)",
+          "asset": "Social Media / Digital Ad Tech (META, GOOGL)",
           "risk": "LOW",
-          "thesis": "Responsive product management that prioritizes user experience over hype indicates disciplined execution, reducing the risk of consumer backlash and strengthening the long-term viability of its AI ecosystem."
+          "thesis": "The enduring relevance of social platforms, as evidenced by key milestones, supports the long-term thesis for digital advertising spend and user engagement, despite regulatory headwinds."
         },
-        "confidence": 86,
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1642650267741?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Publisher Pulls AI-Generated Novel",
+        "fullTitle": "Hachette Pulls 'Shy Girl' Over AI Generation Concerns",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Hachette Book Group canceled publication of the novel 'Shy Girl'. The decision was based on concerns that AI was used to generate the text. This reflects growing industry scrutiny over AI's role in creative content. It sets a precedent for publisher liability and authenticity standards.",
+        "relations": [
+          {
+            "label": "Hachette Book Group",
+            "type": "entity",
+            "desc": "Major publisher enforcing content policy"
+          },
+          {
+            "label": "Shy Girl (Novel)",
+            "type": "entity",
+            "desc": "AI-generated content in question"
+          },
+          {
+            "label": "Generative AI",
+            "type": "tech",
+            "desc": "Technology disrupting creative industries"
+          },
+          {
+            "label": "Content Authenticity",
+            "type": "risk",
+            "desc": "Legal and reputational risk for publishers"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This action establishes a clear risk management stance by a legacy content gatekeeper, potentially triggering a wave of similar policies and increasing liability for undisclosed AI use.",
+            "It accelerates the need for and value of reliable AI-content detection and provenance technology, creating a new niche in the publishing and media supply chain."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Pure-play AI Content Generation Startups (pre-IPO)",
+          "risk": "MEDIUM",
+          "thesis": "Increased scrutiny and rejection of AI-generated content by major distributors like Hachette will slow adoption, increase compliance costs, and dampen valuations for startups reliant on synthetic media."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1555638775180?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Delve Accused of Fake Compliance",
+        "fullTitle": "Delve Accused of Misleading Customers with Fake Compliance",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "An anonymous Substack post accuses compliance startup Delve of 'fake compliance'. The allegation claims Delve falsely convinced hundreds of customers they were compliant with privacy/security regulations. This poses severe legal and reputational risks for the company and its clients. It highlights systemic risks in the regulatory tech (RegTech) sector.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Compliance startup facing allegations"
+          },
+          {
+            "label": "Substack Post",
+            "type": "entity",
+            "desc": "Anonymous source of allegations"
+          },
+          {
+            "label": "Regulatory Compliance",
+            "type": "risk",
+            "desc": "Core service allegedly falsified"
+          },
+          {
+            "label": "RegTech Sector",
+            "type": "tech",
+            "desc": "Industry facing credibility crisis"
+          },
+          {
+            "label": "GDPR / Privacy Laws",
+            "type": "risk",
+            "desc": "Regulations potentially violated"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The allegations, if proven, expose a critical failure point in the RegTech ecosystem, where startups may prioritize sales over substantive compliance, creating massive latent liability for enterprise clients.",
+            "This event will trigger intense due diligence from corporations and investors on RegTech providers, favoring established auditors and slowing venture capital flow into the sector."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Delve (if privately traded) / RegTech ETF (if public)",
+          "risk": "HIGH",
+          "thesis": "Credibility-destroying allegations will lead to client attrition, lawsuits, regulatory investigations, and a funding freeze, potentially causing a total collapse of the startup and contagion in the RegTech space."
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1600759451818?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1632540795400?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "EEUU permite venta petróleo iraní",
-        "fullTitle": "EEUU permite venta de petróleo iraní varado para contener precios",
+        "title": "Segundo apagón en Cuba",
+        "fullTitle": "Cuba sufre segundo apagón en una semana por embargo de combustible",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Estados Unidos autoriza la venta de cargamentos de petróleo y productos petroquímicos iraníes ya cargados en buques cisterna. Esta medida forma parte de los esfuerzos de la administración para contrarrestar el alza de precios del crudo provocada por el conflicto en Oriente Medio. La acción busca aumentar la oferta global de energía y aliviar la presión inflacionaria. Representa un ajuste táctico en la política de sanciones contra Irán.",
+        "summary": "La red eléctrica de Cuba sufrió un nuevo apagón importante el sábado, el segundo en una semana. La crisis energética se debe al embargo de combustible impuesto por la administración estadounidense y a la presión sobre el gobierno de La Habana. Esto refleja la vulnerabilidad de la infraestructura crítica del país ante sanciones externas. La situación podría desestabilizar aún más la economía y la sociedad cubanas.",
         "relations": [
           {
-            "label": "Estados Unidos",
+            "label": "Cuba",
             "type": "entity",
-            "desc": "Gobierno que autoriza la medida"
+            "desc": "País bajo embargo de combustible y presión política"
           },
           {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País productor de petróleo sancionado"
-          },
-          {
-            "label": "Petróleo",
+            "label": "Red Eléctrica Cubana",
             "type": "resource",
-            "desc": "Commodity energético clave"
+            "desc": "Infraestructura crítica vulnerable y bajo estrés"
           },
           {
-            "label": "Guerra en Oriente Medio",
+            "label": "Embargo de Combustible (EE.UU.)",
             "type": "risk",
-            "desc": "Conflicto geopolítico que afecta precios"
+            "desc": "Factor geopolítico que desencadena la crisis energética"
           },
           {
-            "label": "Precios del combustible",
-            "type": "risk",
-            "desc": "Variable económica y política sensible"
+            "label": "Gobierno de La Habana",
+            "type": "entity",
+            "desc": "Entidad política bajo presión interna y externa"
           }
         ],
         "analysis": {
           "strategic": [
-            "EEUU flexibiliza temporalmente sanciones energéticas por objetivos macroeconómicos internos (control de inflación).",
-            "La medida podría debilitar la postura negociadora a largo plazo frente a Irán al utilizar su petróleo como herramienta de mercado."
+            "La dependencia energética de Cuba la hace extremadamente vulnerable a las sanciones, lo que podría acelerar una crisis humanitaria o un cambio político.",
+            "La interrupción del suministro de energía en un estado controlado centralmente puede erosionar rápidamente la estabilidad social y la legitimidad del gobierno."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Futuros de crudo WTI / Brent",
-          "risk": "MEDIUM",
-          "thesis": "Aumento de oferta global por liberación de crudo iraní varado y reservas estratégicas, presionando precios a la baja a corto plazo."
+          "asset": "Empresas estatales cubanas / Bonos soberanos de Cuba (si son accesibles)",
+          "risk": "HIGH",
+          "thesis": "El deterioro de la infraestructura crítica y la presión geopolítica continua probablemente debilitarán aún más la ya frágil economía cubana, afectando a cualquier activo vinculado a ella."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1500248297546?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1569217000534?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Primer crudo de reservas EEUU llega",
-        "fullTitle": "Primeros barriles de petróleo de reservas emergencia EEUU llegan al mercado",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Los primeros barriles de petróleo del plan de liberación de 172 millones de barriles de las reservas estratégicas anunciado por el presidente Trump comenzarán a llegar pronto al mercado. Esta acción es la última de una serie de movimientos de la administración para controlar los precios de los combustibles. El volumen significativo pretende suplir desajustes temporales de oferta. El impacto en el mercado dependerá de la velocidad de entrega y la demanda concurrente.",
+        "title": "Trump amenaza plantas de Irán",
+        "fullTitle": "Trump da 48 horas a Irán sobre Hormuz, amenaza plantas eléctricas",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "El presidente Donald Trump amenazó con atacar las plantas de energía de Irán si el país no reabre rápidamente el Estrecho de Hormuz al tráfico comercial. El paso de cargamentos de petróleo y gas está paralizado. Este ultimátum de 48 horas eleva drásticamente el riesgo de una escalada militar directa. Una interrupción prolongada en Hormuz tendría un impacto severo en los flujos globales de energía.",
         "relations": [
           {
             "label": "Donald Trump",
             "type": "entity",
-            "desc": "Presidente de EEUU que ordena la liberación"
+            "desc": "Presidente de EE.UU. emitiendo ultimátum militar"
           },
-          {
-            "label": "Reservas Estratégicas de Petróleo (SPR)",
-            "type": "resource",
-            "desc": "Reservas gubernamentales de crudo para emergencias"
-          },
-          {
-            "label": "Mercado petrolero",
-            "type": "entity",
-            "desc": "Mercado global de commodities"
-          },
-          {
-            "label": "Precios del combustible",
-            "type": "risk",
-            "desc": "Foco de política doméstica"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "EEUU utiliza herramientas de política energética (SPR) con fines de política económica doméstica, priorizando el control de precios sobre la seguridad de reservas.",
-            "La liberación masiva reduce el colchón de seguridad energética de EEUU, aumentando la vulnerabilidad ante futuras crisis de suministro."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETF de energía (XLE) / Empresas shale puro",
-          "risk": "HIGH",
-          "thesis": "Inyección de oferta gubernamental suprime precios y márgenes para productores, especialmente aquellos con costos más altos. Riesgo alto por volatilidad geopolítica."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1614868065419?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Irán ofrece paso seguro a Japón",
-        "fullTitle": "Irán dice listo para permitir paso de buques japoneses por Hormuz",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El ministro de Exteriores iraní, Abbas Araghchi, declaró que su país está preparado para permitir el paso de buques relacionados con Japón por el Estrecho de Ormuz tras consultas entre funcionarios de ambos países. El anuncio fue reportado por la agencia Kyodo News. Esta medida parece un gesto diplomático para aislar a EEUU y asegurar clientes para su petróleo. El Estrecho de Ormuz es un punto de estrangulamiento crítico para el transporte global de crudo.",
-        "relations": [
           {
             "label": "Irán",
             "type": "entity",
-            "desc": "País que controla un lado del estrecho"
+            "desc": "País objetivo de amenazas militares por el control del estrecho"
           },
           {
-            "label": "Japón",
-            "type": "entity",
-            "desc": "Importador clave de energía que busca garantías"
-          },
-          {
-            "label": "Estrecho de Ormuz",
+            "label": "Estrecho de Hormuz",
             "type": "resource",
-            "desc": "Paso marítimo estratégico para el petróleo"
+            "desc": "Punto de estrangulamiento crítico para el transporte mundial de petróleo"
           },
           {
-            "label": "Diplomacia energética",
+            "label": "Plantas de Energía Iraníes",
+            "type": "resource",
+            "desc": "Infraestructura civil identificada como objetivo militar potencial"
+          },
+          {
+            "label": "Escalada Militar",
             "type": "risk",
-            "desc": "Uso del acceso a recursos como herramienta política"
+            "desc": "Riesgo principal que impulsa la volatilidad del mercado"
           }
         ],
         "analysis": {
           "strategic": [
-            "Irán busca fracturar el frente unido de sanciones haciendo acuerdos bilaterales con grandes consumidores como Japón, debilitando la presión colectiva.",
-            "La garantía de tránsito para un país aliado de EEUU reduce temporalmente el riesgo premium en los precios del petróleo, pero la tensión subyacente persiste."
+            "La amenaza de atacar infraestructura civil (plantas de energía) marca una peligrosa escalada en la retórica y las opciones militares, aumentando la probabilidad de un conflicto ampliado.",
+            "El control del Estrecho de Hormuz sigue siendo el principal punto de apalancamiento geopolítico de Irán y un riesgo sistémico para la economía global."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Navieras / ETF de transporte global (SEA)",
-          "risk": "MEDIUM",
-          "thesis": "Reducción del riesgo de interrupción en un chokepoint crítico es positivo para las compañías de transporte marítimo y los costos logísticos."
+          "asset": "Petróleo Brent (BZ=F), ETF de energía (XLE), empresas de defensa (LMT, NOC)",
+          "risk": "HIGH",
+          "thesis": "El riesgo de interrupción del suministro en el principal corredor de petróleo del mundo impulsará los precios de la energía. Una escalada militar beneficiaría al sector de defensa."
         },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1689436416443?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 92,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1652008287103?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Pentágono y Anthropic casi alineados",
-        "fullTitle": "Nuevo documento judicial revela que Pentágono y Anthropic casi alineados",
-        "classification": "TOP SECRET",
+        "title": "Ondas de choque de guerra en economía",
+        "fullTitle": "Ondas de choque de guerra se extienden por la economía global",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Un nuevo documento judicial revela que el Pentágono informó a Anthropic que ambas partes estaban casi alineadas, una semana después de que Trump declarara terminada la relación. Anthropic presentó declaraciones juradas rechazando la afirmación del Pentágono de que la empresa de IA representa un \"riesgo inaceptable para la seguridad nacional\". La empresa argumenta que el caso del gobierno se basa en malentendidos técnicos y reclamos no planteados durante las negociaciones.",
+        "summary": "Las ondas de choque del conflicto en Medio Oriente se están propagando por la economía global. Los primeros indicadores de salud económica colectiva desde el estallido de la guerra llegarán en forma de encuestas empresariales desde EE.UU. hasta la zona euro. Estos datos serán cruciales para evaluar el impacto en la confianza, la producción y la inflación. Se anticipa un deterioro en los indicadores de sentimiento.",
         "relations": [
           {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "Compañía de IA en disputa con el gobierno"
-          },
-          {
-            "label": "Pentágono (DoD)",
-            "type": "entity",
-            "desc": "Departamento de Defensa de EEUU"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente que declaró rota la relación"
-          },
-          {
-            "label": "IA (Inteligencia Artificial)",
-            "type": "tech",
-            "desc": "Tecnología central de la disputa"
-          },
-          {
-            "label": "Seguridad Nacional",
+            "label": "Guerra en Medio Oriente",
             "type": "risk",
-            "desc": "Riesgo alegado por el gobierno"
+            "desc": "Evento geopolítico desencadenante de la incertidumbre económica"
+          },
+          {
+            "label": "Economía Global",
+            "type": "entity",
+            "desc": "Sistema bajo presión por shocks externos"
+          },
+          {
+            "label": "Encuestas Empresariales (PMI)",
+            "type": "resource",
+            "desc": "Indicador adelantado clave para medir el impacto"
+          },
+          {
+            "label": "Zona Euro",
+            "type": "entity",
+            "desc": "Región económica particularmente vulnerable a shocks energéticos"
+          },
+          {
+            "label": "Inflación",
+            "type": "risk",
+            "desc": "Riesgo secundario de un posible repunte de precios"
           }
         ],
         "analysis": {
           "strategic": [
-            "Existe una brecha significativa entre las declaraciones políticas públicas (Trump) y las negociaciones técnicas en curso (Pentágono), creando incertidumbre regulatoria.",
-            "El caso subraya la creciente tensión entre la innovación en IA del sector privado y los controles de seguridad nacional, afectando la inversión en el sector."
+            "La guerra actúa como un shock de oferta negativo y un golpe a la confianza, lo que podría frenar el crecimiento global justo cuando las economías luchan contra la inflación.",
+            "Los datos de las encuestas empresariales serán el primer termómetro fiable del daño colateral económico, guiando las decisiones de los bancos centrales."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (privado) / ETF de IA y robótica (IRBO)",
-          "risk": "HIGH",
-          "thesis": "La incertidumbre regulatoria y el conflicto público con el gobierno suponen un riesgo elevado para la valoración y el crecimiento de Anthropic y generan cautela en el sector."
+          "asset": "Índices bursátiles globales (SPX, STOXX50), bonos corporativos de alto rendimiento (HYG)",
+          "risk": "MEDIUM",
+          "thesis": "El deterioro esperado en los datos de actividad y confianza empresarial probablemente pesará sobre los mercados de riesgo, especialmente en un entorno de tipos de interés aún restrictivos."
         },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1501806013909?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1508256223619?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Musk engañó a inversores Twitter",
-        "fullTitle": "Jurado dictamina que Musk engañó a inversores de Twitter",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Un jurado ha dictaminado que Elon Musk engañó a los inversores de Twitter cuando intentaba retirarse de la adquisición de la compañía. En ese momento, Musk tuiteó que Twitter tenía demasiados bots, razón por la cual intentaba renunciar a su compromiso de comprar la empresa. El fallo judicial establece responsabilidad por declaraciones engañosas. Esto podría tener implicaciones legales y financieras para Musk y sentar un precedente para la comunicación de ejecutivos en redes sociales.",
-        "relations": [
-          {
-            "label": "Elon Musk",
-            "type": "entity",
-            "desc": "CEO de Tesla y SpaceX, demandado"
-          },
-          {
-            "label": "Twitter (X Corp)",
-            "type": "entity",
-            "desc": "Plataforma de redes sociales adquirida"
-          },
-          {
-            "label": "Inversores",
-            "type": "entity",
-            "desc": "Accionistas perjudicados"
-          },
-          {
-            "label": "Bots / Cuentas falsas",
-            "type": "risk",
-            "desc": "Argumento central de la disputa"
-          },
-          {
-            "label": "Regulación SEC",
-            "type": "risk",
-            "desc": "Marco regulatorio de mercados"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El fallo refuerza el principio de que las declaraciones de figuras públicas en redes sociales pueden tener consecuencias legales por manipulación de mercado.",
-            "Aumenta el riesgo reputacional y legal para CEOs que utilizan plataformas personales para comentarios sobre operaciones corporativas sensibles."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Tesla (TSLA)",
-          "risk": "HIGH",
-          "thesis": "Mayor riesgo de litigios y daño reputacional para Musk podría generar volatilidad en las acciones de Tesla, dada su fuerte asociación con la figura del CEO."
-        },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1588883912524?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Microsoft reduce integración Copilot",
-        "fullTitle": "Microsoft reduce puntos de entrada de Copilot AI en Windows",
+        "title": "20 años del primer tuit",
+        "fullTitle": "Se cumplen 20 años desde el primer tuit de Jack Dorsey",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "Microsoft está reduciendo los puntos de entrada de su asistente de IA Copilot en el sistema operativo Windows. La retirada comenzará con aplicaciones como Fotos, Widgets, Bloc de notas y otras. Este movimiento representa un retroceso en la estrategia de integración agresiva de IA en todas las experiencias del usuario. La compañía parece responder a comentarios de usuarios sobre saturación o problemas de usabilidad.",
+        "summary": "El 21 de marzo de 2006, Jack Dorsey publicó el primer mensaje en la plataforma que luego se convertiría en X (anteriormente Twitter). El mensaje decía 'just setting up my twittr'. Este hito marca dos décadas de evolución de las redes sociales y su profundo impacto en la comunicación, la política y los mercados. El aniversario es principalmente un hecho histórico-cultural.",
         "relations": [
           {
-            "label": "Microsoft",
+            "label": "Jack Dorsey",
             "type": "entity",
-            "desc": "Compañía de software que ajusta su producto"
+            "desc": "Cofundador de Twitter/X y figura clave en redes sociales"
           },
           {
-            "label": "Copilot",
+            "label": "Twitter / X",
+            "type": "entity",
+            "desc": "Plataforma de redes sociales y microblogging"
+          },
+          {
+            "label": "Redes Sociales",
             "type": "tech",
-            "desc": "Asistente de IA de Microsoft"
+            "desc": "Sector tecnológico transformador de la comunicación"
           },
           {
-            "label": "Windows",
+            "label": "Comunicación en Tiempo Real",
             "type": "tech",
-            "desc": "Sistema operativo"
-          },
-          {
-            "label": "Experiencia de usuario (UX)",
-            "type": "risk",
-            "desc": "Foco del cambio de estrategia"
+            "desc": "Tecnología y paradigma popularizado por la plataforma"
           }
         ],
         "analysis": {
           "strategic": [
-            "Microsoft adopta un enfoque más iterativo y centrado en el usuario para la integración de IA, priorizando la utilidad sobre la omnipresencia tras el feedback inicial.",
-            "El retroceso sugiere que la carrera por implementar IA generativa en productos está entrando en una fase de consolidación y ajuste, tras la fase inicial de despliegue masivo."
+            "El aniversario subraya la velocidad a la que las tecnologías de la información pueden evolucionar de proyectos simples a infraestructuras sociales globales con poder de mercado.",
+            "Reflexiona sobre cómo las plataformas de información en tiempo real han cambiado fundamentalmente la dinámica de los ciclos de noticias, la opinión pública y la volatilidad del mercado."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Microsoft (MSFT)",
+          "asset": "Meta Platforms (META), Alphabet (GOOGL)",
           "risk": "LOW",
-          "thesis": "La respuesta ágil al feedback del usuario demuestra madurez en el desarrollo de productos y reduce el riesgo de rechazo del mercado, fortaleciendo la propuesta de IA a largo plazo."
+          "thesis": "El aniversario es neutral para X, pero refuerza la tesis de la durabilidad y el poder de red de las principales plataformas de comunicación social establecidas a largo plazo."
         },
-        "confidence": 86,
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1655162237413?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Editorial retira novela por IA",
+        "fullTitle": "Editorial retira novela de terror 'Shy Girl' por preocupaciones de IA",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Hachette Book Group anunció que no publicará la novela de terror 'Shy Girl' debido a preocupaciones de que se utilizó inteligencia artificial para generar el texto. Esta decisión refleja la creciente sensibilidad y debate dentro de la industria editorial sobre el uso de IA en la creación de contenido. Establece un precedente para el escrutinio de la autoría y la originalidad. Podría impulsar la demanda de herramientas de detección de IA.",
+        "relations": [
+          {
+            "label": "Hachette Book Group",
+            "type": "entity",
+            "desc": "Gran editorial tomando una postura contra el contenido generado por IA"
+          },
+          {
+            "label": "'Shy Girl'",
+            "type": "entity",
+            "desc": "Novela de terror retirada, caso de estudio"
+          },
+          {
+            "label": "Inteligencia Artificial Generativa",
+            "type": "tech",
+            "desc": "Tecnología en el centro de la controversia"
+          },
+          {
+            "label": "Industria Editorial",
+            "type": "entity",
+            "desc": "Sector que enfrenta disrupción y dilemas éticos por la IA"
+          },
+          {
+            "label": "Detección de IA / Autenticidad",
+            "type": "tech",
+            "desc": "Área de posible crecimiento por mayor escrutinio"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las principales empresas de contenidos están estableciendo líneas rojas contra el contenido generado por IA no declarado, protegiendo su marca y la confianza del consumidor.",
+            "Este caso acelera la necesidad y el mercado de soluciones de verificación de autoría y detección de IA, creando un nuevo nicho en seguridad de contenidos."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas de software de integridad de contenidos / derechos digitales (ej. Turnitin, Copyleaks si son públicas)",
+          "risk": "MEDIUM",
+          "thesis": "La presión regulatoria y de la industria para identificar contenido generado por IA impulsará la demanda de herramientas de verificación y autenticación, beneficiando a los proveedores especializados."
+        },
+        "confidence": 82,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1505768702067?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Delve acusado de cumplimiento falso",
+        "fullTitle": "Delve acusado de engañar clientes con 'cumplimiento falso'",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Una publicación anónima en Substack acusa a la startup de cumplimiento Delve de 'falsamente' convencer a 'cientos de clientes' de que cumplían con las regulaciones de privacidad y seguridad. La acusación sugiere prácticas engañosas o deficientes en la evaluación del cumplimiento normativo. Esto plantea riesgos legales y reputacionales significativos para Delve y sus clientes. Podría desencadenar investigaciones regulatorias y pérdida de confianza en el sector.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Startup de cumplimiento (compliance) acusada de prácticas engañosas"
+          },
+          {
+            "label": "Cumplimiento Normativo (Compliance)",
+            "type": "risk",
+            "desc": "Área de servicio central bajo escrutinio por fraude potencial"
+          },
+          {
+            "label": "Publicación Anónima (Substack)",
+            "type": "entity",
+            "desc": "Canal de denuncia que desencadena la crisis"
+          },
+          {
+            "label": "Clientes de Delve",
+            "type": "entity",
+            "desc": "Entidades potencialmente expuestas a riesgos regulatorios y legales"
+          },
+          {
+            "label": "Reguladores de Privacidad/Seguridad",
+            "type": "entity",
+            "desc": "Autoridades que podrían iniciar investigaciones"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Las acusaciones, si son ciertas, exponen un riesgo sistémico en el ecosistema de 'compliance-as-a-service': la dependencia de evaluaciones de terceros no verificadas.",
+            "Este escándalo podría llevar a una mayor diligencia debida por parte de los clientes y a una posible consolidación regulatoria en el sector de la tecnología de cumplimiento, favoreciendo a actores establecidos."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Delve (si es empresa cotizada) / ETF de ciberseguridad con exposición a startups (CIBR) con cautela",
+          "risk": "HIGH",
+          "thesis": "Las acusaciones de 'cumplimiento falso' son existenciales para una startup en este espacio, lo que podría llevar a la pérdida de clientes, demandas y el colapso del negocio. Podría generar desconfianza en el sector."
+        },
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1553059923265?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1657209616691?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
