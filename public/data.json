@@ -1,838 +1,598 @@
 {
-  "generated_at": "2026-03-23T02:32:32.463650",
+  "generated_at": "2026-03-24T02:25:42.763846",
   "version": "1.0",
   "languages": {
-    "zh": [
+    "zh": [],
+    "en": [
       {
-        "title": "中石化削减化学品支出",
-        "fullTitle": "中石化因利润压力拟削减化学品资本支出",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "中石化报告去年利润下滑超预期，面临利润压力。公司为今年设定了灵活的预算目标，并暗示资本支出可能削减高达20%。此举反映了石化行业面临的盈利挑战和成本控制需求。削减支出可能影响其化学品业务的扩张和市场份额。",
-        "relations": [
-          {
-            "label": "中石化",
-            "type": "entity",
-            "desc": "中国石油化工股份有限公司，全球最大石化企业之一"
-          },
-          {
-            "label": "化学品",
-            "type": "resource",
-            "desc": "石化产业链下游产品，面临需求与利润压力"
-          },
-          {
-            "label": "资本支出",
-            "type": "risk",
-            "desc": "企业投资缩减，反映行业景气度下行与现金流压力"
-          },
-          {
-            "label": "利润下滑",
-            "type": "risk",
-            "desc": "行业周期性下行与成本压力导致盈利恶化"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "中石化削减支出反映全球石化行业进入紧缩周期，企业优先保障现金流与股东回报。",
-            "中国能源巨头调整投资策略，可能影响全球化学品供应格局与定价权。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "石化板块股票/相关大宗商品",
-          "risk": "MEDIUM",
-          "thesis": "行业龙头削减资本开支预示行业景气度下行，盈利压力可能持续，相关资产承压。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1516099866003?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "铜价跌至三个月低点",
-        "fullTitle": "铜价因全球增长担忧跌至三个月低点",
+        "title": "Markets Pare Gains, Oil Rebounds",
+        "fullTitle": "Stocks Pare Gains, Oil Rebounds With Iran in Focus",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "铜价延续跌势，跌至三个多月以来的最低水平。中东战争削弱了金融市场的风险偏好。冲突引发了对全球通胀和经济增长的担忧。铜作为经济晴雨表，其价格下跌反映了市场对宏观前景的悲观预期。",
+        "summary": "Asian stocks pared early gains and US equity futures fell as optimism over Middle East de-escalation faded. Gold extended its slump, heading for a record losing streak. The market focus remains squarely on geopolitical tensions involving Iran, driving volatility in risk assets and safe havens.",
         "relations": [
           {
-            "label": "铜",
+            "label": "Iran",
+            "type": "entity",
+            "desc": "Geopolitical focal point driving market volatility"
+          },
+          {
+            "label": "Crude Oil",
             "type": "resource",
-            "desc": "重要工业金属，全球经济增长与工业活动的风向标"
+            "desc": "Key commodity rebounding on geopolitical risk"
           },
           {
-            "label": "中东战争",
-            "type": "risk",
-            "desc": "地缘政治冲突，引发能源价格波动与增长不确定性"
+            "label": "Gold",
+            "type": "resource",
+            "desc": "Safe-haven asset on a record losing streak"
           },
           {
-            "label": "全球增长",
-            "type": "risk",
-            "desc": "市场对经济前景的担忧加剧，压制风险资产"
+            "label": "Asian Equities",
+            "type": "entity",
+            "desc": "Asset class paring gains on fading optimism"
           },
           {
-            "label": "风险偏好",
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "投资者情绪转向避险，撤离大宗商品等风险资产"
+            "desc": "Primary market driver from Middle East tensions"
           }
         ],
         "analysis": {
           "strategic": [
-            "铜价下跌预示全球制造业与建筑业活动可能放缓，需警惕经济衰退风险。",
-            "地缘冲突通过能源渠道影响通胀预期与增长，大宗商品价格波动性加剧。"
+            "Market sentiment remains fragile and highly reactive to geopolitical headlines, indicating a low-conviction trading environment.",
+            "The divergent performance between oil (rebounding) and gold (slumping) suggests a complex risk assessment by investors, potentially viewing the Iran situation as contained for now."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "铜期货/矿业股",
+          "asset": "Gold Futures (GC)",
           "risk": "MEDIUM",
-          "thesis": "增长担忧与避险情绪主导市场，铜价短期承压，做空相关资产以对冲经济下行风险。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1516263940721?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "全球债券收益率攀升",
-        "fullTitle": "中东冲突推高全球债券收益率，颠覆降息预期",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "全球债券收益率正在上升。中东冲突导致能源成本飙升，促使交易员押注各国央行将加息以应对通胀。这颠覆了市场此前对央行降息的预期。债券市场正重新定价利率路径。",
-        "relations": [
-          {
-            "label": "全球债券收益率",
-            "type": "entity",
-            "desc": "全球无风险利率的基准，反映通胀预期与货币政策路径"
-          },
-          {
-            "label": "中东冲突",
-            "type": "risk",
-            "desc": "地缘政治风险推高能源价格，引发二次通胀担忧"
-          },
-          {
-            "label": "央行加息预期",
-            "type": "risk",
-            "desc": "市场预期货币政策将因通胀压力而再度收紧"
-          },
-          {
-            "label": "能源成本",
-            "type": "resource",
-            "desc": "冲突导致油价上涨，是推高通胀预期的关键输入变量"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "地缘政治风险正重塑全球货币政策预期，“高利率维持更久”可能成为新常态。",
-            "债券市场波动加剧，反映出通胀与增长之间的政策两难，增加全球金融稳定性风险。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "长期国债/债券ETF",
-          "risk": "HIGH",
-          "thesis": "通胀预期回升与加息押注导致债券价格下跌、收益率上升，做空长期债券以对冲利率风险。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1689098587616?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "SEC结束对法拉第未来调查",
-        "fullTitle": "美国SEC结束对电动汽车初创公司法拉第未来长达四年的调查",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "美国证券交易委员会（SEC）结束了对其长达四年的调查。此前SEC发出了多份传票并进行了多次取证。这家陷入困境的初创公司再次躲过一劫。监管风险的解除为其争取了喘息时间。",
-        "relations": [
-          {
-            "label": "法拉第未来",
-            "type": "entity",
-            "desc": "美国电动汽车初创公司，长期面临财务与运营困境"
-          },
-          {
-            "label": "美国SEC",
-            "type": "entity",
-            "desc": "美国证券交易委员会，金融市场监管机构"
-          },
-          {
-            "label": "监管调查",
-            "type": "risk",
-            "desc": "长期悬而未决的法律与合规风险，影响公司融资与运营"
-          },
-          {
-            "label": "电动汽车初创公司",
-            "type": "tech",
-            "desc": "高风险、高烧钱的行业，生存环境严峻"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "监管调查结束移除了法拉第未来的一项重大不确定性，但公司根本性的生存与融资挑战仍未解决。",
-            "此事反映了对新兴科技公司监管的复杂性与长期性，合规成本是初创企业的重要负担。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "法拉第未来股票",
-          "risk": "HIGH",
-          "thesis": "尽管监管风险暂时解除，但公司基本面极度脆弱，现金流紧张，长期生存能力存疑，股价反弹或是做空机会。"
+          "thesis": "Gold's extended slump and record losing streak indicate a breakdown in its safe-haven status amid perceived de-escalation, presenting a tactical short opportunity with tight stops in case of renewed escalation."
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1565643706975?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1697664133086?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "黄仁勋GTC演讲引热议",
-        "fullTitle": "黄仁勋GTC主题演讲引发对英伟达未来的讨论",
-        "classification": "RESTRICTED",
+        "title": "Japan Eyes Oil Futures Intervention",
+        "fullTitle": "Japan Sounds Out Market on Oil Futures Intervention",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "最新一期Equity播客回顾了CEO黄仁勋的GTC主题演讲。播客就演讲内容对英伟达未来的意义进行了辩论。GTC是英伟达展示其技术路线图和生态系统的关键活动。市场关注其AI领导地位的可持续性。",
+        "summary": "Japan's Finance Ministry has reportedly inquired with market participants about potential intervention in crude oil futures. This move appears aimed at easing pressure on both the commodity price and the Japanese yen, which is sensitive to energy import costs.",
         "relations": [
           {
-            "label": "英伟达",
+            "label": "Japan Ministry of Finance",
             "type": "entity",
-            "desc": "全球AI芯片与计算平台领导者"
+            "desc": "Government entity probing market intervention"
           },
           {
-            "label": "黄仁勋",
+            "label": "Crude Oil Futures",
+            "type": "resource",
+            "desc": "Potential target for Japanese market intervention"
+          },
+          {
+            "label": "Japanese Yen (JPY)",
             "type": "entity",
-            "desc": "英伟达联合创始人兼CEO"
+            "desc": "Currency under pressure from high energy costs"
           },
           {
-            "label": "GTC",
-            "type": "tech",
-            "desc": "英伟达GPU技术大会，发布重要产品与战略"
+            "label": "Market Intervention",
+            "type": "risk",
+            "desc": "Sovereign risk of direct market action"
           },
           {
-            "label": "AI未来",
-            "type": "tech",
-            "desc": "市场对AI技术演进、竞争格局及英伟达护城河的关注"
+            "label": "Energy Import Dependency",
+            "type": "risk",
+            "desc": "Structural vulnerability for resource-poor nations"
           }
         ],
         "analysis": {
           "strategic": [
-            "英伟达通过GTC持续强化其AI生态系统的领导力，但市场开始关注其增长峰值与竞争威胁。",
-            "CEO的演讲是观察英伟达技术路线图、客户绑定与下一增长曲线的关键窗口。"
+            "Japan's actions signal a growing willingness among net-importing nations to consider non-traditional tools (beyond currency markets) to manage inflationary and currency pressures from volatile commodities.",
+            "This probe creates an asymmetric risk profile for oil shorts, as verbal or actual intervention could trigger a sharp, policy-driven rally, especially if other importers follow suit."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "英伟达股票",
+          "asset": "USD/JPY",
           "risk": "MEDIUM",
-          "thesis": "英伟达在AI基础设施领域仍具绝对优势，GTC展示的技术与生态进展巩固其长期增长逻辑，回调或是买入机会。"
+          "thesis": "Japanese intervention to cap oil prices is indirectly supportive of the yen by mitigating a key inflationary and trade deficit driver. A successful cap could reduce pressure for BoJ policy tightening, sustaining the yen's yield disadvantage."
         },
-        "confidence": 90,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1601555286362?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1520625224628?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Cursor承认使用Kimi模型",
-        "fullTitle": "Cursor承认其新编程模型基于月之暗面Kimi构建",
-        "classification": "CONFIDENTIAL",
+        "title": "Australian Miners Jump on Trump",
+        "fullTitle": "Australian Miners Jump Most in a Year on Trump's Iran Remarks",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Cursor承认其新的编程模型是在月之暗面公司的Kimi模型之上构建的。在当前环境下，基于中国模型进行构建感觉特别棘手。这涉及AI模型供应链、技术依赖与地缘政治风险。事件凸显了全球AI竞赛中的技术交织与潜在风险。",
+        "summary": "Australian mining stocks recorded their largest gain in nearly a year following President Trump's decision to postpone attacks on Iran's energy infrastructure. The rally reflects a relief trade based on reduced immediate risk of a major supply disruption in the Middle East.",
         "relations": [
           {
-            "label": "Cursor",
+            "label": "Australian Mining Stocks",
             "type": "entity",
-            "desc": "AI编程助手工具开发商"
+            "desc": "Sector rallying on geopolitical de-escalation"
           },
           {
-            "label": "月之暗面",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "中国AI初创公司，推出Kimi大模型"
+            "desc": "US President whose remarks drove market move"
           },
           {
-            "label": "Kimi模型",
-            "type": "tech",
-            "desc": "由中国公司开发的大语言模型"
+            "label": "Iran Energy Infrastructure",
+            "type": "resource",
+            "desc": "Potential target, now spared from immediate attack"
           },
           {
-            "label": "技术依赖",
+            "label": "Geopolitical Relief Rally",
             "type": "risk",
-            "desc": "美国AI工具底层依赖中国技术，引发供应链与安全担忧"
+            "desc": "Market dynamic of buying on reduced tension"
           },
           {
-            "label": "地缘政治",
-            "type": "risk",
-            "desc": "中美科技竞争背景下，技术合作与供应链面临审查与风险"
+            "label": "Commodity Cyclicals",
+            "type": "entity",
+            "desc": "Equity sector highly sensitive to global growth/risk sentiment"
           }
         ],
         "analysis": {
           "strategic": [
-            "此事暴露了全球AI创新链的复杂性，技术跨国流动与地缘政治壁垒产生矛盾。",
-            "中国AI模型能力得到国际认可并进入实际应用链，但可能引发西方市场对其数据安全与合规性的审查加剧。"
+            "The outsized reaction in Australian miners, a proxy for global growth and commodity demand, highlights the market's acute sensitivity to any development that could threaten trade flows and economic stability.",
+            "This event demonstrates how asset prices in geographically distant markets (Australia) can be primarily driven by geopolitical decisions made in Washington regarding a third region (Middle East)."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ASX Materials Sector ETF (XMJ.AX)",
+          "risk": "HIGH",
+          "thesis": "The sharp relief rally may have legs if the de-escalation holds, as it removes a major overhang on global cyclical assets. However, the trade is highly binary and dependent on continued geopolitical calm."
+        },
+        "confidence": 80,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1610943007683?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Ex-Uber Exec's Lasting Grudge",
+        "fullTitle": "Ex-Uber Exec Michael Vows Never to Forgive Investors",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Emil Michael, now a senior Pentagon official, stated he will 'never forget nor forgive' the Uber investors who ousted him and co-founder Travis Kalanick. His comments reveal deep, lasting animosity from the company's turbulent leadership transition period.",
+        "relations": [
+          {
+            "label": "Emil Michael",
+            "type": "entity",
+            "desc": "Former Uber executive, now senior Pentagon official"
+          },
+          {
+            "label": "Travis Kalanick",
+            "type": "entity",
+            "desc": "Co-founder and former CEO of Uber"
+          },
+          {
+            "label": "Uber Investors",
+            "type": "entity",
+            "desc": "Group that orchestrated the 2017 leadership ouster"
+          },
+          {
+            "label": "Corporate Governance",
+            "type": "risk",
+            "desc": "Risk from founder/investor conflict"
+          },
+          {
+            "label": "Reputational Risk",
+            "type": "risk",
+            "desc": "Risk from public airing of grievances by former executives"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The public airing of a years-old grievance by a now-senior government official underscores the long-lasting personal and professional ramifications of Silicon Valley's intense power struggles.",
+            "This serves as a reminder to venture capital and growth investors of the potential for lasting enmity with ousted founders, which could resurface unpredictably and impact future dealings or reputations."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "高度依赖单一AI供应商/地缘敏感技术的科技股",
+          "asset": "Uber Technologies Inc. (UBER)",
+          "risk": "LOW",
+          "thesis": "The news itself has minimal direct financial impact, but it reinforces negative sentiment around Uber's controversial past governance. It could act as a minor overhang or reminder of execution risk during periods of company-specific weakness."
+        },
+        "confidence": 88,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1666658877327?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Swish Raises $38M in 18 Months",
+        "fullTitle": "Swish Raises $38M, Doubles Valuation in a Year",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Bengaluru-based food delivery startup Swish has raised $38 million in its third funding round within 18 months. The company has more than doubled its valuation in a year, driven by its full-stack, hyperlocal model which positions ultra-fast delivery as a high-frequency habit.",
+        "relations": [
+          {
+            "label": "Swish",
+            "type": "entity",
+            "desc": "Bengaluru hyperlocal food delivery startup"
+          },
+          {
+            "label": "Hyperlocal Delivery",
+            "type": "tech",
+            "desc": "Business model focusing on ultra-fast, dense urban service"
+          },
+          {
+            "label": "Venture Capital",
+            "type": "entity",
+            "desc": "Funding source for rapid-growth startups"
+          },
+          {
+            "label": "Food Delivery Market",
+            "type": "entity",
+            "desc": "Highly competitive, growth-focused sector"
+          },
+          {
+            "label": "Valuation Momentum",
+            "type": "risk",
+            "desc": "Risk associated with rapid, funding-driven valuation increases"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The continued investor appetite for Swish, despite a crowded food delivery space, indicates strong conviction in the unit economics and defensibility of the capital-intensive 'full-stack, hyperlocal' model in specific, dense urban markets.",
+            "The rapid valuation doubling highlights the premium investors are placing on startups that can create 'high-frequency habits,' aiming to capture daily consumer spend and data, not just occasional transactions."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Private Market Secondary (Exposure to Asian Hyperlocal Delivery)",
           "risk": "HIGH",
-          "thesis": "AI供应链的地缘政治风险上升，技术栈中涉及敏感国家模型的公司可能面临监管、声誉与断供风险。"
+          "thesis": "Swish's successful funding and valuation growth signal robust private market demand for last-mile, habit-forming commerce platforms in high-density Asian megacities. This trend favors early-stage investors in comparable models."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1627642068065?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Rival CEOs Back Prediction Market Fund",
+        "fullTitle": "Kalshi, Polymarket CEOs Back $35M Prediction Markets Fund",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Despite their bitter rivalry, the CEOs of prediction market platforms Kalshi and Polymarket are jointly backing a new $35 million venture fund named 5(c) Capital. The fund will invest in startups supporting the burgeoning prediction markets category.",
+        "relations": [
+          {
+            "label": "5(c) Capital",
+            "type": "entity",
+            "desc": "New $35M VC fund focused on prediction markets"
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Technology category for event-based trading and forecasting"
+          },
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "US-regulated prediction market platform"
+          },
+          {
+            "label": "Polymarket",
+            "type": "entity",
+            "desc": "Blockchain-based prediction market platform"
+          },
+          {
+            "label": "Regulatory Arbitrage",
+            "type": "risk",
+            "desc": "Risk/opportunity from differing global regulations on prediction markets"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The collaboration between fierce rivals to fund the ecosystem's infrastructure is a powerful signal that the category's leaders believe the total addressable market is large enough to support multiple winners, and that growing the overall pie is the current priority.",
+            "This move institutionalizes prediction markets as a legitimate venture-backed sector, likely accelerating regulatory dialogue, technological innovation, and mainstream adoption beyond niche crypto and trading communities."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Blockchain/Web3 Infrastructure Tokens (e.g., POL, etc.)",
+          "risk": "HIGH",
+          "thesis": "The formal venture capital influx and strategic collaboration validate prediction markets as a major growth vertical within crypto/Web3. This should drive increased usage and value accrual to the underlying blockchain infrastructure and oracle networks that power these platforms."
         },
         "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1651252315075?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
-      }
-    ],
-    "en": [
-      {
-        "title": "Sinopec Cuts Chemical Spending",
-        "fullTitle": "Sinopec Flags Chemicals Spending Cut as Profit Pressure Mounts",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Sinopec has reported a steeper-than-expected profit decline for the previous year. In response, the company has set a flexible budget target for the current year. This includes a potential capital expenditure cut of up to 20%, primarily targeting its chemicals segment. This signals significant pressure on profitability and a strategic shift in capital allocation.",
-        "relations": [
-          {
-            "label": "Sinopec",
-            "type": "entity",
-            "desc": "Chinese state-owned oil and gas giant"
-          },
-          {
-            "label": "Capital Expenditure (CapEx)",
-            "type": "risk",
-            "desc": "Major reduction signals financial stress and strategic pullback"
-          },
-          {
-            "label": "Chemicals Segment",
-            "type": "resource",
-            "desc": "Primary target for spending cuts, indicating oversupply or weak demand"
-          },
-          {
-            "label": "Profit Pressure",
-            "type": "risk",
-            "desc": "Underlying driver for the strategic budget revision"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Indicates a potential sector-wide retrenchment in petrochemicals investment, possibly due to global oversupply and margin compression.",
-            "Highlights the financial strain on integrated energy majors, forcing prioritization of core upstream/downstream operations over expansion."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Petrochemical and chemical sector equities (e.g., LYB, DOW, sector ETFs)",
-          "risk": "MEDIUM",
-          "thesis": "Sinopec's cuts signal weak global demand and overcapacity, likely pressuring margins and stock prices for peers. The move by a major player could foreshadow broader industry capex discipline and disappointing earnings."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1582200959438?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Copper Hits 3-Month Low",
-        "fullTitle": "Copper Falls to Three-Month Low on Growth Fears",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Copper prices have extended their decline, reaching the lowest level in over three months. The primary drivers are the ongoing Middle East conflict, which is sapping overall market risk appetite. This geopolitical tension is raising significant concerns about global inflation and economic growth prospects. Copper, as a key industrial metal, is highly sensitive to these macroeconomic fears.",
-        "relations": [
-          {
-            "label": "Copper",
-            "type": "resource",
-            "desc": "Key industrial metal and economic bellwether"
-          },
-          {
-            "label": "Middle East Conflict",
-            "type": "risk",
-            "desc": "Geopolitical driver reducing risk appetite and fueling stagflation fears"
-          },
-          {
-            "label": "Global Growth",
-            "type": "risk",
-            "desc": "Primary fundamental concern impacting demand outlook for commodities"
-          },
-          {
-            "label": "Risk Appetite",
-            "type": "risk",
-            "desc": "Broad market sentiment shift affecting all risk assets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The decline suggests markets are pricing in a significant slowdown in global industrial activity, potentially ahead of official economic data.",
-            "Highlights the vulnerability of commodity markets to geopolitical shocks that threaten energy supplies and trade routes, creating stagflationary pressures."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Copper Futures (HG) / Mining equities (FCX, SCCO)",
-          "risk": "HIGH",
-          "thesis": "Copper's breakdown reflects potent stagflation fears (weak growth + high energy costs). Further escalation in the Middle East or weak Chinese data could drive prices lower. However, supply constraints provide a volatile floor."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1632805739877?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Bond Yields Rise on War",
-        "fullTitle": "Global Bond Yields Climb as Iran War Upends Rate Bets",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "Global government bond yields are rising sharply. This move is driven by a surge in energy costs resulting from the Middle East conflict. Traders are repositioning their portfolios in anticipation of central banks potentially raising interest rates to combat the resulting inflationary pressure. This represents a major shift in interest rate expectations and fixed-income market dynamics.",
-        "relations": [
-          {
-            "label": "Global Bond Yields",
-            "type": "entity",
-            "desc": "Benchmark for global borrowing costs and monetary policy expectations"
-          },
-          {
-            "label": "Middle East Conflict",
-            "type": "risk",
-            "desc": "Catalyst for energy price surge and inflation fears"
-          },
-          {
-            "label": "Central Banks",
-            "type": "entity",
-            "desc": "Facing renewed pressure to hike rates despite growth risks"
-          },
-          {
-            "label": "Inflation",
-            "type": "risk",
-            "desc": "Primary concern re-ignited by energy price shock"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The market is forcing a repricing of the 'higher for longer' narrative, potentially delaying or reversing expected rate cut cycles globally.",
-            "Creates a policy dilemma for central banks: fight inflation from supply shock or support economies facing growth headwinds, leading to heightened volatility."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Long-duration Government Bonds (TLT, TBT) / Growth Stocks",
-          "risk": "HIGH",
-          "thesis": "Persistent inflation fears will keep pressure on bond prices (yields up). This environment is particularly negative for long-duration assets and rate-sensitive growth stocks, as discount rates rise."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1533313036075?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "SEC Ends Faraday Future Probe",
-        "fullTitle": "SEC Drops Four-Year Investigation into Faraday Future",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "The U.S. Securities and Exchange Commission (SEC) has concluded its four-year investigation into EV startup Faraday Future. The probe involved multiple subpoenas and depositions. The closure allows the beleaguered company to avoid a significant regulatory penalty. However, it does not address the company's underlying operational and financial challenges.",
-        "relations": [
-          {
-            "label": "Faraday Future",
-            "type": "entity",
-            "desc": "Troubled electric vehicle startup"
-          },
-          {
-            "label": "SEC",
-            "type": "entity",
-            "desc": "U.S. securities regulator"
-          },
-          {
-            "label": "Regulatory Risk",
-            "type": "risk",
-            "desc": "Major overhang removed, but other risks remain"
-          },
-          {
-            "label": "EV Startup",
-            "type": "tech",
-            "desc": "High-risk, capital-intensive sector"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Removal of a major regulatory overhang is positive but is unlikely to fundamentally alter the company's precarious cash position and execution challenges.",
-            "Highlights the intense regulatory scrutiny facing SPAC-backed and pre-revenue companies, where closure of an investigation can provide temporary relief."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Faraday Future Intelligent Electric Inc. (FFIE)",
-          "risk": "HIGH",
-          "thesis": "While the SEC news is positive, the company's core issues—cash burn, production delays, and intense competition—remain unresolved. Any rally on this news is likely a short-term relief bounce, not a fundamental turnaround."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1626372581370?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Nvidia GTC Keynote Analysis",
-        "fullTitle": "Podcast Debates Nvidia's Future Post-GTC Keynote",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "A technology podcast episode focused on analyzing CEO Jensen Huang's recent keynote at Nvidia's GTC conference. The discussion centered on debating the strategic implications of the announcements for Nvidia's future trajectory. The content is analytical and opinion-based, derived from a public media source.",
-        "relations": [
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "Leading AI and graphics chip designer"
-          },
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "CEO of Nvidia"
-          },
-          {
-            "label": "GTC Conference",
-            "type": "tech",
-            "desc": "Nvidia's primary developer conference"
-          },
-          {
-            "label": "AI Hardware",
-            "type": "tech",
-            "desc": "Nvidia's core market segment"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Media and analyst discourse following GTC is crucial for gauging market sentiment and the perceived sustainability of Nvidia's AI leadership.",
-            "Highlights the importance of Nvidia's software and ecosystem announcements (like robotics/AI platforms) in maintaining its moat beyond pure hardware."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Nvidia Corp. (NVDA)",
-          "risk": "MEDIUM",
-          "thesis": "Continued strong mindshare and strategic positioning in AI, as reflected in post-event analysis, supports the long-term growth narrative. GTC typically reinforces its platform strategy, which justifies premium valuation."
-        },
-        "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1522100080493?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Cursor AI Model Built on Kimi",
-        "fullTitle": "Cursor Admits New Model Built on Moonshot's Kimi",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Cursor, a coding assistant startup, has admitted its new AI model was developed on top of Kimi, a large language model from Chinese company Moonshot AI. The disclosure highlights the technical dependencies within the AI ecosystem. It also underscores the geopolitical and supply chain complexities of building on Chinese AI technology in the current climate.",
-        "relations": [
-          {
-            "label": "Cursor",
-            "type": "entity",
-            "desc": "AI-powered code editor startup"
-          },
-          {
-            "label": "Moonshot AI",
-            "type": "entity",
-            "desc": "Chinese AI company"
-          },
-          {
-            "label": "Kimi",
-            "type": "tech",
-            "desc": "Chinese large language model (LLM)"
-          },
-          {
-            "label": "AI Supply Chain",
-            "type": "risk",
-            "desc": "Geopolitical risk in foundational model dependencies"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Reveals the permeability of the US-China tech divide, where Western startups may still rely on Chinese foundational models for capability or cost reasons.",
-            "Creates potential regulatory and reputational risks for startups whose core IP is built on foreign, especially Chinese, AI models amid escalating tech tensions."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Startups with opaque AI model dependencies",
-          "risk": "HIGH",
-          "thesis": "This case highlights a systemic risk: startups building on foreign (particularly Chinese) foundational models face unpredictable regulatory, data privacy, and IP risks. Due diligence must now scrutinize model provenance."
-        },
-        "confidence": 87,
-        "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1587695089573?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1690678702766?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Sinopec recorta gastos químicos",
-        "fullTitle": "Sinopec advierte recorte de gastos en químicos por presión de ganancias",
+        "title": "Mercados asiáticos recortan ganancias",
+        "fullTitle": "Acciones recortan ganancias, petróleo se recupera con foco en Irán",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Sinopec ha establecido un objetivo presupuestario flexible para este año, señalando un posible recorte de gastos de capital de hasta el 20%. Esto ocurre después de reportar una disminución de ganancias más pronunciada de lo esperado el año pasado. La medida refleja la presión sobre la rentabilidad en el sector petroquímico. La reducción de inversiones podría afectar la oferta futura y la estrategia de crecimiento de la empresa.",
+        "summary": "Las acciones asiáticas recortaron las ganancias iniciales y los futuros de índices bursátiles estadounidenses cayeron, a medida que se desvaneció el frágil optimismo sobre una posible desescalada de tensiones en Medio Oriente. El oro extendió su desplome y se encamina a su racha de pérdidas más larga registrada. El petróleo se recuperó parcialmente, con la atención centrada en Irán.",
         "relations": [
           {
-            "label": "Sinopec",
+            "label": "Acciones asiáticas",
             "type": "entity",
-            "desc": "Empresa petrolera y química estatal china"
+            "desc": "Índices bursátiles de la región Asia-Pacífico"
           },
           {
-            "label": "Gastos de capital (CapEx)",
+            "label": "Petróleo (WTI/Brent)",
             "type": "resource",
-            "desc": "Inversiones en infraestructura y expansión"
+            "desc": "Commodity energético clave"
           },
           {
-            "label": "Sector Petroquímico",
-            "type": "entity",
-            "desc": "Industria de productos químicos derivados del petróleo"
+            "label": "Oro",
+            "type": "resource",
+            "desc": "Activo refugio tradicional"
           },
           {
-            "label": "Rentabilidad",
+            "label": "Tensiones Medio Oriente",
             "type": "risk",
-            "desc": "Presión sobre márgenes y ganancias"
+            "desc": "Riesgo geopolítico principal"
           },
           {
-            "label": "China",
+            "label": "Futuros de índices EEUU",
             "type": "entity",
-            "desc": "Economía y demanda industrial"
+            "desc": "Derivados sobre S&P 500, Nasdaq, etc."
           }
         ],
         "analysis": {
           "strategic": [
-            "La reducción de CapEx por parte de un gigante estatal como Sinopec indica un ajuste estratégico ante un entorno de demanda débil y márgenes comprimidos, posiblemente señalando una desaceleración más amplia en la industria pesada china.",
-            "Un recorte sostenido en la inversión química podría tensionar las cadenas de suministro globales a medio plazo, afectando a industrias dependientes como la automotriz, electrónica y agrícola."
+            "La volatilidad del mercado refleja la alta sensibilidad a los titulares geopolíticos, particularmente relacionados con Irán y el suministro energético.",
+            "El comportamiento divergente del oro (bajando) y el petróleo (recuperándose) sugiere una reevaluación compleja del riesgo, donde la amenaza inmediata de interrupción del suministro puede pesar más que la demanda de refugio."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Acciones de Sinopec (SNP) / ETF de materiales básicos chinos",
+          "asset": "Futuros de índices bursátiles asiáticos (ej. Nikkei 225, Hang Seng)",
           "risk": "MEDIUM",
-          "thesis": "La presión persistente sobre las ganancias y la reducción de inversiones sugieren desafíos estructurales y un crecimiento limitado, lo que podría ejercer presión a la baja sobre la valoración."
+          "thesis": "El fracaso del rebote inicial y la persistencia de la incertidumbre geopolítica generan un sesgo bajista a corto plazo. La resistencia técnica en los máximos recientes podría no mantenerse."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1568730486591?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1585545412325?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Cobre cae por temores globales",
-        "fullTitle": "Cobre cae a mínimo de 3 meses por preocupaciones de crecimiento",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "El cobre extendió sus caídas al nivel más bajo en más de tres meses. El conflicto en Medio Oriente redujo el apetito por riesgo en los mercados financieros. Esto elevó las preocupaciones sobre la inflación global y el crecimiento económico. El metal rojo, considerado un barómetro de la salud económica, refleja el pesimismo del mercado.",
+        "title": "Japón sondea intervención en futuros de petróleo",
+        "fullTitle": "Japón sondea mercado sobre posible intervención en futuros de petróleo",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "El Ministerio de Finanzas de Japón habría realizado consultas con participantes del mercado sobre una posible intervención en el mercado de futuros de petróleo crudo. El aparente objetivo es aliviar la presión sobre el precio de la materia prima y, por extensión, sobre el yen japonés. Esto refleja la preocupación de las autoridades por el impacto inflacionario de los precios energéticos.",
         "relations": [
           {
-            "label": "Cobre",
+            "label": "Ministerio de Finanzas de Japón (MOF)",
+            "type": "entity",
+            "desc": "Autoridad fiscal y monetaria clave"
+          },
+          {
+            "label": "Futuros de petróleo crudo",
             "type": "resource",
-            "desc": "Metal industrial clave, barómetro económico"
+            "desc": "Mercado derivado para el precio del petróleo"
           },
           {
-            "label": "Crecimiento Global",
-            "type": "risk",
-            "desc": "Expectativas de desaceleración económica mundial"
+            "label": "Yen Japonés (JPY)",
+            "type": "entity",
+            "desc": "Moneda afectada por costes de importación"
           },
           {
-            "label": "Conflicto Medio Oriente",
+            "label": "Intervención en mercados",
             "type": "risk",
-            "desc": "Guerra que impacta el sentimiento del mercado"
+            "desc": "Riesgo de acción regulatoria/gubernamental"
           },
           {
-            "label": "Apetito por Riesgo",
+            "label": "Inflación importada",
             "type": "risk",
-            "desc": "Sentimiento inversor (risk-on/risk-off)"
-          },
-          {
-            "label": "Inflación",
-            "type": "risk",
-            "desc": "Presiones alcistas en precios"
+            "desc": "Riesgo macroeconómico para Japón"
           }
         ],
         "analysis": {
           "strategic": [
-            "La caída del cobre por debajo de niveles técnicos clave sugiere que los mercados están descontando una desaceleración significativa en la actividad industrial y de construcción a nivel mundial, superando las preocupaciones iniciales por la oferta.",
-            "La correlación negativa entre el conflicto geopolítico y el precio del cobre (un activo de riesgo) indica que los temores a una recesión inducida por la inflación están dominando sobre cualquier prima geopolítica."
+            "La consideración de intervención directa en futuros de commodities por parte de una economía importante como Japón marca un precedente significativo y podría alterar la dinámica de precios más allá de las fuerzas fundamentales.",
+            "Esta acción subraya la vulnerabilidad de economías importadoras netas de energía a shocks geopolíticos y su disposición a utilizar herramientas no convencionales para proteger la estabilidad económica interna."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Futuros de Cobre (HG) / ETF de cobre (COPX)",
+          "asset": "Futuros de petróleo Brent/WTI",
           "risk": "HIGH",
-          "thesis": "El deterioro del sentimiento de crecimiento y la fortaleza del dólar en un entorno de aversión al riesgo podrían continuar presionando a la baja los precios de los metales industriales."
+          "thesis": "La mera amenaza de intervención coordinada o unilateral por parte de un gran importador como Japón introduce un riesgo a la baja significativo y un techo potencial en los precios a corto plazo, añadiendo volatilidad."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1665259669882?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1615605185995?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Rendimientos globales suben por guerra",
-        "fullTitle": "Rendimientos de bonos globales suben; guerra de Irán altera apuestas de tasas",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "Los rendimientos de los bonos globales están aumentando. Un aumento en los costos de energía debido al conflicto en Medio Oriente lleva a los operadores a posicionarse para alzas en las tasas de los bancos centrales. Esto revierte las expectativas previas de recortes de tasas. El entorno de políticas monetarias se vuelve más incierto y restrictivo.",
-        "relations": [
-          {
-            "label": "Rendimientos de Bonos",
-            "type": "entity",
-            "desc": "Referencia clave para costos de financiamiento global"
-          },
-          {
-            "label": "Bancos Centrales",
-            "type": "entity",
-            "desc": "Fed, BCE, etc. - política monetaria"
-          },
-          {
-            "label": "Precios de la Energía",
-            "type": "resource",
-            "desc": "Petróleo y gas, impulsados por conflicto"
-          },
-          {
-            "label": "Inflación Persistente",
-            "type": "risk",
-            "desc": "Riesgo de rebrote inflacionario"
-          },
-          {
-            "label": "Mercado de Tasas",
-            "type": "entity",
-            "desc": "Expectativas de futuros movimientos de tasas"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El repunte de los rendimientos impulsado por la geopolítica está forzando un reajuste masivo en todas las clases de activos, aumentando el costo de la deuda para gobiernos y empresas y amenazando con desestabilizar mercados de acciones y bienes raíces sobrevaluados.",
-            "Los bancos centrales se enfrentan a un nuevo dilema: combatir el rebrote inflacionario por energía (hawkish) o proteger el crecimiento debilitado (dovish), lo que aumenta la volatilidad y el riesgo de errores políticos."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Bonos del Tesoro a largo plazo (TLT) / ETF de bonos corporativos (LQD)",
-          "risk": "HIGH",
-          "thesis": "El shock de oferta energética y las expectativas de tasas más altas por más tiempo ejercerán presión continua sobre los precios de los bonos, especialmente en el segmento de mayor duración."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1688039334218?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "SEC cierra investigación a Faraday Future",
-        "fullTitle": "La SEC cierra investigación de 4 años a Faraday Future",
+        "title": "Mineras australianas saltan por comentarios de Trump",
+        "fullTitle": "Mineras australianas suben más en un año por comentarios de Trump sobre Irán",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "La Comisión de Bolsa y Valores (SEC) ha cerrado su investigación de cuatro años sobre la startup de vehículos eléctricos Faraday Future. La investigación involucró múltiples citaciones y declaraciones. La empresa, en dificultades, ha esquivado otro problema legal. Sin embargo, los desafíos financieros y operativos fundamentales persisten.",
+        "summary": "Las acciones mineras australianas registraron su mayor avance en casi un año tras la decisión del presidente Donald Trump de posponer ataques contra la infraestructura energética de Irán. El alivio de una escalada militar inmediata redujo el premio por riesgo geopolítico, beneficiando a activos de riesgo como las acciones cíclicas. Las mineras, sensibles al sentimiento de crecimiento global, fueron las principales beneficiarias.",
         "relations": [
           {
-            "label": "Faraday Future",
+            "label": "Acciones mineras australianas (ASX Materials)",
             "type": "entity",
-            "desc": "Startup de vehículos eléctricos en dificultades"
+            "desc": "Sector de materiales/minería en bolsa australiana"
           },
           {
-            "label": "SEC",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Comisión de Bolsa y Valores de EE.UU., regulador"
+            "desc": "Presidente de EEUU, fuente de declaración"
           },
           {
-            "label": "Investigación Regulatoria",
+            "label": "Infraestructura energética iraní",
+            "type": "resource",
+            "desc": "Objetivo potencial militar"
+          },
+          {
+            "label": "Premio por riesgo geopolítico",
             "type": "risk",
-            "desc": "Riesgo legal y de cumplimiento"
+            "desc": "Componente de precios de activos"
           },
           {
-            "label": "Vehículos Eléctricos (EV)",
-            "type": "tech",
-            "desc": "Sector competitivo y con alto consumo de capital"
-          },
-          {
-            "label": "Riesgo de Incumplimiento",
-            "type": "risk",
-            "desc": "Riesgo financiero y de continuidad operativa"
+            "label": "Activos cíclicos",
+            "type": "entity",
+            "desc": "Acciones sensibles al ciclo económico"
           }
         ],
         "analysis": {
           "strategic": [
-            "La resolución elimina una gran incertidumbre regulatoria, pero no aborda los problemas subyacentes de la empresa: quema de efectivo, baja producción y competencia feroz, lo que la deja vulnerable en un mercado de EV en consolidación.",
-            "Este caso sirve como recordatorio del alto riesgo regulatorio y de ejecución en el espacio de las startups de EV, donde la supervivencia a menudo depende más de la financiación y la ejecución que de la tecnología."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Acciones de Faraday Future (FFIE)",
-          "risk": "HIGH",
-          "thesis": "El alivio regulatorio es temporal; los fundamentales deteriorados, la competencia intensa y la necesidad constante de capital hacen que la acción siga siendo altamente especulativa y propensa a nuevas caídas."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1669684909707?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Debate sobre futuro de Nvidia",
-        "fullTitle": "Podcast debate keynote de Jensen Huang y futuro de Nvidia",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "En el último episodio del podcast Equity, se resume la presentación clave del CEO Jensen Huang en GTC. Se debate lo que significa para el futuro de Nvidia. La discusión se centra en la estrategia y el posicionamiento de la empresa en IA. El tono es analítico y especulativo.",
-        "relations": [
-          {
-            "label": "Nvidia",
-            "type": "entity",
-            "desc": "Líder en semiconductores para IA y gráficos"
-          },
-          {
-            "label": "Jensen Huang",
-            "type": "entity",
-            "desc": "CEO y cofundador de Nvidia"
-          },
-          {
-            "label": "IA (Inteligencia Artificial)",
-            "type": "tech",
-            "desc": "Tecnología central para el crecimiento futuro"
-          },
-          {
-            "label": "GTC (GPU Tech Conference)",
-            "type": "entity",
-            "desc": "Evento clave de lanzamiento de Nvidia"
-          },
-          {
-            "label": "Podcast de Análisis",
-            "type": "entity",
-            "desc": "Fuente de opinión y debate del mercado"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El debate público refleja la altísima expectativa del mercado sobre la capacidad de Nvidia para mantener su dominio y traducir el liderazgo en hardware de IA en plataformas de software y servicios recurrentes.",
-            "El enfoque en el discurso del CEO subraya la importancia de la narrativa y la visión estratégica comunicada para sostener las valoraciones premium en el sector tecnológico, incluso ante posibles ciclos de corrección."
+            "La reacción del mercado australiano demuestra la interconexión global del riesgo geopolítico, donde una decisión en Washington afecta directamente a sectores específicos en mercados distantes como Australia.",
+            "La volatilidad impulsada por declaraciones individuales resalta la fragilidad del sentimiento y la dependencia de los mercados de narrativas políticas de alto perfil, creando oportunidades de trading a corto plazo."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de Nvidia (NVDA)",
+          "asset": "ETF de mineras australianas (ej. ASX: OZM o equivalente)",
           "risk": "MEDIUM",
-          "thesis": "El liderazgo tecnológico, el ecosistema establecido y la visión estratégica clara presentada en GTC respaldan la tesis de crecimiento a largo plazo en la era de la IA, a pesar de la volatilidad a corto plazo."
+          "thesis": "El alivio geopolítico puede sostener un rebote técnico en un sector que había sido castigado. Es una operación táctica de momentum positivo a corto plazo, dependiente de que no haya nuevos titulares de escalada."
         },
-        "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1630872395362?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1601399742025?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Cursor admite usar modelo chino",
-        "fullTitle": "Cursor admite que su modelo de codificación se basa en Kimi de Moonshot AI",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Cursor, una empresa de herramientas de desarrollo, admitió que su nuevo modelo de codificación fue construido sobre Kimi, un modelo de IA chino de Moonshot AI. Construir sobre un modelo chino se siente particularmente arriesgado en el clima geopolítico actual. Esto plantea preguntas sobre dependencia tecnológica y seguridad.",
+        "title": "Exejecutivo de Uber guarda rencor",
+        "fullTitle": "Emil Michael, ahora en el Pentágono, no perdona a inversores de Uber",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Emil Michael, antiguo ejecutivo de Uber y ahora alto funcionario del Departamento de Defensa de EE.UU. (Pentágono), declaró que nunca perdonará a los inversores que lo expulsaron a él y al cofundador Travis Kalanick de la empresa. Sus comentarios reflejan tensiones personales duraderas derivadas de la agitada gobernanza de Uber en el pasado. La noticia tiene un interés principalmente anecdótico para los mercados.",
         "relations": [
           {
-            "label": "Cursor",
+            "label": "Emil Michael",
             "type": "entity",
-            "desc": "Herramientas de desarrollo con IA"
+            "desc": "Exejecutivo de Uber, actual funcionario del Pentágono"
           },
           {
-            "label": "Moonshot AI",
+            "label": "Uber Technologies Inc. (UBER)",
             "type": "entity",
-            "desc": "Empresa china de IA, creadora de Kimi"
+            "desc": "Empresa de movilidad y entregas"
           },
           {
-            "label": "Kimi (Modelo)",
-            "type": "tech",
-            "desc": "Modelo de lenguaje grande (LLM) chino"
+            "label": "Travis Kalanick",
+            "type": "entity",
+            "desc": "Cofundador y ex-CEO de Uber"
           },
           {
-            "label": "Dependencia Tecnológica",
+            "label": "Inversores de Uber",
+            "type": "entity",
+            "desc": "Accionistas que impulsaron cambios de gestión"
+          },
+          {
+            "label": "Gobernanza corporativa",
             "type": "risk",
-            "desc": "Riesgo de cadena de suministro de IA"
-          },
-          {
-            "label": "Tensión Geopolítica",
-            "type": "risk",
-            "desc": "Fricciones EE.UU.-China en tecnología"
+            "desc": "Riesgo relacionado con conflictos internos"
           }
         ],
         "analysis": {
           "strategic": [
-            "La admisión revela la dependencia práctica de algunas empresas occidentales de tecnología china de IA de vanguardia, desafiando la narrativa de un desacoplamiento tecnológico completo y exponiendo vulnerabilidades en la cadena de suministro de software.",
-            "Este caso podría acelerar los escrutinios regulatorios en EE.UU. y Europa sobre el uso de modelos de IA 'extranjeros' en herramientas de desarrollo críticas, impulsando demandas de soberanía tecnológica y auditorías más estrictas."
+            "La persistencia de rencores personales entre exlíderes y accionistas de empresas tecnológicas emblemáticas puede resurgir en contextos inesperados (como cargos gubernamentales), aunque el impacto financiero directo es mínimo.",
+            "Sirve como recordatorio de que los riesgos de gobernanza y los conflictos fundadores-inversores pueden dejar cicatrices duraderas, incluso después de que una empresa se haya hecho pública y estabilizado."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Startups de herramientas dev con dependencia de modelos extranjeros no auditados",
-          "risk": "HIGH",
-          "thesis": "El riesgo regulatorio, de seguridad y reputación por depender de modelos de IA de jurisdicciones con fricciones geopolícias aumenta significativamente, pudiendo afectar la valoración y adopción de estas herramientas."
+          "action": "LONG",
+          "asset": "N/A (Sin acción directa recomendada)",
+          "risk": "LOW",
+          "thesis": "Esta noticia es de naturaleza anecdótica y no presenta una tesis de inversión clara o un catalizador fundamental para Uber o el sector. No se recomienda ninguna acción basada en este evento."
         },
-        "confidence": 87,
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1557239684198?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Startup Swish levanta $38M en ronda Serie C",
+        "fullTitle": "Startup de entregas Swish de Bengaluru levanta $38M, tercera ronda en 18 meses",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Swish, una startup india de entrega de comida hiperlocal con sede en Bengaluru, ha recaudado 38 millones de dólares en su tercera ronda de financiación en 18 meses. La valoración de la empresa se ha más que duplicado en un año. Su modelo 'full-stack' e hiperlocal posiciona la entrega de comida ultrarrápida como un hábito de alta frecuencia, atrayendo a inversores a pesar del competitivo panorama.",
+        "relations": [
+          {
+            "label": "Swish",
+            "type": "entity",
+            "desc": "Startup de entrega de comida hiperlocal"
+          },
+          {
+            "label": "Bengaluru (India)",
+            "type": "entity",
+            "desc": "Hub tecnológico y de startups"
+          },
+          {
+            "label": "Modelo Full-Stack/Hiperlocal",
+            "type": "tech",
+            "desc": "Estrategia operativa que controla más partes de la cadena"
+          },
+          {
+            "label": "Entrega de comida ultrarrápida",
+            "type": "tech",
+            "desc": "Sector de rápido crecimiento"
+          },
+          {
+            "label": "Venture Capital (VC)",
+            "type": "entity",
+            "desc": "Fuente de financiación para startups"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La continua afluencia de capital a Swish, duplicando su valoración, indica una fuerte creencia de los inversores en modelos hiperlocales y 'full-stack' como diferenciadores sostenibles en el saturado mercado de entregas de comida.",
+            "El éxito de financiación en India refleja la profundidad y resiliencia del ecosistema de startups de la región, centrándose en soluciones adaptadas a mercados densos y de rápido crecimiento, atractivas para el VC global."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Empresas de VC con exposición a startups de consumo/tech india (ej. fondos de Sequoia India, Accel India)",
+          "risk": "HIGH",
+          "thesis": "El dinamismo en rondas de crecimiento tardío en sectores como las entregas sugiere un apetito de salida saludable (IPO/adquisición). Invertir en vehículos de VC proporciona exposición indirecta a este crecimiento, aunque con alta iliquidez y riesgo."
+        },
+        "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1511331633897?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "CEOs rivales respaldan fondo VC de mercados de predicción",
+        "fullTitle": "CEOs de Kalshi y Polymarket respaldan fondo VC de $35M para mercados de predicción",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "A pesar de su amarga rivalidad, los CEOs de las plataformas de mercados de predicción Kalshi y Polymarket están respaldando conjuntamente un nuevo fondo de capital de riesgo de 35 millones de dólares llamado 5(c) Capital. El fondo invertirá en startups que apoyen la creciente categoría de los mercados de predicción. Esto señala una apuesta colectiva de la industria por un crecimiento significativo, superando las competencias individuales.",
+        "relations": [
+          {
+            "label": "Mercados de Predicción",
+            "type": "tech",
+            "desc": "Plataformas para comerciar con resultados de eventos"
+          },
+          {
+            "label": "5(c) Capital",
+            "type": "entity",
+            "desc": "Nuevo fondo de Venture Capital"
+          },
+          {
+            "label": "Kalshi",
+            "type": "entity",
+            "desc": "Plataforma de mercados de predicción regulada en EEUU"
+          },
+          {
+            "label": "Polymarket",
+            "type": "entity",
+            "desc": "Plataforma de mercados de predicción (basada en cripto)"
+          },
+          {
+            "label": "Capital de Riesgo (VC) temático",
+            "type": "entity",
+            "desc": "Fondo enfocado en un sector específico"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La colaboración entre rivales directos para crear un fondo VC indica una estrategia de 'aumentar el pastel' en lugar de 'pelear por una porción'. Buscan acelerar la adopción general y la infraestructura del sector de los mercados de predicción, beneficiando a todos los participantes.",
+            "Esta movilización de capital institucional alrededor de los mercados de predicción sugiere una creciente legitimización de la categoría, potencialmente allanando el camino para una mayor integración financiera y aceptación regulatoria a largo plazo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Exposición indirecta a infraestructura blockchain/Web3 y fintech regulada",
+          "risk": "HIGH",
+          "thesis": "El respaldo conjunto de líderes rivales es un fuerte voto de confianza en el crecimiento del sector. Los mercados de predicción podrían converger con las finanzas tradicionales y el análisis de riesgos. Las empresas que proporcionan infraestructura tecnológica, legal o de liquidez subyacente podrían ser las mayores beneficiarias."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1536252742506?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1550915769677?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
