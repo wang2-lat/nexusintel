@@ -1,598 +1,833 @@
 {
-  "generated_at": "2026-03-24T02:25:42.763846",
+  "generated_at": "2026-03-25T02:30:54.374578",
   "version": "1.0",
   "languages": {
-    "zh": [],
-    "en": [
+    "zh": [
       {
-        "title": "Markets Pare Gains, Oil Rebounds",
-        "fullTitle": "Stocks Pare Gains, Oil Rebounds With Iran in Focus",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Asian stocks pared early gains and US equity futures fell as optimism over Middle East de-escalation faded. Gold extended its slump, heading for a record losing streak. The market focus remains squarely on geopolitical tensions involving Iran, driving volatility in risk assets and safe havens.",
+        "title": "黄金因中东局势缓和续涨",
+        "fullTitle": "黄金延续涨势，因伊朗战争谈判报道提供喘息之机",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "黄金在结束九连跌后继续上涨。投资者正在权衡美国可能寻求外交途径结束中东战争的信号。地缘政治紧张局势的缓和预期削弱了避险需求，但市场情绪依然脆弱。金价走势反映了风险偏好与避险情绪之间的微妙平衡。",
         "relations": [
           {
-            "label": "Iran",
-            "type": "entity",
-            "desc": "Geopolitical focal point driving market volatility"
-          },
-          {
-            "label": "Crude Oil",
+            "label": "黄金",
             "type": "resource",
-            "desc": "Key commodity rebounding on geopolitical risk"
+            "desc": "主要避险资产，价格对地缘政治风险高度敏感"
           },
           {
-            "label": "Gold",
-            "type": "resource",
-            "desc": "Safe-haven asset on a record losing streak"
-          },
-          {
-            "label": "Asian Equities",
+            "label": "伊朗",
             "type": "entity",
-            "desc": "Asset class paring gains on fading optimism"
+            "desc": "中东地缘政治冲突的关键参与方"
           },
           {
-            "label": "Geopolitical Risk",
+            "label": "美国外交政策",
             "type": "risk",
-            "desc": "Primary market driver from Middle East tensions"
+            "desc": "影响全球市场风险情绪的关键变量"
+          },
+          {
+            "label": "中东冲突",
+            "type": "risk",
+            "desc": "近期驱动大宗商品和避险资产价格的核心风险事件"
           }
         ],
         "analysis": {
           "strategic": [
-            "Market sentiment remains fragile and highly reactive to geopolitical headlines, indicating a low-conviction trading environment.",
-            "The divergent performance between oil (rebounding) and gold (slumping) suggests a complex risk assessment by investors, potentially viewing the Iran situation as contained for now."
+            "地缘政治风险溢价正在部分回撤，但任何谈判破裂都可能迅速逆转市场情绪。",
+            "黄金的短期走势将紧密跟随外交进展，长期仍受通胀和美元走势等宏观因素主导。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Gold Futures (GC)",
-          "risk": "MEDIUM",
-          "thesis": "Gold's extended slump and record losing streak indicate a breakdown in its safe-haven status amid perceived de-escalation, presenting a tactical short opportunity with tight stops in case of renewed escalation."
+          "asset": "黄金期货/GLD",
+          "risk": "HIGH",
+          "thesis": "若外交谈判取得实质性进展，地缘政治风险溢价将快速消退，可能导致黄金短期回调。"
         },
         "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1697664133086?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1546989048360?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Japan Eyes Oil Futures Intervention",
-        "fullTitle": "Japan Sounds Out Market on Oil Futures Intervention",
+        "title": "Meta首次向高管授予股票期权",
+        "fullTitle": "Meta自IPO以来首次向高管授予股票期权",
         "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Japan's Finance Ministry has reportedly inquired with market participants about potential intervention in crude oil futures. This move appears aimed at easing pressure on both the commodity price and the Japanese yen, which is sensitive to energy import costs.",
+        "summary": "Meta Platforms Inc. 自2012年IPO以来，首次向高管授予股票期权。此举旨在公司持续激进投入以参与激烈AI竞赛的背景下，保留和补偿高管团队。这反映了科技巨头在关键转型期对核心人才的争夺。",
         "relations": [
           {
-            "label": "Japan Ministry of Finance",
+            "label": "Meta Platforms Inc.",
             "type": "entity",
-            "desc": "Government entity probing market intervention"
+            "desc": "社交媒体与元宇宙巨头，正全力转向AI"
           },
           {
-            "label": "Crude Oil Futures",
+            "label": "股票期权",
             "type": "resource",
-            "desc": "Potential target for Japanese market intervention"
+            "desc": "长期激励工具，将高管利益与股东价值绑定"
           },
           {
-            "label": "Japanese Yen (JPY)",
-            "type": "entity",
-            "desc": "Currency under pressure from high energy costs"
+            "label": "人工智能 (AI)",
+            "type": "tech",
+            "desc": "当前科技竞赛的核心领域，Meta的主要投资方向"
           },
           {
-            "label": "Market Intervention",
+            "label": "人才保留风险",
             "type": "risk",
-            "desc": "Sovereign risk of direct market action"
-          },
-          {
-            "label": "Energy Import Dependency",
-            "type": "risk",
-            "desc": "Structural vulnerability for resource-poor nations"
+            "desc": "在AI军备竞赛中，核心高管流失可能影响战略执行"
           }
         ],
         "analysis": {
           "strategic": [
-            "Japan's actions signal a growing willingness among net-importing nations to consider non-traditional tools (beyond currency markets) to manage inflationary and currency pressures from volatile commodities.",
-            "This probe creates an asymmetric risk profile for oil shorts, as verbal or actual intervention could trigger a sharp, policy-driven rally, especially if other importers follow suit."
+            "此举表明Meta正不惜成本确保其AI战略的领导团队稳定，凸显了AI人才竞争的激烈程度。",
+            "长期股权激励可能稀释股东权益，但若成功推动AI业务增长，将创造更大价值。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "USD/JPY",
+          "asset": "META",
           "risk": "MEDIUM",
-          "thesis": "Japanese intervention to cap oil prices is indirectly supportive of the yen by mitigating a key inflationary and trade deficit driver. A successful cap could reduce pressure for BoJ policy tightening, sustaining the yen's yield disadvantage."
+          "thesis": "公司通过强有力的激励措施锁定核心人才，显示了其赢得AI竞赛的决心，有利于长期战略执行。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1520625224628?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1526934076660?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Australian Miners Jump on Trump",
-        "fullTitle": "Australian Miners Jump Most in a Year on Trump's Iran Remarks",
+        "title": "油价跌股市涨，中东现外交曙光",
+        "fullTitle": "布油跌破100美元，股市因伊朗战争希望跳涨",
         "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Australian mining stocks recorded their largest gain in nearly a year following President Trump's decision to postpone attacks on Iran's energy infrastructure. The rally reflects a relief trade based on reduced immediate risk of a major supply disruption in the Middle East.",
+        "impactLevel": "HIGH",
+        "summary": "随着对华盛顿外交努力解决中东冲突的乐观情绪增强，油价下跌，股市跳涨。布伦特原油价格回落至100美元以下。市场风险偏好显著改善，资金从避险资产流向风险资产。",
         "relations": [
           {
-            "label": "Australian Mining Stocks",
-            "type": "entity",
-            "desc": "Sector rallying on geopolitical de-escalation"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "US President whose remarks drove market move"
-          },
-          {
-            "label": "Iran Energy Infrastructure",
+            "label": "布伦特原油",
             "type": "resource",
-            "desc": "Potential target, now spared from immediate attack"
+            "desc": "全球原油基准，价格受地缘政治供应风险驱动"
           },
           {
-            "label": "Geopolitical Relief Rally",
-            "type": "risk",
-            "desc": "Market dynamic of buying on reduced tension"
-          },
-          {
-            "label": "Commodity Cyclicals",
+            "label": "全球股市",
             "type": "entity",
-            "desc": "Equity sector highly sensitive to global growth/risk sentiment"
+            "desc": "风险资产代表，对地缘政治缓和反应积极"
+          },
+          {
+            "label": "中东地缘政治风险",
+            "type": "risk",
+            "desc": "影响全球能源供应和金融市场稳定的关键因素"
+          },
+          {
+            "label": "美国外交斡旋",
+            "type": "entity",
+            "desc": "当前市场乐观情绪的主要来源"
           }
         ],
         "analysis": {
           "strategic": [
-            "The outsized reaction in Australian miners, a proxy for global growth and commodity demand, highlights the market's acute sensitivity to any development that could threaten trade flows and economic stability.",
-            "This event demonstrates how asset prices in geographically distant markets (Australia) can be primarily driven by geopolitical decisions made in Washington regarding a third region (Middle East)."
+            "市场正在对‘冲突不会显著扩大并中断能源供应’这一情景进行定价。",
+            "风险资产的反弹具有脆弱性，完全依赖于外交进程的顺利推进，任何挫折都可能引发逆转。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ASX Materials Sector ETF (XMJ.AX)",
-          "risk": "HIGH",
-          "thesis": "The sharp relief rally may have legs if the de-escalation holds, as it removes a major overhang on global cyclical assets. However, the trade is highly binary and dependent on continued geopolitical calm."
+          "asset": "标普500指数期货/SPY",
+          "risk": "MEDIUM",
+          "thesis": "地缘政治风险缓和将降低风险溢价，提振企业盈利预期，有利于股市整体估值修复。"
         },
-        "confidence": 80,
+        "confidence": 83,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1610943007683?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1503942503125?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Ex-Uber Exec's Lasting Grudge",
-        "fullTitle": "Ex-Uber Exec Michael Vows Never to Forgive Investors",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Emil Michael, now a senior Pentagon official, stated he will 'never forget nor forgive' the Uber investors who ousted him and co-founder Travis Kalanick. His comments reveal deep, lasting animosity from the company's turbulent leadership transition period.",
+        "title": "亚马逊收购儿童机器人初创公司",
+        "fullTitle": "亚马逊收购制造儿童尺寸人形机器人的初创公司",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "亚马逊收购了制造儿童尺寸人形机器人的初创公司Fauna Robotics。这是亚马逊本月收购的第二家机器人初创公司。此举延续了亚马逊在物流和自动化领域的垂直整合战略。",
         "relations": [
           {
-            "label": "Emil Michael",
+            "label": "亚马逊",
             "type": "entity",
-            "desc": "Former Uber executive, now senior Pentagon official"
+            "desc": "电商与云服务巨头，持续投资机器人自动化"
           },
           {
-            "label": "Travis Kalanick",
+            "label": "Fauna Robotics",
             "type": "entity",
-            "desc": "Co-founder and former CEO of Uber"
+            "desc": "专注于儿童尺寸人形机器人的初创公司"
           },
           {
-            "label": "Uber Investors",
-            "type": "entity",
-            "desc": "Group that orchestrated the 2017 leadership ouster"
+            "label": "人形机器人",
+            "type": "tech",
+            "desc": "具身智能的前沿领域，具有长期应用潜力"
           },
           {
-            "label": "Corporate Governance",
-            "type": "risk",
-            "desc": "Risk from founder/investor conflict"
-          },
-          {
-            "label": "Reputational Risk",
-            "type": "risk",
-            "desc": "Risk from public airing of grievances by former executives"
+            "label": "物流自动化",
+            "type": "tech",
+            "desc": "亚马逊核心竞争力的关键组成部分"
           }
         ],
         "analysis": {
           "strategic": [
-            "The public airing of a years-old grievance by a now-senior government official underscores the long-lasting personal and professional ramifications of Silicon Valley's intense power struggles.",
-            "This serves as a reminder to venture capital and growth investors of the potential for lasting enmity with ousted founders, which could resurface unpredictably and impact future dealings or reputations."
+            "收购表明亚马逊正在探索机器人技术更广泛的应用场景，可能超越当前的物流仓储领域。",
+            "连续收购显示亚马逊正通过外部并购加速其机器人技术布局，以巩固其在自动化领域的领先地位。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AMZN",
+          "risk": "LOW",
+          "thesis": "战略性收购有助于巩固其长期自动化优势，提升运营效率，并为未来新业务（如消费机器人）埋下伏笔。"
+        },
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1540097890990?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Kleiner Perkins募资35亿美金全力投入AI",
+        "fullTitle": "Kleiner Perkins募资35亿美金，全力投入人工智能领域",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "知名风投机构Kleiner Perkins完成了35亿美元的新基金募集，将全力投入人工智能领域。其中10亿美元用于投资早期初创公司，25亿美元用于投资后期成长型企业。这显示了资本对AI赛道空前的信心和押注。",
+        "relations": [
+          {
+            "label": "Kleiner Perkins",
+            "type": "entity",
+            "desc": "硅谷顶级风险投资机构"
+          },
+          {
+            "label": "人工智能 (AI)",
+            "type": "tech",
+            "desc": "本轮科技投资的核心赛道"
+          },
+          {
+            "label": "风险投资",
+            "type": "resource",
+            "desc": "驱动科技创新和初创企业成长的关键资本"
+          },
+          {
+            "label": "早期/成长期投资",
+            "type": "entity",
+            "desc": "覆盖AI企业全生命周期的资本布局"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "巨额专项基金的设立标志着AI投资从主题性投资进入规模化、系统化投资的新阶段。",
+            "资本向头部机构集中，可能加速AI行业的马太效应，初创公司融资环境将出现分化。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI相关ETF/ARKQ",
+          "risk": "MEDIUM",
+          "thesis": "顶级风投的大规模押注将加速AI技术商业化进程，并为公开市场的AI公司提供估值支撑和并购标的。"
+        },
+        "confidence": 88,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1648494139373?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "新墨西哥州就儿童安全首次击败Meta",
+        "fullTitle": "新墨西哥州就儿童安全问题首次在法庭击败Meta",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "新墨西哥州在一起关于青少年伤害的诉讼中获得了针对Meta的首个陪审团裁决胜利。赔偿金额并非关键，重要的是此案开创了先例。全美其他司法管辖区正在密切关注此案，可能引发连锁诉讼。",
+        "relations": [
+          {
+            "label": "Meta Platforms Inc.",
+            "type": "entity",
+            "desc": "被告方，面临日益严峻的内容监管和用户安全诉讼"
+          },
+          {
+            "label": "儿童/青少年安全",
+            "type": "risk",
+            "desc": "全球科技公司面临的核心监管与声誉风险之一"
+          },
+          {
+            "label": "陪审团裁决",
+            "type": "risk",
+            "desc": "具有法律约束力的判例，可能为后续大量类似诉讼铺平道路"
+          },
+          {
+            "label": "美国各州司法",
+            "type": "entity",
+            "desc": "科技公司监管的重要战场，可能采取分散化诉讼策略"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此案建立了有害内容导致青少年伤害的司法认定先例，极大增加了Meta未来面临集体诉讼和巨额赔偿的风险。",
+            "这可能迫使所有社交平台重新评估其产品设计、算法推荐和内容审核政策，导致合规成本显著上升。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Uber Technologies Inc. (UBER)",
-          "risk": "LOW",
-          "thesis": "The news itself has minimal direct financial impact, but it reinforces negative sentiment around Uber's controversial past governance. It could act as a minor overhang or reminder of execution risk during periods of company-specific weakness."
-        },
-        "confidence": 88,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1666658877327?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Swish Raises $38M in 18 Months",
-        "fullTitle": "Swish Raises $38M, Doubles Valuation in a Year",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Bengaluru-based food delivery startup Swish has raised $38 million in its third funding round within 18 months. The company has more than doubled its valuation in a year, driven by its full-stack, hyperlocal model which positions ultra-fast delivery as a high-frequency habit.",
-        "relations": [
-          {
-            "label": "Swish",
-            "type": "entity",
-            "desc": "Bengaluru hyperlocal food delivery startup"
-          },
-          {
-            "label": "Hyperlocal Delivery",
-            "type": "tech",
-            "desc": "Business model focusing on ultra-fast, dense urban service"
-          },
-          {
-            "label": "Venture Capital",
-            "type": "entity",
-            "desc": "Funding source for rapid-growth startups"
-          },
-          {
-            "label": "Food Delivery Market",
-            "type": "entity",
-            "desc": "Highly competitive, growth-focused sector"
-          },
-          {
-            "label": "Valuation Momentum",
-            "type": "risk",
-            "desc": "Risk associated with rapid, funding-driven valuation increases"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The continued investor appetite for Swish, despite a crowded food delivery space, indicates strong conviction in the unit economics and defensibility of the capital-intensive 'full-stack, hyperlocal' model in specific, dense urban markets.",
-            "The rapid valuation doubling highlights the premium investors are placing on startups that can create 'high-frequency habits,' aiming to capture daily consumer spend and data, not just occasional transactions."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Private Market Secondary (Exposure to Asian Hyperlocal Delivery)",
+          "asset": "META",
           "risk": "HIGH",
-          "thesis": "Swish's successful funding and valuation growth signal robust private market demand for last-mile, habit-forming commerce platforms in high-density Asian megacities. This trend favors early-stage investors in comparable models."
-        },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1627642068065?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Rival CEOs Back Prediction Market Fund",
-        "fullTitle": "Kalshi, Polymarket CEOs Back $35M Prediction Markets Fund",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Despite their bitter rivalry, the CEOs of prediction market platforms Kalshi and Polymarket are jointly backing a new $35 million venture fund named 5(c) Capital. The fund will invest in startups supporting the burgeoning prediction markets category.",
-        "relations": [
-          {
-            "label": "5(c) Capital",
-            "type": "entity",
-            "desc": "New $35M VC fund focused on prediction markets"
-          },
-          {
-            "label": "Prediction Markets",
-            "type": "tech",
-            "desc": "Technology category for event-based trading and forecasting"
-          },
-          {
-            "label": "Kalshi",
-            "type": "entity",
-            "desc": "US-regulated prediction market platform"
-          },
-          {
-            "label": "Polymarket",
-            "type": "entity",
-            "desc": "Blockchain-based prediction market platform"
-          },
-          {
-            "label": "Regulatory Arbitrage",
-            "type": "risk",
-            "desc": "Risk/opportunity from differing global regulations on prediction markets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The collaboration between fierce rivals to fund the ecosystem's infrastructure is a powerful signal that the category's leaders believe the total addressable market is large enough to support multiple winners, and that growing the overall pie is the current priority.",
-            "This move institutionalizes prediction markets as a legitimate venture-backed sector, likely accelerating regulatory dialogue, technological innovation, and mainstream adoption beyond niche crypto and trading communities."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Blockchain/Web3 Infrastructure Tokens (e.g., POL, etc.)",
-          "risk": "HIGH",
-          "thesis": "The formal venture capital influx and strategic collaboration validate prediction markets as a major growth vertical within crypto/Web3. This should drive increased usage and value accrual to the underlying blockchain infrastructure and oracle networks that power these platforms."
+          "thesis": "首个不利陪审团裁决打开了诉讼洪水的闸门，未来可能面临持续的法律战、高额赔偿和更严格的监管，增加不确定性和成本。"
         },
         "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1690678702766?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1626111830467?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+      }
+    ],
+    "en": [
+      {
+        "title": "Gold Rises on Iran War Talks",
+        "fullTitle": "Gold Extends Gains as Reports of Iran War Talks Offer Respite",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Gold prices have broken a nine-day losing streak and are extending gains. The rally is driven by investor sentiment shifting as reports suggest the US may pursue a diplomatic route to end the Middle East conflict. This reduces immediate safe-haven demand but indicates a market sensitive to geopolitical de-escalation. The price action reflects a recalibration of risk premiums tied to the region.",
+        "relations": [
+          {
+            "label": "Gold",
+            "type": "resource",
+            "desc": "Primary safe-haven asset reacting to geopolitical risk shifts."
+          },
+          {
+            "label": "Iran",
+            "type": "entity",
+            "desc": "Key geopolitical actor in Middle East conflict, central to diplomatic talks."
+          },
+          {
+            "label": "US Diplomacy",
+            "type": "risk",
+            "desc": "Policy shift reducing immediate war risk, impacting commodity and equity markets."
+          },
+          {
+            "label": "Middle East Conflict",
+            "type": "risk",
+            "desc": "Geopolitical driver of market volatility and safe-haven flows."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Diplomatic progress, even if tentative, can trigger rapid unwinding of geopolitical risk premiums across assets, creating tactical trading opportunities.",
+            "The gold market's reaction highlights its continued role as a barometer for geopolitical tension, independent of pure monetary policy narratives."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Gold Futures (GC)",
+          "risk": "MEDIUM",
+          "thesis": "A diplomatic pause may cause a short-term pullback, but structural geopolitical tensions and potential for talks to falter support a strategic long position on dips for renewed safe-haven demand."
+        },
+        "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1681314944860?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Meta Offers Execs Stock Options",
+        "fullTitle": "Meta Offers Top Execs Stock Options for First Time Since IPO",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Meta Platforms is instituting a stock option program for top executives, the first such move since its 2012 IPO. This is a strategic compensation shift aimed at retaining key leadership talent. The move coincides with the company's aggressive spending to compete in the AI race. It signals a long-term commitment to its AI and metaverse investments, tying executive rewards directly to future stock performance.",
+        "relations": [
+          {
+            "label": "Meta Platforms",
+            "type": "entity",
+            "desc": "Social media and tech giant aggressively investing in AI and metaverse."
+          },
+          {
+            "label": "Stock Options",
+            "type": "resource",
+            "desc": "Compensation tool aligning executive incentives with long-term shareholder value."
+          },
+          {
+            "label": "AI Race",
+            "type": "tech",
+            "desc": "Core strategic battleground for tech giants, driving massive capital expenditure."
+          },
+          {
+            "label": "Talent Retention",
+            "type": "risk",
+            "desc": "Critical operational risk for tech firms in a competitive AI talent market."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The move indicates Meta's board is preparing for a prolonged, capital-intensive investment cycle in AI, requiring stable leadership.",
+            "Offering equity instead of just cash compensation increases executives' exposure to company-specific risk, potentially reducing turnover during volatile execution phases."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Meta Platforms (META)",
+          "risk": "MEDIUM",
+          "thesis": "The stock option grant aligns management with long-term shareholders, reducing key-person risk during a critical investment period. It is a positive governance signal for sustained strategic focus."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1520829114796?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Oil Falls, Stocks Jump on Diplomacy",
+        "fullTitle": "Brent Below $100, Stocks Jump on Iran War Hopes: Markets Wrap",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Optimism around US diplomatic efforts to resolve the Middle East conflict has triggered a sharp market rotation. Brent crude oil fell below $100 per barrel on reduced war risk premium. Global equities rallied as the prospect of de-escalation reduced fears of an energy shock and broader economic disruption. This shows markets are highly sensitive to geopolitical headlines from the region.",
+        "relations": [
+          {
+            "label": "Brent Crude Oil",
+            "type": "resource",
+            "desc": "Global oil benchmark shedding geopolitical risk premium on diplomacy hopes."
+          },
+          {
+            "label": "Global Equities",
+            "type": "entity",
+            "desc": "Asset class benefiting from reduced systemic risk from potential energy crisis."
+          },
+          {
+            "label": "Geopolitical Risk Premium",
+            "type": "risk",
+            "desc": "Price component in oil and safe-havens that unwinds on peace hopes."
+          },
+          {
+            "label": "US Diplomacy",
+            "type": "risk",
+            "desc": "Market-moving policy action altering the trajectory of conflict and commodity prices."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The inverse reaction between oil and equities to the same geopolitical news underscores the 'risk-on/risk-off' dynamic still governing cross-asset correlations.",
+            "A sustained diplomatic solution could structurally lower the floor for oil prices, easing inflation pressures and altering central bank policy expectations globally."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Crude Oil Futures (CL) / Long Equity Index (e.g., SPY)",
+          "risk": "HIGH",
+          "thesis": "Tactical pair trade: short oil to capture the unwind of war premium, long broad equities to capture the relief rally. Risk is high as diplomacy is fragile and headlines can reverse quickly."
+        },
+        "confidence": 80,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1649485646711?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Amazon Buys Kid-Size Robot Startup",
+        "fullTitle": "Amazon just bought a startup making kid-size humanoid robots",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Amazon has acquired Fauna Robotics, a startup developing kid-size humanoid robots. This marks Amazon's second robotics startup acquisition this month. The move fits into Amazon's broader strategy of automating logistics, warehousing, and potentially last-mile delivery. It represents a continued bet on advanced robotics as a core competency for future operations.",
+        "relations": [
+          {
+            "label": "Amazon",
+            "type": "entity",
+            "desc": "E-commerce and cloud giant investing heavily in automation and robotics."
+          },
+          {
+            "label": "Fauna Robotics",
+            "type": "entity",
+            "desc": "Startup specializing in compact humanoid robots, acquired by Amazon."
+          },
+          {
+            "label": "Humanoid Robotics",
+            "type": "tech",
+            "desc": "Advanced automation technology with applications in logistics and services."
+          },
+          {
+            "label": "Logistics Automation",
+            "type": "tech",
+            "desc": "Strategic focus for Amazon to improve efficiency and reduce operational costs."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Acquiring niche robotics firms allows Amazon to vertically integrate specific automation capabilities faster than internal R&D, accelerating its operational technology roadmap.",
+            "Focus on 'kid-size' humanoids suggests targeting applications in constrained spaces unsuitable for larger industrial robots, possibly for home delivery or small-package handling."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Amazon (AMZN)",
+          "risk": "LOW",
+          "thesis": "The acquisition is a small but consistent signal of Amazon's long-term commitment to automation leadership, which is critical for margin expansion in its core commerce business over time."
+        },
+        "confidence": 88,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1559988827331?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Kleiner Perkins Raises $3.5B for AI",
+        "fullTitle": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Venture capital firm Kleiner Perkins has raised $3.5 billion in new capital dedicated to AI investments. The fund is split between $1 billion for early-stage startups and $2.5 billion for late-stage growth businesses. This signifies massive institutional capital allocation towards the AI ecosystem. It will fuel further innovation, competition, and valuation growth across the AI sector.",
+        "relations": [
+          {
+            "label": "Kleiner Perkins",
+            "type": "entity",
+            "desc": "Legendary venture capital firm making a massive, focused bet on AI."
+          },
+          {
+            "label": "Artificial Intelligence (AI)",
+            "type": "tech",
+            "desc": "Primary investment theme attracting record levels of venture capital."
+          },
+          {
+            "label": "Venture Capital",
+            "type": "resource",
+            "desc": "Source of capital fueling the growth and commercialization of AI technologies."
+          },
+          {
+            "label": "AI Startups",
+            "type": "entity",
+            "desc": "Companies across stages that will receive funding, driving sector expansion."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The fund size and stage focus indicate VC expectation of a long AI investment cycle with significant capital needs for scaling, beyond just initial innovation.",
+            "This capital influx will increase competition for deals, potentially inflating private market valuations but also ensuring well-funded challengers to incumbent tech giants in AI."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AI-focused ETFs (e.g., ARKQ, BOTZ) / Public AI Leaders (e.g., NVDA, MSFT)",
+          "risk": "MEDIUM",
+          "thesis": "Major VC fundraises validate the AI thesis and provide a multi-year runway of funding for the ecosystem, supporting demand for infrastructure (chips, cloud) and creating future public companies."
+        },
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1605573653247?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Meta Loses Landmark Child Safety Case",
+        "fullTitle": "New Mexico hands Meta its first courtroom defeat over child safety",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "A New Mexico jury has delivered the first verdict against Meta Platforms finding it responsible for harms to young people. While the dollar amount may be limited, the precedent is significant. This establishes a legal precedent that could be used in numerous other lawsuits across the country. It increases regulatory and litigation risk for social media platforms regarding product design and child safety.",
+        "relations": [
+          {
+            "label": "Meta Platforms",
+            "type": "entity",
+            "desc": "Defendant in landmark lawsuit over alleged harms to young users."
+          },
+          {
+            "label": "Child Safety",
+            "type": "risk",
+            "desc": "Critical regulatory and litigation risk area for social media companies."
+          },
+          {
+            "label": "Jury Verdict",
+            "type": "risk",
+            "desc": "Legal precedent setting a potential template for future lawsuits nationwide."
+          },
+          {
+            "label": "Social Media Regulation",
+            "type": "risk",
+            "desc": "Growing political and legal pressure on platform design and accountability."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The jury verdict shifts the legal battlefield from theoretical regulatory risk to tangible, case-specific liability, potentially opening a floodgate of similar litigation.",
+            "This forces Meta and peers to re-evaluate product engagement metrics versus safety, possibly leading to design changes that could impact user growth and engagement in the youth demographic."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Meta Platforms (META)",
+          "risk": "HIGH",
+          "thesis": "The verdict introduces a new, unquantifiable liability overhang and increases the likelihood of more lawsuits, stricter regulation, and potentially costly product changes, posing a threat to the business model."
+        },
+        "confidence": 87,
+        "id": "NEX-8825",
+        "image": "https://images.unsplash.com/photo-1609895148609?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Mercados asiáticos recortan ganancias",
-        "fullTitle": "Acciones recortan ganancias, petróleo se recupera con foco en Irán",
+        "title": "Oro sube por esperanzas de paz",
+        "fullTitle": "Oro extiende ganancias tras reportes de conversaciones de paz en Irán",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Las acciones asiáticas recortaron las ganancias iniciales y los futuros de índices bursátiles estadounidenses cayeron, a medida que se desvaneció el frágil optimismo sobre una posible desescalada de tensiones en Medio Oriente. El oro extendió su desplome y se encamina a su racha de pérdidas más larga registrada. El petróleo se recuperó parcialmente, con la atención centrada en Irán.",
+        "summary": "El oro rompió una racha de nueve días de pérdidas y extendió sus ganancias. Los inversores están evaluando señales de que EE.UU. podría buscar una ruta diplomática para finalizar la guerra en Medio Oriente. Esto refleja una clara correlación inversa entre el riesgo geopolítico y el precio del activo refugio. Un posible acuerdo diplomático podría aliviar la presión alcista a corto plazo.",
         "relations": [
-          {
-            "label": "Acciones asiáticas",
-            "type": "entity",
-            "desc": "Índices bursátiles de la región Asia-Pacífico"
-          },
-          {
-            "label": "Petróleo (WTI/Brent)",
-            "type": "resource",
-            "desc": "Commodity energético clave"
-          },
           {
             "label": "Oro",
             "type": "resource",
-            "desc": "Activo refugio tradicional"
+            "desc": "Activo refugio, precio sensible a la geopolítica"
           },
           {
-            "label": "Tensiones Medio Oriente",
-            "type": "risk",
-            "desc": "Riesgo geopolítico principal"
-          },
-          {
-            "label": "Futuros de índices EEUU",
+            "label": "Irán",
             "type": "entity",
-            "desc": "Derivados sobre S&P 500, Nasdaq, etc."
+            "desc": "Actor clave en el conflicto de Medio Oriente"
+          },
+          {
+            "label": "EE.UU.",
+            "type": "entity",
+            "desc": "Impulsor de la iniciativa diplomática"
+          },
+          {
+            "label": "Riesgo Geopolítico",
+            "type": "risk",
+            "desc": "Factor principal de volatilidad en mercados"
+          },
+          {
+            "label": "Diplomacia",
+            "type": "risk",
+            "desc": "Variable que reduce la prima de riesgo"
           }
         ],
         "analysis": {
           "strategic": [
-            "La volatilidad del mercado refleja la alta sensibilidad a los titulares geopolíticos, particularmente relacionados con Irán y el suministro energético.",
-            "El comportamiento divergente del oro (bajando) y el petróleo (recuperándose) sugiere una reevaluación compleja del riesgo, donde la amenaza inmediata de interrupción del suministro puede pesar más que la demanda de refugio."
+            "La desescalada diplomática en Medio Oriente podría iniciar una corrección en commodities energéticos y activos refugio, beneficiando a activos de riesgo.",
+            "La credibilidad de la vía diplomática será clave; cualquier ruptura podría provocar una reversión violenta en los mercados, con el oro como principal beneficiario."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Futuros de índices bursátiles asiáticos (ej. Nikkei 225, Hang Seng)",
-          "risk": "MEDIUM",
-          "thesis": "El fracaso del rebote inicial y la persistencia de la incertidumbre geopolítica generan un sesgo bajista a corto plazo. La resistencia técnica en los máximos recientes podría no mantenerse."
+          "asset": "Oro (XAU/USD)",
+          "risk": "HIGH",
+          "thesis": "Si se confirma el camino diplomático, la prima de riesgo geopolítico incorporada en el precio del oro se reducirá, llevando a una corrección técnica. Operación de corto plazo sujeta a noticias."
         },
-        "confidence": 88,
+        "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1585545412325?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1555074663197?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Japón sondea intervención en futuros de petróleo",
-        "fullTitle": "Japón sondea mercado sobre posible intervención en futuros de petróleo",
-        "classification": "CONFIDENTIAL",
+        "title": "Meta ofrece opciones a ejecutivos",
+        "fullTitle": "Meta ofrece opciones sobre acciones a altos ejecutivos por primera vez desde su OPV",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "El Ministerio de Finanzas de Japón habría realizado consultas con participantes del mercado sobre una posible intervención en el mercado de futuros de petróleo crudo. El aparente objetivo es aliviar la presión sobre el precio de la materia prima y, por extensión, sobre el yen japonés. Esto refleja la preocupación de las autoridades por el impacto inflacionario de los precios energéticos.",
+        "summary": "Meta Platforms Inc. está ofreciendo opciones sobre acciones a sus altos ejecutivos por primera vez desde su OPV en 2012. Esta medida es un esfuerzo para retener y compensar al talento ejecutivo. La compañía continúa gastando agresivamente para competir en la carrera de IA. Esto alinea los intereses de la dirección con los de los accionistas a largo plazo, pero también diluye el capital.",
         "relations": [
           {
-            "label": "Ministerio de Finanzas de Japón (MOF)",
+            "label": "Meta Platforms Inc.",
             "type": "entity",
-            "desc": "Autoridad fiscal y monetaria clave"
+            "desc": "Empresa tecnológica, matriz de Facebook e Instagram"
           },
           {
-            "label": "Futuros de petróleo crudo",
+            "label": "Opciones sobre Acciones",
             "type": "resource",
-            "desc": "Mercado derivado para el precio del petróleo"
+            "desc": "Herramienta de compensación y retención ejecutiva"
           },
           {
-            "label": "Yen Japonés (JPY)",
-            "type": "entity",
-            "desc": "Moneda afectada por costes de importación"
+            "label": "Carrera de IA",
+            "type": "tech",
+            "desc": "Área de gasto e inversión agresiva para Meta"
           },
           {
-            "label": "Intervención en mercados",
+            "label": "Retención de Talento",
             "type": "risk",
-            "desc": "Riesgo de acción regulatoria/gubernamental"
+            "desc": "Riesgo operativo clave en el sector tecnológico"
           },
           {
-            "label": "Inflación importada",
+            "label": "Dilución de Capital",
             "type": "risk",
-            "desc": "Riesgo macroeconómico para Japón"
+            "desc": "Consecuencia potencial de la emisión de opciones"
           }
         ],
         "analysis": {
           "strategic": [
-            "La consideración de intervención directa en futuros de commodities por parte de una economía importante como Japón marca un precedente significativo y podría alterar la dinámica de precios más allá de las fuerzas fundamentales.",
-            "Esta acción subraya la vulnerabilidad de economías importadoras netas de energía a shocks geopolíticos y su disposición a utilizar herramientas no convencionales para proteger la estabilidad económica interna."
+            "La medida subraya la intensa competencia por el talento de liderazgo en IA, considerando los grandes gastos de capital de Meta, y busca asegurar la ejecución estable de su estrategia.",
+            "El uso de opciones después de más de una década indica que Meta valora más la retención a largo plazo que el costo inmediato de la dilución, apostando por un crecimiento futuro sustancial."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Futuros de petróleo Brent/WTI",
-          "risk": "HIGH",
-          "thesis": "La mera amenaza de intervención coordinada o unilateral por parte de un gran importador como Japón introduce un riesgo a la baja significativo y un techo potencial en los precios a corto plazo, añadiendo volatilidad."
+          "action": "LONG",
+          "asset": "Meta (META)",
+          "risk": "MEDIUM",
+          "thesis": "La alineación de los ejecutivos con el precio de las acciones a largo plazo es positiva para la gobernanza. Refuerza la tesis de inversión en la transición e inversión en IA de la compañía, a pesar de los gastos."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1615605185995?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1666794876903?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Mineras australianas saltan por comentarios de Trump",
-        "fullTitle": "Mineras australianas suben más en un año por comentarios de Trump sobre Irán",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Las acciones mineras australianas registraron su mayor avance en casi un año tras la decisión del presidente Donald Trump de posponer ataques contra la infraestructura energética de Irán. El alivio de una escalada militar inmediata redujo el premio por riesgo geopolítico, beneficiando a activos de riesgo como las acciones cíclicas. Las mineras, sensibles al sentimiento de crecimiento global, fueron las principales beneficiarias.",
-        "relations": [
-          {
-            "label": "Acciones mineras australianas (ASX Materials)",
-            "type": "entity",
-            "desc": "Sector de materiales/minería en bolsa australiana"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EEUU, fuente de declaración"
-          },
-          {
-            "label": "Infraestructura energética iraní",
-            "type": "resource",
-            "desc": "Objetivo potencial militar"
-          },
-          {
-            "label": "Premio por riesgo geopolítico",
-            "type": "risk",
-            "desc": "Componente de precios de activos"
-          },
-          {
-            "label": "Activos cíclicos",
-            "type": "entity",
-            "desc": "Acciones sensibles al ciclo económico"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La reacción del mercado australiano demuestra la interconexión global del riesgo geopolítico, donde una decisión en Washington afecta directamente a sectores específicos en mercados distantes como Australia.",
-            "La volatilidad impulsada por declaraciones individuales resalta la fragilidad del sentimiento y la dependencia de los mercados de narrativas políticas de alto perfil, creando oportunidades de trading a corto plazo."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de mineras australianas (ej. ASX: OZM o equivalente)",
-          "risk": "MEDIUM",
-          "thesis": "El alivio geopolítico puede sostener un rebote técnico en un sector que había sido castigado. Es una operación táctica de momentum positivo a corto plazo, dependiente de que no haya nuevos titulares de escalada."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1601399742025?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Exejecutivo de Uber guarda rencor",
-        "fullTitle": "Emil Michael, ahora en el Pentágono, no perdona a inversores de Uber",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Emil Michael, antiguo ejecutivo de Uber y ahora alto funcionario del Departamento de Defensa de EE.UU. (Pentágono), declaró que nunca perdonará a los inversores que lo expulsaron a él y al cofundador Travis Kalanick de la empresa. Sus comentarios reflejan tensiones personales duraderas derivadas de la agitada gobernanza de Uber en el pasado. La noticia tiene un interés principalmente anecdótico para los mercados.",
-        "relations": [
-          {
-            "label": "Emil Michael",
-            "type": "entity",
-            "desc": "Exejecutivo de Uber, actual funcionario del Pentágono"
-          },
-          {
-            "label": "Uber Technologies Inc. (UBER)",
-            "type": "entity",
-            "desc": "Empresa de movilidad y entregas"
-          },
-          {
-            "label": "Travis Kalanick",
-            "type": "entity",
-            "desc": "Cofundador y ex-CEO de Uber"
-          },
-          {
-            "label": "Inversores de Uber",
-            "type": "entity",
-            "desc": "Accionistas que impulsaron cambios de gestión"
-          },
-          {
-            "label": "Gobernanza corporativa",
-            "type": "risk",
-            "desc": "Riesgo relacionado con conflictos internos"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La persistencia de rencores personales entre exlíderes y accionistas de empresas tecnológicas emblemáticas puede resurgir en contextos inesperados (como cargos gubernamentales), aunque el impacto financiero directo es mínimo.",
-            "Sirve como recordatorio de que los riesgos de gobernanza y los conflictos fundadores-inversores pueden dejar cicatrices duraderas, incluso después de que una empresa se haya hecho pública y estabilizado."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "N/A (Sin acción directa recomendada)",
-          "risk": "LOW",
-          "thesis": "Esta noticia es de naturaleza anecdótica y no presenta una tesis de inversión clara o un catalizador fundamental para Uber o el sector. No se recomienda ninguna acción basada en este evento."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1557239684198?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Startup Swish levanta $38M en ronda Serie C",
-        "fullTitle": "Startup de entregas Swish de Bengaluru levanta $38M, tercera ronda en 18 meses",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Swish, una startup india de entrega de comida hiperlocal con sede en Bengaluru, ha recaudado 38 millones de dólares en su tercera ronda de financiación en 18 meses. La valoración de la empresa se ha más que duplicado en un año. Su modelo 'full-stack' e hiperlocal posiciona la entrega de comida ultrarrápida como un hábito de alta frecuencia, atrayendo a inversores a pesar del competitivo panorama.",
-        "relations": [
-          {
-            "label": "Swish",
-            "type": "entity",
-            "desc": "Startup de entrega de comida hiperlocal"
-          },
-          {
-            "label": "Bengaluru (India)",
-            "type": "entity",
-            "desc": "Hub tecnológico y de startups"
-          },
-          {
-            "label": "Modelo Full-Stack/Hiperlocal",
-            "type": "tech",
-            "desc": "Estrategia operativa que controla más partes de la cadena"
-          },
-          {
-            "label": "Entrega de comida ultrarrápida",
-            "type": "tech",
-            "desc": "Sector de rápido crecimiento"
-          },
-          {
-            "label": "Venture Capital (VC)",
-            "type": "entity",
-            "desc": "Fuente de financiación para startups"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La continua afluencia de capital a Swish, duplicando su valoración, indica una fuerte creencia de los inversores en modelos hiperlocales y 'full-stack' como diferenciadores sostenibles en el saturado mercado de entregas de comida.",
-            "El éxito de financiación en India refleja la profundidad y resiliencia del ecosistema de startups de la región, centrándose en soluciones adaptadas a mercados densos y de rápido crecimiento, atractivas para el VC global."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Empresas de VC con exposición a startups de consumo/tech india (ej. fondos de Sequoia India, Accel India)",
-          "risk": "HIGH",
-          "thesis": "El dinamismo en rondas de crecimiento tardío en sectores como las entregas sugiere un apetito de salida saludable (IPO/adquisición). Invertir en vehículos de VC proporciona exposición indirecta a este crecimiento, aunque con alta iliquidez y riesgo."
-        },
-        "confidence": 84,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1511331633897?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "CEOs rivales respaldan fondo VC de mercados de predicción",
-        "fullTitle": "CEOs de Kalshi y Polymarket respaldan fondo VC de $35M para mercados de predicción",
+        "title": "Petróleo cae, acciones suben",
+        "fullTitle": "Brent baja de $100, acciones saltan por esperanzas sobre Irán",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "A pesar de su amarga rivalidad, los CEOs de las plataformas de mercados de predicción Kalshi y Polymarket están respaldando conjuntamente un nuevo fondo de capital de riesgo de 35 millones de dólares llamado 5(c) Capital. El fondo invertirá en startups que apoyen la creciente categoría de los mercados de predicción. Esto señala una apuesta colectiva de la industria por un crecimiento significativo, superando las competencias individuales.",
+        "impactLevel": "HIGH",
+        "summary": "El petróleo declinó y las acciones subieron con fuerza. El optimismo se fortaleció en torno al impulso diplomático de Washington para resolver el conflicto en Medio Oriente, que lleva casi un mes. El Brent cayó por debajo de los 100 dólares. Los mercados están descontando una reducción del riesgo de interrupción del suministro energético.",
         "relations": [
           {
-            "label": "Mercados de Predicción",
-            "type": "tech",
-            "desc": "Plataformas para comerciar con resultados de eventos"
+            "label": "Petróleo Brent",
+            "type": "resource",
+            "desc": "Referencia global del crudo, muy sensible a la geopolítica"
           },
           {
-            "label": "5(c) Capital",
+            "label": "Índices Bursátiles",
             "type": "entity",
-            "desc": "Nuevo fondo de Venture Capital"
+            "desc": "Beneficiados por la reducción del riesgo geopolítico"
           },
           {
-            "label": "Kalshi",
+            "label": "Washington",
             "type": "entity",
-            "desc": "Plataforma de mercados de predicción regulada en EEUU"
+            "desc": "Actor diplomático principal"
           },
           {
-            "label": "Polymarket",
-            "type": "entity",
-            "desc": "Plataforma de mercados de predicción (basada en cripto)"
+            "label": "Conflicto Medio Oriente",
+            "type": "risk",
+            "desc": "Principal fuente de incertidumbre para los mercados"
           },
           {
-            "label": "Capital de Riesgo (VC) temático",
-            "type": "entity",
-            "desc": "Fondo enfocado en un sector específico"
+            "label": "Diplomacia",
+            "type": "risk",
+            "desc": "Catalizador de la reversión del sentimiento del mercado"
           }
         ],
         "analysis": {
           "strategic": [
-            "La colaboración entre rivales directos para crear un fondo VC indica una estrategia de 'aumentar el pastel' en lugar de 'pelear por una porción'. Buscan acelerar la adopción general y la infraestructura del sector de los mercados de predicción, beneficiando a todos los participantes.",
-            "Esta movilización de capital institucional alrededor de los mercados de predicción sugiere una creciente legitimización de la categoría, potencialmente allanando el camino para una mayor integración financiera y aceptación regulatoria a largo plazo."
+            "Los mercados muestran una clara dicotomía: desapalancamiento de coberturas inflacionarias (petróleo) y retorno a activos de riesgo (acciones), lo que sugiere un cambio de narrativa a corto plazo.",
+            "La sostenibilidad de este movimiento depende completamente de la credibilidad y éxito de las gestiones diplomáticas; un fracaso provocaría una reversión más abrupta que el rally inicial."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Exposición indirecta a infraestructura blockchain/Web3 y fintech regulada",
+          "asset": "ETF S&P 500 (SPY)",
+          "risk": "MEDIUM",
+          "thesis": "Reducción de la prima de riesgo geopolítico y del miedo a un shock energético prolongado. Favorece un rally alivio en índices bursátiles globales, especialmente en sectores cíclicos."
+        },
+        "confidence": 83,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1604840435946?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Amazon compra startup de robots",
+        "fullTitle": "Amazon compra Fauna Robotics, startup de robots humanoides para niños",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Amazon ha adquirido la startup Fauna Robotics, que fabrica robots humanoides de tamaño infantil. Esta es la segunda startup de robótica que Amazon compra este mes. La adquisición refuerza la apuesta estratégica de Amazon en automatización y robótica. El enfoque en robots de tamaño infantil podría indicar aplicaciones en logística en espacios reducidos o incluso en entretenimiento/educación.",
+        "relations": [
+          {
+            "label": "Amazon",
+            "type": "entity",
+            "desc": "Gigante del comercio electrónico y la nube"
+          },
+          {
+            "label": "Fauna Robotics",
+            "type": "entity",
+            "desc": "Startup de robótica adquirida"
+          },
+          {
+            "label": "Robots Humanoides",
+            "type": "tech",
+            "desc": "Tecnología de automatización avanzada"
+          },
+          {
+            "label": "Automatización Logística",
+            "type": "tech",
+            "desc": "Área de inversión clave para Amazon"
+          },
+          {
+            "label": "Adquisiciones Tecnológicas",
+            "type": "risk",
+            "desc": "Estrategia de crecimiento e innovación de Amazon"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La compra es consistente con la estrategia a largo plazo de Amazon de dominar la cadena de suministro mediante automatización extrema, reduciendo costos y dependencia laboral.",
+            "El nicho de 'robots infantiles' sugiere que Amazon explora aplicaciones más allá del almacén tradicional, posiblemente en última milla, hogar, o incluso en su división de dispositivos (Alexa)."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Amazon (AMZN)",
+          "risk": "LOW",
+          "thesis": "Refuerza la ventaja competitiva en eficiencia operativa a largo plazo. Las adquisiciones de startups de robótica son estratégicas y sinérgicas con su negocio central, apoyando márgenes futuros."
+        },
+        "confidence": 88,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1509962555431?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Kleiner Perkins apuesta $3.5B en IA",
+        "fullTitle": "Kleiner Perkins recauda $3.5B para apostar todo a la IA",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Kleiner Perkins, una firma de capital riesgo legendaria, ha recaudado 3.500 millones de dólares de nuevo capital para apostar todo a la IA. La captación incluye 1.000 millones para invertir en startups en etapas iniciales y 2.500 millones para negocios de crecimiento en etapa tardía. Esto señala una enorme convicción y disponibilidad de capital para el sector. También puede indicar que la valoración de las rondas tardías en IA seguirá siendo elevada.",
+        "relations": [
+          {
+            "label": "Kleiner Perkins",
+            "type": "entity",
+            "desc": "Firma de capital riesgo de Silicon Valley"
+          },
+          {
+            "label": "Inteligencia Artificial (IA)",
+            "type": "tech",
+            "desc": "Foco principal de la inversión"
+          },
+          {
+            "label": "Capital Riesgo",
+            "type": "resource",
+            "desc": "Flujo de capital hacia innovación"
+          },
+          {
+            "label": "Startups",
+            "type": "entity",
+            "desc": "Empresas objetivo de la inversión"
+          },
+          {
+            "label": "Sobrevaloración",
+            "type": "risk",
+            "desc": "Riesgo en rondas de crecimiento con alto flujo de capital"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El tamaño del fondo confirma que la IA es el mega-tema de inversión de la década, atrayendo capital masivo que alimentará una burbuja de innovación y, potencialmente, de valoraciones.",
+            "La división del capital (temprano vs. tardío) muestra una estrategia integral para capturar valor en todo el ciclo de vida de las empresas de IA, desde la semilla hasta la pre-OPV."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF Temático de IA (ARKQ o similar)",
           "risk": "HIGH",
-          "thesis": "El respaldo conjunto de líderes rivales es un fuerte voto de confianza en el crecimiento del sector. Los mercados de predicción podrían converger con las finanzas tradicionales y el análisis de riesgos. Las empresas que proporcionan infraestructura tecnológica, legal o de liquidez subyacente podrían ser las mayores beneficiarias."
+          "thesis": "El influjo de capital riesgo sofisticado (smart money) en IA es un fuerte indicador de tendencia a largo plazo. Los ETF temáticos permiten exposición diversificada al crecimiento del sector."
         },
         "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1646549209706?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Meta derrotada en juicio por seguridad infantil",
+        "fullTitle": "Nuevo México logra primera derrota judicial de Meta por seguridad infantil",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Nuevo México ha logrado la primera derrota judicial contra Meta por daños a jóvenes. Un jurado falló en contra de Meta en un caso relacionado con la seguridad infantil. El monto en dólares no es tan importante como el hecho de que es el primer veredicto de este tipo. Esto sienta un precedente legal que podría ser observado y replicado en todo el país.",
+        "relations": [
+          {
+            "label": "Meta Platforms Inc.",
+            "type": "entity",
+            "desc": "Demandada en el caso de seguridad infantil"
+          },
+          {
+            "label": "Nuevo México",
+            "type": "entity",
+            "desc": "Estado demandante, obtuvo el veredicto"
+          },
+          {
+            "label": "Seguridad Infantil",
+            "type": "risk",
+            "desc": "Riesgo regulatorio y legal principal para redes sociales"
+          },
+          {
+            "label": "Precedente Legal",
+            "type": "risk",
+            "desc": "Mayor riesgo de litigios similares en otros estados"
+          },
+          {
+            "label": "Regulación de Plataformas",
+            "type": "risk",
+            "desc": "Presión creciente sobre el sector tecnológico"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Este veredicto abre la puerta a una oleada de litigios similares por parte de otros estados y particulares, aumentando significativamente el pasivo legal contingente de Meta y sus pares.",
+            "La derrota ante un jurado, no un regulador, es particularmente peligrosa, ya que refleja la percepción pública negativa, lo que puede acelerar la acción legislativa federal."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Meta (META)",
+          "risk": "HIGH",
+          "thesis": "Aumento del riesgo de litigios y provisiones legales. El precedente puede desencadenar múltiples demandas, generando incertidumbre y posibles multas/costos de conformidad que afectan los beneficios. Operación táctica."
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1550915769677?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1697156980322?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
