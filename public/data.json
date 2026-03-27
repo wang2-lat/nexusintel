@@ -1,893 +1,863 @@
 {
-  "generated_at": "2026-03-26T02:36:01.831668",
+  "generated_at": "2026-03-27T02:37:59.070353",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "IFM CEO谈投资策略",
-        "fullTitle": "IFM Investors CEO大卫·尼尔谈市场波动下的投资策略",
+        "title": "再通胀利好中国股市",
+        "fullTitle": "全球价格飙升，再通胀可能利好中国股票",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "IFM Investors首席执行官大卫·尼尔在亚太金融与创新研讨会上接受独家专访，讨论在市场波动和通胀风险上升背景下的投资策略与增长展望。他强调在当前环境下需要调整投资组合以应对不确定性。该访谈在彭博“亚洲贸易”栏目播出，为机构投资者提供了重要的市场风向参考。",
+        "summary": "市场预期中国可能即将转向再通胀政策。此举有望提振企业盈利，并推动股市上涨。该预期源于全球价格持续上涨的背景。",
         "relations": [
           {
-            "label": "IFM Investors",
+            "label": "中国股市",
             "type": "entity",
-            "desc": "澳大利亚大型基金管理公司"
+            "desc": "政策转向的主要受益市场"
           },
           {
-            "label": "大卫·尼尔",
-            "type": "entity",
-            "desc": "IFM Investors首席执行官"
-          },
-          {
-            "label": "市场波动",
+            "label": "再通胀政策",
             "type": "risk",
-            "desc": "当前金融市场的主要风险特征"
+            "desc": "潜在的宏观政策转向"
           },
           {
-            "label": "通胀风险",
-            "type": "risk",
-            "desc": "影响投资决策的关键宏观风险"
-          },
-          {
-            "label": "亚太金融与创新研讨会",
+            "label": "企业盈利",
             "type": "entity",
-            "desc": "重要的区域金融行业交流平台"
+            "desc": "政策传导的核心环节"
+          },
+          {
+            "label": "全球价格",
+            "type": "resource",
+            "desc": "推动政策预期的外部因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "大型机构投资者正在重新评估风险敞口，调整资产配置以应对宏观不确定性",
-            "通胀预期管理成为投资策略的核心考量，可能影响债券和实物资产的配置比例"
+            "中国宏观政策转向可能为全球资本提供新的配置方向。",
+            "若再通胀预期落地，将显著改变全球主要经济体的货币政策周期差异。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "防御性板块及通胀挂钩资产",
+          "asset": "沪深300指数ETF",
           "risk": "MEDIUM",
-          "thesis": "跟随大型机构投资者的避险逻辑，配置能够抵御通胀和市场波动的资产"
+          "thesis": "押注中国政策转向刺激经济与股市，企业盈利预期改善将推高估值。"
         },
-        "confidence": 88,
+        "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1680081636829?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1503192664738?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "中美领导人五月峰会",
-        "fullTitle": "特朗普与习近平将于五月中旬在北京举行峰会",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国总统特朗普与中国国家主席习近平将于5月14-15日在北京举行备受期待的双边峰会。此前峰会延期给两大经济体关系带来了新的不确定性。此次会晤将讨论贸易、地缘政治等关键议题，结果可能对全球市场产生重大影响。彭博记者斯蒂芬·恩格尔报道了这一消息。",
+        "title": "Aggreko计划美国IPO",
+        "fullTitle": "TDR与I Squared为Aggreko美国IPO选聘银行",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "私募股权公司TDR Capital和I Squared Capital已为旗下公司Aggreko Plc的美国IPO选聘承销银行。Aggreko是全球领先的临时能源与温控解决方案提供商。此举标志着该公司可能寻求在美股市场上市融资。",
         "relations": [
           {
-            "label": "特朗普",
+            "label": "Aggreko Plc",
             "type": "entity",
-            "desc": "美国总统"
+            "desc": "计划进行IPO的能源服务公司"
           },
           {
-            "label": "习近平",
+            "label": "TDR Capital",
             "type": "entity",
-            "desc": "中国国家主席"
+            "desc": "主导交易的私募股权公司"
           },
           {
-            "label": "中美关系",
-            "type": "risk",
-            "desc": "影响全球经济和市场的关键双边关系"
+            "label": "I Squared Capital",
+            "type": "entity",
+            "desc": "共同主导交易的私募股权公司"
           },
           {
-            "label": "贸易谈判",
+            "label": "美国IPO",
             "type": "risk",
-            "desc": "峰会核心议题之一"
+            "desc": "关键的资本退出与融资事件"
           },
           {
-            "label": "地缘政治风险",
-            "type": "risk",
-            "desc": "峰会可能涉及的其他敏感议题"
+            "label": "临时能源",
+            "type": "resource",
+            "desc": "公司的核心业务领域"
           }
         ],
         "analysis": {
           "strategic": [
-            "此次峰会可能为持续的中美贸易紧张局势提供阶段性解决方案或新的框架",
-            "峰会结果将直接影响全球供应链预期、货币政策和风险资产定价"
+            "私募资本寻求通过美股IPO实现退出，反映其对当前市场估值的判断。",
+            "能源转型背景下，临时能源解决方案公司的上市可能吸引ESG及传统能源投资者的共同关注。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "人民币资产及亚洲供应链相关股票",
+          "asset": "Aggreko (上市后)",
           "risk": "HIGH",
-          "thesis": "若峰会取得积极成果，将显著降低风险溢价，利好受贸易战压制的资产类别"
+          "thesis": "作为行业龙头，在能源安全与转型主题下，上市可能获得估值溢价，但需关注发行定价和市场情绪。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1513255731555?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1642442464340?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Hostplus CIO强调多元化",
-        "fullTitle": "Hostplus首席投资官萨姆·西西里亚谈多元化投资策略",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "澳大利亚养老基金Hostplus首席投资官萨姆·西西里亚在亚太金融与创新研讨会上分享了对基金投资和增长策略的看法。他认为对冲市场波动和不确定性的最佳方式是“多元化”。该独家专访同样在彭博“亚洲贸易”栏目播出，反映了大型养老基金的资产配置思路。",
-        "relations": [
-          {
-            "label": "Hostplus",
-            "type": "entity",
-            "desc": "澳大利亚大型养老基金"
-          },
-          {
-            "label": "萨姆·西西里亚",
-            "type": "entity",
-            "desc": "Hostplus首席投资官"
-          },
-          {
-            "label": "多元化",
-            "type": "resource",
-            "desc": "核心投资策略"
-          },
-          {
-            "label": "市场不确定性",
-            "type": "risk",
-            "desc": "投资策略需要应对的主要挑战"
-          },
-          {
-            "label": "养老基金",
-            "type": "entity",
-            "desc": "长期资本的重要来源"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "大型长期资本管理者正通过资产类别和地域的多元化来构建抗波动组合",
-            "养老基金的配置动向是观察市场长期资金流向和风险偏好的重要窗口"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "多元化ETF或基金组合",
-          "risk": "LOW",
-          "thesis": "跟随稳健型机构投资者的主流策略，通过广泛分散投资来平滑波动"
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1512526510663?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Deccan AI融资2500万美元",
-        "fullTitle": "Mercor竞争对手Deccan AI融资2500万并聚焦印度人才",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "人工智能公司Deccan AI成功融资2500万美元。该公司将团队集中在印度，旨在快速成长但碎片化的AI训练市场中管控质量。此举表明印度正成为全球AI人才和运营的重要枢纽，同时也揭示了AI基础设施服务市场的竞争加剧。",
-        "relations": [
-          {
-            "label": "Deccan AI",
-            "type": "entity",
-            "desc": "人工智能训练服务公司"
-          },
-          {
-            "label": "Mercor",
-            "type": "entity",
-            "desc": "竞争对手"
-          },
-          {
-            "label": "AI训练市场",
-            "type": "tech",
-            "desc": "快速增长但碎片化的细分领域"
-          },
-          {
-            "label": "印度人才",
-            "type": "resource",
-            "desc": "公司的核心战略资源"
-          },
-          {
-            "label": "融资",
-            "type": "resource",
-            "desc": "2500万美元资金注入"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "AI产业链的“训练即服务”环节正吸引资本，并呈现地域专业化趋势",
-            "印度凭借其人才成本和质量优势，正在成为全球AI后端运营的关键节点"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI基础设施及服务板块",
-          "risk": "MEDIUM",
-          "thesis": "资本持续流入AI基础设施层，该领域的专业服务商具有增长潜力"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1610933523793?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "LiteLLM开源项目遭恶意软件攻击",
-        "fullTitle": "LiteLLM AI开源项目遭凭证窃取恶意软件感染",
+        "title": "中东冲突拖累原油流动性",
+        "fullTitle": "伊朗战争持续，原油市场波动耗尽交易商流动性",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "被数百万人使用的AI开源项目LiteLLM遭到凭证窃取恶意软件感染。安全公司Delve为其进行了安全合规审查。此事件凸显了AI开源生态系统的安全脆弱性，大规模使用的底层工具一旦被攻破，可能引发供应链安全危机。",
+        "summary": "中东冲突持续近一个月，剧烈的油价波动导致交易商亏损并开始撤离市场。市场流动性正在枯竭，这可能加剧未来的价格波动。地缘政治风险已成为原油市场的主导因素。",
         "relations": [
           {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "广泛使用的AI开源项目"
+            "label": "原油市场",
+            "type": "resource",
+            "desc": "受地缘政治直接冲击的核心市场"
           },
           {
-            "label": "恶意软件",
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "凭证窃取类型"
+            "desc": "主要的风险来源与波动驱动因素"
           },
           {
-            "label": "供应链攻击",
+            "label": "市场流动性",
             "type": "risk",
-            "desc": "针对开源软件依赖的安全威胁"
+            "desc": "正在恶化的关键市场指标"
           },
           {
-            "label": "Delve",
+            "label": "交易商",
             "type": "entity",
-            "desc": "安全合规服务公司"
-          },
-          {
-            "label": "AI安全",
-            "type": "risk",
-            "desc": "日益突出的新风险维度"
+            "desc": "市场参与主体，正在承受压力"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI开源基础设施的安全已成为行业系统性风险点，可能催生新的安全合规市场",
-            "针对AI开发工具的供应链攻击可能窃取大量企业API密钥和敏感数据，威胁范围广"
+            "地缘政治风险溢价长期化，将重塑全球能源贸易流与定价机制。",
+            "市场流动性下降可能引发极端行情，增加实体企业和金融机构的对冲成本与风险。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "网络安全及AI安全解决方案提供商",
-          "risk": "MEDIUM",
-          "thesis": "AI普及伴随安全事件频发，将推高对专业AI安全产品和服务的需求"
+          "asset": "原油期货/能源股",
+          "risk": "HIGH",
+          "thesis": "地缘政治紧张局势持续，供应风险与流动性收紧共同支撑油价高位运行，但波动性极大。"
         },
-        "confidence": 89,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1633212556496?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 88,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1585538982339?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Anthropic警告AI技能差距",
-        "fullTitle": "Anthropic称AI技能差距显现，加剧不平等",
+        "title": "AI沙皇萨克斯远离权力中心",
+        "fullTitle": "大卫·萨克斯不再担任AI沙皇，转向其他事务",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "AI公司Anthropic指出，AI技能差距已经出现。早期数据显示，AI尚未大规模取代工作岗位，但熟练用户正获得优势，导致不平等加剧。这引发了对未来劳动力被替代和工作分化的担忧。该分析揭示了AI应用初期对社会结构的潜在冲击。",
+        "summary": "大卫·萨克斯将不再担任特朗普政府内的“AI沙皇”一职。这意味着他将比本届政府初期更远离华盛顿的权力中心。其职务变动可能影响美国AI政策的制定与执行。",
+        "relations": [
+          {
+            "label": "大卫·萨克斯",
+            "type": "entity",
+            "desc": "前AI政策负责人"
+          },
+          {
+            "label": "特朗普政府",
+            "type": "entity",
+            "desc": "美国现任行政当局"
+          },
+          {
+            "label": "AI政策",
+            "type": "tech",
+            "desc": "职务变动的核心影响领域"
+          },
+          {
+            "label": "华盛顿权力中心",
+            "type": "entity",
+            "desc": "政治影响力的地理象征"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "美国AI政策核心人事变动，可能带来政策方向与执行力的不确定性。",
+            "关键人物离任可能为其他利益集团影响AI监管与产业政策打开空间。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "受美国AI监管影响大的科技股",
+          "risk": "MEDIUM",
+          "thesis": "政策制定核心人员变动可能引发监管不确定性，短期内利空高度依赖政策明朗化的AI公司。"
+        },
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1518909690897?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Anthropic获法院禁令对抗特朗普政府",
+        "fullTitle": "Anthropic赢得针对特朗普政府国防部限制的禁令",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "联邦法官下令特朗普政府撤销近期对AI公司Anthropic施加的限制。该限制涉及与国防部的合作。此司法胜利为Anthropic对抗行政命令提供了支持。",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "人工智能研究公司"
+            "desc": "赢得诉讼的AI公司"
           },
           {
-            "label": "AI技能差距",
-            "type": "risk",
-            "desc": "新兴的社会经济风险"
+            "label": "特朗普政府",
+            "type": "entity",
+            "desc": "被法院裁定撤销限制的行政当局"
           },
           {
-            "label": "劳动力分化",
-            "type": "risk",
-            "desc": "AI应用可能导致的后果"
+            "label": "联邦法院",
+            "type": "entity",
+            "desc": "做出裁决的司法机构"
           },
           {
-            "label": "熟练用户优势",
-            "type": "resource",
-            "desc": "早期使用者的红利"
+            "label": "国防部",
+            "type": "entity",
+            "desc": "限制措施涉及的合作方"
           },
           {
-            "label": "人机协作",
+            "label": "AI监管",
             "type": "tech",
-            "desc": "未来的工作模式"
+            "desc": "诉讼的核心争议领域"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI的初级应用阶段正在重塑劳动力价值，技能溢价向少数人集中，可能加剧社会矛盾",
-            "企业需要系统性规划AI技能培训，以缓解内部数字鸿沟并提升整体生产力"
+            "司法系统对行政权力的制衡，为科技公司在政治变动中提供了保护路径。",
+            "此案例可能鼓励其他AI公司通过法律手段挑战不利的政府监管措施。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "职业培训及在线教育平台",
+          "asset": "Anthropic (若上市) / 独立AI公司",
           "risk": "MEDIUM",
-          "thesis": "AI技能差距将创造巨大的再培训和市场，相关教育服务需求有望爆发"
+          "thesis": "司法胜利降低了其业务面临的监管风险，巩固了其独立运营地位，利好长期发展。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1517113224297?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "谷歌推出聊天机器人迁移工具",
+        "fullTitle": "谷歌推出工具，支持将其他聊天机器人数据迁移至Gemini",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "谷歌推出了“切换工具”，使用户能够将其他聊天机器人的聊天记录和个人信息直接迁移到Gemini中。此举旨在降低用户转换成本，吸引竞争对手的用户。这是AI助手市场竞争加剧的表现。",
+        "relations": [
+          {
+            "label": "谷歌",
+            "type": "entity",
+            "desc": "工具推出方"
+          },
+          {
+            "label": "Gemini",
+            "type": "tech",
+            "desc": "谷歌的AI助手，迁移目的地"
+          },
+          {
+            "label": "切换工具",
+            "type": "tech",
+            "desc": "降低用户迁移门槛的技术手段"
+          },
+          {
+            "label": "聊天机器人市场",
+            "type": "entity",
+            "desc": "竞争激烈的目标市场"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "谷歌通过降低转换成本发起用户争夺战，AI助手市场从技术竞争进入生态与用户粘性竞争阶段。",
+            "此举措可能迫使其他AI公司采取类似措施或加强用户锁定，改变行业竞争格局。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "谷歌 (GOOGL)",
+          "risk": "LOW",
+          "thesis": "积极的用户增长策略有助于巩固其AI市场地位，提升Gemini的用户基数和数据优势，属于生态强化举措。"
         },
         "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1653902974289?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1641751480704?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "IFM CEO on Investment Outlook",
-        "fullTitle": "IFM Investors CEO Discusses Strategies Amid Volatility",
+        "title": "Reflation Hopes for China Stocks",
+        "fullTitle": "Reflation Can Be Good for Chinese Stocks as Global Prices Soar",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "David Neal, CEO of IFM Investors, outlines the fund's investment strategies and growth outlook in an exclusive interview. The discussion occurs against a backdrop of market volatility and elevated inflation risks. The interview was conducted on the sidelines of the Asia Pacific Financial and Innovation Symposium. This provides insight into institutional capital allocation under current economic conditions.",
+        "impactLevel": "HIGH",
+        "summary": "A long-awaited shift toward reflation in China may be approaching, potentially reviving corporate earnings. This policy shift is seen as a catalyst for gains in Chinese equities. The context includes soaring global prices, which may influence domestic economic policy. The development signals a potential turning point for investor sentiment toward Chinese assets.",
         "relations": [
           {
-            "label": "IFM Investors",
+            "label": "China",
             "type": "entity",
-            "desc": "Global institutional fund manager"
+            "desc": "Sovereign nation undergoing potential policy shift"
           },
           {
-            "label": "David Neal",
-            "type": "entity",
-            "desc": "CEO of IFM Investors"
+            "label": "Chinese Stocks",
+            "type": "asset",
+            "desc": "Equity market poised for potential reflation-driven gains"
           },
           {
-            "label": "Market Volatility",
+            "label": "Reflation",
             "type": "risk",
-            "desc": "Key risk factor for investment strategy"
+            "desc": "Economic policy of stimulating price levels to combat deflation"
           },
           {
-            "label": "Inflation Risk",
-            "type": "risk",
-            "desc": "Elevated risk impacting growth outlook"
-          },
-          {
-            "label": "Asia Pacific Financial and Innovation Symposium",
+            "label": "Corporate Earnings",
             "type": "entity",
-            "desc": "Venue for high-level financial discussions"
+            "desc": "Key financial metric expected to revive"
+          },
+          {
+            "label": "Global Prices",
+            "type": "resource",
+            "desc": "Macro-economic pressure point influencing policy"
           }
         ],
         "analysis": {
           "strategic": [
-            "Institutional capital is actively adjusting strategies to navigate persistent inflation and volatility, indicating a cautious macro outlook.",
-            "High-level commentary from major fund CEOs at regional symposiums serves as a leading indicator for broader institutional sentiment and potential capital flows."
+            "A successful reflation policy in China could redirect global capital flows into its equity markets, altering regional asset allocation.",
+            "This shift may reduce systemic deflationary risks for the global economy but could introduce new inflationary pressures in supply chains."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Defensive & Inflation-Hedged Assets",
+          "asset": "CSI 300 Index / Large-cap Chinese equities (e.g., KWEB, FXI)",
           "risk": "MEDIUM",
-          "thesis": "Following the cautious stance of major institutional investors like IFM, capital is likely to rotate towards assets with inflation protection and lower volatility correlation."
+          "thesis": "Anticipated reflationary policies are expected to boost corporate profitability and market valuations, providing a tailwind for broad Chinese equity indices."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1592910294273?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1678021162235?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Trump-Xi Summit in Mid-May",
-        "fullTitle": "US-China Leaders Summit Scheduled for Mid-May in Beijing",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "US President Donald Trump and Chinese leader Xi Jinping will hold a summit in Beijing on May 14-15. The meeting was previously delayed, creating uncertainty in bilateral relations. The summit is highly anticipated by global markets. The outcome will directly impact trade, technology, and geopolitical stability between the world's two largest economies.",
-        "relations": [
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "President of the United States"
-          },
-          {
-            "label": "Xi Jinping",
-            "type": "entity",
-            "desc": "President of China"
-          },
-          {
-            "label": "US-China Relations",
-            "type": "risk",
-            "desc": "Geopolitical and trade relationship"
-          },
-          {
-            "label": "Trade Policy",
-            "type": "risk",
-            "desc": "Potential for tariff or agreement changes"
-          },
-          {
-            "label": "Geopolitical Stability",
-            "type": "risk",
-            "desc": "Macro risk factor for global markets"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The summit is a critical node for de-risking or escalating US-China tensions, with immediate implications for global supply chains and capital allocation.",
-            "Market volatility will be highly sensitive to the tone and any concrete agreements (or lack thereof) on trade, technology, and Taiwan, creating binary event risk."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Volatility Hedges (e.g., VIX, Options)",
-          "risk": "HIGH",
-          "thesis": "The summit represents a high-impact, binary event. Positioning for increased volatility around the date is prudent, regardless of the directional outcome."
-        },
-        "confidence": 92,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1692553672797?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Hostplus CIO Advocates Diversification",
-        "fullTitle": "Hostplus CIO Sicilia on Diversification as Hedge",
+        "title": "Aggreko US IPO Banks Selected",
+        "fullTitle": "TDR, I Squared Select Banks for Aggreko's US IPO",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Sam Sicilia, CIO of Australian super fund Hostplus, discusses investment and growth strategies. He explicitly states that diversification is the best hedge against market volatility and uncertainty. The comments were made in an exclusive interview at the Asia Pacific Financial and Innovation Symposium. This reflects a core defensive posture among large pension funds.",
+        "summary": "Private equity firms TDR Capital and I Squared Capital have selected banks to lead a US IPO for Aggreko Plc. Aggreko is a major global provider of temporary power and temperature control solutions. This move indicates preparation for a significant public listing in the US market. The IPO could test investor appetite for energy infrastructure and services companies.",
         "relations": [
           {
-            "label": "Hostplus",
+            "label": "Aggreko Plc",
             "type": "entity",
-            "desc": "Australian superannuation fund"
+            "desc": "Global temporary power & temperature solutions provider"
           },
           {
-            "label": "Sam Sicilia",
+            "label": "TDR Capital",
             "type": "entity",
-            "desc": "Chief Investment Officer of Hostplus"
+            "desc": "Private equity firm, owner of Aggreko"
           },
           {
-            "label": "Diversification",
-            "type": "strategy",
-            "desc": "Key investment strategy for risk management"
+            "label": "I Squared Capital",
+            "type": "entity",
+            "desc": "Private equity firm, co-owner of Aggreko"
           },
           {
-            "label": "Market Uncertainty",
+            "label": "US IPO",
             "type": "risk",
-            "desc": "Primary risk being hedged against"
+            "desc": "Capital markets event for listing on US exchanges"
           },
           {
-            "label": "Pension Fund Strategy",
-            "type": "entity",
-            "desc": "Insight into institutional asset allocation"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Major pension funds are publicly reinforcing classic risk management principles (diversification), signaling a broad-based reduction in risk appetite and a move away from concentrated bets.",
-            "The consistent message from multiple institutional leaders at the same forum indicates a coordinated or consensus view on navigating the current volatile environment."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Broad Market ETFs / Multi-Asset Funds",
-          "risk": "LOW",
-          "thesis": "The pronounced institutional shift towards diversification favors broad, low-cost index products and multi-asset strategies over single-stock or sector-specific picks."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1564147784629?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Deccan AI Raises $25M, Focuses on India",
-        "fullTitle": "Deccan AI Raises $25M, Sources Talent from India",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Deccan AI, a competitor to Mercor, has raised $25 million in funding. The company is concentrating its workforce in India to manage quality within the fast-growing but fragmented AI training data market. This strategy leverages India's talent pool for cost and quality advantages. It highlights the geographic and competitive dynamics in the AI infrastructure layer.",
-        "relations": [
-          {
-            "label": "Deccan AI",
-            "type": "entity",
-            "desc": "AI training data company, Mercor competitor"
-          },
-          {
-            "label": "AI Training Market",
-            "type": "tech",
-            "desc": "Fragmented, high-growth sector"
-          },
-          {
-            "label": "India Talent Pool",
+            "label": "Temporary Energy",
             "type": "resource",
-            "desc": "Key human capital resource for AI"
-          },
-          {
-            "label": "Venture Capital",
-            "type": "entity",
-            "desc": "$25M funding round"
-          },
-          {
-            "label": "Mercor",
-            "type": "entity",
-            "desc": "Competitor in AI training space"
+            "desc": "Core business segment of the company"
           }
         ],
         "analysis": {
           "strategic": [
-            "Significant capital is flowing into the foundational AI data layer, with competition intensifying around quality control and geographic talent arbitrage.",
-            "India is being strategically positioned as a core hub for AI data workforce, which could reshape global AI supply chains and create regional tech champions."
+            "The US IPO of a major UK-based temporary power firm signals strong PE exit demand and a bet on US investor interest in energy transition infrastructure.",
+            "A successful listing could catalyze further PE-backed IPOs in the industrial and energy services sector, increasing market liquidity for similar assets."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "AI Infrastructure & Data Annotation Sector",
+          "asset": "Future Aggreko IPO shares",
           "risk": "HIGH",
-          "thesis": "Venture funding validates the growth and criticality of the AI training data market. Early-stage investments in this ecosystem offer high-growth potential, albeit with high risk."
+          "thesis": "As a market leader in temporary power, Aggreko benefits from energy transition and grid instability trends. A US listing may command a premium valuation compared to its prior UK listing."
         },
         "confidence": 85,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1673485239873?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1558457523973?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "LiteLLM AI Project Hit by Malware",
-        "fullTitle": "LiteLLM Open Source AI Project Compromised by Malware",
+        "title": "Oil Traders Worn Down by Swings",
+        "fullTitle": "Oil Market Swings Wear Down Traders as Iran War Drags On",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "The open-source AI project LiteLLM, used by millions, was infected by credential-harvesting malware. Security firm Delve performed the compliance and investigation work on the incident. This highlights significant security vulnerabilities in widely adopted AI infrastructure. Supply chain attacks on open-source AI tools pose a systemic risk to the ecosystem.",
+        "summary": "Prolonged conflict in the Middle East, involving Iran, has caused extreme volatility in oil markets for nearly a month. Traders are beginning to pull back due to the strain of massive price swings. This retreat is draining market liquidity, which threatens to amplify future price movements. The situation creates a fragile and potentially unstable trading environment for crude oil.",
         "relations": [
           {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "Open-source AI project, millions of users"
+            "label": "Oil Market",
+            "type": "resource",
+            "desc": "Global market for crude oil experiencing high volatility"
           },
           {
-            "label": "Malware / Supply Chain Attack",
-            "type": "risk",
-            "desc": "Critical cybersecurity risk"
-          },
-          {
-            "label": "Delve",
+            "label": "Traders",
             "type": "entity",
-            "desc": "Security firm handling the incident"
+            "desc": "Market participants reducing activity due to risk"
           },
           {
-            "label": "AI Infrastructure Security",
-            "type": "risk",
-            "desc": "Major vulnerability in growing sector"
+            "label": "Iran",
+            "type": "entity",
+            "desc": "Geopolitical actor in ongoing Middle East conflict"
           },
           {
-            "label": "Credential Harvesting",
+            "label": "Liquidity",
             "type": "risk",
-            "desc": "Specific attack vector used"
+            "desc": "Market depth, currently draining and increasing fragility"
+          },
+          {
+            "label": "Middle East Conflict",
+            "type": "risk",
+            "desc": "Primary geopolitical driver of oil price volatility"
           }
         ],
         "analysis": {
           "strategic": [
-            "This incident is a canonical example of a software supply chain attack, revealing the AI ecosystem's acute vulnerability as it scales, which will force rapid regulatory and corporate scrutiny.",
-            "The event creates immediate and substantial demand for cybersecurity firms specializing in AI and open-source software compliance, like Delve."
+            "Declining trader participation reduces the market's ability to absorb shocks, raising the risk of disorderly price spikes or crashes on new headlines.",
+            "This environment may accelerate a shift toward algorithmic and passive trading in oil, potentially decoupling prices from fundamental supply/demand signals in the short term."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "AI-Centric Cybersecurity Firms",
-          "risk": "MEDIUM",
-          "thesis": "High-profile breaches in critical AI infrastructure will accelerate spending on specialized security, auditing, and compliance services for AI development and deployment."
+          "action": "SHORT",
+          "asset": "Oil Volatility ETFs (e.g., OVX, USO) / High-beta energy equities",
+          "risk": "HIGH",
+          "thesis": "Reduced liquidity and exhausted traders increase the likelihood of a sharp, corrective move in oil prices once a geopolitical de-escalation signal emerges, punishing late momentum followers."
         },
         "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1563197505340?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1616738772816?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "AI Skills Gap Widens, Says Anthropic",
-        "fullTitle": "Anthropic Reports AI Skills Gap, Rising Inequality",
+        "title": "Sacks Steps Back from AI Role",
+        "fullTitle": "David Sacks Steps Down as AI Czar in Trump Admin",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Anthropic reports that AI is not yet replacing jobs at scale, but early data shows a growing skills gap. Experienced 'power users' are gaining a significant productivity edge, raising concerns about future workforce displacement and inequality. This analysis points to AI as an amplifier of existing skill disparities. The findings have implications for labor markets and corporate training.",
+        "summary": "David Sacks is stepping down from his role as AI policy lead (AI czar) in the second Trump administration. He will be positioned much further from the center of power in Washington. This indicates a shift in the administration's approach to AI governance and key personnel. The move may signal internal policy disagreements or a restructuring of tech oversight.",
+        "relations": [
+          {
+            "label": "David Sacks",
+            "type": "entity",
+            "desc": "Former AI policy lead (AI czar) in Trump administration"
+          },
+          {
+            "label": "Trump Administration",
+            "type": "entity",
+            "desc": "US executive branch, second term"
+          },
+          {
+            "label": "AI Policy",
+            "type": "tech",
+            "desc": "Government regulation and strategy for artificial intelligence"
+          },
+          {
+            "label": "Washington Power Center",
+            "type": "risk",
+            "desc": "Locus of political decision-making influence"
+          },
+          {
+            "label": "Governance",
+            "type": "risk",
+            "desc": "Framework for overseeing technology development"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The departure of a key AI policy figure so early in the term suggests potential internal discord or a pivot toward a less centralized, more industry-led AI regulatory approach.",
+            "This creates a near-term policy vacuum, increasing regulatory uncertainty for AI companies and potentially slowing federal AI procurement and initiative timelines."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "AI companies heavily reliant on US government contracts (e.g., Palantir, C3.ai)",
+          "risk": "MEDIUM",
+          "thesis": "Leadership churn and policy uncertainty at the top of US AI governance may delay contract awards and decision-making, creating a headwind for firms dependent on federal business."
+        },
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1501788615001?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Anthropic Wins Injunction Against Trump",
+        "fullTitle": "Anthropic Wins Injunction Against Trump Admin Over DoD Rules",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "A federal judge has ordered the Trump administration to rescind recent restrictions it placed on AI company Anthropic. The restrictions were related to the Department of Defense. This legal victory for Anthropic checks executive power over tech regulation. It establishes a precedent for judicial pushback against abrupt administrative actions targeting specific AI firms.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "AI company publishing the analysis"
+            "desc": "AI company (Claude developer) that won the injunction"
           },
           {
-            "label": "AI Skills Gap",
-            "type": "risk",
-            "desc": "Growing disparity in AI proficiency"
-          },
-          {
-            "label": "Workforce Inequality",
-            "type": "risk",
-            "desc": "Socio-economic risk from technology adoption"
-          },
-          {
-            "label": "Power Users",
+            "label": "Trump Administration",
             "type": "entity",
-            "desc": "Employees gaining disproportionate AI advantage"
+            "desc": "Defendant in the case, imposed restrictions"
           },
           {
-            "label": "Productivity Divide",
+            "label": "Federal Judge",
+            "type": "entity",
+            "desc": "Judicial authority that issued the injunction"
+          },
+          {
+            "label": "Department of Defense (DoD)",
+            "type": "entity",
+            "desc": "Government agency involved in the saga"
+          },
+          {
+            "label": "Judicial Injunction",
             "type": "risk",
-            "desc": "Economic outcome of the skills gap"
+            "desc": "Legal tool used to halt government action"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI's primary initial economic impact is not job elimination but the dramatic stratification of workforce value based on proficiency, which will reshape corporate HR and training budgets.",
-            "Companies that fail to systematically upskill their workforce risk severe internal productivity divides and competitive disadvantage, creating a new market for enterprise AI training platforms."
+            "The judicial rebuke limits the administration's ability to use unilateral executive actions to constrain specific tech companies, reinforcing the role of courts in tech policy.",
+            "This victory strengthens the hand of other AI firms facing similar regulatory pressure, potentially encouraging more legal challenges to aggressive oversight."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Corporate Learning & Upskilling Platforms",
+          "asset": "Anthropic (private markets) / Broader AI sector ETFs (e.g., AIQ, ROBT)",
           "risk": "MEDIUM",
-          "thesis": "The urgent need to bridge the internal AI skills gap will drive significant corporate investment in training, certification, and productivity-enabling software for employees."
+          "thesis": "The injunction reduces near-term regulatory overhang for Anthropic and signals a more stable operating environment for AI firms, as courts provide a check on arbitrary administrative actions."
         },
-        "confidence": 86,
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1576347446682?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Google Launches Chatbot Switching Tools",
+        "fullTitle": "Google Launches Tools to Switch Chats to Gemini",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google is launching 'switching tools' designed to make it easier for users to migrate from other chatbots to its Gemini AI. The tools allow direct transfer of chat histories and personal information. This is a competitive move to lower switching costs and capture market share. It directly targets users of competitors like OpenAI's ChatGPT.",
+        "relations": [
+          {
+            "label": "Google",
+            "type": "entity",
+            "desc": "Tech giant launching the migration tools"
+          },
+          {
+            "label": "Gemini",
+            "type": "tech",
+            "desc": "Google's flagship AI model and chatbot"
+          },
+          {
+            "label": "Switching Tools",
+            "type": "tech",
+            "desc": "Feature to migrate data from competitors"
+          },
+          {
+            "label": "Chatbots",
+            "type": "tech",
+            "desc": "Competitive landscape for AI assistants"
+          },
+          {
+            "label": "Market Share",
+            "type": "risk",
+            "desc": "Commercial objective of the tool launch"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Google's move to reduce switching friction is an aggressive customer acquisition tactic that could accelerate consolidation in the consumer AI assistant market.",
+            "This strategy pressures competitors to develop similar interoperability features or risk lock-in, potentially leading to a new frontier of competition based on data portability."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Alphabet (GOOGL)",
+          "risk": "LOW",
+          "thesis": "The tool is a savvy growth tactic that could rapidly increase Gemini's user base and engagement, improving Google's competitive position in the foundational AI platform race and supporting its core advertising business."
+        },
+        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1629404394894?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1573801664357?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "CEO de IFM sobre Perspectivas",
-        "fullTitle": "CEO de IFM Investors analiza estrategias y perspectivas de crecimiento",
+        "title": "Reflación y acciones chinas",
+        "fullTitle": "La reflación puede beneficiar a las acciones chinas",
         "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "David Neal, CEO de IFM Investors, discute estrategias de inversión y perspectivas de crecimiento para el fondo en medio de volatilidad del mercado y riesgos elevados de inflación. La entrevista exclusiva tuvo lugar en el Simposio de Innovación Financiera de Asia Pacífico. Las declaraciones ofrecen información privilegiada sobre el posicionamiento de un importante gestor de activos.",
+        "summary": "El esperado giro de China hacia la reflación podría estar cerca, lo que generaría expectativas de recuperación de los beneficios corporativos. Este cambio de política podría impulsar el mercado de valores chino. La reflación se presenta como un posible catalizador para la rentabilidad empresarial. El entorno de precios globales elevados podría favorecer esta transición.",
         "relations": [
           {
-            "label": "David Neal",
+            "label": "China",
             "type": "entity",
-            "desc": "CEO de IFM Investors"
+            "desc": "Economía en transición hacia políticas reflacionarias"
           },
           {
-            "label": "IFM Investors",
-            "type": "entity",
-            "desc": "Gestor global de activos institucionales"
+            "label": "Acciones chinas",
+            "type": "asset",
+            "desc": "Mercado de valores que podría beneficiarse"
           },
           {
-            "label": "Volatilidad del Mercado",
-            "type": "risk",
-            "desc": "Riesgo macroeconómico clave mencionado"
+            "label": "Reflación",
+            "type": "policy",
+            "desc": "Política económica expansiva para aumentar precios"
           },
           {
-            "label": "Riesgo Inflacionario",
-            "type": "risk",
-            "desc": "Factor crítico en la estrategia"
-          },
-          {
-            "label": "Asia Pacific Financial Symposium",
-            "type": "entity",
-            "desc": "Foro de discusión de alto nivel"
+            "label": "Beneficios corporativos",
+            "type": "metric",
+            "desc": "Posible recuperación de ganancias empresariales"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los grandes gestores de activos están ajustando estrategias ante un entorno macroeconómico desafiante, priorizando la resiliencia.",
-            "El enfoque en Asia Pacífico subraya la importancia estratégica continua de la región para el crecimiento de las carteras globales."
+            "China podría utilizar la reflación para estimular su economía doméstica y contrarrestar desaceleraciones",
+            "El éxito de esta política podría influir en los flujos de capital global hacia mercados emergentes"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Fondos de infraestructura / activos reales",
+          "asset": "ETF de acciones chinas (ej: MCHI, FXI)",
           "risk": "MEDIUM",
-          "thesis": "IFM, especialista en infraestructura, probablemente favorezca activos reales como cobertura contra la inflación, indicando una tendencia institucional."
+          "thesis": "Políticas reflacionarias podrían impulsar beneficios empresariales y valoraciones del mercado chino"
         },
-        "confidence": 88,
+        "confidence": 82,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1692959949918?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1600122705351?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Cumbre Trump-Xi en Mayo",
-        "fullTitle": "Trump y Xi celebrarán cumbre en Beijing a mediados de mayo",
-        "classification": "TOP SECRET",
-        "impactLevel": "CRITICAL",
-        "summary": "Los presidentes Donald Trump y Xi Jinping celebrarán su esperada cumbre en Beijing los días 14 y 15 de mayo. El encuentro, previamente retrasado, es crucial para las relaciones entre las dos mayores economías del mundo. La incertidumbre previa había afectado a los mercados. El resultado podría definir la política comercial y geopolítica para el próximo año.",
+        "title": "IPO de Aggreko en EE.UU.",
+        "fullTitle": "TDR e I Squared preparan IPO de Aggreko en EE.UU.",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "TDR Capital e I Squared Capital han seleccionado bancos para una oferta pública inicial de Aggreko en Estados Unidos. Aggreko es uno de los mayores proveedores mundiales de soluciones temporales de energía y control de temperatura. Esta IPO podría valorar significativamente la empresa en el mercado estadounidense. El movimiento refleja el atractivo de empresas de infraestructura energética para inversores institucionales.",
         "relations": [
           {
-            "label": "Donald Trump",
+            "label": "Aggreko Plc",
             "type": "entity",
-            "desc": "Presidente de Estados Unidos"
+            "desc": "Proveedor de soluciones temporales de energía"
           },
           {
-            "label": "Xi Jinping",
+            "label": "TDR Capital",
             "type": "entity",
-            "desc": "Presidente de China"
+            "desc": "Firma de capital privado"
           },
           {
-            "label": "Relaciones EE.UU.-China",
-            "type": "risk",
-            "desc": "Riesgo geopolítico y comercial sistémico"
-          },
-          {
-            "label": "Política Comercial",
-            "type": "risk",
-            "desc": "Área de impacto directo en mercados"
-          },
-          {
-            "label": "Beijing",
+            "label": "I Squared Capital",
             "type": "entity",
-            "desc": "Sede de la cumbre, señal simbólica"
+            "desc": "Firma de inversión en infraestructura"
+          },
+          {
+            "label": "IPO en EE.UU.",
+            "type": "event",
+            "desc": "Oferta pública inicial en mercado estadounidense"
+          },
+          {
+            "label": "Energía temporal",
+            "type": "sector",
+            "desc": "Sector de soluciones energéticas modulares"
           }
         ],
         "analysis": {
           "strategic": [
-            "La cumbre es un evento de riesgo geopolítico de primer orden con capacidad para alterar los flujos comerciales y de capital globales.",
-            "Una resolución positiva podría aliviar tensiones a corto plazo, pero la rivalidad estratégica estructural persistirá."
+            "La IPO podría aprovechar el interés actual en infraestructura energética resiliente",
+            "El éxito de esta oferta podría incentivar más salidas a bolsa de empresas de capital privado en el sector energético"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF de mercados emergentes asiáticos (EEM)",
+          "asset": "Acciones de Aggreko post-IPO",
           "risk": "HIGH",
-          "thesis": "Un tono constructivo en la cumbre podría desencadenar un repunte de los mercados emergentes, muy castigados por la tensión comercial."
+          "thesis": "Empresa líder en nicho de energía temporal con potencial de crecimiento en transición energética"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1598102722465?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1675849497246?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "CIO de Hostplus: Diversificar",
-        "fullTitle": "CIO de Hostplus aboga por diversificación ante volatilidad",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Sam Sicilia, CIO del fondo de pensiones australiano Hostplus, discute estrategias de inversión y crecimiento. Enfatiza que la mejor forma de cubrirse contra la volatilidad y la incertidumbre del mercado es la 'diversificación'. Sus comentarios reflejan la cautela predominante entre los grandes fondos institucionales.",
-        "relations": [
-          {
-            "label": "Sam Sicilia",
-            "type": "entity",
-            "desc": "CIO de Hostplus"
-          },
-          {
-            "label": "Hostplus",
-            "type": "entity",
-            "desc": "Fondo de pensiones (superannuation) australiano"
-          },
-          {
-            "label": "Diversificación",
-            "type": "resource",
-            "desc": "Estrategia de gestión de riesgos clave"
-          },
-          {
-            "label": "Volatilidad",
-            "type": "risk",
-            "desc": "Riesgo de mercado principal"
-          },
-          {
-            "label": "Fondos de Pensiones",
-            "type": "entity",
-            "desc": "Actor institucional con visión a largo plazo"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los grandes fondos de pensiones están reforzando estrategias defensivas, lo que puede limitar el apetito por activos de alto riesgo.",
-            "La diversificación como mantra principal sugiere una rotación hacia activos no correlacionados y alternativos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Bonos de alta calidad / Oro (GLD)",
-          "risk": "LOW",
-          "thesis": "La búsqueda institucional de diversificación impulsa la demanda de activos refugio y de baja correlación con acciones."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1669437898460?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Deccan AI recauda $25M",
-        "fullTitle": "Deccan AI recauda $25M y enfoca talento en India",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Deccan AI, competidor de Mercor, ha recaudado 25 millones de dólares. La empresa concentra su fuerza laboral en India para gestionar la calidad en el mercado de entrenamiento de IA, un sector de rápido crecimiento pero fragmentado. Esto refleja la estrategia de aprovechar el talento técnico y los costos competitivos de la región.",
-        "relations": [
-          {
-            "label": "Deccan AI",
-            "type": "entity",
-            "desc": "Empresa de entrenamiento de IA"
-          },
-          {
-            "label": "Mercor",
-            "type": "entity",
-            "desc": "Competidor directo mencionado"
-          },
-          {
-            "label": "Talento en India",
-            "type": "resource",
-            "desc": "Ventaja competitiva clave"
-          },
-          {
-            "label": "Mercado de Entrenamiento de IA",
-            "type": "tech",
-            "desc": "Sector en crecimiento y fragmentación"
-          },
-          {
-            "label": "Financiación de Capital Riesgo",
-            "type": "resource",
-            "desc": "$25M recaudados"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La cadena de valor de la IA se está globalizando, con India emergiendo como un centro clave para operaciones de calidad y costo-eficientes.",
-            "La fragmentación del mercado de entrenamiento de IA crea oportunidades para consolidadores y jugadores especializados."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de tecnología india (INDA) / Capital riesgo en IA",
-          "risk": "HIGH",
-          "thesis": "El flujo de capital hacia empresas de IA con base en India valida el ecosistema y puede beneficiar a fondos más amplios de tecnología india."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1539387428852?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Malware en proyecto LiteLLM",
-        "fullTitle": "Proyecto de IA LiteLLM comprometido por malware",
+        "title": "Volatilidad del petróleo por guerra",
+        "fullTitle": "Volatilidad del petróleo agota a traders por guerra Irán",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "El proyecto de código abierto LiteLLM, utilizado por millones, fue infectado por malware diseñado para robar credenciales. La firma Delve realizó el análisis de cumplimiento de seguridad. Este incidente subraya los graves riesgos de seguridad en la cadena de suministro de software de IA de código abierto, que es fundamental para la industria.",
+        "summary": "La prolongación del conflicto en Oriente Medio ha generado una volatilidad extrema en el mercado petrolero. Los traders están reduciendo su participación debido a los fuertes movimientos de precios. Esta reducción de liquidez podría amplificar futuras oscilaciones del mercado. La situación crea un entorno de trading peligroso con riesgos sistémicos.",
         "relations": [
           {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "Proyecto de código abierto de IA comprometido"
+            "label": "Petróleo",
+            "type": "resource",
+            "desc": "Commodity con alta volatilidad geopolítica"
           },
           {
-            "label": "Malware de Robo de Credenciales",
-            "type": "risk",
-            "desc": "Amenaza de ciberseguridad específica"
-          },
-          {
-            "label": "Delve",
+            "label": "Irán",
             "type": "entity",
-            "desc": "Firma de seguridad que realizó el análisis"
+            "desc": "País involucrado en conflicto regional"
           },
           {
-            "label": "Cadena de Suministro de Software",
+            "label": "Traders de petróleo",
+            "type": "entity",
+            "desc": "Participantes del mercado reduciendo exposición"
+          },
+          {
+            "label": "Liquidez del mercado",
             "type": "risk",
-            "desc": "Vector de ataque crítico"
+            "desc": "Reducción que amplifica volatilidad"
           },
           {
-            "label": "Código Abierto en IA",
-            "type": "tech",
-            "desc": "Área de vulnerabilidad expuesta"
+            "label": "Oriente Medio",
+            "type": "region",
+            "desc": "Región con tensiones geopolíticas persistentes"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los ataques a la cadena de suministro de IA de código abierto representan un riesgo sistémico para la adopción empresarial y la innovación.",
-            "Este incidente impulsará la demanda de soluciones de seguridad especializadas en IA y auditorías de código."
+            "La reducción de liquidez podría crear disfunciones en el mercado petrolero global",
+            "La volatilidad persistente podría acelerar la búsqueda de alternativas energéticas por parte de consumidores"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Empresas de ciberseguridad (ex: PANW, CRWD)",
-          "risk": "MEDIUM",
-          "thesis": "Los incidentes de alto perfil en IA acelerarán el gasto en ciberseguridad especializada, beneficiando a los líderes del sector."
+          "action": "SHORT",
+          "asset": "Futuros de petróleo (volatilidad)",
+          "risk": "HIGH",
+          "thesis": "Mercado ilíquido con alta volatilidad geopolítica crea oportunidades de trading direccional"
         },
-        "confidence": 92,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1696000891947?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 88,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1666957946430?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Brecha de habilidades en IA",
-        "fullTitle": "Anthropic advierte sobre brecha de habilidades en IA",
+        "title": "Sacks deja puesto IA Trump",
+        "fullTitle": "David Sacks abandona puesto de IA en administración Trump",
         "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "Anthropic señala que la IA aún no está reemplazando empleos de manera masiva, pero datos iniciales muestran una creciente desigualdad. Los usuarios experimentados están obteniendo una ventaja, lo que genera preocupación sobre futuros desplazamientos y divisiones en la fuerza laboral. Se identifica una brecha de habilidades emergente.",
+        "summary": "David Sacks ha dejado su posición como 'zar de IA' en la segunda administración Trump. Su salida lo aleja del centro de poder en Washington. Este cambio podría indicar reestructuraciones en la política de IA del gobierno estadounidense. La movida sugiere posibles tensiones o cambios de dirección en la estrategia de IA.",
+        "relations": [
+          {
+            "label": "David Sacks",
+            "type": "entity",
+            "desc": "Ex funcionario de IA de administración Trump"
+          },
+          {
+            "label": "Administración Trump",
+            "type": "entity",
+            "desc": "Gobierno estadounidense en segundo mandato"
+          },
+          {
+            "label": "Política de IA",
+            "type": "policy",
+            "desc": "Estrategia gubernamental en inteligencia artificial"
+          },
+          {
+            "label": "Washington D.C.",
+            "type": "location",
+            "desc": "Centro de poder político estadounidense"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La salida de Sacks podría señalar cambios en la postura regulatoria de EE.UU. hacia la IA",
+            "La reestructuración podría afectar la coordinación entre sector público y privado en desarrollo de IA"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas de IA dependientes de contratos gubernamentales",
+          "risk": "MEDIUM",
+          "thesis": "Incertidumbre política podría afectar flujos de contratación pública en sector IA"
+        },
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1544642183409?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Anthropic gana medida contra Trump",
+        "fullTitle": "Anthropic obtiene medida cautelar contra restricciones de Trump",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Un juez federal ha ordenado a la administración Trump rescindir restricciones recientes sobre Anthropic. La compañía de IA había enfrentado limitaciones en su trabajo con el Departamento de Defensa. Esta decisión judicial representa un revés para las políticas de control de tecnología sensible. El fallo podría establecer precedentes para otras empresas tecnológicas.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "Empresa de IA que realizó el análisis"
+            "desc": "Compañía de inteligencia artificial"
           },
           {
-            "label": "Brecha de Habilidades en IA",
-            "type": "risk",
-            "desc": "Riesgo social y de capital humano"
+            "label": "Administración Trump",
+            "type": "entity",
+            "desc": "Gobierno estadounidense imponiendo restricciones"
           },
           {
-            "label": "Desigualdad Laboral",
-            "type": "risk",
-            "desc": "Impacto socioeconómico identificado"
+            "label": "Departamento de Defensa",
+            "type": "entity",
+            "desc": "Agencia gubernamental involucrada en restricciones"
           },
           {
-            "label": "Usuarios Experimentados",
-            "type": "resource",
-            "desc": "Grupo que obtiene ventaja competitiva"
+            "label": "Poder judicial",
+            "type": "entity",
+            "desc": "Cortes federales interviniendo en políticas"
           },
           {
-            "label": "Futuro del Trabajo",
-            "type": "risk",
-            "desc": "Tema estratégico de largo plazo"
+            "label": "Restricciones tecnológicas",
+            "type": "policy",
+            "desc": "Limitaciones gubernamentales a empresas de IA"
           }
         ],
         "analysis": {
           "strategic": [
-            "La adopción de IA está creando una nueva capa de desigualdad basada en habilidades, lo que podría impulsar regulaciones y políticas de capacitación.",
-            "Las empresas que inviertan en capacitación en IA para su fuerza laboral obtendrán una ventaja competitiva sostenible."
+            "El fallo judicial podría limitar la capacidad ejecutiva para restringir empresas de IA sin debido proceso",
+            "Esta decisión podría incentivar a otras empresas tecnológicas a desafiar restricciones gubernamentales"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Plataformas de EdTech / Capacitación profesional (ex: UDemy, Coursera)",
+          "asset": "Anthropic (si disponible) o competidores",
           "risk": "MEDIUM",
-          "thesis": "La creciente brecha de habilidades impulsará la demanda masiva de soluciones de capacitación y mejora de habilidades en IA."
+          "thesis": "Reducción de barreras regulatorias podría acelerar crecimiento y contratos gubernamentales"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1690680105755?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Google facilita migración a Gemini",
+        "fullTitle": "Google lanza herramientas para migrar chats a Gemini",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Google ha lanzado herramientas de migración que permiten transferir conversaciones desde otros chatbots directamente a Gemini. Esta funcionalidad facilita el cambio de plataforma para usuarios de servicios competidores. La medida representa una estrategia agresiva para capturar cuota de mercado en IA conversacional. Google busca reducir la fricción en la adopción de su producto estrella de IA.",
+        "relations": [
+          {
+            "label": "Google",
+            "type": "entity",
+            "desc": "Compañía tecnológica lanzando herramienta de migración"
+          },
+          {
+            "label": "Gemini",
+            "type": "tech",
+            "desc": "Chatbot de IA de Google"
+          },
+          {
+            "label": "Herramientas de migración",
+            "type": "tech",
+            "desc": "Funcionalidad para transferir datos entre plataformas"
+          },
+          {
+            "label": "Chatbots competidores",
+            "type": "entity",
+            "desc": "Servicios de IA conversacional alternativos"
+          },
+          {
+            "label": "Captura de mercado",
+            "type": "strategy",
+            "desc": "Esfuerzo por ganar cuota en sector competitivo"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Google intenta crear un efecto de red en IA conversacional mediante reducción de costos de cambio",
+            "Esta táctica podría acelerar la consolidación del mercado alrededor de pocos actores dominantes"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Alphabet (GOOGL)",
+          "risk": "LOW",
+          "thesis": "Estrategia agresiva de adopción podría fortalecer posición de Google en mercado de IA generativa"
         },
         "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1650902132974?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1534161151820?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
