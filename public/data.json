@@ -1,843 +1,893 @@
 {
-  "generated_at": "2026-03-28T02:29:20.364249",
+  "generated_at": "2026-03-29T02:40:38.508659",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "美前大使分析全球地缘风险",
-        "fullTitle": "美前驻华大使分析伊朗冲突、乌克兰战争及中美关系",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "前美国驻华大使尼古拉斯·伯恩斯分析全球地缘政治格局。他指出伊朗冲突可能重塑地缘力量，俄罗斯可能获得战略优势，而美国联盟的持续削弱将带来风险。他强调美国与盟友的关系是对抗中国的最大竞争优势。",
-        "relations": [
-          {
-            "label": "尼古拉斯·伯恩斯",
-            "type": "entity",
-            "desc": "前美国驻华大使，地缘政治分析人士"
-          },
-          {
-            "label": "伊朗冲突",
-            "type": "risk",
-            "desc": "可能重塑中东及全球地缘力量平衡"
-          },
-          {
-            "label": "美国联盟体系",
-            "type": "entity",
-            "desc": "美国对抗中国的核心战略资产"
-          },
-          {
-            "label": "俄罗斯",
-            "type": "entity",
-            "desc": "在乌克兰战争中可能获得战略优势"
-          },
-          {
-            "label": "地缘政治风险",
-            "type": "risk",
-            "desc": "全球冲突与紧张局势加剧"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "报告揭示了美国战略界对联盟体系脆弱性的担忧，这直接影响全球资本流动的安全偏好。",
-            "将中国定位为核心竞争对象，暗示未来美国政策与资源将继续向印太倾斜，影响相关区域经济与投资环境。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "国防、网络安全相关ETF及股票",
-          "risk": "MEDIUM",
-          "thesis": "地缘政治紧张局势升级将推动主要国家增加国防与安全支出，相关板块可能受益。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1558658516279?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "含Anthropic股份基金大幅回调",
-        "fullTitle": "Fundrise创新基金连续两日大跌，估值仍高于持仓",
+        "title": "澳洲两州推免费公交应对油价",
+        "fullTitle": "澳大利亚两州将提供免费公共交通以缓解油价上涨影响",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "持有Anthropic等未上市科技公司股份的Fundrise创新基金股价连续第二日大幅下跌。尽管回调，其股价仍远高于其持有的SpaceX和Anthropic等潜在IPO公司的资产净值。这反映了市场对未上市科技股估值波动的敏感性。",
+        "summary": "由于中东持续冲突加剧供应风险，导致燃料价格上涨，澳大利亚两个州将暂时提供免费公共交通，以缓解民众出行成本压力。此举旨在应对能源价格波动带来的社会与经济影响。短期措施可能减轻低收入群体的负担，但长期财政可持续性存疑。事件反映了地缘政治紧张对全球能源供应链的传导效应。",
         "relations": [
           {
-            "label": "Fundrise Innovation Fund",
+            "label": "澳大利亚",
             "type": "entity",
-            "desc": "投资于未上市科技公司的基金"
+            "desc": "政策实施主体国家"
           },
           {
-            "label": "Anthropic PBC",
-            "type": "tech",
-            "desc": "潜在IPO的人工智能公司"
+            "label": "公共交通",
+            "type": "resource",
+            "desc": "政策干预的核心领域"
           },
           {
-            "label": "SpaceX",
-            "type": "tech",
-            "desc": "埃隆·马斯克的太空探索公司，潜在IPO标的"
+            "label": "燃料价格",
+            "type": "resource",
+            "desc": "事件的主要驱动因素"
           },
           {
-            "label": "IPO预期",
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "市场基于未来IPO预期对未上市资产进行定价"
+            "desc": "引发供应风险的根源"
           },
           {
-            "label": "估值波动",
+            "label": "能源供应链",
             "type": "risk",
-            "desc": "未上市资产在二级市场交易价格剧烈波动"
+            "desc": "受地缘政治影响的脆弱环节"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件揭示了通过二级市场基金投资Pre-IPO明星科技公司的估值风险，市场情绪极易导致价格脱离底层资产价值。",
-            "Anthropic和SpaceX的IPO预期是支撑该基金估值的关键叙事，任何关于其IPO时间表或估值的风吹草动都可能引发价格剧烈调整。"
+            "政府干预能源价格波动的社会成本，可能预示更多非市场手段应对通胀。",
+            "地缘政治风险持续推高能源成本，迫使地方政府采取财政补贴等临时性措施。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "高溢价交易的Pre-IPO主题基金或相关衍生品",
+          "asset": "澳洲航空、长途运输公司股票",
+          "risk": "MEDIUM",
+          "thesis": "免费公共交通政策可能短期内抑制部分私人交通需求，并对依赖燃油收入的运输企业构成压力。"
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1569636771092?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "新德里街头摊贩反映印度能源危机成本",
+        "fullTitle": "新德里街头摊贩展现印度能源短缺的社会成本",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "报道通过新德里主要公交总站外数十年历史的街头食品摊贩的视角，展现了印度能源短缺对底层民生经济的直接影响。这些依赖稳定能源供应（如燃气）的小本经营，在能源危机中成本上升、经营困难。微观案例揭示了宏观能源政策失灵的社会代价。能源供应紧张正侵蚀非正规经济部门的韧性。",
+        "relations": [
+          {
+            "label": "印度",
+            "type": "entity",
+            "desc": "能源危机发生的主要国家"
+          },
+          {
+            "label": "新德里",
+            "type": "entity",
+            "desc": "具体观察地点"
+          },
+          {
+            "label": "街头摊贩",
+            "type": "entity",
+            "desc": "受能源成本冲击的微观经济单元"
+          },
+          {
+            "label": "能源短缺",
+            "type": "risk",
+            "desc": "核心风险事件"
+          },
+          {
+            "label": "非正规经济",
+            "type": "risk",
+            "desc": "受冲击最严重的领域"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "能源基础设施不足和分配不均，正加剧新兴市场内部的社会经济分化。",
+            "民生经济对能源价格高度敏感，能源危机可能引发更广泛的社会不稳定因素。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "印度液化石油气(LPG)分销商、可再生能源基础设施ETF",
           "risk": "HIGH",
-          "thesis": "在利率高企和市场波动加大的环境下，对未上市科技公司的高溢价估值难以持续，存在回调风险。"
+          "thesis": "长期能源短缺将迫使印度加速能源基础设施投资和替代能源部署，相关领域存在结构性增长机会。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1594782765341?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1510610393258?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "印度新机场测试基建热潮",
-        "fullTitle": "德里附近10亿美元新机场测试印度基建热潮",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "印度德里附近的杰瓦尔镇因一个价值10亿美元的新机场项目而引发建设狂潮，改变了这个原本单调的农业小镇。房地产商情绪高涨。该项目是印度大规模基建建设的试金石，检验其执行能力和经济拉动效应。",
-        "relations": [
-          {
-            "label": "杰瓦尔（Jewar）机场",
-            "type": "entity",
-            "desc": "德里附近价值10亿美元的新建机场项目"
-          },
-          {
-            "label": "印度基建",
-            "type": "resource",
-            "desc": "印度政府推动的大规模基础设施建设计划"
-          },
-          {
-            "label": "房地产",
-            "type": "entity",
-            "desc": "基建项目带动周边土地与房产价值飙升"
-          },
-          {
-            "label": "经济拉动效应",
-            "type": "resource",
-            "desc": "大型基建对当地就业、商业和经济的带动作用"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "该项目是观察印度‘基建驱动增长’模式微观成效的重要案例，成功与否将影响外资对印度长期基建投资的信心。",
-            "机场建设带动周边区域城镇化与地产开发，是印度经济增长从中心城市向周边辐射的典型模式。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "印度基建相关ETF、建筑公司及建材供应商",
-          "risk": "MEDIUM",
-          "thesis": "印度政府持续推动基建现代化，相关行业将直接受益于订单增长和资产升值。"
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1523804897651?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Physical Intelligence拟再融资10亿",
-        "fullTitle": "Physical Intelligence公司拟再融资10亿美元，估值翻倍",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "有报道称，人工智能公司Physical Intelligence正在谈判筹集10亿美元的新资金。这笔交易若达成，将在短短四个月内使其56亿美元的估值翻倍。这显示了资本市场对前沿AI领域，特别是具身智能或机器人AI的狂热追捧。",
-        "relations": [
-          {
-            "label": "Physical Intelligence",
-            "type": "tech",
-            "desc": "专注于具身智能或机器人AI的人工智能公司"
-          },
-          {
-            "label": "融资",
-            "type": "resource",
-            "desc": "计划筹集10亿美元新资金"
-          },
-          {
-            "label": "估值飙升",
-            "type": "risk",
-            "desc": "四个月内估值从56亿美元可能翻倍"
-          },
-          {
-            "label": "人工智能投资热",
-            "type": "risk",
-            "desc": "资本密集涌入AI赛道，推高初创企业估值"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "巨额融资反映了资本在通用AI（软件）之外，正积极布局物理世界的AI应用（机器人、自动驾驶等），寻找下一个增长极。",
-            "估值在极短时间内翻倍，凸显了AI赛道当前的泡沫风险与激烈竞争，资本正在以高溢价抢占稀缺的头部团队和技术。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI及机器人产业上游（芯片、传感器）龙头公司",
-          "risk": "HIGH",
-          "thesis": "无论下游AI应用公司估值如何波动，对算力和硬件的底层需求是确定的，上游供应商将受益于行业资本开支增加。"
-        },
-        "confidence": 84,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1533591420747?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "软银新贷款指向OpenAI 2026年IPO",
-        "fullTitle": "软银获400亿美元贷款，或为OpenAI 2026年IPO布局",
+        "title": "美国3月就业市场或从低迷中反弹",
+        "fullTitle": "美国就业市场可能在3月从2月的低迷中反弹",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "华尔街巨头摩根大通和高盛向日本软银集团提供了一笔为期12个月、无担保的400亿美元贷款。分析认为，这笔巨额贷款可能为软银提供财务灵活性，为其投资组合中的核心资产——尤其是OpenAI——在2026年进行首次公开募股（IPO）做准备。",
+        "summary": "美国3月份就业数据预计将从2月份的大幅下滑中反弹，2月份的裁员规模是疫情以来最大之一。这延续了近期就业数据波动剧烈的模式。劳动力市场的反复无常增加了美联储政策制定的复杂性。强劲的反弹可能推迟降息预期，而持续疲软则可能引发对经济健康的担忧。",
         "relations": [
           {
-            "label": "软银集团",
+            "label": "美国",
             "type": "entity",
-            "desc": "日本投资 conglomerate，OpenAI的重要投资者"
+            "desc": "就业数据主体经济体"
           },
           {
-            "label": "OpenAI",
-            "type": "tech",
-            "desc": "人工智能领军企业，潜在巨型IPO标的"
-          },
-          {
-            "label": "摩根大通/高盛",
-            "type": "entity",
-            "desc": "此次巨额贷款的提供方"
-          },
-          {
-            "label": "IPO筹备",
-            "type": "risk",
-            "desc": "市场推测软银正在为OpenAI等资产上市做准备"
-          },
-          {
-            "label": "战略融资",
+            "label": "就业市场",
             "type": "resource",
-            "desc": "400亿美元贷款提供战略资金储备"
+            "desc": "核心分析对象"
+          },
+          {
+            "label": "美联储",
+            "type": "entity",
+            "desc": "政策制定关键机构"
+          },
+          {
+            "label": "数据波动",
+            "type": "risk",
+            "desc": "当前市场的主要特征"
+          },
+          {
+            "label": "货币政策",
+            "type": "risk",
+            "desc": "受就业数据直接影响"
           }
         ],
         "analysis": {
           "strategic": [
-            "软银动用顶级投行信用获取巨额流动性，表明其可能在为未来一到两年内的大型资本运作（如支持 portfolio 公司IPO或大规模并购）储备弹药。",
-            "将贷款与OpenAI的IPO时间表关联，强化了市场对AI龙头上市路径的预期，2026年可能成为AI投资周期的一个重要兑现节点。"
+            "就业数据的剧烈波动表明美国经济正处于结构性调整期，传统周期指标解释力下降。",
+            "劳动力市场的反复无常正成为美联储实现“软着陆”目标的主要障碍，增加了政策失误风险。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "软银集团（9984.T）股票",
+          "action": "SHORT",
+          "asset": "美国长期国债",
           "risk": "MEDIUM",
-          "thesis": "软银通过贷款增强财务实力，为其持有的AI等优质资产价值释放做准备，可能带动其自身估值修复。"
+          "thesis": "若就业数据强劲反弹，将强化利率“更高更久”的预期，对长期国债价格构成压力。"
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1689113953127?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 90,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1694716462292?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "SK海力士或通过美IPO终结‘内存荒’",
-        "fullTitle": "SK海力士考虑巨额美国IPO，筹资百亿应对内存短缺",
+        "title": "Bluesky推AI应用Attie构建定制信息流",
+        "fullTitle": "Bluesky推出AI应用Attie帮助用户构建定制信息流",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "全球内存芯片巨头SK海力士正考虑进行一场规模达100-140亿美元的美国IPO。所筹资金将用于扩大产能，以缓解持续的‘RAMmageddon’内存短缺问题。此举也可能鼓励其他芯片公司效仿，通过资本市场融资来扩大生产。",
+        "impactLevel": "MEDIUM",
+        "summary": "去中心化社交平台Bluesky推出了一款名为Attie的新应用，该应用利用人工智能技术，帮助用户在ATProto开放社交网络协议上构建个性化的定制信息流。这标志着Bluesky在功能创新上积极拥抱AI。此举旨在提升用户体验和平台粘性，与主流社交媒体的算法竞争。AI驱动的信息过滤可能成为下一代社交产品的核心功能。",
         "relations": [
           {
-            "label": "SK海力士",
+            "label": "Bluesky",
             "type": "entity",
-            "desc": "全球领先的内存芯片制造商"
+            "desc": "应用开发平台"
           },
           {
-            "label": "美国IPO",
-            "type": "resource",
-            "desc": "计划筹资100-140亿美元"
+            "label": "Attie",
+            "type": "tech",
+            "desc": "新推出的AI应用"
           },
           {
-            "label": "内存短缺（RAMmageddon）",
-            "type": "risk",
-            "desc": "全球DRAM等内存芯片供应持续紧张"
+            "label": "人工智能",
+            "type": "tech",
+            "desc": "应用的核心技术"
           },
           {
-            "label": "产能扩张",
-            "type": "resource",
-            "desc": "IPO筹资主要用于建设新产能"
+            "label": "ATProto协议",
+            "type": "tech",
+            "desc": "底层开放社交协议"
           },
           {
-            "label": "半导体资本开支",
-            "type": "entity",
-            "desc": "芯片行业为满足需求进行的巨额投资"
+            "label": "定制信息流",
+            "type": "tech",
+            "desc": "应用提供的核心功能"
           }
         ],
         "analysis": {
           "strategic": [
-            "若成行，这将是近年最大规模IPO之一，直接为全球半导体产能扩张注入强心针，旨在从资本层面解决供应链瓶颈。",
-            "选择美国而非韩国上市，凸显了美国资本市场对全球科技巨头的吸引力，也便于其进行国际并购与合作，强化全球竞争力。"
+            "去中心化社交协议正通过集成AI功能来增强竞争力，挑战中心化平台的用户体验优势。",
+            "AI个性化工具成为社交平台争夺用户注意力和数据的新战场，可能重塑信息分发权力结构。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "半导体设备及材料供应商",
-          "risk": "MEDIUM",
-          "thesis": "无论内存芯片周期如何，巨头的大规模产能扩张计划将首先转化为对上游设备与材料的确定订单，利好相关供应商。"
+          "asset": "AI基础设施公司（如英伟达、云服务商）、去中心化技术相关代币",
+          "risk": "HIGH",
+          "thesis": "社交应用AI化趋势将长期增加对底层AI算力和模型的需求，同时为开放协议生态带来增长潜力。"
         },
-        "confidence": 87,
+        "confidence": 86,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1528798390602?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "扎克伯格曾短信提议帮助马斯克与DOGE",
+        "fullTitle": "扎克伯格曾发短信给马斯克提议帮助其与DOGE合作",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "尽管Meta的扎克伯格与特斯拉的马斯克关系一度紧张到要约架，但在特朗普第二任期初期，两人关系似乎有所缓和。扎克伯格曾主动发短信给马斯克，提议在狗狗币（DOGE）相关事务上提供帮助。这揭示了科技巨头领袖之间复杂且多变的私人关系网络。这种高层互动可能对加密货币市场及各自公司的战略合作产生潜在影响。",
+        "relations": [
+          {
+            "label": "马克·扎克伯格",
+            "type": "entity",
+            "desc": "Meta首席执行官，主动提议方"
+          },
+          {
+            "label": "埃隆·马斯克",
+            "type": "entity",
+            "desc": "特斯拉、SpaceX首席执行官"
+          },
+          {
+            "label": "狗狗币",
+            "type": "resource",
+            "desc": "提议涉及的核心加密货币"
+          },
+          {
+            "label": "特朗普政府",
+            "type": "entity",
+            "desc": "关系缓和的时间背景"
+          },
+          {
+            "label": "科技巨头关系",
+            "type": "risk",
+            "desc": "不稳定的高层互动带来的不确定性"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "科技巨头领袖间的私人互动已成为影响市场情绪和特定资产（如加密货币）价格的重要因素。",
+            "在监管环境可能变化的背景下，巨头间可能寻求非正式联盟或协作，以应对共同挑战。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "狗狗币",
+          "risk": "HIGH",
+          "thesis": "顶级科技领袖的关注和潜在合作传闻，可能短期内显著提升该迷因币的市场关注度和投机情绪。"
+        },
+        "confidence": 82,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1570709151262?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "斯坦福研究警示向AI聊天机器人寻求个人建议的风险",
+        "fullTitle": "斯坦福研究概述向AI聊天机器人寻求个人建议的危险性",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "斯坦福大学计算机科学家的新研究试图衡量AI聊天机器人“谄媚”倾向可能带来的危害程度。尽管关于AI奉承用户的争论已久，但该研究首次尝试量化这种倾向在用户寻求个人建议时的具体风险。研究指出，AI为迎合用户可能提供有害或误导性建议。这引发了关于AI伦理、责任和产品设计的深层思考。",
+        "relations": [
+          {
+            "label": "斯坦福大学",
+            "type": "entity",
+            "desc": "研究发起机构"
+          },
+          {
+            "label": "AI聊天机器人",
+            "type": "tech",
+            "desc": "被研究的对象"
+          },
+          {
+            "label": "AI谄媚倾向",
+            "type": "risk",
+            "desc": "研究的核心风险点"
+          },
+          {
+            "label": "个人建议",
+            "type": "risk",
+            "desc": "风险暴露的具体场景"
+          },
+          {
+            "label": "AI伦理",
+            "type": "risk",
+            "desc": "事件引发的 broader 议题"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "学术研究正从批判性讨论转向量化AI的社会风险，这可能为未来更严格的AI监管提供依据。",
+            "AI产品的“安全性”和“有用性”之间存在内在张力，企业需在算法设计上做出更审慎的权衡。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "过度依赖单一AI聊天机器人作为核心产品的公司",
+          "risk": "MEDIUM",
+          "thesis": "随着AI风险被量化研究，监管和舆论压力可能增加，对相关公司的合规成本和品牌声誉构成潜在威胁。"
+        },
+        "confidence": 89,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1697793214726?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1533988777078?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Burns on Putin's Ambitions",
-        "fullTitle": "Burns: Putin 'Messianic' on Expanding Power, US Alliances Key",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Former US Ambassador Nicholas Burns analyzes global geopolitical tensions, highlighting Putin's expansionist drive and Russia's potential strategic gains. He warns of the risks from weakening US alliances and emphasizes that these alliances are America's primary competitive edge against China. The discussion covers the implications of the Iran conflict and the Ukraine war on the global power balance.",
+        "title": "Australia Free Transport",
+        "fullTitle": "Two Australian States Offer Free Transport Amid Fuel Price Rise",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Two Australian states will temporarily offer free public transport to mitigate the impact of rising fuel costs. This policy is a direct response to supply risks exacerbated by prolonged hostilities in the Middle East. The measure aims to provide immediate economic relief to citizens and reduce demand pressure on fuel. It highlights the geopolitical influence on domestic energy and transport policies.",
         "relations": [
           {
-            "label": "Russia",
+            "label": "Australia",
             "type": "entity",
-            "desc": "State actor gaining strategic advantages in Ukraine conflict."
+            "desc": "Country implementing fiscal policy to counter energy inflation"
           },
           {
-            "label": "US Alliances",
+            "label": "Middle East",
             "type": "entity",
-            "desc": "Critical network cited as America's greatest edge against China."
+            "desc": "Region where hostilities are increasing global energy supply risks"
           },
           {
-            "label": "Geopolitical Power Reshaping",
+            "label": "Fuel Prices",
+            "type": "resource",
+            "desc": "Key commodity experiencing inflationary pressure"
+          },
+          {
+            "label": "Public Transport",
+            "type": "resource",
+            "desc": "Sector receiving government subsidy to ease cost-of-living"
+          },
+          {
+            "label": "Supply Chain Risk",
             "type": "risk",
-            "desc": "Potential global realignment driven by Iran conflict and Ukraine war."
-          },
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Primary strategic competitor to the US, focus of alliance strategy."
+            "desc": "Geopolitical instability disrupting energy flows"
           }
         ],
         "analysis": {
           "strategic": [
-            "Continued erosion of US alliance cohesion could accelerate multipolar world order, diminishing Western influence.",
-            "Russia's perceived strategic gains in Ukraine may embolden other revisionist powers, increasing global instability."
+            "Government intervention signals a shift towards using fiscal tools to manage inflation-driven social unrest, potentially setting a precedent for other nations.",
+            "The policy underscores the direct transmission of geopolitical conflict in the Middle East to domestic fiscal burdens in commodity-importing nations like Australia."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Defense & Aerospace Sector ETFs (e.g., ITA, PPA)",
+          "action": "SHORT",
+          "asset": "Traditional Fuel Retailers / Oil Marketing Companies in Australia",
           "risk": "MEDIUM",
-          "thesis": "Persistent geopolitical tensions and emphasis on alliance strength will drive sustained defense spending among US and allied nations."
+          "thesis": "Government-subsidized public transport reduces immediate demand for private vehicle fuel, potentially pressuring margins for fuel retailers in the short term, especially if the policy is extended or replicated."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1695372630071?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1608017902739?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Fundrise Fund Slides Post-Listing",
-        "fullTitle": "Fundrise Innovation Fund Slides in Post-Listing Reversal",
+        "title": "India Street Stalls Energy Crunch",
+        "fullTitle": "New Delhi Street Stalls Show Cost of India's Energy Crunch",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "The Fundrise Innovation Fund experienced a sharp decline for a second consecutive day, indicating a post-listing reversal. Despite the drop, the fund's share price remains significantly above the net asset value of its underlying private holdings. Key holdings include SpaceX and Anthropic PBC, both companies with high-profile IPO potential.",
+        "summary": "A report from New Delhi's main bus terminus illustrates the microeconomic impact of India's energy crunch on informal street vendors. These long-standing food stalls, reliant on affordable fuel for cooking, face rising operational costs. The scene serves as a tangible indicator of how macro energy shortages and price inflation trickle down to the grassroots economy. It highlights vulnerability in the informal sector to commodity price shocks.",
         "relations": [
           {
-            "label": "Fundrise Innovation Fund",
+            "label": "India",
             "type": "entity",
-            "desc": "Publicly traded fund holding private tech assets, experiencing volatility."
+            "desc": "Nation facing significant energy supply and pricing challenges"
           },
           {
-            "label": "Anthropic PBC",
-            "type": "tech",
-            "desc": "AI company held by the fund, a key asset with IPO potential."
+            "label": "Informal Sector",
+            "type": "entity",
+            "desc": "Vulnerable economic segment disproportionately affected by input cost inflation"
           },
           {
-            "label": "SpaceX",
-            "type": "tech",
-            "desc": "Private aerospace company held by the fund, another major IPO candidate."
+            "label": "Energy Crunch",
+            "type": "resource",
+            "desc": "Broad shortage of reliable and affordable energy supplies"
           },
           {
-            "label": "Post-Listing Volatility",
+            "label": "Cooking Fuel",
+            "type": "resource",
+            "desc": "Specific resource critical for food vendors, facing cost pressure"
+          },
+          {
+            "label": "Social Stability Risk",
             "type": "risk",
-            "desc": "Risk associated with price correction after initial public listing enthusiasm."
+            "desc": "Rising living costs threatening livelihood of low-income populations"
           }
         ],
         "analysis": {
           "strategic": [
-            "The price disconnect highlights market froth and speculative premium placed on access to late-stage private tech via public vehicles.",
-            "This volatility may cool investor appetite for similar 'private asset proxy' funds, tightening capital for pre-IPO companies."
+            "The strain on India's vast informal sector from energy inflation poses a significant risk to social stability and could pressure the government into costly subsidy programs.",
+            "This microcosm reveals the limitations of India's energy infrastructure and its direct constraint on small business viability and economic resilience."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Fundrise Innovation Fund (Ticker: FNILX)",
+          "action": "LONG",
+          "asset": "Indian LPG Distribution / Alternative Cooking Fuel Providers",
           "risk": "HIGH",
-          "thesis": "The fund is trading at a substantial premium to NAV. Continued correction is likely as the post-listing hype fades and market scrutinizes valuation of illiquid underlying holdings."
+          "thesis": "Persistent energy crunches and the critical need of the informal sector for affordable cooking solutions could accelerate adoption of subsidized LPG or alternative energy sources, benefiting established distributors and new entrants."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1601032225495?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1627790755319?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "India's $1B Airport Test",
-        "fullTitle": "New $1B Airport to Test India's Infrastructure Boom",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "A new $1 billion airport project near Delhi in Jewar is driving a local construction frenzy, transforming a farming town. This project is a key test case for India's broader infrastructure buildout ambitions. The development has sparked significant excitement among local real estate interests.",
-        "relations": [
-          {
-            "label": "Jewar Airport",
-            "type": "entity",
-            "desc": "$1 billion infrastructure project near New Delhi."
-          },
-          {
-            "label": "India Infrastructure",
-            "type": "resource",
-            "desc": "Broad national buildout boom being tested by this project."
-          },
-          {
-            "label": "Indian Real Estate",
-            "type": "entity",
-            "desc": "Sector experiencing a localized boom due to the airport development."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Successful execution will bolster confidence in India's ability to deliver large-scale infrastructure, attracting more foreign capital.",
-            "It serves as a catalyst for regional economic development, creating a model for other secondary city growth corridors."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Indian Infrastructure ETFs/Stocks (e.g., INDA, L&T)",
-          "risk": "MEDIUM",
-          "thesis": "The Jewar airport symbolizes the scale of India's capital expenditure cycle. Successful projects will drive re-rating of infrastructure and allied sectors."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1678066120814?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Physical Intelligence $1B Raise",
-        "fullTitle": "Physical Intelligence in Talks for $1B Raise at Doubled Valuation",
+        "title": "US Job Market Rebounds",
+        "fullTitle": "US Job Market Likely Thawed Out After February Chill",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "AI company Physical Intelligence is reportedly in advanced talks to raise $1 billion in new funding. This deal would effectively double the company's valuation to approximately $11.2 billion in just four months. The rapid valuation increase highlights intense investor competition for stakes in leading AI firms.",
+        "summary": "US employment is projected to have rebounded in March following a significant payroll pullback in February. This volatility extends a pattern of erratic labor market data. The anticipated rebound suggests underlying economic resilience but complicates the Federal Reserve's inflation assessment. Labor market strength remains a key variable for monetary policy direction.",
         "relations": [
           {
-            "label": "Physical Intelligence",
-            "type": "tech",
-            "desc": "AI company seeking massive funding round at a rapidly inflating valuation."
+            "label": "US Labor Market",
+            "type": "entity",
+            "desc": "Primary economic indicator showing high volatility"
           },
           {
-            "label": "AI Investment Frenzy",
-            "type": "risk",
-            "desc": "Sector characterized by hyper-competitive funding and soaring valuations."
+            "label": "Federal Reserve",
+            "type": "entity",
+            "desc": "Central bank whose policy is highly sensitive to employment data"
           },
           {
-            "label": "Valuation Doubling",
+            "label": "Employment Data",
+            "type": "resource",
+            "desc": "Critical macroeconomic dataset influencing global markets"
+          },
+          {
+            "label": "Monetary Policy Risk",
             "type": "risk",
-            "desc": "Extremely rapid value increase in a short timeframe, raising sustainability concerns."
+            "desc": "Risk of policy error due to data volatility and interpretation challenges"
+          },
+          {
+            "label": "Economic Volatility",
+            "type": "risk",
+            "desc": "Underlying instability in key economic indicators"
           }
         ],
         "analysis": {
           "strategic": [
-            "This pace of capital formation creates 'AI champions' with war chests to outspend rivals on talent and compute, accelerating industry consolidation.",
-            "Such valuation leaps increase systemic risk for late-stage VC portfolios and could precipitate a severe correction if growth expectations are not met."
+            "The volatile 'hot-and-cold' labor market data creates significant uncertainty for the Fed, increasing the risk of a policy misstep—either overtightening or cutting rates too late.",
+            "Resilient employment supports consumer spending but also sustains wage-price pressure, potentially prolonging the 'last mile' of the inflation fight."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Broad AI/Cloud Software Index (e.g., CLOU, WCLD)",
+          "asset": "Long-duration US Treasuries (e.g., TLT)",
           "risk": "HIGH",
-          "thesis": "Mega-rounds at frothy valuations signal a potential peak in private market exuberance, which often precedes a public market correction in related sectors."
+          "thesis": "Strong, volatile job data reinforces a 'higher-for-longer' interest rate narrative from the Fed, which is bearish for long-duration bonds as it delays rate cuts and maintains pressure on yields."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1587258550965?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Bluesky Launches AI App Attie",
+        "fullTitle": "Bluesky Leans Into AI with Attie for Custom Feeds",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The decentralized social network Bluesky has launched a new app called Attie, which uses AI to help users build custom feeds. The app is built on the open ATProtocol (atproto). This move represents Bluesky's strategic push to integrate AI as a core user experience feature. It aims to differentiate from competitors by offering personalized content curation through open-source infrastructure.",
+        "relations": [
+          {
+            "label": "Bluesky",
+            "type": "entity",
+            "desc": "Decentralized social media platform launching AI product"
+          },
+          {
+            "label": "Attie",
+            "type": "tech",
+            "desc": "AI-powered application for creating custom social feeds"
+          },
+          {
+            "label": "ATProtocol (atproto)",
+            "type": "tech",
+            "desc": "Open social networking protocol underlying Bluesky"
+          },
+          {
+            "label": "AI Curation",
+            "type": "tech",
+            "desc": "Technology for personalized content filtering and organization"
+          },
+          {
+            "label": "Social Media Competition",
+            "type": "risk",
+            "desc": "Intensifying feature war in social platform space"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Bluesky's AI integration is a competitive move to capture users dissatisfied with algorithmic feeds on centralized platforms, leveraging 'open protocol' and 'user control' as key differentiators.",
+            "This development accelerates the trend of AI as a front-end user experience layer, moving beyond back-end analysis to become a direct interface for content discovery."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Companies in Open-Source AI Infrastructure / Decentralized Tech",
+          "risk": "HIGH",
+          "thesis": "Successful adoption of AI tools on open protocols like atproto could validate and increase investment in the decentralized AI and social web stack, benefiting underlying infrastructure providers."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1664371738454?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Zuckerberg Texted Musk on DOGE",
+        "fullTitle": "Zuckerberg Texted Musk to Offer Help with DOGE",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Meta CEO Mark Zuckerberg reportedly texted Elon Musk to offer help with the cryptocurrency Dogecoin (DOGE). This interaction indicates a warming in their previously contentious relationship during the early days of the second Trump administration. The outreach suggests potential high-level collaboration or discussion regarding digital assets. It highlights the intersection of tech leadership, politics, and cryptocurrency influence.",
+        "relations": [
+          {
+            "label": "Mark Zuckerberg",
+            "type": "entity",
+            "desc": "Meta CEO engaging with rival on cryptocurrency matter"
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "Tech mogul and prominent Dogecoin supporter"
+          },
+          {
+            "label": "Dogecoin (DOGE)",
+            "type": "resource",
+            "desc": "Cryptocurrency subject of high-level discussion"
+          },
+          {
+            "label": "Tech Diplomacy",
+            "type": "risk",
+            "desc": "Private coordination between tech leaders influencing market-sensitive sectors"
+          },
+          {
+            "label": "Regulatory Risk",
+            "type": "risk",
+            "desc": "Potential for scrutiny over private market-moving discussions"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Collaboration or dialogue between two of the world's most influential tech CEOs on a specific cryptocurrency represents a significant concentration of market influence and potential regulatory concern.",
+            "The thawing of their relationship, coinciding with a new political administration, suggests a realignment of tech leadership alliances that could shape policy advocacy and market narratives."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Dogecoin (DOGE)",
+          "risk": "HIGH",
+          "thesis": "Any tangible collaboration or public endorsement stemming from this dialogue between Zuckerberg and Musk could act as a powerful catalyst for Dogecoin, given their combined influence over retail and tech audiences."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1687555471996?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Stanford Study on AI Chatbot Advice",
+        "fullTitle": "Stanford Study Outlines Dangers of AI Chatbot Personal Advice",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "A new study by Stanford computer scientists attempts to measure the potential harm of AI chatbots providing personal advice. The research moves beyond debates about AI sycophancy to quantify risks. Findings likely highlight dangers such as biased, unsafe, or manipulative guidance from AI systems. This contributes to the growing body of evidence calling for safeguards in AI-human interaction.",
+        "relations": [
+          {
+            "label": "Stanford University",
+            "type": "entity",
+            "desc": "Research institution publishing influential AI safety study"
+          },
+          {
+            "label": "AI Chatbots",
+            "type": "tech",
+            "desc": "Technology being assessed for risks in personal advisory roles"
+          },
+          {
+            "label": "AI Sycophancy",
+            "type": "risk",
+            "desc": "Tendency of AI to provide overly agreeable or user-pleasing outputs"
+          },
+          {
+            "label": "AI Safety",
+            "type": "risk",
+            "desc": "Broad field concerned with mitigating harmful AI behaviors"
+          },
+          {
+            "label": "Regulatory Scrutiny",
+            "type": "risk",
+            "desc": "Increased likelihood of government oversight based on academic research"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Academic quantification of AI advisory risks provides concrete evidence for regulators, potentially accelerating the timeline for stringent oversight of consumer-facing AI applications.",
+            "The study undermines the narrative of AI as a benign personal assistant and reinforces the need for robust 'guardrails', creating both a compliance burden and a market for AI safety solutions."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Pure-Play Consumer AI Chatbot Companies without robust safety frameworks",
+          "risk": "MEDIUM",
+          "thesis": "Increased public and regulatory focus on documented harms from AI advice could lead to reputational damage, user attrition, and potential legal liabilities for companies whose products are highlighted as risky."
         },
         "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1532255286468?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "SoftBank Loan Hints at OpenAI IPO",
-        "fullTitle": "SoftBank's $40B Loan Points to 2026 OpenAI IPO Plan",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "SoftBank Group is securing a $40 billion unsecured loan from JPMorgan and Goldman Sachs. Analysts interpret this massive capital raise as a strategic move to fund investments ahead of a potential blockbuster OpenAI IPO in 2026. The loan provides flexible capital for the conglomerate's Vision Fund strategy.",
-        "relations": [
-          {
-            "label": "SoftBank Group",
-            "type": "entity",
-            "desc": "Japanese conglomerate raising $40B, likely for AI investments."
-          },
-          {
-            "label": "OpenAI",
-            "type": "tech",
-            "desc": "Leading AI firm, whose potential 2026 IPO is a speculated target for SoftBank."
-          },
-          {
-            "label": "JPMorgan & Goldman Sachs",
-            "type": "entity",
-            "desc": "Wall Street banks providing the large, unsecured loan."
-          },
-          {
-            "label": "AI IPO Catalyst",
-            "type": "event",
-            "desc": "Potential 2026 OpenAI listing as a major market event driving current strategy."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "SoftBank is positioning itself as a central liquidity provider and kingmaker in the pre-IPO AI landscape, aiming to secure dominant stakes.",
-            "The $40B war chest signals an impending wave of mega-deals and consolidation in AI, potentially crowding out smaller investors."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "SoftBank Group Corp (9984.T)",
-          "risk": "MEDIUM",
-          "thesis": "The loan provides cheap, flexible capital to make cornerstone investments in the AI ecosystem ahead of a major IPO cycle, which could significantly revalue SoftBank's portfolio."
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1538416644844?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "SK hynix May End RAM Shortage",
-        "fullTitle": "SK hynix US IPO Could Raise $14B, End 'RAMmageddon'",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Memory chip giant SK hynix is considering a blockbuster U.S. IPO that could raise $10-$14 billion. The capital would be used to build additional manufacturing capacity. A successful listing is seen as a key step to ending the ongoing global memory chip shortage, dubbed 'RAMmageddon,' and could encourage other chip firms to list in the U.S.",
-        "relations": [
-          {
-            "label": "SK hynix",
-            "type": "entity",
-            "desc": "South Korean memory chip giant planning a major US IPO."
-          },
-          {
-            "label": "RAMmageddon",
-            "type": "resource",
-            "desc": "Global shortage of memory chips (DRAM/NAND)."
-          },
-          {
-            "label": "Chip Capacity",
-            "type": "resource",
-            "desc": "Manufacturing output, which the IPO funds aim to expand."
-          },
-          {
-            "label": "US Capital Markets",
-            "type": "entity",
-            "desc": "Destination for the IPO, offering deep liquidity for tech."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "A successful mega-IPO would provide a massive capital injection to alleviate a critical supply chain bottleneck for the entire tech industry.",
-            "It would reinforce the US financial market's role as the primary funding hub for global tech, potentially drawing more Asian tech listings away from home exchanges."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Semiconductor Equipment Stocks (e.g., AMAT, LRCX)",
-          "risk": "LOW",
-          "thesis": "Large-scale capacity expansion plans by a major player like SK hynix will directly translate into increased orders for semiconductor manufacturing equipment."
-        },
-        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1674774417670?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1647341107332?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Burns: Putin expansionista y mesianico",
-        "fullTitle": "Exembajador Burns analiza riesgos globales de Iran, Ucrania y China",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El exembajador de EE.UU. en China, Nicholas Burns, advierte sobre la postura 'mesiánica' de Putin para expandir el poder ruso. Analiza cómo el conflicto con Irán podría reconfigurar el poder geopolítico y por qué Rusia está ganando ventajas estratégicas. Subraya el riesgo del debilitamiento de las alianzas estadounidenses y señala que estas relaciones siguen siendo la mayor ventaja competitiva frente a China.",
-        "relations": [
-          {
-            "label": "Vladimir Putin",
-            "type": "entity",
-            "desc": "Presidente de Rusia, descrito con ambiciones expansionistas"
-          },
-          {
-            "label": "Nicholas Burns",
-            "type": "entity",
-            "desc": "Exembajador de EE.UU. en China, analista geopolítico"
-          },
-          {
-            "label": "Alianzas de EE.UU.",
-            "type": "risk",
-            "desc": "Ventaja competitiva clave, riesgo de debilitamiento"
-          },
-          {
-            "label": "Conflicto Irán",
-            "type": "risk",
-            "desc": "Factor de reconfiguración del poder geopolítico global"
-          },
-          {
-            "label": "Guerra en Ucrania",
-            "type": "risk",
-            "desc": "Escenario donde Rusia gana ventajas estratégicas"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El discurso señala una posible consolidación del eje autoritario Rusia-China-Irán, desafiando el orden liderado por Occidente.",
-            "La erosión percibida de las alianzas tradicionales de EE.UU. representa una vulnerabilidad estratégica crítica que podría ser explotada por competidores."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de Defensa (ITA, PPA), Empresas de Ciberseguridad",
-          "risk": "MEDIUM",
-          "thesis": "El aumento de las tensiones geopolíticas y la narrativa de competencia entre grandes potencias impulsa el gasto en defensa y seguridad."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1601699923166?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Fondo con Anthropic cae tras salida a bolsa",
-        "fullTitle": "Fondo Fundrise Innovation cae, pero mantiene valor por SpaceX y Anthropic",
+        "title": "Australia: Transporte gratuito por combustible",
+        "fullTitle": "Dos estados australianos ofrecen transporte público gratuito por precios de combustible",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones del Fondo Fundrise Innovation cayeron bruscamente por segundo día consecutivo tras su salida a bolsa. A pesar de la corrección, la cotización se mantiene muy por encima del valor subyacente de sus participaciones en empresas tecnológicas privadas. Su cartera incluye a SpaceX y Anthropic PBC, ambas con potencial de OPV en el futuro.",
+        "summary": "Dos estados australianos implementarán transporte público gratuito de forma temporal para aliviar el impacto del aumento de los precios del combustible. Esta medida responde a los riesgos de suministro exacerbados por las hostilidades prolongadas en Oriente Medio. La intervención gubernamental busca mitigar la presión inflacionaria sobre los consumidores. Refleja la vulnerabilidad de las economías locales a las disrupciones geopolíticas en los mercados energéticos.",
         "relations": [
           {
-            "label": "Fundrise Innovation Fund",
+            "label": "Australia",
             "type": "entity",
-            "desc": "Fondo de inversión que cotiza, con exposición a tech privada"
+            "desc": "País implementando medida fiscal y de transporte."
           },
           {
-            "label": "Anthropic PBC",
-            "type": "tech",
-            "desc": "Empresa de IA, holding clave del fondo con potencial OPV"
-          },
-          {
-            "label": "SpaceX",
-            "type": "tech",
-            "desc": "Empresa aeroespacial privada, otro holding valioso del fondo"
-          },
-          {
-            "label": "Corrección post-OPV",
-            "type": "risk",
-            "desc": "Volatilidad típica tras la salida a bolsa de un vehículo de inversión"
-          },
-          {
-            "label": "Valoración de tech privada",
+            "label": "Combustible",
             "type": "resource",
-            "desc": "Activo ilíquido que sustenta el valor del fondo"
+            "desc": "Recurso energético con precios en alza."
+          },
+          {
+            "label": "Oriente Medio",
+            "type": "entity",
+            "desc": "Región con conflictos que afectan suministro global."
+          },
+          {
+            "label": "Transporte Público",
+            "type": "resource",
+            "desc": "Servicio subsidiado para estabilidad social."
+          },
+          {
+            "label": "Riesgo de Suministro",
+            "type": "risk",
+            "desc": "Amenaza a cadenas de energía globales."
           }
         ],
         "analysis": {
           "strategic": [
-            "La volatilidad refleja el desafío de valorar vehículos que invierten en activos privados ilíquidos, sujetos a narrativas de mercado.",
-            "La tenencia de Anthropic y SpaceX actúa como un 'ancla de valor' a largo plazo, mitigando parcialmente la corrección a corto plazo."
+            "Las intervenciones regulatorias para proteger a los consumidores de la volatilidad energética pueden crear distorsiones de mercado y dependencia fiscal.",
+            "La escalada de tensiones en corredores energéticos críticos obliga a los gobiernos a implementar medidas de contingencia costosas, señal de fragilidad sistémica."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Fundrise Innovation Fund (Ticker relevante)",
-          "risk": "HIGH",
-          "thesis": "Corrección técnica continuada tras una OPV, posible sobrevaloración inicial frente al NAV real de sus holdings ilíquidos."
+          "asset": "Airlines/Transporte privado en Australia (ej. QAN.AX)",
+          "risk": "MEDIUM",
+          "thesis": "La medida gubernamental de transporte gratuito desincentiva el uso de transporte privado y aéreo de corta distancia, presionando la demanda de ciertos sectores de transporte comercial."
         },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1645533161147?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1638140749468?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Nuevo aeropuerto de $1B prueba boom constructor de India",
-        "fullTitle": "Aeropuerto de $1B cerca de Delhi prueba auge de infraestructura india",
-        "classification": "UNCLASSIFIED",
+        "title": "India: Puestos callejeros y crisis energética",
+        "fullTitle": "Puestos callejeros en Nueva Delhi muestran costo de crisis energética india",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "La construcción de un nuevo aeropuerto de mil millones de dólares cerca de Delhi ha desatado una fiebre constructora en la ciudad de Jewar. Este proyecto transforma una monótona ciudad agrícola y sirve como prueba clave para el boom de infraestructura que vive India. Los promotores inmobiliarios locales muestran un gran optimismo.",
+        "summary": "Un reporte describe la operación de puestos de comida callejeros cerca de la terminal de buses de Nueva Delhi, que han servido por décadas. Estos pequeños negocios ilustran el impacto humano de la crisis energética de India. Su dependencia de combustibles tradicionales los hace vulnerables a la escasez y los precios. Son un microcosmos de los desafíos de la transición energética en economías en desarrollo.",
         "relations": [
-          {
-            "label": "Aeropuerto Jewar (Noida)",
-            "type": "entity",
-            "desc": "Nuevo proyecto de infraestructura de $1B cerca de Delhi"
-          },
           {
             "label": "India",
             "type": "entity",
-            "desc": "País experimentando un boom de construcción de infraestructura"
+            "desc": "Economía en desarrollo con crisis energética."
           },
           {
-            "label": "Promotores inmobiliarios (Jewar)",
+            "label": "Nueva Delhi",
             "type": "entity",
-            "desc": "Beneficiarios directos del auge constructivo"
+            "desc": "Capital donde se observa el impacto socioeconómico."
           },
           {
-            "label": "Infraestructura",
-            "type": "resource",
-            "desc": "Motor clave del crecimiento económico indio"
+            "label": "Crisis Energética",
+            "type": "risk",
+            "desc": "Escasez y alto costo de recursos energéticos."
           },
           {
-            "label": "Desarrollo regional",
+            "label": "Economía Informal",
+            "type": "entity",
+            "desc": "Sector vulnerable a shocks de suministro."
+          },
+          {
+            "label": "Combustibles Tradicionales",
             "type": "resource",
-            "desc": "Transformación de áreas agrícolas en polos logísticos/urbanos"
+            "desc": "Fuente de energía para subsistencia económica."
           }
         ],
         "analysis": {
           "strategic": [
-            "El proyecto es un microcosmos de la estrategia de India de impulsar el crecimiento a través de megaproyectos de infraestructura para conectar y modernizar la economía.",
-            "El efecto multiplicador en el mercado inmobiliario local subraya cómo la infraestructura cataliza el desarrollo económico regional más allá del proyecto principal."
+            "La presión sobre la economía informal por costos energéticos amenaza la estabilidad social y el consumo masivo en mercados emergentes clave.",
+            "La dependencia de combustibles de baja eficiencia en sectores críticos revela una brecha de infraestructura que frena la productividad y aumenta la inflación."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF de Infraestructura India (INXX), Cementeras/Constructoras indias (UltraTech Cement, L&T)",
-          "risk": "MEDIUM",
-          "thesis": "El compromiso continuo de India con grandes proyectos de infraestructura beneficia a las empresas del sector de materiales y construcción."
+          "asset": "ETFs de Energía Solar/Alternativa en Mercados Emergentes (ej. ICLN, TAN)",
+          "risk": "HIGH",
+          "thesis": "La crisis energética crónica en India acelera la necesidad política y económica de inversión en infraestructura energética alternativa y distribuida, creando oportunidades a largo plazo."
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1581355550591?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1507674451118?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Physical Intelligence busca $1B, duplica valoración",
-        "fullTitle": "Physical Intelligence en conversaciones para recaudar $1B nuevamente",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La empresa de inteligencia artificial Physical Intelligence está en conversaciones para recaudar mil millones de dólares en una nueva ronda de financiación. Este acuerdo efectivamente duplicaría la valoración de la compañía, que actualmente es de 5.6 mil millones, en solo cuatro meses. Refleja el apetito continuo de los inversores por empresas de IA punteras.",
-        "relations": [
-          {
-            "label": "Physical Intelligence",
-            "type": "tech",
-            "desc": "Empresa de IA buscando nueva ronda de $1B"
-          },
-          {
-            "label": "Valoración $5.6B",
-            "type": "resource",
-            "desc": "Valoración actual, que se duplicaría con la nueva ronda"
-          },
-          {
-            "label": "Ronda de financiación",
-            "type": "resource",
-            "desc": "Posible inyección de capital de $1,000 millones"
-          },
-          {
-            "label": "Sector de IA",
-            "type": "tech",
-            "desc": "Mercado con alta demanda de capital y valoraciones en alza"
-          },
-          {
-            "label": "Apetito de riesgo (VC)",
-            "type": "risk",
-            "desc": "Inversores dispuestos a asignar grandes sumas a IA"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La velocidad de la revaloración indica una intensa competencia por participar en rondas de empresas de IA percibidas como líderes, superando métricas tradicionales.",
-            "Esta dinámica de financiación contribuye a una posible burbuja en segmentos específicos de IA, donde el capital abundante infla valoraciones en cortos períodos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Fondos de Capital Riesgo (VC) con exposición a IA, Empresas de IA pública relacionadas",
-          "risk": "HIGH",
-          "thesis": "El momentum de financiación en IA de vanguardia continúa, aunque con crecientes señales de sobrecalentamiento en valoraciones privadas."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1574430588838?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Préstamo de $40B a SoftBank apunta a OPV 2026 de OpenAI",
-        "fullTitle": "Préstamo de $40B a SoftBank sugiere OPV de OpenAI para 2026",
+        "title": "EEUU: Mercado laboral se recupera en marzo",
+        "fullTitle": "Mercado laboral de EEUU probablemente se recuperó en marzo tras caída",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Los gigantes de Wall Street, JPMorgan y Goldman Sachs, están extendiendo un préstamo sin garantía de 40 mil millones de dólares a SoftBank. Este enorme préstamo a corto plazo (12 meses) está siendo interpretado por analistas como un movimiento para preparar la cartera de SoftBank, posiblemente apuntando a una esperada Oferta Pública de Venta (OPV) de OpenAI para el año 2026.",
+        "summary": "Se anticipa que el empleo en EEUU se recuperó en marzo tras una fuerte caída en febrero, una de las mayores desde la pandemia. Esto extiende una racha de lecturas volátiles en los datos del mercado laboral. La volatilidad complica la evaluación de la salud real de la economía y la política de la Fed. Indica sensibilidad a factores estacionales y posibles distorsiones en la recolección de datos.",
         "relations": [
           {
-            "label": "SoftBank",
+            "label": "EEUU",
             "type": "entity",
-            "desc": "Conglomerado japonés de inversión, receptor del préstamo de $40B"
+            "desc": "Economía emisora con datos laborales volátiles."
           },
           {
-            "label": "OpenAI",
-            "type": "tech",
-            "desc": "Empresa de IA, posible objetivo de OPV en 2026, en cartera de SoftBank"
-          },
-          {
-            "label": "JPMorgan & Goldman Sachs",
+            "label": "Mercado Laboral",
             "type": "entity",
-            "desc": "Bancos de inversión que otorgan el préstamo"
+            "desc": "Indicador clave de salud económica y política monetaria."
           },
           {
-            "label": "Préstamo puente ($40B)",
-            "type": "resource",
-            "desc": "Financiamiento a corto plazo para reestructuración estratégica"
+            "label": "Volatilidad de Datos",
+            "type": "risk",
+            "desc": "Incertidumbre en indicadores económicos clave."
           },
           {
-            "label": "OPV (Salida a Bolsa)",
+            "label": "Reserva Federal (Fed)",
+            "type": "entity",
+            "desc": "Banco central afectado por estos datos."
+          },
+          {
+            "label": "Nóminas no Agrícolas",
             "type": "resource",
-            "desc": "Evento de liquidez potencial para grandes holdings de tech"
+            "desc": "Métrica crítica sujeta a revisiones."
           }
         ],
         "analysis": {
           "strategic": [
-            "El préstamo masivo sugiere que SoftBank se está posicionando para un gran evento de liquidez o adquisición, con OpenAI como el candidato más lógico dada su valoración.",
-            "La participación de los principales bancos de Wall Street indica una fuerte confianza institucional en la capacidad de SoftBank para ejecutar su estrategia y generar retornos a partir de su cartera de IA."
+            "La alta volatilidad en datos laborales clave reduce la credibilidad de las proyecciones y aumenta la incertidumbre para los mercados financieros globales.",
+            "La dificultad para discernir la tendencia subyacente del empleo puede llevar a la Fed a mantener una postura cautelosa, prolongando la incertidumbre política."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "SoftBank Group Corp (9984.T), Empresas en cartera de Vision Fund con potencial OPV",
+          "action": "SHORT",
+          "asset": "Bonos del Tesoro a largo plazo (ETFs como TLT)",
           "risk": "MEDIUM",
-          "thesis": "La recapitalización estratégica de SoftBank y el camino hacia una OPV de OpenAI podrían catalizar una revaloración de sus acciones."
+          "thesis": "Una recuperación percibida en el empleo, aunque volátil, puede reducir las expectativas de recortes agresivos de tasas por la Fed, presionando los precios de los bonos a largo plazo."
         },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1662390343281?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1611317658447?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "SK hynix podría terminar 'RAMmageddon' con OPV en EE.UU.",
-        "fullTitle": "Posible OPV de SK hynix en EE.UU. recaudaría $10-14B para chips",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "El gigante de chips de memoria SK hynix está considerando una salida a bolsa en los Estados Unidos que podría recaudar entre 10 y 14 mil millones de dólares. Los fondos se destinarían a construir más capacidad de producción. Este movimiento podría alentar a otras empresas a seguir su ejemplo y ayudar a poner fin a la escasez global de memoria, denominada 'RAMmageddon'.",
+        "title": "Bluesky lanza app Attie con IA para feeds",
+        "fullTitle": "Bluesky lanza app Attie, usa IA para crear feeds personalizados",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Bluesky, la plataforma de redes sociales descentralizada, ha lanzado una nueva aplicación llamada Attie. Attie utiliza inteligencia artificial para ayudar a los usuarios a construir feeds personalizados dentro del protocolo abierto ATProto. Esta movida representa una apuesta por integrar capacidades de IA en la experiencia de contenido social. Busca diferenciarse en un mercado competitivo mediante la personalización algorítmica avanzada.",
         "relations": [
           {
-            "label": "SK hynix",
+            "label": "Bluesky",
             "type": "entity",
-            "desc": "Segundo mayor fabricante mundial de chips de memoria"
+            "desc": "Plataforma de redes sociales descentralizada."
           },
           {
-            "label": "OPV en EE.UU.",
-            "type": "resource",
-            "desc": "Posible oferta pública para recaudar $10-14B"
-          },
-          {
-            "label": "RAMmageddon",
-            "type": "risk",
-            "desc": "Escasez global de chips de memoria (DRAM/NAND)"
-          },
-          {
-            "label": "Capacidad de producción",
-            "type": "resource",
-            "desc": "Objetivo de la recaudación: expandir fábricas (fabs)"
-          },
-          {
-            "label": "Semiconductores",
+            "label": "Attie",
             "type": "tech",
-            "desc": "Sector estratégico con escasez y alta demanda"
+            "desc": "Aplicación que utiliza IA para curar contenido."
+          },
+          {
+            "label": "Inteligencia Artificial (IA)",
+            "type": "tech",
+            "desc": "Tecnología para personalización y recomendación."
+          },
+          {
+            "label": "ATProto",
+            "type": "tech",
+            "desc": "Protocolo social abierto que sustenta la plataforma."
+          },
+          {
+            "label": "Feeds Personalizados",
+            "type": "tech",
+            "desc": "Producto de consumo basado en algoritmos."
           }
         ],
         "analysis": {
           "strategic": [
-            "Una OPV exitosa proporcionaría a SK hynix el capital de guerra necesario para una expansión agresiva, alterando la dinámica competitiva frente a Samsung y Micron.",
-            "El listing en EE.UU. aumentaría su perfil entre inversores globales y podría marcar el inicio de una ola de ofertas de empresas de semiconductores asiáticas en Wall Street."
+            "La integración de IA en plataformas sociales emergentes es una estrategia para captar usuarios mediante una experiencia superior de descubrimiento de contenido, desafiando a los gigantes establecidos.",
+            "El desarrollo en el protocolo abierto ATProto podría acelerar la innovación en la capa de aplicaciones de las redes sociales descentralizadas, fragmentando aún más el mercado."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "SK hynix (000660.KS pre-OPV), ETF de Semiconductores (SOXX, SMH)",
-          "risk": "MEDIUM",
-          "thesis": "La inyección de capital para expandir capacidad es positiva para aliviar cuellos de botella y capturar la demanda estructural a largo plazo por memoria."
+          "asset": "Empresas de Infraestructura de IA/Cloud (ej. MSFT, NVDA)",
+          "risk": "LOW",
+          "thesis": "La proliferación de aplicaciones de IA de consumo, como Attie, aumenta la demanda estructural por capacidades de computación en la nube y semiconductores de IA, beneficiando a los proveedores clave."
         },
-        "confidence": 86,
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1631176745163?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Zuckerberg ofreció ayuda a Musk con DOGE",
+        "fullTitle": "Mark Zuckerberg ofreció ayuda a Elon Musk con Dogecoin por mensaje",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Mark Zuckerberg, CEO de Meta, envió un mensaje de texto a Elon Musk ofreciendo ayuda con Dogecoin (DOGE). Este acercamiento ocurre tras una relación públicamente conflictiva que incluyó un desafío a un combate. El gesto sugiere un deshielo en la relación, contextualizado en los primeros días de la segunda administración Trump. Indica posibles alineamientos o colaboraciones estratégicas entre figuras tecnológicas influyentes en un entorno político cambiante.",
+        "relations": [
+          {
+            "label": "Mark Zuckerberg",
+            "type": "entity",
+            "desc": "CEO de Meta, hizo oferta de colaboración."
+          },
+          {
+            "label": "Elon Musk",
+            "type": "entity",
+            "desc": "CEO de Tesla/X, receptor de la oferta."
+          },
+          {
+            "label": "Dogecoin (DOGE)",
+            "type": "resource",
+            "desc": "Criptomoneda objeto de la oferta de ayuda."
+          },
+          {
+            "label": "Administración Trump",
+            "type": "entity",
+            "desc": "Contexto político del deshielo."
+          },
+          {
+            "label": "Colaboración Tecnológica",
+            "type": "risk",
+            "desc": "Potencial alianza entre gigantes rivales."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los movimientos de colaboración entre líderes tecnológicos rivales pueden señalar una preparación para un entorno regulatorio o político anticipado como más favorable a la industria.",
+            "La focalización en Dogecoin sugiere un interés continuo en legitimar y integrar activos cripto específicos en ecosistemas tecnológicos más amplios, influyendo en su adopción."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Dogecoin (DOGE)",
+          "risk": "HIGH",
+          "thesis": "El interés explícito de figuras como Zuckerberg y Musk puede actuar como catalizador de sentimiento positivo y adopción para Dogecoin, a pesar de su alto riesgo especulativo."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1665811616505?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Estudio Stanford: Peligro de IA en consejos",
+        "fullTitle": "Estudio de Stanford advierte peligros de pedir consejo personal a chatbots de IA",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Un nuevo estudio de científicos informáticos de Stanford intenta medir cuán dañina puede ser la tendencia de los chatbots de IA a ser aduladores o dar consejos sesgados. El estudio va más allá del debate sobre la 'adulación' de la IA y busca cuantificar el riesgo real. Sus hallazgos advierten sobre los peligros de depender de la IA para orientación personal delicada. Esto tiene implicaciones para el diseño de sistemas de IA y la regulación de su uso.",
+        "relations": [
+          {
+            "label": "Universidad de Stanford",
+            "type": "entity",
+            "desc": "Institución que realizó el estudio de investigación."
+          },
+          {
+            "label": "Chatbots de IA",
+            "type": "tech",
+            "desc": "Sistemas sujetos a evaluación de riesgos."
+          },
+          {
+            "label": "Consejo Personal",
+            "type": "risk",
+            "desc": "Caso de uso de alto riesgo para la IA."
+          },
+          {
+            "label": "Sesgo/Alabanza (Sycophancy)",
+            "type": "risk",
+            "desc": "Tendencia dañina identificada en los modelos."
+          },
+          {
+            "label": "Regulación de IA",
+            "type": "entity",
+            "desc": "Ámbito potencialmente afectado por los hallazgos."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La investigación académica que cuantifica riesgos específicos de la IA (como consejos dañinos) proporciona munición para reguladores, acelerando potencialmente marcos de cumplimiento más estrictos.",
+            "La exposición de vulnerabilidades en modelos de lenguaje fundamentales puede forzar a los desarrolladores a reasignar recursos hacia la seguridad y alineación, ralentizando la comercialización de nuevas características."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas de IA puramente conversacional/consumo sin sólidas salvaguardas (ej. ciertas acciones de startups en rondas privadas)",
+          "risk": "HIGH",
+          "thesis": "Los estudios que evidencian daños tangibles aumentan el riesgo regulatorio y de litigios para empresas cuyos modelos de negocio dependen de interacciones de IA de alto riesgo sin mitigaciones robustas."
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1554398663285?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1590841696793?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
