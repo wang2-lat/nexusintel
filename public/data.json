@@ -1,893 +1,868 @@
 {
-  "generated_at": "2026-03-29T02:40:38.508659",
+  "generated_at": "2026-03-30T02:44:04.330216",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "澳洲两州推免费公交应对油价",
-        "fullTitle": "澳大利亚两州将提供免费公共交通以缓解油价上涨影响",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "由于中东持续冲突加剧供应风险，导致燃料价格上涨，澳大利亚两个州将暂时提供免费公共交通，以缓解民众出行成本压力。此举旨在应对能源价格波动带来的社会与经济影响。短期措施可能减轻低收入群体的负担，但长期财政可持续性存疑。事件反映了地缘政治紧张对全球能源供应链的传导效应。",
+        "title": "中东冲突或长期化，冲击全球油市",
+        "fullTitle": "前美能源部官员警告中东冲突可能长期化，冲击全球石油市场",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "前美国能源部副部长兰达·法赫米警告，持续的中东冲突可能延长。伊朗支持的也门胡塞武装已介入冲突。地缘政治紧张局势升级，可能扰乱关键的石油运输通道。这为全球石油供应带来了重大的不确定性风险。",
         "relations": [
-          {
-            "label": "澳大利亚",
-            "type": "entity",
-            "desc": "政策实施主体国家"
-          },
-          {
-            "label": "公共交通",
-            "type": "resource",
-            "desc": "政策干预的核心领域"
-          },
-          {
-            "label": "燃料价格",
-            "type": "resource",
-            "desc": "事件的主要驱动因素"
-          },
           {
             "label": "中东冲突",
             "type": "risk",
-            "desc": "引发供应风险的根源"
+            "desc": "主要地缘政治风险源"
           },
           {
-            "label": "能源供应链",
-            "type": "risk",
-            "desc": "受地缘政治影响的脆弱环节"
+            "label": "全球石油市场",
+            "type": "resource",
+            "desc": "受冲击的核心大宗商品市场"
+          },
+          {
+            "label": "伊朗",
+            "type": "entity",
+            "desc": "地区关键地缘政治参与者"
+          },
+          {
+            "label": "胡塞武装",
+            "type": "entity",
+            "desc": "冲突的直接参与者"
+          },
+          {
+            "label": "霍尔木兹海峡",
+            "type": "resource",
+            "desc": "关键的石油运输咽喉要道"
           }
         ],
         "analysis": {
           "strategic": [
-            "政府干预能源价格波动的社会成本，可能预示更多非市场手段应对通胀。",
-            "地缘政治风险持续推高能源成本，迫使地方政府采取财政补贴等临时性措施。"
+            "冲突长期化将直接威胁波斯湾地区的石油生产和运输安全，推高全球能源风险溢价。",
+            "美国与伊朗的间接对抗可能加剧，影响全球能源供应链的稳定性与定价机制。"
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "澳洲航空、长途运输公司股票",
-          "risk": "MEDIUM",
-          "thesis": "免费公共交通政策可能短期内抑制部分私人交通需求，并对依赖燃油收入的运输企业构成压力。"
+          "action": "LONG",
+          "asset": "原油期货 (如WTI, Brent)、能源股 (XLE)、石油服务公司",
+          "risk": "HIGH",
+          "thesis": "地缘政治风险溢价上升将支撑油价，能源板块可能受益于供应中断担忧和价格上涨预期。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1569636771092?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1583476271441?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "新德里街头摊贩反映印度能源危机成本",
-        "fullTitle": "新德里街头摊贩展现印度能源短缺的社会成本",
+        "title": "中国扩大境外投资额度",
+        "fullTitle": "中国大幅提高机构投资者境外证券投资额度",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "报道通过新德里主要公交总站外数十年历史的街头食品摊贩的视角，展现了印度能源短缺对底层民生经济的直接影响。这些依赖稳定能源供应（如燃气）的小本经营，在能源危机中成本上升、经营困难。微观案例揭示了宏观能源政策失灵的社会代价。能源供应紧张正侵蚀非正规经济部门的韧性。",
+        "summary": "中国将机构投资者境外证券投资的额度上限提高了自2021年以来的最大幅度。此举旨在推进金融开放，并满足国内日益增长的离岸投资需求。这标志着资本账户开放的重要一步。资金流出可能对人民币汇率和国内资产价格构成一定压力。",
         "relations": [
           {
-            "label": "印度",
+            "label": "中国金融开放",
             "type": "entity",
-            "desc": "能源危机发生的主要国家"
+            "desc": "政策核心目标"
           },
           {
-            "label": "新德里",
+            "label": "合格境内机构投资者 (QDII)",
             "type": "entity",
-            "desc": "具体观察地点"
+            "desc": "政策实施的主要渠道"
           },
           {
-            "label": "街头摊贩",
-            "type": "entity",
-            "desc": "受能源成本冲击的微观经济单元"
-          },
-          {
-            "label": "能源短缺",
+            "label": "资本流动",
             "type": "risk",
-            "desc": "核心风险事件"
+            "desc": "政策带来的主要市场影响"
           },
           {
-            "label": "非正规经济",
+            "label": "离岸资产",
+            "type": "resource",
+            "desc": "资金潜在流向"
+          },
+          {
+            "label": "人民币汇率",
             "type": "risk",
-            "desc": "受冲击最严重的领域"
+            "desc": "受政策影响的关联市场"
           }
         ],
         "analysis": {
           "strategic": [
-            "能源基础设施不足和分配不均，正加剧新兴市场内部的社会经济分化。",
-            "民生经济对能源价格高度敏感，能源危机可能引发更广泛的社会不稳定因素。"
+            "此举是中国在资本管制下进行压力测试，平衡资本外流风险与满足居民多元化资产配置需求。",
+            "长期看有助于推动人民币国际化，但短期可能增加跨境资本流动的波动性，考验央行管理能力。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "印度液化石油气(LPG)分销商、可再生能源基础设施ETF",
-          "risk": "HIGH",
-          "thesis": "长期能源短缺将迫使印度加速能源基础设施投资和替代能源部署，相关领域存在结构性增长机会。"
+          "asset": "港股、中概股、海外中国基金、离岸人民币资产",
+          "risk": "MEDIUM",
+          "thesis": "新增额度将带来增量资金流入香港及海外中资资产，对相关市场构成流动性利好。"
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1510610393258?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1628491446471?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "美国3月就业市场或从低迷中反弹",
-        "fullTitle": "美国就业市场可能在3月从2月的低迷中反弹",
+        "title": "特朗普称伊朗已满足美方大部分要求",
+        "fullTitle": "特朗普称伊朗已满足美国和平计划中的大部分要求",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "美国3月份就业数据预计将从2月份的大幅下滑中反弹，2月份的裁员规模是疫情以来最大之一。这延续了近期就业数据波动剧烈的模式。劳动力市场的反复无常增加了美联储政策制定的复杂性。强劲的反弹可能推迟降息预期，而持续疲软则可能引发对经济健康的担忧。",
+        "summary": "美国总统特朗普表示，伊朗已经满足了美国向其提出的15项和平计划要求中的大部分。然而，目前尚不清楚双方是否在进行真正的谈判。此番言论可能意在为紧张局势降温，或为国内政治服务。地缘政治预期的快速变化将加剧市场波动。",
         "relations": [
           {
-            "label": "美国",
+            "label": "美伊关系",
             "type": "entity",
-            "desc": "就业数据主体经济体"
+            "desc": "核心双边关系"
           },
           {
-            "label": "就业市场",
+            "label": "中东和平进程",
+            "type": "risk",
+            "desc": "地缘政治核心议题"
+          },
+          {
+            "label": "特朗普",
+            "type": "entity",
+            "desc": "关键决策者与信息源"
+          },
+          {
+            "label": "地缘政治风险溢价",
+            "type": "risk",
+            "desc": "受言论直接影响的市场因子"
+          },
+          {
+            "label": "石油价格",
             "type": "resource",
-            "desc": "核心分析对象"
-          },
-          {
-            "label": "美联储",
-            "type": "entity",
-            "desc": "政策制定关键机构"
-          },
-          {
-            "label": "数据波动",
-            "type": "risk",
-            "desc": "当前市场的主要特征"
-          },
-          {
-            "label": "货币政策",
-            "type": "risk",
-            "desc": "受就业数据直接影响"
+            "desc": "对消息最敏感的大宗商品"
           }
         ],
         "analysis": {
           "strategic": [
-            "就业数据的剧烈波动表明美国经济正处于结构性调整期，传统周期指标解释力下降。",
-            "劳动力市场的反复无常正成为美联储实现“软着陆”目标的主要障碍，增加了政策失误风险。"
+            "特朗普的言论可能是一种谈判策略或政治宣传，旨在塑造其成功外交形象，实际进展需后续观察。",
+            "若局势出现缓和迹象，可能短期内削弱石油的地缘政治风险溢价，但中东结构性矛盾难以根除。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "美国长期国债",
-          "risk": "MEDIUM",
-          "thesis": "若就业数据强劲反弹，将强化利率“更高更久”的预期，对长期国债价格构成压力。"
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1694716462292?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Bluesky推AI应用Attie构建定制信息流",
-        "fullTitle": "Bluesky推出AI应用Attie帮助用户构建定制信息流",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "去中心化社交平台Bluesky推出了一款名为Attie的新应用，该应用利用人工智能技术，帮助用户在ATProto开放社交网络协议上构建个性化的定制信息流。这标志着Bluesky在功能创新上积极拥抱AI。此举旨在提升用户体验和平台粘性，与主流社交媒体的算法竞争。AI驱动的信息过滤可能成为下一代社交产品的核心功能。",
-        "relations": [
-          {
-            "label": "Bluesky",
-            "type": "entity",
-            "desc": "应用开发平台"
-          },
-          {
-            "label": "Attie",
-            "type": "tech",
-            "desc": "新推出的AI应用"
-          },
-          {
-            "label": "人工智能",
-            "type": "tech",
-            "desc": "应用的核心技术"
-          },
-          {
-            "label": "ATProto协议",
-            "type": "tech",
-            "desc": "底层开放社交协议"
-          },
-          {
-            "label": "定制信息流",
-            "type": "tech",
-            "desc": "应用提供的核心功能"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "去中心化社交协议正通过集成AI功能来增强竞争力，挑战中心化平台的用户体验优势。",
-            "AI个性化工具成为社交平台争夺用户注意力和数据的新战场，可能重塑信息分发权力结构。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI基础设施公司（如英伟达、云服务商）、去中心化技术相关代币",
+          "asset": "原油期货 (短期投机头寸)、避险资产 (如黄金)",
           "risk": "HIGH",
-          "thesis": "社交应用AI化趋势将长期增加对底层AI算力和模型的需求，同时为开放协议生态带来增长潜力。"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1528798390602?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "扎克伯格曾短信提议帮助马斯克与DOGE",
-        "fullTitle": "扎克伯格曾发短信给马斯克提议帮助其与DOGE合作",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "尽管Meta的扎克伯格与特斯拉的马斯克关系一度紧张到要约架，但在特朗普第二任期初期，两人关系似乎有所缓和。扎克伯格曾主动发短信给马斯克，提议在狗狗币（DOGE）相关事务上提供帮助。这揭示了科技巨头领袖之间复杂且多变的私人关系网络。这种高层互动可能对加密货币市场及各自公司的战略合作产生潜在影响。",
-        "relations": [
-          {
-            "label": "马克·扎克伯格",
-            "type": "entity",
-            "desc": "Meta首席执行官，主动提议方"
-          },
-          {
-            "label": "埃隆·马斯克",
-            "type": "entity",
-            "desc": "特斯拉、SpaceX首席执行官"
-          },
-          {
-            "label": "狗狗币",
-            "type": "resource",
-            "desc": "提议涉及的核心加密货币"
-          },
-          {
-            "label": "特朗普政府",
-            "type": "entity",
-            "desc": "关系缓和的时间背景"
-          },
-          {
-            "label": "科技巨头关系",
-            "type": "risk",
-            "desc": "不稳定的高层互动带来的不确定性"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "科技巨头领袖间的私人互动已成为影响市场情绪和特定资产（如加密货币）价格的重要因素。",
-            "在监管环境可能变化的背景下，巨头间可能寻求非正式联盟或协作，以应对共同挑战。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "狗狗币",
-          "risk": "HIGH",
-          "thesis": "顶级科技领袖的关注和潜在合作传闻，可能短期内显著提升该迷因币的市场关注度和投机情绪。"
+          "thesis": "若市场解读为局势缓和，前期因地缘风险上涨的油价和避险资产价格可能出现回调。"
         },
         "confidence": 82,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1570709151262?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1595834426725?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "斯坦福研究警示向AI聊天机器人寻求个人建议的风险",
-        "fullTitle": "斯坦福研究概述向AI聊天机器人寻求个人建议的危险性",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "斯坦福大学计算机科学家的新研究试图衡量AI聊天机器人“谄媚”倾向可能带来的危害程度。尽管关于AI奉承用户的争论已久，但该研究首次尝试量化这种倾向在用户寻求个人建议时的具体风险。研究指出，AI为迎合用户可能提供有害或误导性建议。这引发了关于AI伦理、责任和产品设计的深层思考。",
+        "title": "谷歌Pixel 10a取消相机凸起",
+        "fullTitle": "谷歌Pixel 10a手机取消相机凸起设计",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "谷歌新款平价智能手机Pixel 10a取消了相机凸起设计，可以平放在桌面上。除此之外，该公司并未为这款新机带来大量升级。这主要是一次工业设计上的改进，而非技术或性能的重大革新。",
         "relations": [
           {
-            "label": "斯坦福大学",
+            "label": "谷歌 (Google)",
             "type": "entity",
-            "desc": "研究发起机构"
+            "desc": "设备制造商"
           },
           {
-            "label": "AI聊天机器人",
+            "label": "Pixel 10a",
             "type": "tech",
-            "desc": "被研究的对象"
+            "desc": "目标产品"
           },
           {
-            "label": "AI谄媚倾向",
-            "type": "risk",
-            "desc": "研究的核心风险点"
+            "label": "智能手机设计",
+            "type": "tech",
+            "desc": "产品改进领域"
           },
           {
-            "label": "个人建议",
-            "type": "risk",
-            "desc": "风险暴露的具体场景"
-          },
-          {
-            "label": "AI伦理",
-            "type": "risk",
-            "desc": "事件引发的 broader 议题"
+            "label": "消费电子",
+            "type": "entity",
+            "desc": "所属行业"
           }
         ],
         "analysis": {
           "strategic": [
-            "学术研究正从批判性讨论转向量化AI的社会风险，这可能为未来更严格的AI监管提供依据。",
-            "AI产品的“安全性”和“有用性”之间存在内在张力，企业需在算法设计上做出更审慎的权衡。"
+            "此举反映了谷歌在平价机型上更注重差异化的外观设计和用户体验细节，而非堆砌硬件参数。",
+            "对整体智能手机市场竞争格局影响有限，主要是针对特定用户群体的微创新。"
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "过度依赖单一AI聊天机器人作为核心产品的公司",
-          "risk": "MEDIUM",
-          "thesis": "随着AI风险被量化研究，监管和舆论压力可能增加，对相关公司的合规成本和品牌声誉构成潜在威胁。"
+          "action": "LONG",
+          "asset": "谷歌母公司Alphabet (GOOGL)",
+          "risk": "LOW",
+          "thesis": "单一机型的设计改动对巨头公司财务影响微乎其微，投资逻辑基于其整体生态系统和AI业务。"
         },
-        "confidence": 89,
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1537234732324?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "YouTube CEO不担心创作者被Netflix挖角",
+        "fullTitle": "YouTube CEO称顶级创作者永远不会离开平台",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "YouTube首席执行官尼尔·莫汉表示，他并不担心Netflix会挖走该平台最受欢迎的创作者。他认为顶级创作者“永远不会离开他们的家（指YouTube）”。这体现了对YouTube平台生态和创作者粘性的信心。",
+        "relations": [
+          {
+            "label": "YouTube",
+            "type": "entity",
+            "desc": "核心平台"
+          },
+          {
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "潜在竞争对手"
+          },
+          {
+            "label": "内容创作者经济",
+            "type": "entity",
+            "desc": "竞争的核心资源"
+          },
+          {
+            "label": "平台生态",
+            "type": "tech",
+            "desc": "竞争的关键优势"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "莫汉的言论旨在稳定创作者和广告商信心，强调YouTube在UGC（用户生成内容）领域的统治地位和网络效应。",
+            "流媒体平台竞争进入新阶段，Netflix等专注于PGC（专业生成内容），而YouTube护城河在于其庞大的创作者社区和互动模式。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "谷歌母公司Alphabet (GOOGL)",
+          "risk": "LOW",
+          "thesis": "YouTube是谷歌核心增长和利润引擎之一，其创作者生态的稳定性是维持该业务竞争力的关键。"
+        },
+        "confidence": 88,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1552234562190?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "《Project Hail Mary》成亚马逊影业最卖座影片",
+        "fullTitle": "《Project Hail Mary》成为亚马逊米高梅最大票房热门",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "亚马逊对电影《Project Hail Mary》的押注获得了丰厚回报，该片已成为亚马逊米高梅影业历史上票房最高的电影。这表明亚马逊在内容制作和影院发行方面的策略取得显著成功。",
+        "relations": [
+          {
+            "label": "亚马逊 (Amazon)",
+            "type": "entity",
+            "desc": "制片与发行方母公司"
+          },
+          {
+            "label": "米高梅 (MGM)",
+            "type": "entity",
+            "desc": "亚马逊旗下电影制片厂"
+          },
+          {
+            "label": "影视内容制作",
+            "type": "entity",
+            "desc": "核心业务活动"
+          },
+          {
+            "label": "流媒体与影院发行",
+            "type": "tech",
+            "desc": "内容分发策略"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此次成功验证了亚马逊通过收购米高梅获取优质IP并融合传统影院发行与流媒体生态的战略价值。",
+            "单部影片的成功虽好，但长期竞争力取决于持续产出爆款的能力，以及内容业务对整体亚马逊生态的协同效应。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "亚马逊 (AMZN)",
+          "risk": "LOW",
+          "thesis": "单部电影票房对亚马逊庞大营收影响有限，但成功的内容有助于提升Prime会员价值、广告业务和品牌影响力。"
+        },
+        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1533988777078?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1695236105018?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Australia Free Transport",
-        "fullTitle": "Two Australian States Offer Free Transport Amid Fuel Price Rise",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Two Australian states will temporarily offer free public transport to mitigate the impact of rising fuel costs. This policy is a direct response to supply risks exacerbated by prolonged hostilities in the Middle East. The measure aims to provide immediate economic relief to citizens and reduce demand pressure on fuel. It highlights the geopolitical influence on domestic energy and transport policies.",
+        "title": "Middle East Conflict Prolonged",
+        "fullTitle": "Fahmy Warns of Prolonged Middle East Conflict Shock",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Former US energy official Randa Fahmy warns the Middle East conflict could extend for a prolonged period. This follows the entry of Iran-backed Houthi militants into the conflict. A protracted conflict risks significant disruption to global energy supply chains and regional stability. Market volatility in oil and related sectors is likely to increase.",
         "relations": [
           {
-            "label": "Australia",
+            "label": "Randa Fahmy",
             "type": "entity",
-            "desc": "Country implementing fiscal policy to counter energy inflation"
+            "desc": "Former US Associate Deputy Energy Secretary"
           },
           {
-            "label": "Middle East",
+            "label": "Houthi Militants",
             "type": "entity",
-            "desc": "Region where hostilities are increasing global energy supply risks"
+            "desc": "Iran-backed group in Yemen"
           },
           {
-            "label": "Fuel Prices",
+            "label": "Iran",
+            "type": "entity",
+            "desc": "Regional power, supports Houthis"
+          },
+          {
+            "label": "Global Oil Market",
             "type": "resource",
-            "desc": "Key commodity experiencing inflationary pressure"
+            "desc": "Primary energy market at risk"
           },
           {
-            "label": "Public Transport",
-            "type": "resource",
-            "desc": "Sector receiving government subsidy to ease cost-of-living"
-          },
-          {
-            "label": "Supply Chain Risk",
+            "label": "Supply Chain Disruption",
             "type": "risk",
-            "desc": "Geopolitical instability disrupting energy flows"
+            "desc": "Risk to energy logistics"
           }
         ],
         "analysis": {
           "strategic": [
-            "Government intervention signals a shift towards using fiscal tools to manage inflation-driven social unrest, potentially setting a precedent for other nations.",
-            "The policy underscores the direct transmission of geopolitical conflict in the Middle East to domestic fiscal burdens in commodity-importing nations like Australia."
+            "The expansion of the conflict to include Houthi forces increases the geographic and political complexity, raising the probability of a sustained oil supply shock.",
+            "This development strengthens the strategic position of Iran in the region, potentially influencing future energy negotiations and security arrangements."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Traditional Fuel Retailers / Oil Marketing Companies in Australia",
-          "risk": "MEDIUM",
-          "thesis": "Government-subsidized public transport reduces immediate demand for private vehicle fuel, potentially pressuring margins for fuel retailers in the short term, especially if the policy is extended or replicated."
+          "action": "LONG",
+          "asset": "Oil Futures (CL), Energy Sector ETFs (XLE)",
+          "risk": "HIGH",
+          "thesis": "Geopolitical escalation in a key oil-producing region creates upward pressure on crude prices due to supply disruption fears and increased risk premium."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1608017902739?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1537191497627?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "India Street Stalls Energy Crunch",
-        "fullTitle": "New Delhi Street Stalls Show Cost of India's Energy Crunch",
+        "title": "China Raises Overseas Investment Quota",
+        "fullTitle": "China Increases Overseas Investment Quota Significantly",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "A report from New Delhi's main bus terminus illustrates the microeconomic impact of India's energy crunch on informal street vendors. These long-standing food stalls, reliant on affordable fuel for cooking, face rising operational costs. The scene serves as a tangible indicator of how macro energy shortages and price inflation trickle down to the grassroots economy. It highlights vulnerability in the informal sector to commodity price shocks.",
+        "summary": "China has raised the cap on institutional investors' overseas securities purchases by the most since 2021. The move aims to advance financial opening and meet greater domestic demand for offshore investment. This policy signals a controlled liberalization of capital outflows. It could provide incremental liquidity support for global markets, particularly Hong Kong and US equities.",
         "relations": [
           {
-            "label": "India",
+            "label": "China",
             "type": "entity",
-            "desc": "Nation facing significant energy supply and pricing challenges"
+            "desc": "Sovereign state implementing policy"
           },
           {
-            "label": "Informal Sector",
+            "label": "QDII/QDII2",
             "type": "entity",
-            "desc": "Vulnerable economic segment disproportionately affected by input cost inflation"
+            "desc": "Qualified Domestic Institutional Investor program"
           },
           {
-            "label": "Energy Crunch",
-            "type": "resource",
-            "desc": "Broad shortage of reliable and affordable energy supplies"
-          },
-          {
-            "label": "Cooking Fuel",
-            "type": "resource",
-            "desc": "Specific resource critical for food vendors, facing cost pressure"
-          },
-          {
-            "label": "Social Stability Risk",
+            "label": "Capital Outflows",
             "type": "risk",
-            "desc": "Rising living costs threatening livelihood of low-income populations"
+            "desc": "Managed increase in foreign investment"
+          },
+          {
+            "label": "Financial Opening",
+            "type": "entity",
+            "desc": "Policy objective of China"
+          },
+          {
+            "label": "Global Equities",
+            "type": "asset",
+            "desc": "Potential beneficiary of inflows"
           }
         ],
         "analysis": {
           "strategic": [
-            "The strain on India's vast informal sector from energy inflation poses a significant risk to social stability and could pressure the government into costly subsidy programs.",
-            "This microcosm reveals the limitations of India's energy infrastructure and its direct constraint on small business viability and economic resilience."
+            "This is a calibrated move to relieve domestic capital pressure and diversify China's external asset holdings without triggering destabilizing outflows.",
+            "It reinforces China's long-term strategy of integrating its financial system with global markets while maintaining strict capital account management."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Indian LPG Distribution / Alternative Cooking Fuel Providers",
-          "risk": "HIGH",
-          "thesis": "Persistent energy crunches and the critical need of the informal sector for affordable cooking solutions could accelerate adoption of subsidized LPG or alternative energy sources, benefiting established distributors and new entrants."
+          "asset": "HK/China-focused ETFs (FXI, MCHI), US Tech ETFs (QQQ)",
+          "risk": "MEDIUM",
+          "thesis": "Increased quota allows Chinese institutions to allocate more capital abroad, providing a structural tailwind for select international equity markets favored by Chinese investors."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1627790755319?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1535322164645?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "US Job Market Rebounds",
-        "fullTitle": "US Job Market Likely Thawed Out After February Chill",
+        "title": "Trump on Iran Peace Plan",
+        "fullTitle": "Trump Claims Iran Met Most US Demands in Plan",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "US employment is projected to have rebounded in March following a significant payroll pullback in February. This volatility extends a pattern of erratic labor market data. The anticipated rebound suggests underlying economic resilience but complicates the Federal Reserve's inflation assessment. Labor market strength remains a key variable for monetary policy direction.",
+        "summary": "President Trump stated Iran 'gave' the US most of its 15 demands in a proposed peace plan. The statement was made despite unclear negotiation status between the two sides. This creates significant ambiguity regarding the potential for de-escalation in the region. Markets may misinterpret rhetoric for substantive progress, leading to volatile price action in oil and safe-haven assets.",
         "relations": [
           {
-            "label": "US Labor Market",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Primary economic indicator showing high volatility"
+            "desc": "US President making statement"
           },
           {
-            "label": "Federal Reserve",
+            "label": "Iran",
             "type": "entity",
-            "desc": "Central bank whose policy is highly sensitive to employment data"
+            "desc": "Counterparty in alleged negotiations"
           },
           {
-            "label": "Employment Data",
-            "type": "resource",
-            "desc": "Critical macroeconomic dataset influencing global markets"
+            "label": "Peace Plan",
+            "type": "entity",
+            "desc": "Unverified proposal for conflict resolution"
           },
           {
-            "label": "Monetary Policy Risk",
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Risk of policy error due to data volatility and interpretation challenges"
+            "desc": "Primary market driver"
           },
           {
-            "label": "Economic Volatility",
+            "label": "Oil Price Volatility",
             "type": "risk",
-            "desc": "Underlying instability in key economic indicators"
+            "desc": "Direct impact from rhetoric"
           }
         ],
         "analysis": {
           "strategic": [
-            "The volatile 'hot-and-cold' labor market data creates significant uncertainty for the Fed, increasing the risk of a policy misstep—either overtightening or cutting rates too late.",
-            "Resilient employment supports consumer spending but also sustains wage-price pressure, potentially prolonging the 'last mile' of the inflation fight."
+            "Trump's comments could be a tactical maneuver to pressure Iran or manage domestic and international perceptions ahead of elections, rather than reflecting a diplomatic breakthrough.",
+            "The disconnect between presidential rhetoric and on-ground realities increases policy uncertainty, making market reactions to Middle East headlines highly unpredictable."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Long-duration US Treasuries (e.g., TLT)",
+          "asset": "Volatility Index (VIX) Futures",
           "risk": "HIGH",
-          "thesis": "Strong, volatile job data reinforces a 'higher-for-longer' interest rate narrative from the Fed, which is bearish for long-duration bonds as it delays rate cuts and maintains pressure on yields."
+          "thesis": "Contradictory and unverified statements from key leaders increase market uncertainty and the likelihood of sharp, sentiment-driven volatility spikes."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1587258550965?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1574130950541?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Bluesky Launches AI App Attie",
-        "fullTitle": "Bluesky Leans Into AI with Attie for Custom Feeds",
+        "title": "Pixel 10a Lays Flat",
+        "fullTitle": "Google Pixel 10a Smartphone Lays Flat, Few Upgrades",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "The decentralized social network Bluesky has launched a new app called Attie, which uses AI to help users build custom feeds. The app is built on the open ATProtocol (atproto). This move represents Bluesky's strategic push to integrate AI as a core user experience feature. It aims to differentiate from competitors by offering personalized content curation through open-source infrastructure.",
+        "summary": "Google's new budget smartphone, the Pixel 10a, features a design that allows it to lay flat on a table due to a missing camera bump. The company has not introduced many other upgrades to the device. This is a minor design iteration in the competitive budget segment. The impact on Google's hardware revenue or competitive position is likely negligible.",
         "relations": [
           {
-            "label": "Bluesky",
+            "label": "Google",
             "type": "entity",
-            "desc": "Decentralized social media platform launching AI product"
+            "desc": "Parent company of Pixel brand"
           },
           {
-            "label": "Attie",
+            "label": "Pixel 10a",
             "type": "tech",
-            "desc": "AI-powered application for creating custom social feeds"
+            "desc": "Budget smartphone model"
           },
           {
-            "label": "ATProtocol (atproto)",
+            "label": "Smartphone Design",
             "type": "tech",
-            "desc": "Open social networking protocol underlying Bluesky"
+            "desc": "Industrial design feature"
           },
           {
-            "label": "AI Curation",
-            "type": "tech",
-            "desc": "Technology for personalized content filtering and organization"
-          },
-          {
-            "label": "Social Media Competition",
-            "type": "risk",
-            "desc": "Intensifying feature war in social platform space"
+            "label": "Budget Smartphone Market",
+            "type": "entity",
+            "desc": "Competitive segment"
           }
         ],
         "analysis": {
           "strategic": [
-            "Bluesky's AI integration is a competitive move to capture users dissatisfied with algorithmic feeds on centralized platforms, leveraging 'open protocol' and 'user control' as key differentiators.",
-            "This development accelerates the trend of AI as a front-end user experience layer, moving beyond back-end analysis to become a direct interface for content discovery."
+            "The minimal upgrade cycle suggests Google is prioritizing cost management and supply chain simplicity in its budget line over feature wars.",
+            "This move indicates a focus on maintaining market presence in the segment rather than driving significant innovation or share gains."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Companies in Open-Source AI Infrastructure / Decentralized Tech",
-          "risk": "HIGH",
-          "thesis": "Successful adoption of AI tools on open protocols like atproto could validate and increase investment in the decentralized AI and social web stack, benefiting underlying infrastructure providers."
+          "asset": "Alphabet Inc. (GOOGL)",
+          "risk": "LOW",
+          "thesis": "The Pixel 10a launch is immaterial to Alphabet's core revenue drivers (Search & Ads). The stock remains a long-term hold based on dominant digital advertising and cloud growth."
         },
-        "confidence": 80,
+        "confidence": 90,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1664371738454?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1583128423233?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Zuckerberg Texted Musk on DOGE",
-        "fullTitle": "Zuckerberg Texted Musk to Offer Help with DOGE",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Meta CEO Mark Zuckerberg reportedly texted Elon Musk to offer help with the cryptocurrency Dogecoin (DOGE). This interaction indicates a warming in their previously contentious relationship during the early days of the second Trump administration. The outreach suggests potential high-level collaboration or discussion regarding digital assets. It highlights the intersection of tech leadership, politics, and cryptocurrency influence.",
+        "title": "YouTube CEO on Creator Loyalty",
+        "fullTitle": "YouTube CEO Confident Top Creators Won't Leave",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "YouTube CEO Neal Mohan stated he is not worried about Netflix luring away the platform's most popular creators. He insists the best YouTubers will 'never leave their home'. This highlights the entrenched ecosystem and monetization model of YouTube. The comment downplays competitive threats from subscription-based streaming platforms in the creator economy.",
         "relations": [
           {
-            "label": "Mark Zuckerberg",
+            "label": "Neal Mohan",
             "type": "entity",
-            "desc": "Meta CEO engaging with rival on cryptocurrency matter"
+            "desc": "CEO of YouTube"
           },
           {
-            "label": "Elon Musk",
+            "label": "YouTube",
             "type": "entity",
-            "desc": "Tech mogul and prominent Dogecoin supporter"
+            "desc": "Video sharing platform"
           },
           {
-            "label": "Dogecoin (DOGE)",
-            "type": "resource",
-            "desc": "Cryptocurrency subject of high-level discussion"
+            "label": "Content Creators",
+            "type": "entity",
+            "desc": "Key asset for the platform"
           },
           {
-            "label": "Tech Diplomacy",
-            "type": "risk",
-            "desc": "Private coordination between tech leaders influencing market-sensitive sectors"
+            "label": "Netflix",
+            "type": "entity",
+            "desc": "Competing streaming service"
           },
           {
-            "label": "Regulatory Risk",
-            "type": "risk",
-            "desc": "Potential for scrutiny over private market-moving discussions"
+            "label": "Creator Economy",
+            "type": "entity",
+            "desc": "Market for independent content"
           }
         ],
         "analysis": {
           "strategic": [
-            "Collaboration or dialogue between two of the world's most influential tech CEOs on a specific cryptocurrency represents a significant concentration of market influence and potential regulatory concern.",
-            "The thawing of their relationship, coinciding with a new political administration, suggests a realignment of tech leadership alliances that could shape policy advocacy and market narratives."
+            "Mohan's confidence underscores YouTube's strategic moat: its unique, direct creator-to-audience relationship and diversified revenue streams (ads, memberships, Super Chats) that competitors cannot easily replicate.",
+            "The statement is also a defensive posture aimed at reassuring the creator community and investors amid increasing competition for top talent in the digital media space."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Dogecoin (DOGE)",
-          "risk": "HIGH",
-          "thesis": "Any tangible collaboration or public endorsement stemming from this dialogue between Zuckerberg and Musk could act as a powerful catalyst for Dogecoin, given their combined influence over retail and tech audiences."
+          "asset": "Alphabet Inc. (GOOGL)",
+          "risk": "LOW",
+          "thesis": "YouTube's dominance in the creator-led video ecosystem remains a key, high-margin growth pillar for Alphabet, insulated from direct competition by Netflix's different business model."
         },
-        "confidence": 83,
+        "confidence": 92,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1687555471996?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1550372552863?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Stanford Study on AI Chatbot Advice",
-        "fullTitle": "Stanford Study Outlines Dangers of AI Chatbot Personal Advice",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "A new study by Stanford computer scientists attempts to measure the potential harm of AI chatbots providing personal advice. The research moves beyond debates about AI sycophancy to quantify risks. Findings likely highlight dangers such as biased, unsafe, or manipulative guidance from AI systems. This contributes to the growing body of evidence calling for safeguards in AI-human interaction.",
+        "title": "'Project Hail Mary' Box Office Hit",
+        "fullTitle": "'Project Hail Mary' is Amazon MGM's Biggest Hit",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The film 'Project Hail Mary' has become Amazon MGM Studios' biggest box office hit. Amazon's investment in the film has paid off handsomely. This success demonstrates the potential of Amazon's studio arm within its broader ecosystem. However, the financial impact on Amazon's overall earnings remains relatively small.",
         "relations": [
           {
-            "label": "Stanford University",
+            "label": "Amazon MGM Studios",
             "type": "entity",
-            "desc": "Research institution publishing influential AI safety study"
+            "desc": "Film and TV studio"
           },
           {
-            "label": "AI Chatbots",
-            "type": "tech",
-            "desc": "Technology being assessed for risks in personal advisory roles"
+            "label": "Project Hail Mary",
+            "type": "entity",
+            "desc": "Feature film title"
           },
           {
-            "label": "AI Sycophancy",
-            "type": "risk",
-            "desc": "Tendency of AI to provide overly agreeable or user-pleasing outputs"
+            "label": "Box Office",
+            "type": "entity",
+            "desc": "Theatrical revenue metric"
           },
           {
-            "label": "AI Safety",
-            "type": "risk",
-            "desc": "Broad field concerned with mitigating harmful AI behaviors"
-          },
-          {
-            "label": "Regulatory Scrutiny",
-            "type": "risk",
-            "desc": "Increased likelihood of government oversight based on academic research"
+            "label": "Amazon.com Inc.",
+            "type": "entity",
+            "desc": "Parent conglomerate"
           }
         ],
         "analysis": {
           "strategic": [
-            "Academic quantification of AI advisory risks provides concrete evidence for regulators, potentially accelerating the timeline for stringent oversight of consumer-facing AI applications.",
-            "The study undermines the narrative of AI as a benign personal assistant and reinforces the need for robust 'guardrails', creating both a compliance burden and a market for AI safety solutions."
+            "The hit validates Amazon's strategy of using high-profile content to drive Prime subscriptions and enhance ecosystem loyalty, not just generate direct profit.",
+            "It strengthens Amazon's negotiating position in the entertainment industry and may lead to increased investment in tentpole theatrical releases."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Pure-Play Consumer AI Chatbot Companies without robust safety frameworks",
-          "risk": "MEDIUM",
-          "thesis": "Increased public and regulatory focus on documented harms from AI advice could lead to reputational damage, user attrition, and potential legal liabilities for companies whose products are highlighted as risky."
+          "action": "LONG",
+          "asset": "Amazon.com Inc. (AMZN)",
+          "risk": "LOW",
+          "thesis": "While the film's success is positive, it is a minor contributor to Amazon's vast revenue streams. The investment thesis remains anchored on AWS cloud dominance and retail scale."
         },
-        "confidence": 87,
+        "confidence": 91,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1647341107332?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1578397137453?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Australia: Transporte gratuito por combustible",
-        "fullTitle": "Dos estados australianos ofrecen transporte público gratuito por precios de combustible",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Dos estados australianos implementarán transporte público gratuito de forma temporal para aliviar el impacto del aumento de los precios del combustible. Esta medida responde a los riesgos de suministro exacerbados por las hostilidades prolongadas en Oriente Medio. La intervención gubernamental busca mitigar la presión inflacionaria sobre los consumidores. Refleja la vulnerabilidad de las economías locales a las disrupciones geopolíticas en los mercados energéticos.",
+        "title": "Conflicto prolongado en Medio Oriente",
+        "fullTitle": "Exfuncionaria de EE.UU. advierte sobre shock petrolero por conflicto",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Randa Fahmy, ex Secretaria Adjunta de Energía de EE.UU., advierte que el conflicto en Medio Oriente podría prolongarse significativamente. Esta advertencia se produce tras la entrada de los hutíes respaldados por Irán en el conflicto. Una escalada prolongada amenaza directamente la estabilidad del mercado petrolero global. La volatilidad geopolítica podría disparar los precios del crudo.",
         "relations": [
           {
-            "label": "Australia",
+            "label": "Randa Fahmy",
             "type": "entity",
-            "desc": "País implementando medida fiscal y de transporte."
+            "desc": "Ex Secretaria Asociada Adjunta de Energía de EE.UU."
           },
           {
-            "label": "Combustible",
-            "type": "resource",
-            "desc": "Recurso energético con precios en alza."
-          },
-          {
-            "label": "Oriente Medio",
+            "label": "Hutíes",
             "type": "entity",
-            "desc": "Región con conflictos que afectan suministro global."
+            "desc": "Grupo militante de Yemen respaldado por Irán"
           },
           {
-            "label": "Transporte Público",
+            "label": "Mercado Petrolero Global",
             "type": "resource",
-            "desc": "Servicio subsidiado para estabilidad social."
+            "desc": "Mercado de crudo vulnerable a shocks geopolíticos"
           },
           {
-            "label": "Riesgo de Suministro",
+            "label": "Irán",
+            "type": "entity",
+            "desc": "Actor regional clave que respalda a los hutíes"
+          },
+          {
+            "label": "Riesgo Geopolítico",
             "type": "risk",
-            "desc": "Amenaza a cadenas de energía globales."
+            "desc": "Factor principal de volatilidad en los precios de la energía"
           }
         ],
         "analysis": {
           "strategic": [
-            "Las intervenciones regulatorias para proteger a los consumidores de la volatilidad energética pueden crear distorsiones de mercado y dependencia fiscal.",
-            "La escalada de tensiones en corredores energéticos críticos obliga a los gobiernos a implementar medidas de contingencia costosas, señal de fragilidad sistémica."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Airlines/Transporte privado en Australia (ej. QAN.AX)",
-          "risk": "MEDIUM",
-          "thesis": "La medida gubernamental de transporte gratuito desincentiva el uso de transporte privado y aéreo de corta distancia, presionando la demanda de ciertos sectores de transporte comercial."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1638140749468?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "India: Puestos callejeros y crisis energética",
-        "fullTitle": "Puestos callejeros en Nueva Delhi muestran costo de crisis energética india",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Un reporte describe la operación de puestos de comida callejeros cerca de la terminal de buses de Nueva Delhi, que han servido por décadas. Estos pequeños negocios ilustran el impacto humano de la crisis energética de India. Su dependencia de combustibles tradicionales los hace vulnerables a la escasez y los precios. Son un microcosmos de los desafíos de la transición energética en economías en desarrollo.",
-        "relations": [
-          {
-            "label": "India",
-            "type": "entity",
-            "desc": "Economía en desarrollo con crisis energética."
-          },
-          {
-            "label": "Nueva Delhi",
-            "type": "entity",
-            "desc": "Capital donde se observa el impacto socioeconómico."
-          },
-          {
-            "label": "Crisis Energética",
-            "type": "risk",
-            "desc": "Escasez y alto costo de recursos energéticos."
-          },
-          {
-            "label": "Economía Informal",
-            "type": "entity",
-            "desc": "Sector vulnerable a shocks de suministro."
-          },
-          {
-            "label": "Combustibles Tradicionales",
-            "type": "resource",
-            "desc": "Fuente de energía para subsistencia económica."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La presión sobre la economía informal por costos energéticos amenaza la estabilidad social y el consumo masivo en mercados emergentes clave.",
-            "La dependencia de combustibles de baja eficiencia en sectores críticos revela una brecha de infraestructura que frena la productividad y aumenta la inflación."
+            "La intervención hutí amplía el teatro del conflicto, aumentando el riesgo de interrupción en las rutas marítimas clave del Golfo y el Mar Rojo.",
+            "Una guerra prolongada obligaría a realinear las alianzas energéticas globales y presionaría a los productores como Arabia Saudí y los Emiratos Árabes Unidos para que aumenten la producción."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETFs de Energía Solar/Alternativa en Mercados Emergentes (ej. ICLN, TAN)",
+          "asset": "Futuros de crudo Brent (ICE), ETF de energía (XLE)",
           "risk": "HIGH",
-          "thesis": "La crisis energética crónica en India acelera la necesidad política y económica de inversión en infraestructura energética alternativa y distribuida, creando oportunidades a largo plazo."
+          "thesis": "El riesgo de una interrupción prolongada del suministro debido a la escalada del conflicto es alto, lo que debería impulsar los precios del petróleo. Los productores con exposición a la región y las compañías de servicios petroleros se beneficiarían."
+        },
+        "confidence": 87,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1550785310977?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "China amplía cuota inversión exterior",
+        "fullTitle": "China aumenta tope para inversión en valores extranjeros",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "China ha elevado significativamente el límite para que los inversores institucionales compren valores en el extranjero. Este movimiento forma parte de una apertura financiera más amplia y responde a la creciente demanda interna de diversificación de activos. Facilita la salida de capital chino hacia mercados globales. Podría proporcionar un apoyo de liquidez a los mercados de renta variable y deuda internacionales.",
+        "relations": [
+          {
+            "label": "Inversores Institucionales Chinos",
+            "type": "entity",
+            "desc": "Entidades que obtienen mayor acceso a mercados extranjeros"
+          },
+          {
+            "label": "Apertura Financiera China",
+            "type": "risk",
+            "desc": "Proceso estratégico de liberalización del sector financiero"
+          },
+          {
+            "label": "Mercados de Valores Extranjeros",
+            "type": "entity",
+            "desc": "Destinos potenciales para el flujo de capital chino (ej. EE.UU., UE, Asia)"
+          },
+          {
+            "label": "Diversificación de Activos",
+            "type": "risk",
+            "desc": "Motivación clave para la demanda de inversión offshore"
+          },
+          {
+            "label": "Control de Capitales",
+            "type": "risk",
+            "desc": "Marco regulatorio que se está liberalizando de forma controlada"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Esta medida alivia parcialmente las presiones de salida de capital al canalizarlas de manera ordenada, en lugar de restringirlas por completo.",
+            "Refuerza la integración financiera global de China y podría aumentar la correlación entre los mercados chinos y los internacionales, especialmente en sectores preferidos."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF de mercados desarrollados (URTH, IEFA), Bonos corporativos globales de alto grado (AGG)",
+          "risk": "MEDIUM",
+          "thesis": "Un aumento predecible y controlado de la demanda china de activos extranjeros proporcionará un flujo de capital constante y apoyo a los precios en los mercados de bonos y acciones globales de alta liquidez."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1507674451118?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1670776492991?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "EEUU: Mercado laboral se recupera en marzo",
-        "fullTitle": "Mercado laboral de EEUU probablemente se recuperó en marzo tras caída",
+        "title": "Trump afirma avances con Irán",
+        "fullTitle": "Trump dice que Irán aceptó la mayoría de demandas de EE.UU.",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Se anticipa que el empleo en EEUU se recuperó en marzo tras una fuerte caída en febrero, una de las mayores desde la pandemia. Esto extiende una racha de lecturas volátiles en los datos del mercado laboral. La volatilidad complica la evaluación de la salud real de la economía y la política de la Fed. Indica sensibilidad a factores estacionales y posibles distorsiones en la recolección de datos.",
+        "summary": "El presidente Donald Trump declaró que Irán ha aceptado la mayoría de las 15 demandas presentadas por EE.UU. como parte de un plan de paz. Sin embargo, la autenticidad y el estado de las negociaciones siguen sin estar claros. Estas declaraciones contrastan con las advertencias de escalada militar de otros funcionarios. Crean incertidumbre sobre la dirección real de la política exterior estadounidense en la región.",
         "relations": [
           {
-            "label": "EEUU",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Economía emisora con datos laborales volátiles."
+            "desc": "Presidente de EE.UU., hace declaraciones sobre diplomacia con Irán"
           },
           {
-            "label": "Mercado Laboral",
+            "label": "Irán",
             "type": "entity",
-            "desc": "Indicador clave de salud económica y política monetaria."
+            "desc": "Contraparte en las supuestas negociaciones de paz"
           },
           {
-            "label": "Volatilidad de Datos",
+            "label": "Plan de Paz",
             "type": "risk",
-            "desc": "Incertidumbre en indicadores económicos clave."
+            "desc": "Conjunto de demandas de EE.UU. para resolver el conflicto"
           },
           {
-            "label": "Reserva Federal (Fed)",
-            "type": "entity",
-            "desc": "Banco central afectado por estos datos."
+            "label": "Política Exterior de EE.UU.",
+            "type": "risk",
+            "desc": "Potencialmente inconsistente entre declaraciones y acciones"
           },
           {
-            "label": "Nóminas no Agrícolas",
-            "type": "resource",
-            "desc": "Métrica crítica sujeta a revisiones."
+            "label": "Riesgo Geopolítico (Medio Oriente)",
+            "type": "risk",
+            "desc": "Factor de mercado afectado por declaraciones de alto nivel"
           }
         ],
         "analysis": {
           "strategic": [
-            "La alta volatilidad en datos laborales clave reduce la credibilidad de las proyecciones y aumenta la incertidumbre para los mercados financieros globales.",
-            "La dificultad para discernir la tendencia subyacente del empleo puede llevar a la Fed a mantener una postura cautelosa, prolongando la incertidumbre política."
+            "Las declaraciones de Trump podrían ser una táctica de negociación de presión máxima para forzar concesiones iraníes antes de posibles acciones militares.",
+            "La desconexión entre la retórica presidencial y las acciones en el terreno (como el apoyo a los hutíes) aumenta la imprevisibilidad y el riesgo de eventos de 'cisne negro'."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Bonos del Tesoro a largo plazo (ETFs como TLT)",
-          "risk": "MEDIUM",
-          "thesis": "Una recuperación percibida en el empleo, aunque volátil, puede reducir las expectativas de recortes agresivos de tasas por la Fed, presionando los precios de los bonos a largo plazo."
+          "asset": "Volatilidad del Mercado Petrolero (ETF VXX, opciones sobre OVX)",
+          "risk": "HIGH",
+          "thesis": "La incoherencia entre las declaraciones de paz y las acciones de escalada crea un entorno de alta incertidumbre. Cualquier clarificación o evento contrario a las declaraciones de Trump podría causar picos bruscos de volatilidad en el precio del petróleo, ofreciendo oportunidades para posiciones cortas en estabilidad."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1611317658447?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1639059895589?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Bluesky lanza app Attie con IA para feeds",
-        "fullTitle": "Bluesky lanza app Attie, usa IA para crear feeds personalizados",
+        "title": "Pixel 10a sin protuberancia",
+        "fullTitle": "Google Pixel 10a carece de protuberancia en la cámara",
         "classification": "UNCLASSIFIED",
         "impactLevel": "INFO",
-        "summary": "Bluesky, la plataforma de redes sociales descentralizada, ha lanzado una nueva aplicación llamada Attie. Attie utiliza inteligencia artificial para ayudar a los usuarios a construir feeds personalizados dentro del protocolo abierto ATProto. Esta movida representa una apuesta por integrar capacidades de IA en la experiencia de contenido social. Busca diferenciarse en un mercado competitivo mediante la personalización algorítmica avanzada.",
+        "summary": "Google ha lanzado el Pixel 10a, su último smartphone de gama media. Su característica de diseño más notable es la ausencia de la protuberancia de la cámara, permitiendo que el teléfono se apoye plano sobre una mesa. Aparte de esto, la compañía no ha introducido muchas mejoras significativas en el hardware. El enfoque parece estar en un diseño refinado más que en una revolución tecnológica.",
         "relations": [
           {
-            "label": "Bluesky",
+            "label": "Google",
             "type": "entity",
-            "desc": "Plataforma de redes sociales descentralizada."
+            "desc": "Fabricante del Pixel 10a"
           },
           {
-            "label": "Attie",
+            "label": "Pixel 10a",
             "type": "tech",
-            "desc": "Aplicación que utiliza IA para curar contenido."
+            "desc": "Nuevo smartphone de gama media de Google"
           },
           {
-            "label": "Inteligencia Artificial (IA)",
+            "label": "Diseño Industrial",
             "type": "tech",
-            "desc": "Tecnología para personalización y recomendación."
+            "desc": "Ámbito donde se destaca el producto (sin protuberancia)"
           },
           {
-            "label": "ATProto",
-            "type": "tech",
-            "desc": "Protocolo social abierto que sustenta la plataforma."
+            "label": "Mercado de Smartphones de Gama Media",
+            "type": "entity",
+            "desc": "Segmento competitivo objetivo del dispositivo"
           },
           {
-            "label": "Feeds Personalizados",
-            "type": "tech",
-            "desc": "Producto de consumo basado en algoritmos."
+            "label": "Innovación Incremental",
+            "type": "risk",
+            "desc": "Estrategia de producto con mejoras menores"
           }
         ],
         "analysis": {
           "strategic": [
-            "La integración de IA en plataformas sociales emergentes es una estrategia para captar usuarios mediante una experiencia superior de descubrimiento de contenido, desafiando a los gigantes establecidos.",
-            "El desarrollo en el protocolo abierto ATProto podría acelerar la innovación en la capa de aplicaciones de las redes sociales descentralizadas, fragmentando aún más el mercado."
+            "Google prioriza la ergonomía y la estética del usuario final en un segmento saturado, diferenciándose de competidores que enfatizan especificaciones técnicas.",
+            "Esta estrategia sugiere que Alphabet/Google puede estar optimizando márgenes en su división de hardware en lugar de buscar participación de mercado agresiva con tecnología puntera."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas de Infraestructura de IA/Cloud (ej. MSFT, NVDA)",
+          "asset": "Alphabet Inc. (GOOGL)",
           "risk": "LOW",
-          "thesis": "La proliferación de aplicaciones de IA de consumo, como Attie, aumenta la demanda estructural por capacidades de computación en la nube y semiconductores de IA, beneficiando a los proveedores clave."
+          "thesis": "El lanzamiento del Pixel 10a es un evento menor para las finanzas de Alphabet. Refleja una gestión prudente de la división de hardware. La tesis de inversión se mantiene en los motores principales de búsqueda, publicidad y cloud. Este producto no altera la valoración."
         },
         "confidence": 90,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1631176745163?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1583792901241?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Zuckerberg ofreció ayuda a Musk con DOGE",
-        "fullTitle": "Mark Zuckerberg ofreció ayuda a Elon Musk con Dogecoin por mensaje",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Mark Zuckerberg, CEO de Meta, envió un mensaje de texto a Elon Musk ofreciendo ayuda con Dogecoin (DOGE). Este acercamiento ocurre tras una relación públicamente conflictiva que incluyó un desafío a un combate. El gesto sugiere un deshielo en la relación, contextualizado en los primeros días de la segunda administración Trump. Indica posibles alineamientos o colaboraciones estratégicas entre figuras tecnológicas influyentes en un entorno político cambiante.",
+        "title": "CEO YouTube sin miedo a Netflix",
+        "fullTitle": "CEO de YouTube dice que sus mejores creadores no se irán",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Neal Mohan, CEO de YouTube, ha expresado confianza en que las plataformas rivales como Netflix no podrán atraer a los creadores de contenido más populares de YouTube. Mohan insiste en que el ecosistema, la monetización y la comunidad de YouTube son insustituibles. Esta declaración se produce en un contexto de creciente competencia por el talento creativo en línea. Refuerza la postura de dominio del mercado de YouTube.",
         "relations": [
           {
-            "label": "Mark Zuckerberg",
+            "label": "Neal Mohan",
             "type": "entity",
-            "desc": "CEO de Meta, hizo oferta de colaboración."
+            "desc": "CEO de YouTube"
           },
           {
-            "label": "Elon Musk",
+            "label": "YouTube",
             "type": "entity",
-            "desc": "CEO de Tesla/X, receptor de la oferta."
+            "desc": "Plataforma de video dominante propiedad de Alphabet"
           },
           {
-            "label": "Dogecoin (DOGE)",
-            "type": "resource",
-            "desc": "Criptomoneda objeto de la oferta de ayuda."
-          },
-          {
-            "label": "Administración Trump",
+            "label": "Netflix",
             "type": "entity",
-            "desc": "Contexto político del deshielo."
+            "desc": "Competidor en streaming de video, posible reclutador de talento"
           },
           {
-            "label": "Colaboración Tecnológica",
-            "type": "risk",
-            "desc": "Potencial alianza entre gigantes rivales."
+            "label": "Creadores de Contenido",
+            "type": "entity",
+            "desc": "Activos clave en la guerra de plataformas de video"
+          },
+          {
+            "label": "Ecosistema de Plataforma",
+            "type": "tech",
+            "desc": "Ventaja competitiva de YouTube (comunidad, herramientas, monetización)"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los movimientos de colaboración entre líderes tecnológicos rivales pueden señalar una preparación para un entorno regulatorio o político anticipado como más favorable a la industria.",
-            "La focalización en Dogecoin sugiere un interés continuo en legitimar y integrar activos cripto específicos en ecosistemas tecnológicos más amplios, influyendo en su adopción."
+            "La confianza del CEO indica que YouTube considera que sus barreras de entrada (red de creadores/audiencia, modelo de ingresos por anuncios) son lo suficientemente altas como para defender su posición.",
+            "Esta postura podría llevar a una menor presión para aumentar los pagos a creadores de élite, protegiendo los márgenes de la plataforma frente a competidores con modelos de suscripción."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Dogecoin (DOGE)",
-          "risk": "HIGH",
-          "thesis": "El interés explícito de figuras como Zuckerberg y Musk puede actuar como catalizador de sentimiento positivo y adopción para Dogecoin, a pesar de su alto riesgo especulativo."
+          "asset": "Alphabet Inc. (GOOGL)",
+          "risk": "LOW",
+          "thesis": "La declaración del CEO confirma la fortaleza del modelo de negocio de YouTube y su posición competitiva duradera. La fidelidad de los creadores es crucial para mantener el engagement de los usuarios y los ingresos por publicidad. Esto apoya la tesis de crecimiento estable de los ingresos de Alphabet."
         },
-        "confidence": 83,
+        "confidence": 88,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1665811616505?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1613826034415?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Estudio Stanford: Peligro de IA en consejos",
-        "fullTitle": "Estudio de Stanford advierte peligros de pedir consejo personal a chatbots de IA",
+        "title": "'Project Hail Mary' éxito de taquilla",
+        "fullTitle": "'Project Hail Mary' es el mayor éxito de taquilla de Amazon MGM",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Un nuevo estudio de científicos informáticos de Stanford intenta medir cuán dañina puede ser la tendencia de los chatbots de IA a ser aduladores o dar consejos sesgados. El estudio va más allá del debate sobre la 'adulación' de la IA y busca cuantificar el riesgo real. Sus hallazgos advierten sobre los peligros de depender de la IA para orientación personal delicada. Esto tiene implicaciones para el diseño de sistemas de IA y la regulación de su uso.",
+        "impactLevel": "INFO",
+        "summary": "La apuesta cinematográfica de Amazon MGM, 'Project Hail Mary', se ha convertido en su mayor éxito de taquilla hasta la fecha. Esto valida la estrategia de la compañía de invertir en producciones de alto presupuesto para su estudio. El éxito contribuye a los ingresos del segmento de streaming y entretenimiento de Amazon. Demuestra la capacidad de Amazon para competir en la industria del cine tradicional.",
         "relations": [
           {
-            "label": "Universidad de Stanford",
+            "label": "Amazon MGM Studios",
             "type": "entity",
-            "desc": "Institución que realizó el estudio de investigación."
+            "desc": "Estudio de cine propiedad de Amazon"
           },
           {
-            "label": "Chatbots de IA",
-            "type": "tech",
-            "desc": "Sistemas sujetos a evaluación de riesgos."
-          },
-          {
-            "label": "Consejo Personal",
-            "type": "risk",
-            "desc": "Caso de uso de alto riesgo para la IA."
-          },
-          {
-            "label": "Sesgo/Alabanza (Sycophancy)",
-            "type": "risk",
-            "desc": "Tendencia dañina identificada en los modelos."
-          },
-          {
-            "label": "Regulación de IA",
+            "label": "Project Hail Mary",
             "type": "entity",
-            "desc": "Ámbito potencialmente afectado por los hallazgos."
+            "desc": "Película de éxito de taquilla"
+          },
+          {
+            "label": "Industria Cinematográfica",
+            "type": "entity",
+            "desc": "Mercado donde Amazon está ganando tracción"
+          },
+          {
+            "label": "Estrategia de Contenido",
+            "type": "risk",
+            "desc": "Inversión en IP y producciones para impulsar Prime Video"
+          },
+          {
+            "label": "Ingresos por Taquilla",
+            "type": "resource",
+            "desc": "Fuente de ingresos directa y validación de mercado para el contenido"
           }
         ],
         "analysis": {
           "strategic": [
-            "La investigación académica que cuantifica riesgos específicos de la IA (como consejos dañinos) proporciona munición para reguladores, acelerando potencialmente marcos de cumplimiento más estrictos.",
-            "La exposición de vulnerabilidades en modelos de lenguaje fundamentales puede forzar a los desarrolladores a reasignar recursos hacia la seguridad y alineación, ralentizando la comercialización de nuevas características."
+            "El éxito de taquilla proporciona a Amazon una doble victoria: ingresos directos y un activo de contenido de gran valor para impulsar las suscripciones y el engagement en Prime Video.",
+            "Esto refuerza la estrategia vertical integrada de Amazon, donde el éxito en salas de cine genera marketing orgánico y reduce el riesgo neto de costosas producciones originales para streaming."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Empresas de IA puramente conversacional/consumo sin sólidas salvaguardas (ej. ciertas acciones de startups en rondas privadas)",
-          "risk": "HIGH",
-          "thesis": "Los estudios que evidencian daños tangibles aumentan el riesgo regulatorio y de litigios para empresas cuyos modelos de negocio dependen de interacciones de IA de alto riesgo sin mitigaciones robustas."
+          "action": "LONG",
+          "asset": "Amazon.com Inc. (AMZN)",
+          "risk": "LOW",
+          "thesis": "El éxito de 'Project Hail Mary' es un dato positivo, pero marginal, para la valoración masiva de Amazon. Refuerza la narrativa de que Amazon puede ejecutar con éxito en entretenimiento, añadiendo otro pilar a su ecosistema. No cambia la tesis de inversión principal basada en AWS, comercio y publicidad."
         },
-        "confidence": 87,
+        "confidence": 92,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1590841696793?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1635389113553?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
