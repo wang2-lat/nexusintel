@@ -1,868 +1,808 @@
 {
-  "generated_at": "2026-03-30T02:44:04.330216",
+  "generated_at": "2026-03-31T02:37:50.680274",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "中东冲突或长期化，冲击全球油市",
-        "fullTitle": "前美能源部官员警告中东冲突可能长期化，冲击全球石油市场",
+        "title": "伊朗战争冲击韩国股市",
+        "fullTitle": "伊朗战争使热门韩国股票交易转为不良押注",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "前美国能源部副部长兰达·法赫米警告，持续的中东冲突可能延长。伊朗支持的也门胡塞武装已介入冲突。地缘政治紧张局势升级，可能扰乱关键的石油运输通道。这为全球石油供应带来了重大的不确定性风险。",
+        "summary": "伊朗战争暴露了韩国股市反弹的脆弱性，该反弹仅由少数成长股推动。市场对韩国股票的看涨共识正在瓦解。这表明地缘政治风险对特定市场结构的影响显著。",
         "relations": [
           {
-            "label": "中东冲突",
+            "label": "韩国股市",
+            "type": "entity",
+            "desc": "受地缘政治冲击的股票市场"
+          },
+          {
+            "label": "伊朗战争",
             "type": "risk",
-            "desc": "主要地缘政治风险源"
+            "desc": "主要的地缘政治风险事件"
           },
           {
-            "label": "全球石油市场",
-            "type": "resource",
-            "desc": "受冲击的核心大宗商品市场"
-          },
-          {
-            "label": "伊朗",
+            "label": "成长股",
             "type": "entity",
-            "desc": "地区关键地缘政治参与者"
+            "desc": "市场反弹的狭窄基础"
           },
           {
-            "label": "胡塞武装",
-            "type": "entity",
-            "desc": "冲突的直接参与者"
-          },
-          {
-            "label": "霍尔木兹海峡",
-            "type": "resource",
-            "desc": "关键的石油运输咽喉要道"
+            "label": "地缘政治风险",
+            "type": "risk",
+            "desc": "影响全球资产定价的关键因素"
           }
         ],
         "analysis": {
           "strategic": [
-            "冲突长期化将直接威胁波斯湾地区的石油生产和运输安全，推高全球能源风险溢价。",
-            "美国与伊朗的间接对抗可能加剧，影响全球能源供应链的稳定性与定价机制。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "原油期货 (如WTI, Brent)、能源股 (XLE)、石油服务公司",
-          "risk": "HIGH",
-          "thesis": "地缘政治风险溢价上升将支撑油价，能源板块可能受益于供应中断担忧和价格上涨预期。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1583476271441?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "中国扩大境外投资额度",
-        "fullTitle": "中国大幅提高机构投资者境外证券投资额度",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "中国将机构投资者境外证券投资的额度上限提高了自2021年以来的最大幅度。此举旨在推进金融开放，并满足国内日益增长的离岸投资需求。这标志着资本账户开放的重要一步。资金流出可能对人民币汇率和国内资产价格构成一定压力。",
-        "relations": [
-          {
-            "label": "中国金融开放",
-            "type": "entity",
-            "desc": "政策核心目标"
-          },
-          {
-            "label": "合格境内机构投资者 (QDII)",
-            "type": "entity",
-            "desc": "政策实施的主要渠道"
-          },
-          {
-            "label": "资本流动",
-            "type": "risk",
-            "desc": "政策带来的主要市场影响"
-          },
-          {
-            "label": "离岸资产",
-            "type": "resource",
-            "desc": "资金潜在流向"
-          },
-          {
-            "label": "人民币汇率",
-            "type": "risk",
-            "desc": "受政策影响的关联市场"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举是中国在资本管制下进行压力测试，平衡资本外流风险与满足居民多元化资产配置需求。",
-            "长期看有助于推动人民币国际化，但短期可能增加跨境资本流动的波动性，考验央行管理能力。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "港股、中概股、海外中国基金、离岸人民币资产",
-          "risk": "MEDIUM",
-          "thesis": "新增额度将带来增量资金流入香港及海外中资资产，对相关市场构成流动性利好。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1628491446471?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "特朗普称伊朗已满足美方大部分要求",
-        "fullTitle": "特朗普称伊朗已满足美国和平计划中的大部分要求",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国总统特朗普表示，伊朗已经满足了美国向其提出的15项和平计划要求中的大部分。然而，目前尚不清楚双方是否在进行真正的谈判。此番言论可能意在为紧张局势降温，或为国内政治服务。地缘政治预期的快速变化将加剧市场波动。",
-        "relations": [
-          {
-            "label": "美伊关系",
-            "type": "entity",
-            "desc": "核心双边关系"
-          },
-          {
-            "label": "中东和平进程",
-            "type": "risk",
-            "desc": "地缘政治核心议题"
-          },
-          {
-            "label": "特朗普",
-            "type": "entity",
-            "desc": "关键决策者与信息源"
-          },
-          {
-            "label": "地缘政治风险溢价",
-            "type": "risk",
-            "desc": "受言论直接影响的市场因子"
-          },
-          {
-            "label": "石油价格",
-            "type": "resource",
-            "desc": "对消息最敏感的大宗商品"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "特朗普的言论可能是一种谈判策略或政治宣传，旨在塑造其成功外交形象，实际进展需后续观察。",
-            "若局势出现缓和迹象，可能短期内削弱石油的地缘政治风险溢价，但中东结构性矛盾难以根除。"
+            "地缘政治冲突正从区域事件演变为全球金融市场的系统性风险传导节点。",
+            "依赖单一增长引擎或狭窄股票基础的市场，在外部冲击下表现出极高的脆弱性。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "原油期货 (短期投机头寸)、避险资产 (如黄金)",
-          "risk": "HIGH",
-          "thesis": "若市场解读为局势缓和，前期因地缘风险上涨的油价和避险资产价格可能出现回调。"
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1595834426725?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "谷歌Pixel 10a取消相机凸起",
-        "fullTitle": "谷歌Pixel 10a手机取消相机凸起设计",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "谷歌新款平价智能手机Pixel 10a取消了相机凸起设计，可以平放在桌面上。除此之外，该公司并未为这款新机带来大量升级。这主要是一次工业设计上的改进，而非技术或性能的重大革新。",
-        "relations": [
-          {
-            "label": "谷歌 (Google)",
-            "type": "entity",
-            "desc": "设备制造商"
-          },
-          {
-            "label": "Pixel 10a",
-            "type": "tech",
-            "desc": "目标产品"
-          },
-          {
-            "label": "智能手机设计",
-            "type": "tech",
-            "desc": "产品改进领域"
-          },
-          {
-            "label": "消费电子",
-            "type": "entity",
-            "desc": "所属行业"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举反映了谷歌在平价机型上更注重差异化的外观设计和用户体验细节，而非堆砌硬件参数。",
-            "对整体智能手机市场竞争格局影响有限，主要是针对特定用户群体的微创新。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "谷歌母公司Alphabet (GOOGL)",
-          "risk": "LOW",
-          "thesis": "单一机型的设计改动对巨头公司财务影响微乎其微，投资逻辑基于其整体生态系统和AI业务。"
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1537234732324?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "YouTube CEO不担心创作者被Netflix挖角",
-        "fullTitle": "YouTube CEO称顶级创作者永远不会离开平台",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "YouTube首席执行官尼尔·莫汉表示，他并不担心Netflix会挖走该平台最受欢迎的创作者。他认为顶级创作者“永远不会离开他们的家（指YouTube）”。这体现了对YouTube平台生态和创作者粘性的信心。",
-        "relations": [
-          {
-            "label": "YouTube",
-            "type": "entity",
-            "desc": "核心平台"
-          },
-          {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "潜在竞争对手"
-          },
-          {
-            "label": "内容创作者经济",
-            "type": "entity",
-            "desc": "竞争的核心资源"
-          },
-          {
-            "label": "平台生态",
-            "type": "tech",
-            "desc": "竞争的关键优势"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "莫汉的言论旨在稳定创作者和广告商信心，强调YouTube在UGC（用户生成内容）领域的统治地位和网络效应。",
-            "流媒体平台竞争进入新阶段，Netflix等专注于PGC（专业生成内容），而YouTube护城河在于其庞大的创作者社区和互动模式。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "谷歌母公司Alphabet (GOOGL)",
-          "risk": "LOW",
-          "thesis": "YouTube是谷歌核心增长和利润引擎之一，其创作者生态的稳定性是维持该业务竞争力的关键。"
+          "asset": "韩国KOSPI指数或相关ETF",
+          "risk": "MEDIUM",
+          "thesis": "地缘政治风险暴露了韩国股市结构性弱点，依赖少数股票的反弹不可持续，市场可能面临回调。"
         },
         "confidence": 88,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1552234562190?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1519860131185?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "《Project Hail Mary》成亚马逊影业最卖座影片",
-        "fullTitle": "《Project Hail Mary》成为亚马逊米高梅最大票房热门",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "亚马逊对电影《Project Hail Mary》的押注获得了丰厚回报，该片已成为亚马逊米高梅影业历史上票房最高的电影。这表明亚马逊在内容制作和影院发行方面的策略取得显著成功。",
+        "title": "茅台提价推动股价大涨",
+        "fullTitle": "茅台提高旗舰酒价格后股价飙升",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "中国顶级白酒制造商贵州茅台宣布提高其旗舰产品飞天茅台的价格。此举提振了其盈利前景，推动股价创下约两个月来最大涨幅。这反映了消费龙头企业的定价能力对市场信心的直接影响。",
         "relations": [
           {
-            "label": "亚马逊 (Amazon)",
+            "label": "贵州茅台",
             "type": "entity",
-            "desc": "制片与发行方母公司"
+            "desc": "中国高端白酒龙头企业"
           },
           {
-            "label": "米高梅 (MGM)",
-            "type": "entity",
-            "desc": "亚马逊旗下电影制片厂"
+            "label": "飞天茅台",
+            "type": "resource",
+            "desc": "核心旗舰产品，具备强定价权"
           },
           {
-            "label": "影视内容制作",
-            "type": "entity",
-            "desc": "核心业务活动"
+            "label": "定价权",
+            "type": "risk",
+            "desc": "衡量消费品牌护城河的关键指标"
           },
           {
-            "label": "流媒体与影院发行",
-            "type": "tech",
-            "desc": "内容分发策略"
+            "label": "消费板块",
+            "type": "entity",
+            "desc": "受品牌和定价影响的股票类别"
           }
         ],
         "analysis": {
           "strategic": [
-            "此次成功验证了亚马逊通过收购米高梅获取优质IP并融合传统影院发行与流媒体生态的战略价值。",
-            "单部影片的成功虽好，但长期竞争力取决于持续产出爆款的能力，以及内容业务对整体亚马逊生态的协同效应。"
+            "中国核心消费品牌通过提价直接传导至资本市场估值，显示了其强大的品牌护城河和盈利可预测性。",
+            "在经济增长放缓背景下，具备定价权的必需消费品或高端消费品公司成为避险资产。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "亚马逊 (AMZN)",
+          "asset": "贵州茅台 (600519.SS)",
           "risk": "LOW",
-          "thesis": "单部电影票房对亚马逊庞大营收影响有限，但成功的内容有助于提升Prime会员价值、广告业务和品牌影响力。"
+          "thesis": "提价直接增厚利润，验证了其强大的品牌护城河和定价能力，在弱经济周期中彰显防御性价值。"
         },
-        "confidence": 92,
+        "confidence": 90,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1641354933671?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "特朗普考虑退出战争，油跌股涨",
+        "fullTitle": "报道称特朗普考虑退出战争，油价下跌股市上涨",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "有报道称美国前总统特朗普考虑退出战争，此消息导致国际油价下跌，同时全球股市获得提振。这凸显了美国政治决策对全球大宗商品和风险资产的即时影响力。市场对地缘政治紧张局势缓和的预期做出积极反应。",
+        "relations": [
+          {
+            "label": "特朗普",
+            "type": "entity",
+            "desc": "影响地缘政治预期的关键政治人物"
+          },
+          {
+            "label": "原油",
+            "type": "resource",
+            "desc": "对地缘政治最敏感的大宗商品"
+          },
+          {
+            "label": "全球股市",
+            "type": "entity",
+            "desc": "风险偏好因战争预期变化而波动"
+          },
+          {
+            "label": "地缘政治预期",
+            "type": "risk",
+            "desc": "驱动短期市场波动的核心叙事"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "关键政治人物的政策倾向已成为全球资产定价的短期决定性变量之一，市场波动性加剧。",
+            "地缘政治风险溢价在油价中体现得最为直接和迅速，其变动是观察全球风险情绪的重要指标。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "标普500指数ETF",
+          "risk": "MEDIUM",
+          "thesis": "若战争风险显著降温，将降低经济不确定性并提振企业盈利预期，利好整体股市，尤其是对利率敏感的成长板块。"
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1508310632295?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "15%美国人愿为AI老板工作",
+        "fullTitle": "民调显示15%美国人愿意接受AI作为直接主管",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "一项奎尼皮亚克大学的民意调查显示，15%的美国人表示愿意从事一份由AI程序分配任务和制定日程的直接主管的工作。这反映了社会对AI在管理角色中应用的接受度正在萌芽，尽管目前仍属少数。",
+        "relations": [
+          {
+            "label": "AI管理",
+            "type": "tech",
+            "desc": "人工智能在组织管理中的应用"
+          },
+          {
+            "label": "劳动力市场",
+            "type": "entity",
+            "desc": "工作形态和雇佣关系正在演变"
+          },
+          {
+            "label": "社会接受度",
+            "type": "risk",
+            "desc": "新技术推广的关键非技术障碍"
+          },
+          {
+            "label": "自动化办公",
+            "type": "tech",
+            "desc": "提升效率的潜在方向"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI向企业管理层渗透的早期社会信号已出现，预示着未来工作场所关系和权力结构的潜在变革。",
+            "尽管接受度尚低，但该数据为开发企业级AI代理和管理软件提供了初步的市场验证和需求侧视角。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "企业级AI工作流/管理软件公司",
+          "risk": "HIGH",
+          "thesis": "AI渗透至管理职能是长期趋势，早期接受者数据表明存在细分市场，布局该赛道的公司可能享有先发优势。"
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1592406494959?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "LiteLLM与Delve断绝关系",
+        "fullTitle": "热门AI网关初创公司LiteLLM断绝与争议公司Delve关系",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "热门AI网关初创公司LiteLLM已断绝与有争议的初创公司Delve的关系。此前，LiteLLM通过Delve获得了两项安全合规认证，但上周却成为严重凭证窃取恶意软件的受害者。此事凸显了AI供应链中的安全风险。",
+        "relations": [
+          {
+            "label": "LiteLLM",
+            "type": "entity",
+            "desc": "提供AI模型统一接入服务的初创公司"
+          },
+          {
+            "label": "供应链安全",
+            "type": "risk",
+            "desc": "第三方服务引入的安全漏洞风险"
+          },
+          {
+            "label": "安全合规认证",
+            "type": "risk",
+            "desc": "企业信任基础，但可能被滥用或存在缺陷"
+          },
+          {
+            "label": "AI基础设施",
+            "type": "tech",
+            "desc": "支撑AI应用的关键底层服务"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "AI基础设施的快速扩张使得供应链安全成为行业发展的关键瓶颈和潜在系统性风险点。",
+            "初创公司为追求增长和合规速度，可能过度依赖第三方服务，从而引入不可控的安全隐患。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "过度依赖单一或可疑第三方服务的AI基础设施公司",
+          "risk": "HIGH",
+          "thesis": "安全事件将严重损害AI基础设施公司的信任度，引发客户流失和估值下调，尤其是安全措施不透明的公司。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1672916650173?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "前Coatue合伙人AI初创获巨额种子轮",
+        "fullTitle": "前Coatue合伙人为企业AI代理初创公司筹集6500万美元种子轮",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "一位前Coatue合伙人创立的专注于企业AI代理的初创公司，在起步阶段就完成了高达6500万美元的巨额种子轮融资。此轮融资吸引了众多投资者的关注和参与，表明市场对AI代理赛道及其团队背景的高度认可。",
+        "relations": [
+          {
+            "label": "企业AI代理",
+            "type": "tech",
+            "desc": "能自主执行复杂任务的企业级AI应用"
+          },
+          {
+            "label": "Coatue",
+            "type": "entity",
+            "desc": "知名投资机构，其背景具有信号意义"
+          },
+          {
+            "label": "巨额种子轮",
+            "type": "risk",
+            "desc": "当前AI投资热潮中的资本集中现象"
+          },
+          {
+            "label": "团队背景",
+            "type": "entity",
+            "desc": "投资者决策的关键非技术因素"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "资本正以空前规模涌入AI基础设施和应用的核心赛道，尤其是具备明星团队背景的项目，加剧了行业竞争和估值泡沫风险。",
+            "企业AI代理被视为下一个生产力突破点，大额早期融资旨在抢占生态位和人才，但同时也提高了成功预期和退出压力。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "头部风险投资基金或AI生态基金",
+          "risk": "MEDIUM",
+          "thesis": "通过投资顶级基金间接布局最具潜力的早期AI项目，尤其是企业级应用赛道，可以分散单一项目风险并捕捉行业增长红利。"
+        },
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1695236105018?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1583564641773?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Middle East Conflict Prolonged",
-        "fullTitle": "Fahmy Warns of Prolonged Middle East Conflict Shock",
+        "title": "Iran War Hits Korean Stocks",
+        "fullTitle": "Iran War Turns Once-Hot Korean Stock Trade Into Poor Bet",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Former US energy official Randa Fahmy warns the Middle East conflict could extend for a prolonged period. This follows the entry of Iran-backed Houthi militants into the conflict. A protracted conflict risks significant disruption to global energy supply chains and regional stability. Market volatility in oil and related sectors is likely to increase.",
+        "summary": "The bullish sentiment on South Korean equities is weakening due to the Iran war. The conflict exposes the vulnerability of a market rally that was narrowly driven by a few growth stocks. This highlights geopolitical risks as a key factor for concentrated markets.",
         "relations": [
           {
-            "label": "Randa Fahmy",
-            "type": "entity",
-            "desc": "Former US Associate Deputy Energy Secretary"
-          },
-          {
-            "label": "Houthi Militants",
-            "type": "entity",
-            "desc": "Iran-backed group in Yemen"
-          },
-          {
-            "label": "Iran",
-            "type": "entity",
-            "desc": "Regional power, supports Houthis"
-          },
-          {
-            "label": "Global Oil Market",
-            "type": "resource",
-            "desc": "Primary energy market at risk"
-          },
-          {
-            "label": "Supply Chain Disruption",
-            "type": "risk",
-            "desc": "Risk to energy logistics"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The expansion of the conflict to include Houthi forces increases the geographic and political complexity, raising the probability of a sustained oil supply shock.",
-            "This development strengthens the strategic position of Iran in the region, potentially influencing future energy negotiations and security arrangements."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Oil Futures (CL), Energy Sector ETFs (XLE)",
-          "risk": "HIGH",
-          "thesis": "Geopolitical escalation in a key oil-producing region creates upward pressure on crude prices due to supply disruption fears and increased risk premium."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1537191497627?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "China Raises Overseas Investment Quota",
-        "fullTitle": "China Increases Overseas Investment Quota Significantly",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "China has raised the cap on institutional investors' overseas securities purchases by the most since 2021. The move aims to advance financial opening and meet greater domestic demand for offshore investment. This policy signals a controlled liberalization of capital outflows. It could provide incremental liquidity support for global markets, particularly Hong Kong and US equities.",
-        "relations": [
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Sovereign state implementing policy"
-          },
-          {
-            "label": "QDII/QDII2",
-            "type": "entity",
-            "desc": "Qualified Domestic Institutional Investor program"
-          },
-          {
-            "label": "Capital Outflows",
-            "type": "risk",
-            "desc": "Managed increase in foreign investment"
-          },
-          {
-            "label": "Financial Opening",
-            "type": "entity",
-            "desc": "Policy objective of China"
-          },
-          {
-            "label": "Global Equities",
+            "label": "South Korean Equities",
             "type": "asset",
-            "desc": "Potential beneficiary of inflows"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This is a calibrated move to relieve domestic capital pressure and diversify China's external asset holdings without triggering destabilizing outflows.",
-            "It reinforces China's long-term strategy of integrating its financial system with global markets while maintaining strict capital account management."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "HK/China-focused ETFs (FXI, MCHI), US Tech ETFs (QQQ)",
-          "risk": "MEDIUM",
-          "thesis": "Increased quota allows Chinese institutions to allocate more capital abroad, providing a structural tailwind for select international equity markets favored by Chinese investors."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1535322164645?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Trump on Iran Peace Plan",
-        "fullTitle": "Trump Claims Iran Met Most US Demands in Plan",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "President Trump stated Iran 'gave' the US most of its 15 demands in a proposed peace plan. The statement was made despite unclear negotiation status between the two sides. This creates significant ambiguity regarding the potential for de-escalation in the region. Markets may misinterpret rhetoric for substantive progress, leading to volatile price action in oil and safe-haven assets.",
-        "relations": [
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "US President making statement"
+            "desc": "Stock market vulnerable to geopolitical shock"
           },
           {
-            "label": "Iran",
-            "type": "entity",
-            "desc": "Counterparty in alleged negotiations"
+            "label": "Iran War",
+            "type": "risk",
+            "desc": "Geopolitical conflict causing market volatility"
           },
           {
-            "label": "Peace Plan",
+            "label": "Growth Stocks",
             "type": "entity",
-            "desc": "Unverified proposal for conflict resolution"
+            "desc": "Narrow base of the previous rally"
           },
           {
             "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Primary market driver"
-          },
-          {
-            "label": "Oil Price Volatility",
-            "type": "risk",
-            "desc": "Direct impact from rhetoric"
+            "desc": "Primary driver of current market sentiment"
           }
         ],
         "analysis": {
           "strategic": [
-            "Trump's comments could be a tactical maneuver to pressure Iran or manage domestic and international perceptions ahead of elections, rather than reflecting a diplomatic breakthrough.",
-            "The disconnect between presidential rhetoric and on-ground realities increases policy uncertainty, making market reactions to Middle East headlines highly unpredictable."
+            "Geopolitical tensions are rapidly repricing risk in export-dependent Asian markets, revealing structural fragility.",
+            "Investor focus is shifting from growth narratives to macro stability, potentially triggering capital outflows from concentrated bets."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Volatility Index (VIX) Futures",
+          "asset": "South Korean equity indices (e.g., KOSPI) / specific overvalued growth stocks",
           "risk": "HIGH",
-          "thesis": "Contradictory and unverified statements from key leaders increase market uncertainty and the likelihood of sharp, sentiment-driven volatility spikes."
+          "thesis": "The concentrated rally is highly susceptible to external geopolitical shocks, which are now materializing. Increased risk aversion and potential for broader de-risking will pressure valuations."
         },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1574130950541?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1624125492990?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Pixel 10a Lays Flat",
-        "fullTitle": "Google Pixel 10a Smartphone Lays Flat, Few Upgrades",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Google's new budget smartphone, the Pixel 10a, features a design that allows it to lay flat on a table due to a missing camera bump. The company has not introduced many other upgrades to the device. This is a minor design iteration in the competitive budget segment. The impact on Google's hardware revenue or competitive position is likely negligible.",
+        "title": "Moutai Shares Surge on Price Hike",
+        "fullTitle": "Moutai Shares Surge After It Hikes Price of Flagship Liquor",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Kweichow Moutai's stock rose sharply following an announcement to increase prices for its flagship Feitian Moutai spirit. This strategic move is expected to directly boost the company's earnings and profit margins. The price hike reflects strong brand pricing power and consumer demand.",
         "relations": [
           {
-            "label": "Google",
+            "label": "Kweichow Moutai Co.",
             "type": "entity",
-            "desc": "Parent company of Pixel brand"
+            "desc": "China's premier liquor maker"
           },
           {
-            "label": "Pixel 10a",
-            "type": "tech",
-            "desc": "Budget smartphone model"
+            "label": "Feitian Moutai",
+            "type": "resource",
+            "desc": "Flagship product with strong pricing power"
           },
           {
-            "label": "Smartphone Design",
-            "type": "tech",
-            "desc": "Industrial design feature"
+            "label": "Price Increase",
+            "type": "action",
+            "desc": "Strategic move to boost earnings"
           },
           {
-            "label": "Budget Smartphone Market",
-            "type": "entity",
-            "desc": "Competitive segment"
+            "label": "Consumer Staples",
+            "type": "sector",
+            "desc": "Sector demonstrating resilience and pricing power"
           }
         ],
         "analysis": {
           "strategic": [
-            "The minimal upgrade cycle suggests Google is prioritizing cost management and supply chain simplicity in its budget line over feature wars.",
-            "This move indicates a focus on maintaining market presence in the segment rather than driving significant innovation or share gains."
+            "The price hike signals management's confidence in brand equity and inelastic demand, a bullish signal for premium consumer brands in China.",
+            "This action may set a precedent for the broader luxury goods sector, testing price elasticity in a recovering consumer environment."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "The Pixel 10a launch is immaterial to Alphabet's core revenue drivers (Search & Ads). The stock remains a long-term hold based on dominant digital advertising and cloud growth."
+          "asset": "Kweichow Moutai Co. (600519.SS)",
+          "risk": "MEDIUM",
+          "thesis": "Direct earnings uplift from price increase, coupled with strong brand moat and predictable demand, provides a clear near-term catalyst and reinforces long-term value."
         },
         "confidence": 90,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1589051858602?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Oil Drops on Potential War Exit",
+        "fullTitle": "Oil Falls, Stocks Gain on Report Trump Mulling War Exit",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Oil prices declined while equity markets gained following a report that former President Trump is considering an exit from a conflict. This indicates market sensitivity to geopolitical de-escalation narratives. A potential reduction in hostilities would lower risk premiums priced into oil.",
+        "relations": [
+          {
+            "label": "Crude Oil",
+            "type": "resource",
+            "desc": "Asset highly sensitive to geopolitical risk premium"
+          },
+          {
+            "label": "Global Equities",
+            "type": "asset",
+            "desc": "Beneficiary of reduced geopolitical tension"
+          },
+          {
+            "label": "Geopolitical De-escalation",
+            "type": "risk",
+            "desc": "Potential scenario driving asset repricing"
+          },
+          {
+            "label": "Risk Premium",
+            "type": "concept",
+            "desc": "Component of oil price vulnerable to news flow"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Financial markets are highly reactive to political signaling, especially from key US figures, creating volatility around geopolitical assets.",
+            "A potential de-escalation would trigger a sector rotation from energy/defense to growth and cyclical stocks, impacting cross-asset correlations."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Crude Oil Futures (e.g., CL)",
+          "risk": "HIGH",
+          "thesis": "The market has priced in a significant risk premium due to conflict. Any credible signal of de-escalation will lead to a rapid unwind of this premium, pressuring prices."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1643326098387?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "15% Open to AI Boss: Poll",
+        "fullTitle": "15% of Americans Open to Working for an AI Supervisor",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "A Quinnipiac University poll indicates 15% of Americans are willing to work under an AI supervisor that assigns tasks and sets schedules. This reflects early but notable acceptance of AI in managerial roles. The data points to evolving workplace norms and human-AI collaboration.",
+        "relations": [
+          {
+            "label": "AI Supervisor",
+            "type": "tech",
+            "desc": "Artificial intelligence in managerial/coordination roles"
+          },
+          {
+            "label": "Workforce Automation",
+            "type": "trend",
+            "desc": "Trend of integrating AI into workplace processes"
+          },
+          {
+            "label": "Human-AI Collaboration",
+            "type": "concept",
+            "desc": "Evolving dynamic in professional environments"
+          },
+          {
+            "label": "Quinnipiac University Poll",
+            "type": "entity",
+            "desc": "Source of public sentiment data"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This sentiment metric serves as a leading indicator for the potential adoption rate of enterprise AI agent and workflow automation platforms.",
+            "Resistance to AI management remains high (85%), indicating significant cultural and implementation hurdles for full-scale autonomous agent deployment in the near term."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Enterprise AI/Workflow Automation companies",
+          "risk": "MEDIUM",
+          "thesis": "Growing, albeit minority, acceptance of AI in core operational roles validates the long-term market for enterprise AI agents and intelligent process automation, despite adoption friction."
+        },
+        "confidence": 82,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1583128423233?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1608510119085?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "YouTube CEO on Creator Loyalty",
-        "fullTitle": "YouTube CEO Confident Top Creators Won't Leave",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "YouTube CEO Neal Mohan stated he is not worried about Netflix luring away the platform's most popular creators. He insists the best YouTubers will 'never leave their home'. This highlights the entrenched ecosystem and monetization model of YouTube. The comment downplays competitive threats from subscription-based streaming platforms in the creator economy.",
+        "title": "LiteLLM Cuts Ties with Delve",
+        "fullTitle": "AI Gateway LiteLLM Ditches Startup Delve After Security Breach",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "AI gateway startup LiteLLM has severed ties with Delve, a compliance startup, after falling victim to credential-stealing malware. The incident occurred despite LiteLLM having obtained security certifications through Delve. This highlights critical supply chain and third-party risk in the AI infrastructure layer.",
         "relations": [
           {
-            "label": "Neal Mohan",
+            "label": "LiteLLM",
             "type": "entity",
-            "desc": "CEO of YouTube"
+            "desc": "AI API gateway and management startup"
           },
           {
-            "label": "YouTube",
+            "label": "Delve",
             "type": "entity",
-            "desc": "Video sharing platform"
+            "desc": "Compliance/security startup involved in breach"
           },
           {
-            "label": "Content Creators",
-            "type": "entity",
-            "desc": "Key asset for the platform"
+            "label": "Credential-Stealing Malware",
+            "type": "risk",
+            "desc": "Specific cybersecurity threat vector"
           },
           {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "Competing streaming service"
+            "label": "AI Infrastructure Security",
+            "type": "risk",
+            "desc": "Critical concern for enterprise AI adoption"
           },
           {
-            "label": "Creator Economy",
-            "type": "entity",
-            "desc": "Market for independent content"
+            "label": "Supply Chain Risk",
+            "type": "risk",
+            "desc": "Risk from third-party vendors and partners"
           }
         ],
         "analysis": {
           "strategic": [
-            "Mohan's confidence underscores YouTube's strategic moat: its unique, direct creator-to-audience relationship and diversified revenue streams (ads, memberships, Super Chats) that competitors cannot easily replicate.",
-            "The statement is also a defensive posture aimed at reassuring the creator community and investors amid increasing competition for top talent in the digital media space."
+            "Security incidents at key infrastructure providers like LiteLLM could slow enterprise AI adoption by reinforcing concerns about data and access control.",
+            "This event will accelerate demand for integrated, in-house security solutions within the AI toolchain, benefiting established security vendors over fragmented startups."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "YouTube's dominance in the creator-led video ecosystem remains a key, high-margin growth pillar for Alphabet, insulated from direct competition by Netflix's different business model."
+          "action": "SHORT",
+          "asset": "Fragmented AI infra/security startups",
+          "risk": "MEDIUM",
+          "thesis": "High-profile security failures in the AI startup ecosystem will drive consolidation and preference for vendors with proven, robust security postures, hurting smaller, specialized players."
         },
-        "confidence": 92,
+        "confidence": 86,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1550372552863?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1575488861318?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "'Project Hail Mary' Box Office Hit",
-        "fullTitle": "'Project Hail Mary' is Amazon MGM's Biggest Hit",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "The film 'Project Hail Mary' has become Amazon MGM Studios' biggest box office hit. Amazon's investment in the film has paid off handsomely. This success demonstrates the potential of Amazon's studio arm within its broader ecosystem. However, the financial impact on Amazon's overall earnings remains relatively small.",
+        "title": "$65M Seed for AI Agent Startup",
+        "fullTitle": "Ex-Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "A former partner at Coatue Management has raised a massive $65 million seed round for a new enterprise AI agent startup. The unusually large seed round indicates intense investor interest and confidence in the founding team's pedigree. It signals strong capital flow into foundational AI agent technology.",
         "relations": [
           {
-            "label": "Amazon MGM Studios",
-            "type": "entity",
-            "desc": "Film and TV studio"
+            "label": "Enterprise AI Agents",
+            "type": "tech",
+            "desc": "Autonomous AI systems for business processes"
           },
           {
-            "label": "Project Hail Mary",
+            "label": "Coatue Management",
             "type": "entity",
-            "desc": "Feature film title"
+            "desc": "Prominent hedge fund and tech investor"
           },
           {
-            "label": "Box Office",
-            "type": "entity",
-            "desc": "Theatrical revenue metric"
+            "label": "Seed Funding",
+            "type": "action",
+            "desc": "Unusually large round indicating high conviction"
           },
           {
-            "label": "Amazon.com Inc.",
-            "type": "entity",
-            "desc": "Parent conglomerate"
+            "label": "AI Venture Capital",
+            "type": "trend",
+            "desc": "Heavy investment flow into core AI technologies"
           }
         ],
         "analysis": {
           "strategic": [
-            "The hit validates Amazon's strategy of using high-profile content to drive Prime subscriptions and enhance ecosystem loyalty, not just generate direct profit.",
-            "It strengthens Amazon's negotiating position in the entertainment industry and may lead to increased investment in tentpole theatrical releases."
+            "The scale of this seed round reflects a 'land grab' mentality among VCs for what they perceive as foundational platform-level AI agent technology.",
+            "Founder pedigree from top-tier funds is becoming a critical differentiator for attracting capital in the hyper-competitive AI startup landscape."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Amazon.com Inc. (AMZN)",
-          "risk": "LOW",
-          "thesis": "While the film's success is positive, it is a minor contributor to Amazon's vast revenue streams. The investment thesis remains anchored on AWS cloud dominance and retail scale."
+          "asset": "Venture Capital funds focused on AI infrastructure",
+          "risk": "HIGH",
+          "thesis": "Massive early-stage rounds for elite teams indicate where sophisticated capital sees the highest potential for platform-level returns in AI, making exposure to top-tier VC funds a proxy bet."
         },
-        "confidence": 91,
+        "confidence": 87,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1578397137453?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1604470514320?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Conflicto prolongado en Medio Oriente",
-        "fullTitle": "Exfuncionaria de EE.UU. advierte sobre shock petrolero por conflicto",
+        "title": "Guerra Irán impacta bolsa coreana",
+        "fullTitle": "Guerra Irán convierte apuesta caliente coreana en mala inversión",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Randa Fahmy, ex Secretaria Adjunta de Energía de EE.UU., advierte que el conflicto en Medio Oriente podría prolongarse significativamente. Esta advertencia se produce tras la entrada de los hutíes respaldados por Irán en el conflicto. Una escalada prolongada amenaza directamente la estabilidad del mercado petrolero global. La volatilidad geopolítica podría disparar los precios del crudo.",
+        "summary": "El conflicto en Irán está exponiendo la vulnerabilidad del mercado bursátil surcoreano, que había experimentado un repunte estrechamente construido sobre unas pocas acciones de crecimiento. El coro alcista sobre las acciones surcoreanas se está resquebrajando. Esto revela la dependencia excesiva del rally en sectores específicos y su sensibilidad a shocks geopolíticos externos.",
         "relations": [
           {
-            "label": "Randa Fahmy",
+            "label": "Bolsa de Valores de Corea del Sur",
             "type": "entity",
-            "desc": "Ex Secretaria Asociada Adjunta de Energía de EE.UU."
+            "desc": "Mercado bursátil afectado por la guerra"
           },
           {
-            "label": "Hutíes",
-            "type": "entity",
-            "desc": "Grupo militante de Yemen respaldado por Irán"
-          },
-          {
-            "label": "Mercado Petrolero Global",
-            "type": "resource",
-            "desc": "Mercado de crudo vulnerable a shocks geopolíticos"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "Actor regional clave que respalda a los hutíes"
-          },
-          {
-            "label": "Riesgo Geopolítico",
+            "label": "Guerra de Irán",
             "type": "risk",
-            "desc": "Factor principal de volatilidad en los precios de la energía"
+            "desc": "Conflicto geopolítico desestabilizador"
+          },
+          {
+            "label": "Acciones de crecimiento",
+            "type": "asset",
+            "desc": "Sector vulnerable del rally coreano"
+          },
+          {
+            "label": "Riesgo geopolítico",
+            "type": "risk",
+            "desc": "Factor principal de volatilidad del mercado"
           }
         ],
         "analysis": {
           "strategic": [
-            "La intervención hutí amplía el teatro del conflicto, aumentando el riesgo de interrupción en las rutas marítimas clave del Golfo y el Mar Rojo.",
-            "Una guerra prolongada obligaría a realinear las alianzas energéticas globales y presionaría a los productores como Arabia Saudí y los Emiratos Árabes Unidos para que aumenten la producción."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Futuros de crudo Brent (ICE), ETF de energía (XLE)",
-          "risk": "HIGH",
-          "thesis": "El riesgo de una interrupción prolongada del suministro debido a la escalada del conflicto es alto, lo que debería impulsar los precios del petróleo. Los productores con exposición a la región y las compañías de servicios petroleros se beneficiarían."
-        },
-        "confidence": 87,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1550785310977?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "China amplía cuota inversión exterior",
-        "fullTitle": "China aumenta tope para inversión en valores extranjeros",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "China ha elevado significativamente el límite para que los inversores institucionales compren valores en el extranjero. Este movimiento forma parte de una apertura financiera más amplia y responde a la creciente demanda interna de diversificación de activos. Facilita la salida de capital chino hacia mercados globales. Podría proporcionar un apoyo de liquidez a los mercados de renta variable y deuda internacionales.",
-        "relations": [
-          {
-            "label": "Inversores Institucionales Chinos",
-            "type": "entity",
-            "desc": "Entidades que obtienen mayor acceso a mercados extranjeros"
-          },
-          {
-            "label": "Apertura Financiera China",
-            "type": "risk",
-            "desc": "Proceso estratégico de liberalización del sector financiero"
-          },
-          {
-            "label": "Mercados de Valores Extranjeros",
-            "type": "entity",
-            "desc": "Destinos potenciales para el flujo de capital chino (ej. EE.UU., UE, Asia)"
-          },
-          {
-            "label": "Diversificación de Activos",
-            "type": "risk",
-            "desc": "Motivación clave para la demanda de inversión offshore"
-          },
-          {
-            "label": "Control de Capitales",
-            "type": "risk",
-            "desc": "Marco regulatorio que se está liberalizando de forma controlada"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Esta medida alivia parcialmente las presiones de salida de capital al canalizarlas de manera ordenada, en lugar de restringirlas por completo.",
-            "Refuerza la integración financiera global de China y podría aumentar la correlación entre los mercados chinos y los internacionales, especialmente en sectores preferidos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de mercados desarrollados (URTH, IEFA), Bonos corporativos globales de alto grado (AGG)",
-          "risk": "MEDIUM",
-          "thesis": "Un aumento predecible y controlado de la demanda china de activos extranjeros proporcionará un flujo de capital constante y apoyo a los precios en los mercados de bonos y acciones globales de alta liquidez."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1670776492991?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Trump afirma avances con Irán",
-        "fullTitle": "Trump dice que Irán aceptó la mayoría de demandas de EE.UU.",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El presidente Donald Trump declaró que Irán ha aceptado la mayoría de las 15 demandas presentadas por EE.UU. como parte de un plan de paz. Sin embargo, la autenticidad y el estado de las negociaciones siguen sin estar claros. Estas declaraciones contrastan con las advertencias de escalada militar de otros funcionarios. Crean incertidumbre sobre la dirección real de la política exterior estadounidense en la región.",
-        "relations": [
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Presidente de EE.UU., hace declaraciones sobre diplomacia con Irán"
-          },
-          {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "Contraparte en las supuestas negociaciones de paz"
-          },
-          {
-            "label": "Plan de Paz",
-            "type": "risk",
-            "desc": "Conjunto de demandas de EE.UU. para resolver el conflicto"
-          },
-          {
-            "label": "Política Exterior de EE.UU.",
-            "type": "risk",
-            "desc": "Potencialmente inconsistente entre declaraciones y acciones"
-          },
-          {
-            "label": "Riesgo Geopolítico (Medio Oriente)",
-            "type": "risk",
-            "desc": "Factor de mercado afectado por declaraciones de alto nivel"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Las declaraciones de Trump podrían ser una táctica de negociación de presión máxima para forzar concesiones iraníes antes de posibles acciones militares.",
-            "La desconexión entre la retórica presidencial y las acciones en el terreno (como el apoyo a los hutíes) aumenta la imprevisibilidad y el riesgo de eventos de 'cisne negro'."
+            "El conflicto destaca la interdependencia de los mercados asiáticos y la volatilidad inducida por eventos en Oriente Medio.",
+            "Revela la fragilidad de las estrategias de inversión concentradas en nichos tecnológicos sin cobertura geopolítica."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Volatilidad del Mercado Petrolero (ETF VXX, opciones sobre OVX)",
-          "risk": "HIGH",
-          "thesis": "La incoherencia entre las declaraciones de paz y las acciones de escalada crea un entorno de alta incertidumbre. Cualquier clarificación o evento contrario a las declaraciones de Trump podría causar picos bruscos de volatilidad en el precio del petróleo, ofreciendo oportunidades para posiciones cortas en estabilidad."
-        },
-        "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1639059895589?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Pixel 10a sin protuberancia",
-        "fullTitle": "Google Pixel 10a carece de protuberancia en la cámara",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Google ha lanzado el Pixel 10a, su último smartphone de gama media. Su característica de diseño más notable es la ausencia de la protuberancia de la cámara, permitiendo que el teléfono se apoye plano sobre una mesa. Aparte de esto, la compañía no ha introducido muchas mejoras significativas en el hardware. El enfoque parece estar en un diseño refinado más que en una revolución tecnológica.",
-        "relations": [
-          {
-            "label": "Google",
-            "type": "entity",
-            "desc": "Fabricante del Pixel 10a"
-          },
-          {
-            "label": "Pixel 10a",
-            "type": "tech",
-            "desc": "Nuevo smartphone de gama media de Google"
-          },
-          {
-            "label": "Diseño Industrial",
-            "type": "tech",
-            "desc": "Ámbito donde se destaca el producto (sin protuberancia)"
-          },
-          {
-            "label": "Mercado de Smartphones de Gama Media",
-            "type": "entity",
-            "desc": "Segmento competitivo objetivo del dispositivo"
-          },
-          {
-            "label": "Innovación Incremental",
-            "type": "risk",
-            "desc": "Estrategia de producto con mejoras menores"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Google prioriza la ergonomía y la estética del usuario final en un segmento saturado, diferenciándose de competidores que enfatizan especificaciones técnicas.",
-            "Esta estrategia sugiere que Alphabet/Google puede estar optimizando márgenes en su división de hardware en lugar de buscar participación de mercado agresiva con tecnología puntera."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "El lanzamiento del Pixel 10a es un evento menor para las finanzas de Alphabet. Refleja una gestión prudente de la división de hardware. La tesis de inversión se mantiene en los motores principales de búsqueda, publicidad y cloud. Este producto no altera la valoración."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1583792901241?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "CEO YouTube sin miedo a Netflix",
-        "fullTitle": "CEO de YouTube dice que sus mejores creadores no se irán",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Neal Mohan, CEO de YouTube, ha expresado confianza en que las plataformas rivales como Netflix no podrán atraer a los creadores de contenido más populares de YouTube. Mohan insiste en que el ecosistema, la monetización y la comunidad de YouTube son insustituibles. Esta declaración se produce en un contexto de creciente competencia por el talento creativo en línea. Refuerza la postura de dominio del mercado de YouTube.",
-        "relations": [
-          {
-            "label": "Neal Mohan",
-            "type": "entity",
-            "desc": "CEO de YouTube"
-          },
-          {
-            "label": "YouTube",
-            "type": "entity",
-            "desc": "Plataforma de video dominante propiedad de Alphabet"
-          },
-          {
-            "label": "Netflix",
-            "type": "entity",
-            "desc": "Competidor en streaming de video, posible reclutador de talento"
-          },
-          {
-            "label": "Creadores de Contenido",
-            "type": "entity",
-            "desc": "Activos clave en la guerra de plataformas de video"
-          },
-          {
-            "label": "Ecosistema de Plataforma",
-            "type": "tech",
-            "desc": "Ventaja competitiva de YouTube (comunidad, herramientas, monetización)"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La confianza del CEO indica que YouTube considera que sus barreras de entrada (red de creadores/audiencia, modelo de ingresos por anuncios) son lo suficientemente altas como para defender su posición.",
-            "Esta postura podría llevar a una menor presión para aumentar los pagos a creadores de élite, protegiendo los márgenes de la plataforma frente a competidores con modelos de suscripción."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Alphabet Inc. (GOOGL)",
-          "risk": "LOW",
-          "thesis": "La declaración del CEO confirma la fortaleza del modelo de negocio de YouTube y su posición competitiva duradera. La fidelidad de los creadores es crucial para mantener el engagement de los usuarios y los ingresos por publicidad. Esto apoya la tesis de crecimiento estable de los ingresos de Alphabet."
+          "asset": "ETF EWY (iShares MSCI South Korea)",
+          "risk": "MEDIUM",
+          "thesis": "La exposición concentrada en acciones de crecimiento y la sensibilidad a la prima de riesgo geopolítico presionarán a la baja el índice en el corto plazo."
         },
         "confidence": 88,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1613826034415?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1567974162747?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "'Project Hail Mary' éxito de taquilla",
-        "fullTitle": "'Project Hail Mary' es el mayor éxito de taquilla de Amazon MGM",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "La apuesta cinematográfica de Amazon MGM, 'Project Hail Mary', se ha convertido en su mayor éxito de taquilla hasta la fecha. Esto valida la estrategia de la compañía de invertir en producciones de alto presupuesto para su estudio. El éxito contribuye a los ingresos del segmento de streaming y entretenimiento de Amazon. Demuestra la capacidad de Amazon para competir en la industria del cine tradicional.",
+        "title": "Moutai sube tras aumento de precio",
+        "fullTitle": "Acciones de Moutai se disparan tras subir precio de licor",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Las acciones de Kweichow Moutai Co. registraron su mayor alza en dos meses después de que el principal fabricante de licor de China anunciara un aumento de precio para su espíritu insignia Feitian Moutai. Este movimiento está dirigido a impulsar sus perspectivas de ganancias. La reacción del mercado valida el poder de marca y la capacidad de fijación de precios de la empresa en el mercado de consumo premium chino.",
         "relations": [
           {
-            "label": "Amazon MGM Studios",
+            "label": "Kweichow Moutai Co.",
             "type": "entity",
-            "desc": "Estudio de cine propiedad de Amazon"
+            "desc": "Fabricante de licor premium chino"
           },
           {
-            "label": "Project Hail Mary",
-            "type": "entity",
-            "desc": "Película de éxito de taquilla"
-          },
-          {
-            "label": "Industria Cinematográfica",
-            "type": "entity",
-            "desc": "Mercado donde Amazon está ganando tracción"
-          },
-          {
-            "label": "Estrategia de Contenido",
-            "type": "risk",
-            "desc": "Inversión en IP y producciones para impulsar Prime Video"
-          },
-          {
-            "label": "Ingresos por Taquilla",
+            "label": "Feitian Moutai",
             "type": "resource",
-            "desc": "Fuente de ingresos directa y validación de mercado para el contenido"
+            "desc": "Producto bandera de licor"
+          },
+          {
+            "label": "Consumo premium en China",
+            "type": "entity",
+            "desc": "Segmento de mercado objetivo"
+          },
+          {
+            "label": "Poder de fijación de precios",
+            "type": "risk",
+            "desc": "Ventaja competitiva clave"
           }
         ],
         "analysis": {
           "strategic": [
-            "El éxito de taquilla proporciona a Amazon una doble victoria: ingresos directos y un activo de contenido de gran valor para impulsar las suscripciones y el engagement en Prime Video.",
-            "Esto refuerza la estrategia vertical integrada de Amazon, donde el éxito en salas de cine genera marketing orgánico y reduce el riesgo neto de costosas producciones originales para streaming."
+            "La medida refuerza la narrativa de resiliencia del consumo de gama alta en China frente a la desaceleración económica.",
+            "Demuestra la efectividad de las estrategias de gestión de marcas de lujo para proteger márgenes en entornos inflacionarios."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Amazon.com Inc. (AMZN)",
+          "asset": "600519.SS (Kweichow Moutai)",
           "risk": "LOW",
-          "thesis": "El éxito de 'Project Hail Mary' es un dato positivo, pero marginal, para la valoración masiva de Amazon. Refuerza la narrativa de que Amazon puede ejecutar con éxito en entretenimiento, añadiendo otro pilar a su ecosistema. No cambia la tesis de inversión principal basada en AWS, comercio y publicidad."
+          "thesis": "El aumento de precios impulsará directamente los márgenes y los ingresos, sosteniendo la valoración premium en un sector defensivo."
         },
-        "confidence": 92,
+        "confidence": 90,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1623811531439?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Petróleo cae por posible salida de guerra",
+        "fullTitle": "Petróleo cae, acciones suben por posible salida de guerra de Trump",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Los precios del petróleo caen y las acciones globales ganan terreno tras un informe que sugiere que el expresidente Trump estaría considerando una salida del conflicto en Irán si regresa al poder. Esta noticia reduce la prima de riesgo geopolítico incorporada en los mercados de commodities. La perspectiva de una desescalada genera alivio en los mercados de renta variable y presión bajista en el crudo.",
+        "relations": [
+          {
+            "label": "Precio del petróleo",
+            "type": "resource",
+            "desc": "Commodity sensible a la geopolítica"
+          },
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Expresidente de EE.UU., factor político"
+          },
+          {
+            "label": "Guerra de Irán",
+            "type": "risk",
+            "desc": "Conflicto geopolítico central"
+          },
+          {
+            "label": "Prima de riesgo geopolítico",
+            "type": "risk",
+            "desc": "Factor de mercado que se reduce"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La política exterior de EE.UU. se mantiene como el principal catalizador de los precios de la energía y la aversión al riesgo global.",
+            "Los mercados descuentan rápidamente cambios en el panorama político, mostrando alta sensibilidad a narrativas de desescalada."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Futuros de crudo WTI",
+          "risk": "HIGH",
+          "thesis": "La mera especulación sobre una resolución pacífica puede provocar una corrección significativa en los precios, que habían subido por temores de guerra."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1509110869823?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "15% de estadounidenses aceptarían jefe IA",
+        "fullTitle": "15% de estadounidenses trabajarían para un jefe IA, según encuesta",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Una encuesta de la Universidad Quinnipiac revela que el 15% de los estadounidenses estarían dispuestos a tener un trabajo donde su supervisor directo fuera un programa de IA que asignara tareas y estableciera horarios. Esta cifra ofrece una instantánea temprana de la aceptación social hacia la automatización de la gestión. El dato subraya un cambio cultural incipiente pero significativo en la relación laboral humano-máquina.",
+        "relations": [
+          {
+            "label": "Supervisión por IA",
+            "type": "tech",
+            "desc": "Automatización de roles gerenciales"
+          },
+          {
+            "label": "Fuerza laboral estadounidense",
+            "type": "entity",
+            "desc": "Población encuestada"
+          },
+          {
+            "label": "Universidad Quinnipiac",
+            "type": "entity",
+            "desc": "Entidad que realizó la encuesta"
+          },
+          {
+            "label": "Cambio cultural laboral",
+            "type": "risk",
+            "desc": "Tendencia social a largo plazo"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La aceptación, aunque minoritaria, crea un terreno fértil para startups de software de gestión y productividad basadas en IA.",
+            "Señala una reducción gradual de las barreras psicológicas para la adopción de IA en entornos de trabajo colaborativo."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Sector de software de productividad y HCM (Human Capital Management)",
+          "risk": "MEDIUM",
+          "thesis": "La creciente aceptación social de la IA en gestión impulsará la demanda de plataformas que integren estas capacidades, beneficiando a líderes como MSFT (Microsoft 365 Copilot) y proveedores especializados."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1673674111330?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "LiteLLM abandona a startup polémica Delve",
+        "fullTitle": "Startup de puerta de enlace IA LiteLLM abandona a polémica Delve",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "LiteLLM, una popular startup de puerta de enlace para IA, ha cortado lazos con la controvertida startup Delve, a través de la cual había obtenido dos certificaciones de cumplimiento de seguridad. La decisión se produce después de que LiteLLM fuera víctima de un malware horrible que robaba credenciales la semana pasada. El incidente destaca los riesgos de seguridad en la cadena de suministro de la IA y la importancia de la diligencia debida con los socios.",
+        "relations": [
+          {
+            "label": "LiteLLM",
+            "type": "entity",
+            "desc": "Startup de puerta de enlace para modelos de IA"
+          },
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Startup de cumplimiento de seguridad"
+          },
+          {
+            "label": "Malware roba-credenciales",
+            "type": "risk",
+            "desc": "Amenaza de ciberseguridad específica"
+          },
+          {
+            "label": "Cumplimiento de seguridad",
+            "type": "risk",
+            "desc": "Área de riesgo operativo y regulatorio"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El incidente enfatiza la criticidad de la ciberseguridad en la infraestructura de IA empresarial, lo que puede acelerar la consolidación hacia proveedores establecidos.",
+            "Generará un escrutinio regulatorio y de los clientes sobre los procesos de certificación de seguridad de terceros en el ecosistema de IA."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Startups de infraestructura de IA con modelos de seguridad dependientes de terceros",
+          "risk": "HIGH",
+          "thesis": "Los inversiones valorarán negativamente a las empresas con vulnerabilidades en la cadena de suministro de seguridad, favoreciendo a aquellas con controles internos robustos."
+        },
+        "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1597175041579?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Ex socio de Coatue recauda $65M semilla para agente IA",
+        "fullTitle": "Ex socio de Coatue recauda enorme semilla de $65M para startup de agente IA empresarial",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Un ex socio del fondo de capital de riesgo Coatue Management ha recaudado una ronda semilla masiva de 65 millones de dólares para una startup de agentes de IA empresarial. El tamaño inusual de la ronda desde el inicio atrajo la atención y participación de los inversores. Este movimiento señala la intensa competencia y las altas expectativas en el espacio emergente de los agentes de IA autónomos para empresas.",
+        "relations": [
+          {
+            "label": "Coatue Management",
+            "type": "entity",
+            "desc": "Fondo de capital de riesgo de renombre"
+          },
+          {
+            "label": "Agentes de IA empresarial",
+            "type": "tech",
+            "desc": "Nueva categoría de software de automatización"
+          },
+          {
+            "label": "Ronda semilla mega",
+            "type": "resource",
+            "desc": "Financiación inusualmente grande en etapa temprana"
+          },
+          {
+            "label": "Capital de riesgo",
+            "type": "entity",
+            "desc": "Fuente de financiación y validación del mercado"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Refleja la creencia de los inversores institucionales en que los 'agentes de IA' serán la próxima capa fundamental del software empresarial.",
+            "Establece un nuevo listón para las valoraciones en etapas tempranas en IA, lo que podría inflar burbujas en segmentos específicos."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Ecosistema de plataformas de desarrollo de agentes de IA y modelos de lenguaje grandes (LLMs)",
+          "risk": "MEDIUM",
+          "thesis": "La afluencia masiva de capital catalizará la innovación y la adopción en el espacio de agentes de IA, beneficiando a proveedores de infraestructura subyacente y modelos base."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1635389113553?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1654943168180?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
