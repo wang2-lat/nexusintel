@@ -1,808 +1,863 @@
 {
-  "generated_at": "2026-03-31T02:37:50.680274",
+  "generated_at": "2026-04-01T02:50:08.957702",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "伊朗战争冲击韩国股市",
-        "fullTitle": "伊朗战争使热门韩国股票交易转为不良押注",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "伊朗战争暴露了韩国股市反弹的脆弱性，该反弹仅由少数成长股推动。市场对韩国股票的看涨共识正在瓦解。这表明地缘政治风险对特定市场结构的影响显著。",
+        "title": "印尼提高上市公司公众持股比例",
+        "fullTitle": "印尼给予上市公司三年时间将公众持股比例提升至15%",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "印尼金融监管机构宣布，将给予部分上市公司最长三年时间，将其公众持股比例提升至至少15%。此举是印尼资本市场改革的一部分，旨在提升市场透明度和流动性。该政策可能对未达标公司的股价和融资活动产生影响。长期来看，有助于增强印尼资本市场的吸引力和稳定性。",
         "relations": [
           {
-            "label": "韩国股市",
+            "label": "印尼金融监管机构",
             "type": "entity",
-            "desc": "受地缘政治冲击的股票市场"
+            "desc": "政策制定与执行主体"
+          },
+          {
+            "label": "上市公司",
+            "type": "entity",
+            "desc": "政策直接影响对象"
+          },
+          {
+            "label": "市场透明度",
+            "type": "risk",
+            "desc": "政策改革的核心目标"
+          },
+          {
+            "label": "流动性",
+            "type": "resource",
+            "desc": "预期提升的市场属性"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "印尼此举旨在与国际市场标准接轨，提升其新兴市场的投资评级和对外资的吸引力。",
+            "政策可能引发部分公司通过增发或减持来满足要求，短期内可能带来市场波动和融资活动增加。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "印尼雅加达综合指数 (JCI) ETF",
+          "risk": "MEDIUM",
+          "thesis": "监管改革长期利好市场健康发展，增强外资信心，有望推动指数长期温和上行。"
+        },
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1649707374345?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "芯片股带动韩股反弹",
+        "fullTitle": "伊朗战争结束预期升温，三星、SK海力士带动韩股反弹",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "市场对伊朗战争可能接近尾声的预期升温，提振了全球风险偏好。在此背景下，三星电子和SK海力士等韩国芯片制造商股价领涨，带动韩国股市整体反弹。地缘政治紧张局势的缓和预期降低了供应链中断风险。科技股，尤其是半导体板块，成为市场情绪回暖的主要受益者。",
+        "relations": [
+          {
+            "label": "三星电子",
+            "type": "entity",
+            "desc": "韩国股市反弹的主要驱动力"
+          },
+          {
+            "label": "SK海力士",
+            "type": "entity",
+            "desc": "韩国股市反弹的主要驱动力"
           },
           {
             "label": "伊朗战争",
             "type": "risk",
-            "desc": "主要的地缘政治风险事件"
+            "desc": "影响全球风险偏好的核心地缘政治事件"
           },
           {
-            "label": "成长股",
-            "type": "entity",
-            "desc": "市场反弹的狭窄基础"
-          },
-          {
-            "label": "地缘政治风险",
+            "label": "风险偏好",
             "type": "risk",
-            "desc": "影响全球资产定价的关键因素"
+            "desc": "驱动市场资金流向的关键情绪指标"
           }
         ],
         "analysis": {
           "strategic": [
-            "地缘政治冲突正从区域事件演变为全球金融市场的系统性风险传导节点。",
-            "依赖单一增长引擎或狭窄股票基础的市场，在外部冲击下表现出极高的脆弱性。"
+            "地缘政治风险的缓解是短期市场情绪和资金流向的主要催化剂，但其可持续性取决于实际停火进展。",
+            "韩国半导体巨头对全球供应链至关重要，其股价反弹反映了市场对地缘风险缓解后行业需求与供应链稳定的乐观预期。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "三星电子 (005930.KS)",
+          "risk": "HIGH",
+          "thesis": "作为对全球风险情绪高度敏感的龙头，若战争确实结束，将最大程度受益于供应链担忧缓解和估值修复。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1683934617016?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "中国出口导向型工厂活动放缓",
+        "fullTitle": "战争推高成本，中国出口导向型工厂活动在三月放缓",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "一项私人调查显示，由于成本大幅上升，中国出口导向型制造企业的活动在三月出现放缓。这与显示制造业整体改善的官方数据形成对比。成本上升主要源于持续的伊朗战争导致的原材料和物流价格压力。这表明外部冲击对中国经济的不同部门产生了分化影响。",
+        "relations": [
+          {
+            "label": "中国出口制造商",
+            "type": "entity",
+            "desc": "受成本冲击的直接主体"
+          },
+          {
+            "label": "伊朗战争",
+            "type": "risk",
+            "desc": "导致成本上升的根本原因"
+          },
+          {
+            "label": "供应链成本",
+            "type": "resource",
+            "desc": "影响企业利润的关键变量"
+          },
+          {
+            "label": "私人调查数据",
+            "type": "risk",
+            "desc": "揭示官方数据未覆盖的结构性问题"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "地缘冲突通过成本渠道对中国外向型经济部门产生滞后但显著的负面影响，削弱其价格竞争力。",
+            "官方与私人数据的分化提示中国经济内部复苏不均，政策支持可能需要更具针对性，而非全面宽松。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "韩国KOSPI指数或相关ETF",
+          "asset": "沪深300工业板块指数",
           "risk": "MEDIUM",
-          "thesis": "地缘政治风险暴露了韩国股市结构性弱点，依赖少数股票的反弹不可持续，市场可能面临回调。"
+          "thesis": "外部成本压力持续将挤压出口型工业企业的利润，该板块可能面临盈利下修和估值压力。"
         },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1519860131185?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "茅台提价推动股价大涨",
-        "fullTitle": "茅台提高旗舰酒价格后股价飙升",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "中国顶级白酒制造商贵州茅台宣布提高其旗舰产品飞天茅台的价格。此举提振了其盈利前景，推动股价创下约两个月来最大涨幅。这反映了消费龙头企业的定价能力对市场信心的直接影响。",
-        "relations": [
-          {
-            "label": "贵州茅台",
-            "type": "entity",
-            "desc": "中国高端白酒龙头企业"
-          },
-          {
-            "label": "飞天茅台",
-            "type": "resource",
-            "desc": "核心旗舰产品，具备强定价权"
-          },
-          {
-            "label": "定价权",
-            "type": "risk",
-            "desc": "衡量消费品牌护城河的关键指标"
-          },
-          {
-            "label": "消费板块",
-            "type": "entity",
-            "desc": "受品牌和定价影响的股票类别"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "中国核心消费品牌通过提价直接传导至资本市场估值，显示了其强大的品牌护城河和盈利可预测性。",
-            "在经济增长放缓背景下，具备定价权的必需消费品或高端消费品公司成为避险资产。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "贵州茅台 (600519.SS)",
-          "risk": "LOW",
-          "thesis": "提价直接增厚利润，验证了其强大的品牌护城河和定价能力，在弱经济周期中彰显防御性价值。"
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1641354933671?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "特朗普考虑退出战争，油跌股涨",
-        "fullTitle": "报道称特朗普考虑退出战争，油价下跌股市上涨",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "有报道称美国前总统特朗普考虑退出战争，此消息导致国际油价下跌，同时全球股市获得提振。这凸显了美国政治决策对全球大宗商品和风险资产的即时影响力。市场对地缘政治紧张局势缓和的预期做出积极反应。",
-        "relations": [
-          {
-            "label": "特朗普",
-            "type": "entity",
-            "desc": "影响地缘政治预期的关键政治人物"
-          },
-          {
-            "label": "原油",
-            "type": "resource",
-            "desc": "对地缘政治最敏感的大宗商品"
-          },
-          {
-            "label": "全球股市",
-            "type": "entity",
-            "desc": "风险偏好因战争预期变化而波动"
-          },
-          {
-            "label": "地缘政治预期",
-            "type": "risk",
-            "desc": "驱动短期市场波动的核心叙事"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "关键政治人物的政策倾向已成为全球资产定价的短期决定性变量之一，市场波动性加剧。",
-            "地缘政治风险溢价在油价中体现得最为直接和迅速，其变动是观察全球风险情绪的重要指标。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "标普500指数ETF",
-          "risk": "MEDIUM",
-          "thesis": "若战争风险显著降温，将降低经济不确定性并提振企业盈利预期，利好整体股市，尤其是对利率敏感的成长板块。"
-        },
-        "confidence": 85,
+        "confidence": 87,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1508310632295?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1526997117341?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "15%美国人愿为AI老板工作",
-        "fullTitle": "民调显示15%美国人愿意接受AI作为直接主管",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "一项奎尼皮亚克大学的民意调查显示，15%的美国人表示愿意从事一份由AI程序分配任务和制定日程的直接主管的工作。这反映了社会对AI在管理角色中应用的接受度正在萌芽，尽管目前仍属少数。",
-        "relations": [
-          {
-            "label": "AI管理",
-            "type": "tech",
-            "desc": "人工智能在组织管理中的应用"
-          },
-          {
-            "label": "劳动力市场",
-            "type": "entity",
-            "desc": "工作形态和雇佣关系正在演变"
-          },
-          {
-            "label": "社会接受度",
-            "type": "risk",
-            "desc": "新技术推广的关键非技术障碍"
-          },
-          {
-            "label": "自动化办公",
-            "type": "tech",
-            "desc": "提升效率的潜在方向"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "AI向企业管理层渗透的早期社会信号已出现，预示着未来工作场所关系和权力结构的潜在变革。",
-            "尽管接受度尚低，但该数据为开发企业级AI代理和管理软件提供了初步的市场验证和需求侧视角。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "企业级AI工作流/管理软件公司",
-          "risk": "HIGH",
-          "thesis": "AI渗透至管理职能是长期趋势，早期接受者数据表明存在细分市场，布局该赛道的公司可能享有先发优势。"
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1592406494959?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "LiteLLM与Delve断绝关系",
-        "fullTitle": "热门AI网关初创公司LiteLLM断绝与争议公司Delve关系",
+        "title": "Mercor遭勒索软件攻击",
+        "fullTitle": "AI招聘初创公司Mercor因开源项目漏洞遭网络攻击",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "热门AI网关初创公司LiteLLM已断绝与有争议的初创公司Delve的关系。此前，LiteLLM通过Delve获得了两项安全合规认证，但上周却成为严重凭证窃取恶意软件的受害者。此事凸显了AI供应链中的安全风险。",
+        "summary": "AI招聘初创公司Mercor确认遭遇网络安全事件。一个勒索黑客组织声称通过利用开源LiteLLM项目的漏洞，入侵了该公司系统并窃取了数据。此次事件凸显了第三方开源软件依赖所带来的供应链安全风险。对Mercor的运营、客户数据安全及声誉构成直接威胁。",
         "relations": [
+          {
+            "label": "Mercor",
+            "type": "entity",
+            "desc": "遭受攻击的AI招聘初创公司"
+          },
+          {
+            "label": "勒索软件组织",
+            "type": "entity",
+            "desc": "攻击实施与数据窃取者"
+          },
           {
             "label": "LiteLLM",
-            "type": "entity",
-            "desc": "提供AI模型统一接入服务的初创公司"
+            "type": "tech",
+            "desc": "存在漏洞并被利用的开源项目"
           },
           {
             "label": "供应链安全",
             "type": "risk",
-            "desc": "第三方服务引入的安全漏洞风险"
-          },
-          {
-            "label": "安全合规认证",
-            "type": "risk",
-            "desc": "企业信任基础，但可能被滥用或存在缺陷"
-          },
-          {
-            "label": "AI基础设施",
-            "type": "tech",
-            "desc": "支撑AI应用的关键底层服务"
+            "desc": "本次事件暴露的核心安全弱点"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI基础设施的快速扩张使得供应链安全成为行业发展的关键瓶颈和潜在系统性风险点。",
-            "初创公司为追求增长和合规速度，可能过度依赖第三方服务，从而引入不可控的安全隐患。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "过度依赖单一或可疑第三方服务的AI基础设施公司",
-          "risk": "HIGH",
-          "thesis": "安全事件将严重损害AI基础设施公司的信任度，引发客户流失和估值下调，尤其是安全措施不透明的公司。"
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1672916650173?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "前Coatue合伙人AI初创获巨额种子轮",
-        "fullTitle": "前Coatue合伙人为企业AI代理初创公司筹集6500万美元种子轮",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "一位前Coatue合伙人创立的专注于企业AI代理的初创公司，在起步阶段就完成了高达6500万美元的巨额种子轮融资。此轮融资吸引了众多投资者的关注和参与，表明市场对AI代理赛道及其团队背景的高度认可。",
-        "relations": [
-          {
-            "label": "企业AI代理",
-            "type": "tech",
-            "desc": "能自主执行复杂任务的企业级AI应用"
-          },
-          {
-            "label": "Coatue",
-            "type": "entity",
-            "desc": "知名投资机构，其背景具有信号意义"
-          },
-          {
-            "label": "巨额种子轮",
-            "type": "risk",
-            "desc": "当前AI投资热潮中的资本集中现象"
-          },
-          {
-            "label": "团队背景",
-            "type": "entity",
-            "desc": "投资者决策的关键非技术因素"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "资本正以空前规模涌入AI基础设施和应用的核心赛道，尤其是具备明星团队背景的项目，加剧了行业竞争和估值泡沫风险。",
-            "企业AI代理被视为下一个生产力突破点，大额早期融资旨在抢占生态位和人才，但同时也提高了成功预期和退出压力。"
+            "针对AI初创公司的网络攻击增多，表明其持有的数据和模型已成为高价值目标，网络安全支出需提升优先级。",
+            "开源软件漏洞被武器化，凸显了数字供应链的脆弱性，将促使企业加强软件成分分析和漏洞管理。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "头部风险投资基金或AI生态基金",
-          "risk": "MEDIUM",
-          "thesis": "通过投资顶级基金间接布局最具潜力的早期AI项目，尤其是企业级应用赛道，可以分散单一项目风险并捕捉行业增长红利。"
+          "asset": "网络安全ETF (如BUG, CIBR)",
+          "risk": "LOW",
+          "thesis": "此类事件持续发生将强化企业和政府对网络安全产品的需求，利好整个网络安全行业。"
         },
-        "confidence": 87,
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1613896170648?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "丰田风投部门任命新高管",
+        "fullTitle": "丰田Woven Capital任命新CIO和COO，聚焦未来出行",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "丰田汽车旗下的成长期风险投资部门Woven Capital任命了新的首席投资官和首席运营官。此次人事变动旨在加强其投资能力，以更好地寻找和投资于构建“未来出行”的初创公司。该部门重点关注太空、网络安全和自动驾驶等前沿领域。这反映了丰田通过外部创新巩固其未来交通领导地位的战略。",
+        "relations": [
+          {
+            "label": "丰田汽车",
+            "type": "entity",
+            "desc": "Woven Capital的母公司"
+          },
+          {
+            "label": "Woven Capital",
+            "type": "entity",
+            "desc": "丰田的成长期风险投资部门"
+          },
+          {
+            "label": "未来出行",
+            "type": "tech",
+            "desc": "涵盖自动驾驶、太空等领域的投资主题"
+          },
+          {
+            "label": "风险投资",
+            "type": "resource",
+            "desc": "丰田获取外部技术和创新的主要渠道"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "传统汽车巨头通过专业风投部门布局前沿科技，是应对行业颠覆、保持长期竞争力的关键战略举措。",
+            "高管任命显示丰田正系统化其风险投资活动，意图在自动驾驶和出行生态竞争中获取先发优势和关键技术。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "丰田汽车 (TM)",
+          "risk": "LOW",
+          "thesis": "通过风投积极布局未来技术，有助于丰田平滑转型风险，长期维持其行业龙头地位和估值。"
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1696328381848?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anthropic本月内再度出现人为事故",
+        "fullTitle": "Anthropic本周内第二次因人为操作引发严重问题",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "领先的AI公司Anthropic在本月内第二次遭遇因人为操作失误导致的严重运营问题。具体事故细节未完全披露，但“bork”一词暗示可能导致服务中断、数据错误或模型故障。一周内连续发生类似事件，暴露出公司在流程控制或人员培训方面存在缺陷。这对其服务可靠性、客户信任及品牌声誉构成重大风险。",
+        "relations": [
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "发生人为事故的AI公司"
+          },
+          {
+            "label": "人为操作失误",
+            "type": "risk",
+            "desc": "导致事故的直接原因"
+          },
+          {
+            "label": "运营可靠性",
+            "type": "risk",
+            "desc": "受到事件严重挑战的公司核心能力"
+          },
+          {
+            "label": "AI安全与治理",
+            "type": "tech",
+            "desc": "事件凸显的AI公司内部管理短板"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "对于提供关键AI服务的公司，内部操作风险已与技术风险同等重要，暴露出快速扩张中管理流程的滞后。",
+            "连续的人为事故可能削弱市场对其“安全、可靠”品牌形象的信心，在竞争激烈的AI基础模型领域构成战略弱点。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Anthropic (若上市) 或 其竞争对手(如OpenAI生态相关)",
+          "risk": "HIGH",
+          "thesis": "运营连续失误可能影响企业客户采用决策，导致市场份额流失，利好其更稳定的竞争对手。"
+        },
+        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1583564641773?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1618842168868?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Iran War Hits Korean Stocks",
-        "fullTitle": "Iran War Turns Once-Hot Korean Stock Trade Into Poor Bet",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The bullish sentiment on South Korean equities is weakening due to the Iran war. The conflict exposes the vulnerability of a market rally that was narrowly driven by a few growth stocks. This highlights geopolitical risks as a key factor for concentrated markets.",
+        "title": "Indonesia Public Float Reform",
+        "fullTitle": "Indonesia Offers Three-Year Timeline to Lift Public Float to 15%",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Indonesia's financial regulator is implementing reforms to increase market transparency by giving listed companies up to three years to raise their public float to a minimum of 15%. This policy aims to improve corporate governance and market liquidity. The gradual timeline provides flexibility for firms to comply without causing immediate market disruption. This move aligns with broader regional trends toward strengthening capital market frameworks.",
         "relations": [
           {
-            "label": "South Korean Equities",
-            "type": "asset",
-            "desc": "Stock market vulnerable to geopolitical shock"
-          },
-          {
-            "label": "Iran War",
-            "type": "risk",
-            "desc": "Geopolitical conflict causing market volatility"
-          },
-          {
-            "label": "Growth Stocks",
+            "label": "Indonesia Financial Services Authority (OJK)",
             "type": "entity",
-            "desc": "Narrow base of the previous rally"
+            "desc": "Regulator implementing the public float reform"
           },
           {
-            "label": "Geopolitical Risk",
+            "label": "Indonesian Listed Companies",
+            "type": "entity",
+            "desc": "Firms required to increase public shareholding"
+          },
+          {
+            "label": "Market Transparency",
             "type": "risk",
-            "desc": "Primary driver of current market sentiment"
+            "desc": "Primary goal of the regulatory reform"
+          },
+          {
+            "label": "Corporate Governance",
+            "type": "risk",
+            "desc": "Area expected to improve with higher public float"
+          },
+          {
+            "label": "ASEAN Capital Markets",
+            "type": "entity",
+            "desc": "Regional context for the regulatory development"
           }
         ],
         "analysis": {
           "strategic": [
-            "Geopolitical tensions are rapidly repricing risk in export-dependent Asian markets, revealing structural fragility.",
-            "Investor focus is shifting from growth narratives to macro stability, potentially triggering capital outflows from concentrated bets."
+            "The reform signals Indonesia's commitment to aligning its capital markets with international best practices, potentially attracting more foreign portfolio investment.",
+            "Mandated increases in public float could lead to significant secondary offerings over the next three years, creating both dilution risks and liquidity opportunities in the Indonesian equity market."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "South Korean equity indices (e.g., KOSPI) / specific overvalued growth stocks",
-          "risk": "HIGH",
-          "thesis": "The concentrated rally is highly susceptible to external geopolitical shocks, which are now materializing. Increased risk aversion and potential for broader de-risking will pressure valuations."
+          "action": "LONG",
+          "asset": "IDX Composite Index (IHSG) / Indonesian ETF (EIDO)",
+          "risk": "MEDIUM",
+          "thesis": "Regulatory improvements in transparency and governance are structurally positive for the Indonesian equity market's valuation and foreign investor appeal over the medium term."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1624125492990?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1695746866482?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Moutai Shares Surge on Price Hike",
-        "fullTitle": "Moutai Shares Surge After It Hikes Price of Flagship Liquor",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Kweichow Moutai's stock rose sharply following an announcement to increase prices for its flagship Feitian Moutai spirit. This strategic move is expected to directly boost the company's earnings and profit margins. The price hike reflects strong brand pricing power and consumer demand.",
-        "relations": [
-          {
-            "label": "Kweichow Moutai Co.",
-            "type": "entity",
-            "desc": "China's premier liquor maker"
-          },
-          {
-            "label": "Feitian Moutai",
-            "type": "resource",
-            "desc": "Flagship product with strong pricing power"
-          },
-          {
-            "label": "Price Increase",
-            "type": "action",
-            "desc": "Strategic move to boost earnings"
-          },
-          {
-            "label": "Consumer Staples",
-            "type": "sector",
-            "desc": "Sector demonstrating resilience and pricing power"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The price hike signals management's confidence in brand equity and inelastic demand, a bullish signal for premium consumer brands in China.",
-            "This action may set a precedent for the broader luxury goods sector, testing price elasticity in a recovering consumer environment."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Kweichow Moutai Co. (600519.SS)",
-          "risk": "MEDIUM",
-          "thesis": "Direct earnings uplift from price increase, coupled with strong brand moat and predictable demand, provides a clear near-term catalyst and reinforces long-term value."
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1589051858602?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Oil Drops on Potential War Exit",
-        "fullTitle": "Oil Falls, Stocks Gain on Report Trump Mulling War Exit",
+        "title": "Korean Chip Stocks Rebound",
+        "fullTitle": "Samsung, SK Hynix Lift Korean Stocks on Iran War-End Hopes",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Oil prices declined while equity markets gained following a report that former President Trump is considering an exit from a conflict. This indicates market sensitivity to geopolitical de-escalation narratives. A potential reduction in hostilities would lower risk premiums priced into oil.",
+        "summary": "South Korean equities, led by major chipmakers Samsung Electronics and SK Hynix, rebounded on growing market optimism that the Iran conflict may be nearing a resolution. The prospect of de-escalation revived global risk appetite, benefiting cyclical and tech sectors. This highlights the sensitivity of the Korean market, a key tech exporter, to geopolitical risk premiums. The rally was concentrated in semiconductor stocks, which are bellwethers for global tech demand.",
         "relations": [
           {
-            "label": "Crude Oil",
-            "type": "resource",
-            "desc": "Asset highly sensitive to geopolitical risk premium"
+            "label": "Samsung Electronics",
+            "type": "entity",
+            "desc": "Leading chipmaker driving market rebound"
           },
           {
-            "label": "Global Equities",
-            "type": "asset",
-            "desc": "Beneficiary of reduced geopolitical tension"
+            "label": "SK Hynix",
+            "type": "entity",
+            "desc": "Major memory chip producer benefiting from risk-on sentiment"
           },
           {
-            "label": "Geopolitical De-escalation",
+            "label": "Iran Conflict",
             "type": "risk",
-            "desc": "Potential scenario driving asset repricing"
+            "desc": "Geopolitical event affecting global risk appetite"
           },
           {
-            "label": "Risk Premium",
-            "type": "concept",
-            "desc": "Component of oil price vulnerable to news flow"
+            "label": "KOSPI Index",
+            "type": "entity",
+            "desc": "South Korean benchmark equity index"
+          },
+          {
+            "label": "Global Risk Appetite",
+            "type": "risk",
+            "desc": "Market sentiment driver linked to geopolitical developments"
           }
         ],
         "analysis": {
           "strategic": [
-            "Financial markets are highly reactive to political signaling, especially from key US figures, creating volatility around geopolitical assets.",
-            "A potential de-escalation would trigger a sector rotation from energy/defense to growth and cyclical stocks, impacting cross-asset correlations."
+            "The market reaction demonstrates the high beta of Korean tech stocks to geopolitical sentiment, creating tactical trading opportunities around conflict resolution headlines.",
+            "A sustained end to the Iran conflict would reduce energy and supply chain uncertainty, a significant tailwind for export-dependent economies like South Korea and its semiconductor sector."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Crude Oil Futures (e.g., CL)",
+          "action": "LONG",
+          "asset": "Samsung Electronics (005930 KS) / iShares MSCI South Korea ETF (EWY)",
           "risk": "HIGH",
-          "thesis": "The market has priced in a significant risk premium due to conflict. Any credible signal of de-escalation will lead to a rapid unwind of this premium, pressuring prices."
+          "thesis": "Korean chipmakers offer leveraged exposure to a reduction in the Middle East geopolitical risk premium, which would lower global economic uncertainty and support tech demand."
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1643326098387?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1620088884737?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "15% Open to AI Boss: Poll",
-        "fullTitle": "15% of Americans Open to Working for an AI Supervisor",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "A Quinnipiac University poll indicates 15% of Americans are willing to work under an AI supervisor that assigns tasks and sets schedules. This reflects early but notable acceptance of AI in managerial roles. The data points to evolving workplace norms and human-AI collaboration.",
-        "relations": [
-          {
-            "label": "AI Supervisor",
-            "type": "tech",
-            "desc": "Artificial intelligence in managerial/coordination roles"
-          },
-          {
-            "label": "Workforce Automation",
-            "type": "trend",
-            "desc": "Trend of integrating AI into workplace processes"
-          },
-          {
-            "label": "Human-AI Collaboration",
-            "type": "concept",
-            "desc": "Evolving dynamic in professional environments"
-          },
-          {
-            "label": "Quinnipiac University Poll",
-            "type": "entity",
-            "desc": "Source of public sentiment data"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This sentiment metric serves as a leading indicator for the potential adoption rate of enterprise AI agent and workflow automation platforms.",
-            "Resistance to AI management remains high (85%), indicating significant cultural and implementation hurdles for full-scale autonomous agent deployment in the near term."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Enterprise AI/Workflow Automation companies",
-          "risk": "MEDIUM",
-          "thesis": "Growing, albeit minority, acceptance of AI in core operational roles validates the long-term market for enterprise AI agents and intelligent process automation, despite adoption friction."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1608510119085?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "LiteLLM Cuts Ties with Delve",
-        "fullTitle": "AI Gateway LiteLLM Ditches Startup Delve After Security Breach",
+        "title": "China Factory Activity Slows",
+        "fullTitle": "China's Export Factory Activity Slows as War Lifts Costs",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "AI gateway startup LiteLLM has severed ties with Delve, a compliance startup, after falling victim to credential-stealing malware. The incident occurred despite LiteLLM having obtained security certifications through Delve. This highlights critical supply chain and third-party risk in the AI infrastructure layer.",
+        "impactLevel": "HIGH",
+        "summary": "A private survey indicates China's factory activity slowed in March for export-oriented firms, contrasting with an improving official manufacturing gauge. The divergence is attributed to surging costs for exporters, partly driven by the Iran war's impact on logistics and input prices. This highlights the uneven impact of geopolitical events across different segments of the Chinese economy. The data suggests external demand and cost pressures remain headwinds for China's export engine.",
         "relations": [
           {
-            "label": "LiteLLM",
+            "label": "China Exporters",
             "type": "entity",
-            "desc": "AI API gateway and management startup"
+            "desc": "Firms experiencing slowed activity and cost pressures"
           },
           {
-            "label": "Delve",
+            "label": "Caixin Manufacturing PMI",
             "type": "entity",
-            "desc": "Compliance/security startup involved in breach"
+            "desc": "Private survey showing slowdown"
           },
           {
-            "label": "Credential-Stealing Malware",
-            "type": "risk",
-            "desc": "Specific cybersecurity threat vector"
+            "label": "Official Manufacturing PMI",
+            "type": "entity",
+            "desc": "Government gauge showing improvement"
           },
           {
-            "label": "AI Infrastructure Security",
+            "label": "Input Cost Inflation",
             "type": "risk",
-            "desc": "Critical concern for enterprise AI adoption"
+            "desc": "Key pressure point from geopolitical disruption"
           },
           {
-            "label": "Supply Chain Risk",
-            "type": "risk",
-            "desc": "Risk from third-party vendors and partners"
+            "label": "Global Supply Chain",
+            "type": "resource",
+            "desc": "System affected by conflict, impacting Chinese exports"
           }
         ],
         "analysis": {
           "strategic": [
-            "Security incidents at key infrastructure providers like LiteLLM could slow enterprise AI adoption by reinforcing concerns about data and access control.",
-            "This event will accelerate demand for integrated, in-house security solutions within the AI toolchain, benefiting established security vendors over fragmented startups."
+            "The divergence between private and official PMI data points to potential methodological differences or a focus on different firm sizes, requiring careful interpretation of China's economic momentum.",
+            "Persistent cost pressures on Chinese exporters could accelerate the diversification of global manufacturing supply chains away from China, particularly for sensitive or logistics-heavy goods."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Fragmented AI infra/security startups",
+          "asset": "Renminbi (CNY) / Chinese Export-Oriented Equity ETFs",
           "risk": "MEDIUM",
-          "thesis": "High-profile security failures in the AI startup ecosystem will drive consolidation and preference for vendors with proven, robust security postures, hurting smaller, specialized players."
+          "thesis": "Sustained cost pressures and weak external demand for Chinese exports could weigh on corporate earnings and currency strength, especially if the official PMI is overstating resilience."
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1575488861318?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1636695731646?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "$65M Seed for AI Agent Startup",
-        "fullTitle": "Ex-Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup",
+        "title": "Mercor Hit by Cyberattack",
+        "fullFullTitle": "Mercor Hit by Cyberattack Tied to LiteLLM Compromise",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "A former partner at Coatue Management has raised a massive $65 million seed round for a new enterprise AI agent startup. The unusually large seed round indicates intense investor interest and confidence in the founding team's pedigree. It signals strong capital flow into foundational AI agent technology.",
+        "summary": "AI recruiting startup Mercor confirmed a security incident after an extortion hacking crew claimed credit for stealing company data. The attack was linked to a compromise of the open-source LiteLLM project, which Mercor utilizes. This incident highlights the growing supply chain security risks associated with integrating third-party and open-source AI tools. The involvement of an extortion group raises the likelihood of data being leaked or sold if ransom demands are not met.",
         "relations": [
           {
-            "label": "Enterprise AI Agents",
-            "type": "tech",
-            "desc": "Autonomous AI systems for business processes"
-          },
-          {
-            "label": "Coatue Management",
+            "label": "Mercor",
             "type": "entity",
-            "desc": "Prominent hedge fund and tech investor"
+            "desc": "AI recruiting startup victim of the attack"
           },
           {
-            "label": "Seed Funding",
-            "type": "action",
-            "desc": "Unusually large round indicating high conviction"
+            "label": "LiteLLM",
+            "type": "tech",
+            "desc": "Open-source project that was compromised, leading to the breach"
           },
           {
-            "label": "AI Venture Capital",
-            "type": "trend",
-            "desc": "Heavy investment flow into core AI technologies"
+            "label": "Extortion Hacking Crew",
+            "type": "entity",
+            "desc": "Threat actor claiming responsibility"
+          },
+          {
+            "label": "Supply Chain Attack",
+            "type": "risk",
+            "desc": "Attack vector targeting third-party dependencies"
+          },
+          {
+            "label": "AI/ML Security",
+            "type": "tech",
+            "desc": "Domain of cybersecurity relevant to the incident"
           }
         ],
         "analysis": {
           "strategic": [
-            "The scale of this seed round reflects a 'land grab' mentality among VCs for what they perceive as foundational platform-level AI agent technology.",
-            "Founder pedigree from top-tier funds is becoming a critical differentiator for attracting capital in the hyper-competitive AI startup landscape."
+            "This attack underscores a critical vulnerability in the AI startup ecosystem: reliance on rapidly adopted open-source tools without robust security vetting, creating systemic risks.",
+            "The incident will likely accelerate demand for and investment in cybersecurity solutions focused on AI/ML supply chain integrity and model security."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Venture Capital funds focused on AI infrastructure",
-          "risk": "HIGH",
-          "thesis": "Massive early-stage rounds for elite teams indicate where sophisticated capital sees the highest potential for platform-level returns in AI, making exposure to top-tier VC funds a proxy bet."
+          "asset": "Cybersecurity Stocks (e.g., CRWD, PANW, S)",
+          "risk": "LOW",
+          "thesis": "High-profile attacks on AI companies via software supply chains reinforce the enduring growth thesis for enterprise cybersecurity, particularly in emerging sub-sectors like AI security."
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1681611742466?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Woven Capital Appoints New Leaders",
+        "fullTitle": "Toyota's Woven Capital Appoints New CIO and COO",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Toyota's growth-stage venture capital arm, Woven Capital, has appointed a new Chief Investment Officer and Chief Operating Officer. The leadership refresh is part of a push to find and fund the 'future of mobility.' The fund focuses on strategic investments in frontier areas including space, cybersecurity, and autonomous driving. This move signals Toyota's continued commitment to leveraging venture capital for strategic innovation beyond its core automotive business.",
+        "relations": [
+          {
+            "label": "Woven Capital",
+            "type": "entity",
+            "desc": "Toyota's growth-stage venture capital arm"
+          },
+          {
+            "label": "Toyota Motor Corporation",
+            "type": "entity",
+            "desc": "Parent company and funder of the VC arm"
+          },
+          {
+            "label": "Future of Mobility",
+            "type": "tech",
+            "desc": "Strategic investment theme"
+          },
+          {
+            "label": "Autonomous Driving",
+            "type": "tech",
+            "desc": "Key focus area for investments"
+          },
+          {
+            "label": "Corporate Venture Capital (CVC)",
+            "type": "entity",
+            "desc": "Model being employed by Toyota"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The leadership change at Woven Capital indicates Toyota is formalizing and potentially accelerating its strategic bet on deep-tech ventures that could redefine transportation and adjacent sectors.",
+            "Toyota's focused investment themes (space, cyber, autonomy) reveal a strategy to build an integrated ecosystem for next-generation mobility, securing technology optionality outside traditional R&D."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Toyota Motor Corp (TM) / Mobility & Autonomy Tech ETFs",
+          "risk": "LOW",
+          "thesis": "Toyota's disciplined, thematic venture investing through Woven Capital provides strategic hedging and growth exposure to disruptive technologies, enhancing its long-term competitive positioning."
         },
         "confidence": 87,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1659462952028?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anthropic Incident Recurrence",
+        "fullTitle": "Anthropic Experiences Second Human Error Incident",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "AI company Anthropic reportedly experienced a second significant operational incident caused by human error within a single week. The details of the 'borked' incident are unspecified but imply a disruption to services or internal systems. Recurring human errors at a leading AI firm highlight operational maturity and internal control challenges even at technologically advanced companies. Such incidents can impact service reliability, client trust, and operational risk assessments.",
+        "relations": [
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "AI company experiencing repeated incidents"
+          },
+          {
+            "label": "Human Error",
+            "type": "risk",
+            "desc": "Root cause of the operational failures"
+          },
+          {
+            "label": "Operational Risk",
+            "type": "risk",
+            "desc": "Category of risk highlighted by the events"
+          },
+          {
+            "label": "AI Service Reliability",
+            "type": "tech",
+            "desc": "Aspect potentially impacted by the incidents"
+          },
+          {
+            "label": "Claude AI",
+            "type": "tech",
+            "desc": "Anthropic's primary AI model/service potentially affected"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Repeated operational failures suggest potential scaling challenges at Anthropic, possibly related to rapid growth outpacing process and control implementation, a common risk for hyped AI startups.",
+            "The incidents may provide a competitive advantage to rivals with more mature operations (e.g., OpenAI, Google) in attracting enterprise clients for whom reliability and governance are paramount."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Anthropic (Private Market Valuation Proxy via AI ETF)",
+          "risk": "HIGH",
+          "thesis": "Recurring operational missteps could damage Anthropic's reputation for reliability, a critical factor for enterprise adoption, potentially hindering its ability to capture market share versus more established peers."
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1604470514320?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1635266542397?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Guerra Irán impacta bolsa coreana",
-        "fullTitle": "Guerra Irán convierte apuesta caliente coreana en mala inversión",
+        "title": "Indonesia eleva flotación pública",
+        "fullTitle": "Indonesia da plazo de 3 años para elevar flotación pública al 15%",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El conflicto en Irán está exponiendo la vulnerabilidad del mercado bursátil surcoreano, que había experimentado un repunte estrechamente construido sobre unas pocas acciones de crecimiento. El coro alcista sobre las acciones surcoreanas se está resquebrajando. Esto revela la dependencia excesiva del rally en sectores específicos y su sensibilidad a shocks geopolíticos externos.",
-        "relations": [
-          {
-            "label": "Bolsa de Valores de Corea del Sur",
-            "type": "entity",
-            "desc": "Mercado bursátil afectado por la guerra"
-          },
-          {
-            "label": "Guerra de Irán",
-            "type": "risk",
-            "desc": "Conflicto geopolítico desestabilizador"
-          },
-          {
-            "label": "Acciones de crecimiento",
-            "type": "asset",
-            "desc": "Sector vulnerable del rally coreano"
-          },
-          {
-            "label": "Riesgo geopolítico",
-            "type": "risk",
-            "desc": "Factor principal de volatilidad del mercado"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El conflicto destaca la interdependencia de los mercados asiáticos y la volatilidad inducida por eventos en Oriente Medio.",
-            "Revela la fragilidad de las estrategias de inversión concentradas en nichos tecnológicos sin cobertura geopolítica."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETF EWY (iShares MSCI South Korea)",
-          "risk": "MEDIUM",
-          "thesis": "La exposición concentrada en acciones de crecimiento y la sensibilidad a la prima de riesgo geopolítico presionarán a la baja el índice en el corto plazo."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1567974162747?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Moutai sube tras aumento de precio",
-        "fullTitle": "Acciones de Moutai se disparan tras subir precio de licor",
-        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Las acciones de Kweichow Moutai Co. registraron su mayor alza en dos meses después de que el principal fabricante de licor de China anunciara un aumento de precio para su espíritu insignia Feitian Moutai. Este movimiento está dirigido a impulsar sus perspectivas de ganancias. La reacción del mercado valida el poder de marca y la capacidad de fijación de precios de la empresa en el mercado de consumo premium chino.",
+        "summary": "Indonesia implementará reformas regulatorias que otorgan hasta tres años a empresas listadas para aumentar su flotación pública al 15% mínimo. Esta medida busca mejorar la transparencia y liquidez del mercado bursátil. Representa un cambio estructural en los requisitos de gobierno corporativo. Las empresas afectadas deberán ajustar sus estructuras de capital gradualmente.",
         "relations": [
           {
-            "label": "Kweichow Moutai Co.",
+            "label": "Indonesia",
             "type": "entity",
-            "desc": "Fabricante de licor premium chino"
+            "desc": "Regulador del mercado de valores"
           },
           {
-            "label": "Feitian Moutai",
+            "label": "Flotación pública",
             "type": "resource",
-            "desc": "Producto bandera de licor"
+            "desc": "Porcentaje de acciones en manos públicas"
           },
           {
-            "label": "Consumo premium en China",
+            "label": "Empresas listadas",
             "type": "entity",
-            "desc": "Segmento de mercado objetivo"
+            "desc": "Compañías afectadas por la regulación"
           },
           {
-            "label": "Poder de fijación de precios",
+            "label": "Transparencia",
             "type": "risk",
-            "desc": "Ventaja competitiva clave"
+            "desc": "Objetivo regulatorio principal"
+          },
+          {
+            "label": "Reformas bursátiles",
+            "type": "risk",
+            "desc": "Cambios en regulación financiera"
           }
         ],
         "analysis": {
           "strategic": [
-            "La medida refuerza la narrativa de resiliencia del consumo de gama alta en China frente a la desaceleración económica.",
-            "Demuestra la efectividad de las estrategias de gestión de marcas de lujo para proteger márgenes en entornos inflacionarios."
+            "La medida podría aumentar la liquidez y atractivo del mercado indonesio para inversores internacionales",
+            "Presión regulatoria sobre empresas familiares o con estructuras de propiedad concentradas"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "600519.SS (Kweichow Moutai)",
-          "risk": "LOW",
-          "thesis": "El aumento de precios impulsará directamente los márgenes y los ingresos, sosteniendo la valoración premium en un sector defensivo."
-        },
-        "confidence": 90,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1623811531439?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Petróleo cae por posible salida de guerra",
-        "fullTitle": "Petróleo cae, acciones suben por posible salida de guerra de Trump",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Los precios del petróleo caen y las acciones globales ganan terreno tras un informe que sugiere que el expresidente Trump estaría considerando una salida del conflicto en Irán si regresa al poder. Esta noticia reduce la prima de riesgo geopolítico incorporada en los mercados de commodities. La perspectiva de una desescalada genera alivio en los mercados de renta variable y presión bajista en el crudo.",
-        "relations": [
-          {
-            "label": "Precio del petróleo",
-            "type": "resource",
-            "desc": "Commodity sensible a la geopolítica"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Expresidente de EE.UU., factor político"
-          },
-          {
-            "label": "Guerra de Irán",
-            "type": "risk",
-            "desc": "Conflicto geopolítico central"
-          },
-          {
-            "label": "Prima de riesgo geopolítico",
-            "type": "risk",
-            "desc": "Factor de mercado que se reduce"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La política exterior de EE.UU. se mantiene como el principal catalizador de los precios de la energía y la aversión al riesgo global.",
-            "Los mercados descuentan rápidamente cambios en el panorama político, mostrando alta sensibilidad a narrativas de desescalada."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Futuros de crudo WTI",
-          "risk": "HIGH",
-          "thesis": "La mera especulación sobre una resolución pacífica puede provocar una corrección significativa en los precios, que habían subido por temores de guerra."
+          "asset": "IDX Composite Index",
+          "risk": "MEDIUM",
+          "thesis": "Mayor transparencia y liquidez deberían mejorar valoraciones a largo plazo"
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1509110869823?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1652077634506?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "15% de estadounidenses aceptarían jefe IA",
-        "fullTitle": "15% de estadounidenses trabajarían para un jefe IA, según encuesta",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Una encuesta de la Universidad Quinnipiac revela que el 15% de los estadounidenses estarían dispuestos a tener un trabajo donde su supervisor directo fuera un programa de IA que asignara tareas y estableciera horarios. Esta cifra ofrece una instantánea temprana de la aceptación social hacia la automatización de la gestión. El dato subraya un cambio cultural incipiente pero significativo en la relación laboral humano-máquina.",
+        "title": "Chipmakers impulsan bolsa coreana",
+        "fullTitle": "Samsung y SK Hynix impulsan bolsa coreana con esperanzas sobre Irán",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Las acciones surcoreanas se recuperaron lideradas por fabricantes de chips ante expectativas de posible fin del conflicto en Irán. Samsung y SK Hynix fueron los principales impulsores del repunte. El renovado apetito por riesgo refleja sensibilidad geopolítica de los mercados. La industria tecnológica coreana muestra vulnerabilidad a tensiones en Medio Oriente.",
         "relations": [
           {
-            "label": "Supervisión por IA",
-            "type": "tech",
-            "desc": "Automatización de roles gerenciales"
-          },
-          {
-            "label": "Fuerza laboral estadounidense",
+            "label": "Samsung",
             "type": "entity",
-            "desc": "Población encuestada"
+            "desc": "Principal fabricante de chips surcoreano"
           },
           {
-            "label": "Universidad Quinnipiac",
+            "label": "SK Hynix",
             "type": "entity",
-            "desc": "Entidad que realizó la encuesta"
+            "desc": "Segundo mayor fabricante de memoria"
           },
           {
-            "label": "Cambio cultural laboral",
+            "label": "Bolsa de Corea",
+            "type": "resource",
+            "desc": "Mercado bursátil afectado"
+          },
+          {
+            "label": "Conflicto Irán",
             "type": "risk",
-            "desc": "Tendencia social a largo plazo"
+            "desc": "Factor geopolítico clave"
+          },
+          {
+            "label": "Semiconductores",
+            "type": "tech",
+            "desc": "Sector impulsor del mercado"
           }
         ],
         "analysis": {
           "strategic": [
-            "La aceptación, aunque minoritaria, crea un terreno fértil para startups de software de gestión y productividad basadas en IA.",
-            "Señala una reducción gradual de las barreras psicológicas para la adopción de IA en entornos de trabajo colaborativo."
+            "La resolución del conflicto iraní podría reducir primas de riesgo en mercados tecnológicos globales",
+            "Corea del Sur mantiene exposición significativa a shocks geopolíticos a través de su sector exportador"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Sector de software de productividad y HCM (Human Capital Management)",
+          "asset": "Samsung Electronics (005930 KS)",
           "risk": "MEDIUM",
-          "thesis": "La creciente aceptación social de la IA en gestión impulsará la demanda de plataformas que integren estas capacidades, beneficiando a líderes como MSFT (Microsoft 365 Copilot) y proveedores especializados."
+          "thesis": "Alivio geopolítico beneficiaría a exportadores tecnológicos coreanos"
         },
         "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1673674111330?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1603125368351?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "LiteLLM abandona a startup polémica Delve",
-        "fullTitle": "Startup de puerta de enlace IA LiteLLM abandona a polémica Delve",
+        "title": "Actividad fabril china se desacelera",
+        "fullTitle": "Actividad fabril china se desacelera por costos de guerra para exportadores",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "LiteLLM, una popular startup de puerta de enlace para IA, ha cortado lazos con la controvertida startup Delve, a través de la cual había obtenido dos certificaciones de cumplimiento de seguridad. La decisión se produce después de que LiteLLM fuera víctima de un malware horrible que robaba credenciales la semana pasada. El incidente destaca los riesgos de seguridad en la cadena de suministro de la IA y la importancia de la diligencia debida con los socios.",
+        "impactLevel": "HIGH",
+        "summary": "La actividad manufacturera china se desaceleró en marzo para empresas exportadoras debido al aumento de costos vinculados al conflicto en Irán. Una encuesta privada contradice datos oficiales que mostraban mejora. Los exportadores enfrentan presión de costos en cadena de suministro. La divergencia de datos sugiere fragilidad en la recuperación económica.",
         "relations": [
           {
-            "label": "LiteLLM",
+            "label": "China",
             "type": "entity",
-            "desc": "Startup de puerta de enlace para modelos de IA"
+            "desc": "Economía manufacturera afectada"
           },
           {
-            "label": "Delve",
+            "label": "Exportadores chinos",
             "type": "entity",
-            "desc": "Startup de cumplimiento de seguridad"
+            "desc": "Sector impactado por costos"
           },
           {
-            "label": "Malware roba-credenciales",
+            "label": "Conflicto Irán",
             "type": "risk",
-            "desc": "Amenaza de ciberseguridad específica"
+            "desc": "Causa del aumento de costos"
           },
           {
-            "label": "Cumplimiento de seguridad",
-            "type": "risk",
-            "desc": "Área de riesgo operativo y regulatorio"
+            "label": "Cadena de suministro",
+            "type": "resource",
+            "desc": "Infraestructura logística afectada"
+          },
+          {
+            "label": "PMI manufacturero",
+            "type": "resource",
+            "desc": "Indicador económico clave"
           }
         ],
         "analysis": {
           "strategic": [
-            "El incidente enfatiza la criticidad de la ciberseguridad en la infraestructura de IA empresarial, lo que puede acelerar la consolidación hacia proveedores establecidos.",
-            "Generará un escrutinio regulatorio y de los clientes sobre los procesos de certificación de seguridad de terceros en el ecosistema de IA."
+            "La dependencia china de exportaciones la hace vulnerable a disrupciones geopolíticas en rutas comerciales",
+            "Divergencia entre datos oficiales y privados sugiere posible manipulación estadística o diferencias metodológicas"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Startups de infraestructura de IA con modelos de seguridad dependientes de terceros",
+          "asset": "iShares China Large-Cap ETF (FXI)",
           "risk": "HIGH",
-          "thesis": "Los inversiones valorarán negativamente a las empresas con vulnerabilidades en la cadena de suministro de seguridad, favoreciendo a aquellas con controles internos robustos."
+          "thesis": "Presión sobre exportadores y datos contradictorios indican debilidad económica"
         },
-        "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1597175041579?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 84,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1635937262700?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Ex socio de Coatue recauda $65M semilla para agente IA",
-        "fullTitle": "Ex socio de Coatue recauda enorme semilla de $65M para startup de agente IA empresarial",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Un ex socio del fondo de capital de riesgo Coatue Management ha recaudado una ronda semilla masiva de 65 millones de dólares para una startup de agentes de IA empresarial. El tamaño inusual de la ronda desde el inicio atrajo la atención y participación de los inversores. Este movimiento señala la intensa competencia y las altas expectativas en el espacio emergente de los agentes de IA autónomos para empresas.",
+        "title": "Mercor sufre ciberataque por LiteLLM",
+        "fullTitle": "Mercor sufre ciberataque vinculado a compromiso de proyecto LiteLLM",
+        "classification": "TOP SECRET",
+        "impactLevel": "CRITICAL",
+        "summary": "La startup de reclutamiento con IA Mercor confirmó un incidente de seguridad después de que un grupo hacker de extorsión se atribuyera el robo de datos. El ataque está vinculado al compromiso del proyecto de código abierto LiteLLM. Este caso expone vulnerabilidades en la cadena de suministro de software de IA. Representa un riesgo sistémico para empresas que dependen de bibliotecas de código abierto.",
         "relations": [
           {
-            "label": "Coatue Management",
+            "label": "Mercor",
             "type": "entity",
-            "desc": "Fondo de capital de riesgo de renombre"
+            "desc": "Startup de reclutamiento con IA afectada"
           },
           {
-            "label": "Agentes de IA empresarial",
+            "label": "LiteLLM",
             "type": "tech",
-            "desc": "Nueva categoría de software de automatización"
+            "desc": "Proyecto de código abierto comprometido"
           },
           {
-            "label": "Ronda semilla mega",
-            "type": "resource",
-            "desc": "Financiación inusualmente grande en etapa temprana"
+            "label": "Ciberataque",
+            "type": "risk",
+            "desc": "Incidente de seguridad grave"
           },
           {
-            "label": "Capital de riesgo",
-            "type": "entity",
-            "desc": "Fuente de financiación y validación del mercado"
+            "label": "Cadena de suministro de software",
+            "type": "risk",
+            "desc": "Vector de ataque explotado"
+          },
+          {
+            "label": "IA",
+            "type": "tech",
+            "desc": "Tecnología central de la empresa"
           }
         ],
         "analysis": {
           "strategic": [
-            "Refleja la creencia de los inversores institucionales en que los 'agentes de IA' serán la próxima capa fundamental del software empresarial.",
-            "Establece un nuevo listón para las valoraciones en etapas tempranas en IA, lo que podría inflar burbujas en segmentos específicos."
+            "Los ataques a la cadena de suministro de código abierto representan una amenaza creciente para el ecosistema de IA",
+            "Este incidente podría acelerar regulaciones de seguridad para software de código abierto en aplicaciones empresariales"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas de IA con dependencia de código abierto",
+          "risk": "HIGH",
+          "thesis": "Mayor escrutinio de seguridad afectará valoraciones de startups de IA vulnerables"
+        },
+        "confidence": 88,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1550983826490?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Woven Capital nombra nuevos ejecutivos",
+        "fullTitle": "Woven Capital de Toyota nombra nuevo CIO y COO para movilidad futura",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Woven Capital, el brazo de capital de riesgo de Toyota para etapas de crecimiento, designó nuevo Director de Inversiones y Director de Operaciones. La firma se enfoca en espacios, ciberseguridad y conducción autónoma. Los nombramientos reflejan impulso estratégico hacia la 'movilidad del futuro'. Toyota fortalece su apuesta por tecnologías de transporte avanzadas.",
+        "relations": [
+          {
+            "label": "Toyota",
+            "type": "entity",
+            "desc": "Fabricante automotriz matriz"
+          },
+          {
+            "label": "Woven Capital",
+            "type": "entity",
+            "desc": "Brazo de capital de riesgo"
+          },
+          {
+            "label": "Movilidad futura",
+            "type": "tech",
+            "desc": "Enfoque de inversión estratégica"
+          },
+          {
+            "label": "Conducción autónoma",
+            "type": "tech",
+            "desc": "Área de inversión clave"
+          },
+          {
+            "label": "Espacio",
+            "type": "tech",
+            "desc": "Sector emergente de inversión"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Toyota está diversificando su estrategia más allá de vehículos tradicionales hacia ecosistemas de movilidad integrales",
+            "Los cambios directivos indican aceleración en despliegue de capital hacia tecnologías disruptivas"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Ecosistema de plataformas de desarrollo de agentes de IA y modelos de lenguaje grandes (LLMs)",
-          "risk": "MEDIUM",
-          "thesis": "La afluencia masiva de capital catalizará la innovación y la adopción en el espacio de agentes de IA, beneficiando a proveedores de infraestructura subyacente y modelos base."
+          "asset": "Toyota Motor Corp (7203 JT)",
+          "risk": "LOW",
+          "thesis": "Estrategia de inversión en tecnología posiciona bien para transición vehicular"
         },
         "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1586819757928?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Problemas humanos en Anthropic",
+        "fullTitle": "Anthropic enfrenta problemas humanos por segunda vez en semana",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Anthropic experimentó su segundo incidente significativo causado por error humano esta semana. Los detalles específicos no fueron revelados pero sugieren vulnerabilidades operacionales. La repetición de incidentes plantea dudas sobre controles internos y resiliencia operativa. Empresas de IA enfrentan riesgos únicos de factor humano en operaciones críticas.",
+        "relations": [
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "Empresa de IA afectada por incidentes"
+          },
+          {
+            "label": "Error humano",
+            "type": "risk",
+            "desc": "Causa raíz del problema"
+          },
+          {
+            "label": "Operaciones",
+            "type": "resource",
+            "desc": "Área afectada por incidentes"
+          },
+          {
+            "label": "IA",
+            "type": "tech",
+            "desc": "Sector de la empresa"
+          },
+          {
+            "label": "Controles internos",
+            "type": "risk",
+            "desc": "Área de posible deficiencia"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los errores humanos repetidos en empresas de IA de élite sugieren desafíos de escalabilidad operacional",
+            "Este patrón podría afectar la percepción de madurez y confiabilidad de startups de IA frente a competidores establecidos"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Competidores directos de Anthropic",
+          "risk": "HIGH",
+          "thesis": "Problemas operacionales recurrentes podrían erosionar ventaja competitiva"
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1654943168180?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1628059189084?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
