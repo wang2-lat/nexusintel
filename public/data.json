@@ -1,863 +1,863 @@
 {
-  "generated_at": "2026-04-01T02:50:08.957702",
+  "generated_at": "2026-04-02T02:34:41.767138",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "印尼提高上市公司公众持股比例",
-        "fullTitle": "印尼给予上市公司三年时间将公众持股比例提升至15%",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "印尼金融监管机构宣布，将给予部分上市公司最长三年时间，将其公众持股比例提升至至少15%。此举是印尼资本市场改革的一部分，旨在提升市场透明度和流动性。该政策可能对未达标公司的股价和融资活动产生影响。长期来看，有助于增强印尼资本市场的吸引力和稳定性。",
-        "relations": [
-          {
-            "label": "印尼金融监管机构",
-            "type": "entity",
-            "desc": "政策制定与执行主体"
-          },
-          {
-            "label": "上市公司",
-            "type": "entity",
-            "desc": "政策直接影响对象"
-          },
-          {
-            "label": "市场透明度",
-            "type": "risk",
-            "desc": "政策改革的核心目标"
-          },
-          {
-            "label": "流动性",
-            "type": "resource",
-            "desc": "预期提升的市场属性"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "印尼此举旨在与国际市场标准接轨，提升其新兴市场的投资评级和对外资的吸引力。",
-            "政策可能引发部分公司通过增发或减持来满足要求，短期内可能带来市场波动和融资活动增加。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "印尼雅加达综合指数 (JCI) ETF",
-          "risk": "MEDIUM",
-          "thesis": "监管改革长期利好市场健康发展，增强外资信心，有望推动指数长期温和上行。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1649707374345?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "芯片股带动韩股反弹",
-        "fullTitle": "伊朗战争结束预期升温，三星、SK海力士带动韩股反弹",
+        "title": "特朗普伊朗警告引发市场波动",
+        "fullTitle": "特朗普重申伊朗警告，分析师称或引发更多市场波动",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "市场对伊朗战争可能接近尾声的预期升温，提振了全球风险偏好。在此背景下，三星电子和SK海力士等韩国芯片制造商股价领涨，带动韩国股市整体反弹。地缘政治紧张局势的缓和预期降低了供应链中断风险。科技股，尤其是半导体板块，成为市场情绪回暖的主要受益者。",
+        "summary": "特朗普总统警告将在两到三周内“极其严厉”地打击伊朗，导致市场紧张情绪加剧。股市下跌，美元走强，因交易员对战争结束的明确信号感到失望。地缘政治不确定性持续影响全球风险资产定价。市场对中东局势的清晰度预期落空，避险情绪与风险规避行为并存。",
         "relations": [
           {
-            "label": "三星电子",
+            "label": "特朗普",
             "type": "entity",
-            "desc": "韩国股市反弹的主要驱动力"
+            "desc": "美国总统，地缘政治风险主要来源"
           },
           {
-            "label": "SK海力士",
+            "label": "伊朗",
             "type": "entity",
-            "desc": "韩国股市反弹的主要驱动力"
+            "desc": "中东地缘政治冲突核心国家"
           },
           {
-            "label": "伊朗战争",
-            "type": "risk",
-            "desc": "影响全球风险偏好的核心地缘政治事件"
-          },
-          {
-            "label": "风险偏好",
-            "type": "risk",
-            "desc": "驱动市场资金流向的关键情绪指标"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "地缘政治风险的缓解是短期市场情绪和资金流向的主要催化剂，但其可持续性取决于实际停火进展。",
-            "韩国半导体巨头对全球供应链至关重要，其股价反弹反映了市场对地缘风险缓解后行业需求与供应链稳定的乐观预期。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "三星电子 (005930.KS)",
-          "risk": "HIGH",
-          "thesis": "作为对全球风险情绪高度敏感的龙头，若战争确实结束，将最大程度受益于供应链担忧缓解和估值修复。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1683934617016?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "中国出口导向型工厂活动放缓",
-        "fullTitle": "战争推高成本，中国出口导向型工厂活动在三月放缓",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "一项私人调查显示，由于成本大幅上升，中国出口导向型制造企业的活动在三月出现放缓。这与显示制造业整体改善的官方数据形成对比。成本上升主要源于持续的伊朗战争导致的原材料和物流价格压力。这表明外部冲击对中国经济的不同部门产生了分化影响。",
-        "relations": [
-          {
-            "label": "中国出口制造商",
-            "type": "entity",
-            "desc": "受成本冲击的直接主体"
-          },
-          {
-            "label": "伊朗战争",
-            "type": "risk",
-            "desc": "导致成本上升的根本原因"
-          },
-          {
-            "label": "供应链成本",
+            "label": "美元",
             "type": "resource",
-            "desc": "影响企业利润的关键变量"
+            "desc": "避险情绪推动走强"
           },
           {
-            "label": "私人调查数据",
+            "label": "股市",
+            "type": "resource",
+            "desc": "风险资产，因地缘政治不确定性承压"
+          },
+          {
+            "label": "地缘政治风险",
             "type": "risk",
-            "desc": "揭示官方数据未覆盖的结构性问题"
+            "desc": "驱动市场波动的核心宏观风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "地缘冲突通过成本渠道对中国外向型经济部门产生滞后但显著的负面影响，削弱其价格竞争力。",
-            "官方与私人数据的分化提示中国经济内部复苏不均，政策支持可能需要更具针对性，而非全面宽松。"
+            "美国对伊朗政策的模糊性将持续为能源与金融市场注入波动性，影响全球资本流动。",
+            "地缘政治紧张局势的常态化可能促使部分主权基金与长期资本重新评估其在新兴市场的风险敞口。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "沪深300工业板块指数",
+          "asset": "MSCI新兴市场指数相关ETF",
           "risk": "MEDIUM",
-          "thesis": "外部成本压力持续将挤压出口型工业企业的利润，该板块可能面临盈利下修和估值压力。"
+          "thesis": "地缘政治紧张局势升级将加剧新兴市场资本外流与风险溢价上升，尤其影响与中东关联度高的地区。"
         },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1526997117341?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1639152040236?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Mercor遭勒索软件攻击",
-        "fullTitle": "AI招聘初创公司Mercor因开源项目漏洞遭网络攻击",
+        "title": "特朗普信号模糊致金价下跌",
+        "fullTitle": "特朗普就伊朗战争决议发出矛盾信号，黄金价格下跌",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "AI招聘初创公司Mercor确认遭遇网络安全事件。一个勒索黑客组织声称通过利用开源LiteLLM项目的漏洞，入侵了该公司系统并窃取了数据。此次事件凸显了第三方开源软件依赖所带来的供应链安全风险。对Mercor的运营、客户数据安全及声誉构成直接威胁。",
+        "summary": "美国总统特朗普就中东战争决议发表备受期待的讲话，但未提供明确解决方案，导致市场预期落空。黄金作为传统避险资产，因局势未出现急剧升级信号而承压下跌。讲话内容矛盾，既未承诺立即升级，也未给出和平路线图。市场短期避险需求减弱，但长期地缘政治风险溢价依然存在。",
         "relations": [
           {
-            "label": "Mercor",
+            "label": "黄金",
+            "type": "resource",
+            "desc": "避险资产，对地缘政治消息敏感"
+          },
+          {
+            "label": "特朗普",
             "type": "entity",
-            "desc": "遭受攻击的AI招聘初创公司"
+            "desc": "政策信号发布者，影响市场预期"
           },
           {
-            "label": "勒索软件组织",
-            "type": "entity",
-            "desc": "攻击实施与数据窃取者"
-          },
-          {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "存在漏洞并被利用的开源项目"
-          },
-          {
-            "label": "供应链安全",
+            "label": "中东战争",
             "type": "risk",
-            "desc": "本次事件暴露的核心安全弱点"
+            "desc": "核心地缘政治事件"
+          },
+          {
+            "label": "避险情绪",
+            "type": "risk",
+            "desc": "驱动黄金价格的关键市场情绪"
           }
         ],
         "analysis": {
           "strategic": [
-            "针对AI初创公司的网络攻击增多，表明其持有的数据和模型已成为高价值目标，网络安全支出需提升优先级。",
-            "开源软件漏洞被武器化，凸显了数字供应链的脆弱性，将促使企业加强软件成分分析和漏洞管理。"
+            "黄金价格对地缘政治“事件驱动”的敏感性凸显，短期交易逻辑受新闻头条主导，与长期通胀对冲属性脱钩。",
+            "政策信号模糊化可能成为新常态，迫使算法交易与宏观基金调整其基于新闻情绪因子的模型。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "网络安全ETF (如BUG, CIBR)",
-          "risk": "LOW",
-          "thesis": "此类事件持续发生将强化企业和政府对网络安全产品的需求，利好整个网络安全行业。"
+          "action": "SHORT",
+          "asset": "黄金期货/GLD",
+          "risk": "HIGH",
+          "thesis": "短期内地缘政治紧张局势未超预期升级，且美元走强，将压制黄金的避险需求，价格存在回调压力。"
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1660472969789?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "泡泡玛特股价暴跌330亿美元",
+        "fullTitle": "泡泡玛特因Labubu热潮退却，股价暴跌330亿美元",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "泡泡玛特国际集团有限公司股价持续抛售，未见触底迹象。市场对其以Labubu为主导的增长模式质疑加深。此次暴跌反映了市场对潮流玩具公司单一IP依赖性和增长可持续性的严重担忧。抛售压力可能引发对整体潮玩行业估值逻辑的重新评估。",
+        "relations": [
+          {
+            "label": "泡泡玛特",
+            "type": "entity",
+            "desc": "中国潮流玩具公司，增长模式受质疑"
+          },
+          {
+            "label": "Labubu",
+            "type": "entity",
+            "desc": "公司核心IP，增长驱动力"
+          },
+          {
+            "label": "潮流玩具行业",
+            "type": "resource",
+            "desc": "增长与估值逻辑面临考验"
+          },
+          {
+            "label": "增长可持续性风险",
+            "type": "risk",
+            "desc": "核心投资逻辑风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此事件标志着市场对“IP驱动型消费公司”的估值从故事叙事转向盈利质量和IP生命周期管理。",
+            "可能引发连锁反应，促使投资者重新审视所有依赖单一爆款或短暂文化热潮的消费品牌。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "泡泡玛特(9992.HK)",
+          "risk": "MEDIUM",
+          "thesis": "市场情绪恶化、增长故事证伪、以及潜在的多头平仓压力，可能导致股价进一步下探。"
         },
         "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1613896170648?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1521397500785?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "丰田风投部门任命新高管",
-        "fullTitle": "丰田Woven Capital任命新CIO和COO，聚焦未来出行",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "丰田汽车旗下的成长期风险投资部门Woven Capital任命了新的首席投资官和首席运营官。此次人事变动旨在加强其投资能力，以更好地寻找和投资于构建“未来出行”的初创公司。该部门重点关注太空、网络安全和自动驾驶等前沿领域。这反映了丰田通过外部创新巩固其未来交通领导地位的战略。",
+        "title": "DeFi平台Drift遭黑客攻击",
+        "fullTitle": "DeFi平台Drift遭黑客攻击，数百万加密货币被盗",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "CRITICAL",
+        "summary": "去中心化金融平台Drift在遭遇黑客攻击后，暂停了存款和提款功能。区块链追踪数据显示，此次加密货币盗窃案涉及数亿美元，预计将成为2026年迄今为止最大的加密盗窃案。事件严重打击了投资者对DeFi平台安全性的信心。可能引发监管机构对DeFi领域更严格的审查。",
         "relations": [
           {
-            "label": "丰田汽车",
+            "label": "Drift",
             "type": "entity",
-            "desc": "Woven Capital的母公司"
+            "desc": "遭黑客攻击的DeFi平台"
           },
           {
-            "label": "Woven Capital",
-            "type": "entity",
-            "desc": "丰田的成长期风险投资部门"
-          },
-          {
-            "label": "未来出行",
+            "label": "DeFi",
             "type": "tech",
-            "desc": "涵盖自动驾驶、太空等领域的投资主题"
+            "desc": "去中心化金融，安全风险凸显"
           },
           {
-            "label": "风险投资",
-            "type": "resource",
-            "desc": "丰田获取外部技术和创新的主要渠道"
+            "label": "加密货币盗窃",
+            "type": "risk",
+            "desc": "行业系统性风险"
+          },
+          {
+            "label": "智能合约安全",
+            "type": "risk",
+            "desc": "DeFi生态的核心脆弱点"
           }
         ],
         "analysis": {
           "strategic": [
-            "传统汽车巨头通过专业风投部门布局前沿科技，是应对行业颠覆、保持长期竞争力的关键战略举措。",
-            "高管任命显示丰田正系统化其风险投资活动，意图在自动驾驶和出行生态竞争中获取先发优势和关键技术。"
+            "大规模安全事件将加速DeFi领域的“机构化”和“合规化”进程，利好传统金融背景或安全审计严格的参与者。",
+            "此次事件可能成为监管介入的催化剂，全球主要司法管辖区可能出台针对DeFi协议和托管服务的新规。"
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "丰田汽车 (TM)",
-          "risk": "LOW",
-          "thesis": "通过风投积极布局未来技术，有助于丰田平滑转型风险，长期维持其行业龙头地位和估值。"
+          "action": "SHORT",
+          "asset": "高杠杆、低审计透明度的小型DeFi协议代币",
+          "risk": "HIGH",
+          "thesis": "行业信任危机将导致资金从高风险、长尾DeFi协议流向更安全、更主流的中心化交易所或蓝筹DeFi协议，小市值代币承压。"
         },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1696328381848?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 92,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1631107043677?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Anthropic本月内再度出现人为事故",
-        "fullTitle": "Anthropic本周内第二次因人为操作引发严重问题",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "领先的AI公司Anthropic在本月内第二次遭遇因人为操作失误导致的严重运营问题。具体事故细节未完全披露，但“bork”一词暗示可能导致服务中断、数据错误或模型故障。一周内连续发生类似事件，暴露出公司在流程控制或人员培训方面存在缺陷。这对其服务可靠性、客户信任及品牌声誉构成重大风险。",
+        "title": "Anthropic误删数千GitHub仓库",
+        "fullTitle": "Anthropic误删数千试图获取其泄露源代码的GitHub仓库",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Anthropic公司撤下了数千个试图获取其泄露源代码的GitHub仓库。公司高管称此举是意外，并已撤回大部分删除通知。事件暴露了AI公司在保护核心知识产权（源代码）时面临的挑战和可能采取的激进措施。也反映了开源社区与商业公司之间在代码使用边界上的潜在冲突。",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "发生人为事故的AI公司"
+            "desc": "AI公司，源代码泄露事件方"
           },
           {
-            "label": "人为操作失误",
-            "type": "risk",
-            "desc": "导致事故的直接原因"
-          },
-          {
-            "label": "运营可靠性",
-            "type": "risk",
-            "desc": "受到事件严重挑战的公司核心能力"
-          },
-          {
-            "label": "AI安全与治理",
+            "label": "GitHub",
             "type": "tech",
-            "desc": "事件凸显的AI公司内部管理短板"
+            "desc": "代码托管平台，事件发生地"
+          },
+          {
+            "label": "源代码泄露",
+            "type": "risk",
+            "desc": "AI公司的核心知识产权风险"
+          },
+          {
+            "label": "开源协议合规",
+            "type": "risk",
+            "desc": "科技公司面临的普遍法律风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "对于提供关键AI服务的公司，内部操作风险已与技术风险同等重要，暴露出快速扩张中管理流程的滞后。",
-            "连续的人为事故可能削弱市场对其“安全、可靠”品牌形象的信心，在竞争激烈的AI基础模型领域构成战略弱点。"
+            "顶级AI公司对核心模型代码的保护已上升到“军事级”戒备，未来围绕AI模型权属和访问控制的争议将增多。",
+            "此事件可能促使风险投资更仔细地评估AI初创公司的代码安全实践和知识产权保护体系。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "专业的代码安全、知识产权保护及合规软件/服务公司",
+          "risk": "LOW",
+          "thesis": "AI与科技公司对源代码保护和开源合规的需求将激增，驱动相关安全与法律科技赛道增长。"
+        },
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1552587934670?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "YC初创公司Delve声誉进一步恶化",
+        "fullTitle": "陷入困境的YC初创公司Delve声誉因开源许可违规指控恶化",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "陷入困境的YC初创公司Delve面临新的指控，称其侵犯了客户Sim.ai的开源许可，将客户的工具冒充为自己的产品。这使其本已受损的声誉进一步恶化。事件凸显了初创公司在快速增长压力下可能忽视法律与伦理合规的风险。也可能影响投资者对YC及其孵化项目的尽职调查看法。",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "YC初创公司，陷入开源违规丑闻"
+          },
+          {
+            "label": "Sim.ai",
+            "type": "entity",
+            "desc": "Delve的客户，开源工具所有者"
+          },
+          {
+            "label": "YC",
+            "type": "entity",
+            "desc": "知名创业孵化器，项目声誉受损"
+          },
+          {
+            "label": "开源许可违规",
+            "type": "risk",
+            "desc": "科技初创公司面临的重大法律与声誉风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "初创生态系统的“增长至上”文化可能掩盖了知识产权和合规风险，未来投资者将更加强调技术来源的尽职调查。",
+            "此类事件会加剧企业客户对采用初创公司技术，尤其是涉及核心流程工具的信任危机，利好成熟供应商。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (若上市) 或 其竞争对手(如OpenAI生态相关)",
+          "asset": "依赖单一、声誉受损初创公司提供关键技术的企业",
           "risk": "HIGH",
-          "thesis": "运营连续失误可能影响企业客户采用决策，导致市场份额流失，利好其更稳定的竞争对手。"
+          "thesis": "供应商的合规丑闻可能导致其客户业务中断、法律纠纷及声誉受损，从而影响客户公司股价。"
         },
-        "confidence": 88,
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1618842168868?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1529753394215?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Indonesia Public Float Reform",
-        "fullTitle": "Indonesia Offers Three-Year Timeline to Lift Public Float to 15%",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Indonesia's financial regulator is implementing reforms to increase market transparency by giving listed companies up to three years to raise their public float to a minimum of 15%. This policy aims to improve corporate governance and market liquidity. The gradual timeline provides flexibility for firms to comply without causing immediate market disruption. This move aligns with broader regional trends toward strengthening capital market frameworks.",
+        "title": "Trump Iran Warning Sparks Volatility",
+        "fullTitle": "Trump's Renewed Iran Warning Risks More Market Volatility",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "President Trump's warning of a potential 'extremely hard' strike on Iran within weeks has increased geopolitical uncertainty. This has led to a risk-off sentiment, causing stock declines and a stronger US dollar as safe-haven flows emerge. The lack of clarity on conflict resolution has disappointed traders who anticipated de-escalation signals, prolonging market jitters.",
         "relations": [
           {
-            "label": "Indonesia Financial Services Authority (OJK)",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Regulator implementing the public float reform"
+            "desc": "US President, source of geopolitical risk statement"
           },
           {
-            "label": "Indonesian Listed Companies",
+            "label": "Iran",
             "type": "entity",
-            "desc": "Firms required to increase public shareholding"
+            "desc": "Geopolitical flashpoint, target of US warnings"
           },
           {
-            "label": "Market Transparency",
+            "label": "US Dollar",
+            "type": "resource",
+            "desc": "Safe-haven currency strengthening on risk aversion"
+          },
+          {
+            "label": "Equity Markets",
+            "type": "resource",
+            "desc": "Asset class facing sell-off due to heightened risk"
+          },
+          {
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Primary goal of the regulatory reform"
-          },
-          {
-            "label": "Corporate Governance",
-            "type": "risk",
-            "desc": "Area expected to improve with higher public float"
-          },
-          {
-            "label": "ASEAN Capital Markets",
-            "type": "entity",
-            "desc": "Regional context for the regulatory development"
+            "desc": "Primary driver of current market volatility"
           }
         ],
         "analysis": {
           "strategic": [
-            "The reform signals Indonesia's commitment to aligning its capital markets with international best practices, potentially attracting more foreign portfolio investment.",
-            "Mandated increases in public float could lead to significant secondary offerings over the next three years, creating both dilution risks and liquidity opportunities in the Indonesian equity market."
+            "US-Iran tensions are a persistent macro overlay that will continue to drive safe-haven flows and suppress risk assets until a clear resolution path emerges.",
+            "The market reaction underscores the sensitivity of global capital to US foreign policy rhetoric, creating recurring volatility windows around presidential statements."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "IDX Composite Index (IHSG) / Indonesian ETF (EIDO)",
+          "asset": "USD, Treasury Bonds",
           "risk": "MEDIUM",
-          "thesis": "Regulatory improvements in transparency and governance are structurally positive for the Indonesian equity market's valuation and foreign investor appeal over the medium term."
+          "thesis": "Geopolitical uncertainty favors traditional safe-haven assets. The dollar and US Treasuries are likely to see sustained bids as the situation remains unresolved, offering a hedge against equity market declines."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1695746866482?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1680847648405?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Korean Chip Stocks Rebound",
-        "fullTitle": "Samsung, SK Hynix Lift Korean Stocks on Iran War-End Hopes",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "South Korean equities, led by major chipmakers Samsung Electronics and SK Hynix, rebounded on growing market optimism that the Iran conflict may be nearing a resolution. The prospect of de-escalation revived global risk appetite, benefiting cyclical and tech sectors. This highlights the sensitivity of the Korean market, a key tech exporter, to geopolitical risk premiums. The rally was concentrated in semiconductor stocks, which are bellwethers for global tech demand.",
+        "title": "Gold Falls on Mixed Trump Signals",
+        "fullTitle": "Gold Declines After Trump's Mixed Iran War Signals",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Gold prices retreated following President Trump's address on the Middle East conflict, which provided little concrete information on a resolution path. The lack of a clear escalation or de-escalation signal reduced immediate safe-haven demand for the precious metal. The price action reflects market digestion of ambiguous geopolitical rhetoric.",
         "relations": [
           {
-            "label": "Samsung Electronics",
-            "type": "entity",
-            "desc": "Leading chipmaker driving market rebound"
-          },
-          {
-            "label": "SK Hynix",
-            "type": "entity",
-            "desc": "Major memory chip producer benefiting from risk-on sentiment"
-          },
-          {
-            "label": "Iran Conflict",
-            "type": "risk",
-            "desc": "Geopolitical event affecting global risk appetite"
-          },
-          {
-            "label": "KOSPI Index",
-            "type": "entity",
-            "desc": "South Korean benchmark equity index"
-          },
-          {
-            "label": "Global Risk Appetite",
-            "type": "risk",
-            "desc": "Market sentiment driver linked to geopolitical developments"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The market reaction demonstrates the high beta of Korean tech stocks to geopolitical sentiment, creating tactical trading opportunities around conflict resolution headlines.",
-            "A sustained end to the Iran conflict would reduce energy and supply chain uncertainty, a significant tailwind for export-dependent economies like South Korea and its semiconductor sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Samsung Electronics (005930 KS) / iShares MSCI South Korea ETF (EWY)",
-          "risk": "HIGH",
-          "thesis": "Korean chipmakers offer leveraged exposure to a reduction in the Middle East geopolitical risk premium, which would lower global economic uncertainty and support tech demand."
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1620088884737?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "China Factory Activity Slows",
-        "fullTitle": "China's Export Factory Activity Slows as War Lifts Costs",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "A private survey indicates China's factory activity slowed in March for export-oriented firms, contrasting with an improving official manufacturing gauge. The divergence is attributed to surging costs for exporters, partly driven by the Iran war's impact on logistics and input prices. This highlights the uneven impact of geopolitical events across different segments of the Chinese economy. The data suggests external demand and cost pressures remain headwinds for China's export engine.",
-        "relations": [
-          {
-            "label": "China Exporters",
-            "type": "entity",
-            "desc": "Firms experiencing slowed activity and cost pressures"
-          },
-          {
-            "label": "Caixin Manufacturing PMI",
-            "type": "entity",
-            "desc": "Private survey showing slowdown"
-          },
-          {
-            "label": "Official Manufacturing PMI",
-            "type": "entity",
-            "desc": "Government gauge showing improvement"
-          },
-          {
-            "label": "Input Cost Inflation",
-            "type": "risk",
-            "desc": "Key pressure point from geopolitical disruption"
-          },
-          {
-            "label": "Global Supply Chain",
+            "label": "Gold",
             "type": "resource",
-            "desc": "System affected by conflict, impacting Chinese exports"
+            "desc": "Safe-haven asset reacting to geopolitical clarity"
+          },
+          {
+            "label": "Donald Trump",
+            "type": "entity",
+            "desc": "Source of ambiguous policy address"
+          },
+          {
+            "label": "Middle East Conflict",
+            "type": "risk",
+            "desc": "Geopolitical event driving asset flows"
+          },
+          {
+            "label": "Safe-Haven Demand",
+            "type": "risk",
+            "desc": "Market sentiment factor that diminished"
+          },
+          {
+            "label": "Geopolitical Rhetoric",
+            "type": "risk",
+            "desc": "Key price driver for gold"
           }
         ],
         "analysis": {
           "strategic": [
-            "The divergence between private and official PMI data points to potential methodological differences or a focus on different firm sizes, requiring careful interpretation of China's economic momentum.",
-            "Persistent cost pressures on Chinese exporters could accelerate the diversification of global manufacturing supply chains away from China, particularly for sensitive or logistics-heavy goods."
+            "Gold's sensitivity to geopolitical narrative clarity is high; ambiguous statements can trigger profit-taking as the 'fear premium' gets priced out.",
+            "The asset's role as a geopolitical barometer means its price will remain volatile, swinging between 'wait-and-see' selloffs and panic-driven rallies based on headline developments."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Renminbi (CNY) / Chinese Export-Oriented Equity ETFs",
-          "risk": "MEDIUM",
-          "thesis": "Sustained cost pressures and weak external demand for Chinese exports could weigh on corporate earnings and currency strength, especially if the official PMI is overstating resilience."
+          "asset": "Gold Futures (GC)",
+          "risk": "HIGH",
+          "thesis": "In the short term, the absence of clear escalation signals reduces the immediate catalyst for gold rallies. A period of consolidation or decline is likely until the next definitive geopolitical trigger, presenting a tactical short opportunity."
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1636695731646?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1610567326361?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Mercor Hit by Cyberattack",
-        "fullFullTitle": "Mercor Hit by Cyberattack Tied to LiteLLM Compromise",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "AI recruiting startup Mercor confirmed a security incident after an extortion hacking crew claimed credit for stealing company data. The attack was linked to a compromise of the open-source LiteLLM project, which Mercor utilizes. This incident highlights the growing supply chain security risks associated with integrating third-party and open-source AI tools. The involvement of an extortion group raises the likelihood of data being leaked or sold if ransom demands are not met.",
+        "title": "Pop Mart $33B Rout Deepens",
+        "fullTitle": "Pop Mart Suffers $33 Billion Rout as Labubu Craze Unravels",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Pop Mart International Group is experiencing a severe and sustained selloff, erasing billions in market value, with no clear bottom in sight. Investor skepticism is intensifying regarding the sustainability of its growth, which is heavily reliant on the popularity of its Labubu toy line. The decline reflects deep concerns over the company's business model dependence on a single product craze.",
         "relations": [
           {
-            "label": "Mercor",
+            "label": "Pop Mart International Group",
             "type": "entity",
-            "desc": "AI recruiting startup victim of the attack"
+            "desc": "Toymaker facing massive equity selloff"
           },
           {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "Open-source project that was compromised, leading to the breach"
+            "label": "Labubu",
+            "type": "resource",
+            "desc": "Flagship IP/product line driving growth"
           },
           {
-            "label": "Extortion Hacking Crew",
-            "type": "entity",
-            "desc": "Threat actor claiming responsibility"
-          },
-          {
-            "label": "Supply Chain Attack",
+            "label": "Growth Sustainability",
             "type": "risk",
-            "desc": "Attack vector targeting third-party dependencies"
+            "desc": "Core investor concern triggering selloff"
           },
           {
-            "label": "AI/ML Security",
-            "type": "tech",
-            "desc": "Domain of cybersecurity relevant to the incident"
+            "label": "Fad/Collectible Risk",
+            "type": "risk",
+            "desc": "Business model risk associated with toy crazes"
+          },
+          {
+            "label": "Consumer Discretionary",
+            "type": "entity",
+            "desc": "Vulnerable sector for sentiment shifts"
           }
         ],
         "analysis": {
           "strategic": [
-            "This attack underscores a critical vulnerability in the AI startup ecosystem: reliance on rapidly adopted open-source tools without robust security vetting, creating systemic risks.",
-            "The incident will likely accelerate demand for and investment in cybersecurity solutions focused on AI/ML supply chain integrity and model security."
+            "The rout highlights the extreme valuation and single-product dependency risks inherent in 'hype-driven' consumer companies, signaling a broader market reassessment of such business models.",
+            "This may precipitate a sector-wide derating for companies reliant on transient cultural phenomena or collectible trends, as investors price in higher volatility and shorter product lifecycles."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Cybersecurity Stocks (e.g., CRWD, PANW, S)",
-          "risk": "LOW",
-          "thesis": "High-profile attacks on AI companies via software supply chains reinforce the enduring growth thesis for enterprise cybersecurity, particularly in emerging sub-sectors like AI security."
+          "action": "SHORT",
+          "asset": "Pop Mart International Group (9992.HK)",
+          "risk": "MEDIUM",
+          "thesis": "The unraveling of a core product craze combined with intense skepticism suggests the downward trend has momentum. With no visible catalyst for a turnaround and deepening model concerns, the stock is likely to face continued pressure."
         },
         "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1681611742466?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1567584395677?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Woven Capital Appoints New Leaders",
-        "fullTitle": "Toyota's Woven Capital Appoints New CIO and COO",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Toyota's growth-stage venture capital arm, Woven Capital, has appointed a new Chief Investment Officer and Chief Operating Officer. The leadership refresh is part of a push to find and fund the 'future of mobility.' The fund focuses on strategic investments in frontier areas including space, cybersecurity, and autonomous driving. This move signals Toyota's continued commitment to leveraging venture capital for strategic innovation beyond its core automotive business.",
+        "title": "Drift Hacked, Loses Millions",
+        "fullTitle": "De-fi Platform Drift Hacked, Suspends Activity After Major Theft",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "The Drift decentralized finance platform has suspended all deposits and withdrawals following a major security breach. Blockchain trackers estimate the cryptocurrency theft to be in the hundreds of millions of dollars, potentially making it the largest crypto hack of 2026 so far. The incident underscores persistent critical vulnerabilities in the DeFi ecosystem.",
         "relations": [
           {
-            "label": "Woven Capital",
+            "label": "Drift",
             "type": "entity",
-            "desc": "Toyota's growth-stage venture capital arm"
+            "desc": "DeFi platform victim of a major hack"
           },
           {
-            "label": "Toyota Motor Corporation",
-            "type": "entity",
-            "desc": "Parent company and funder of the VC arm"
+            "label": "Cryptocurrency Theft",
+            "type": "risk",
+            "desc": "Operational and security risk event"
           },
           {
-            "label": "Future of Mobility",
+            "label": "DeFi Security",
+            "type": "risk",
+            "desc": "Systemic vulnerability highlighted by the hack"
+          },
+          {
+            "label": "Smart Contract Risk",
             "type": "tech",
-            "desc": "Strategic investment theme"
+            "desc": "Underlying technology risk potentially exploited"
           },
           {
-            "label": "Autonomous Driving",
-            "type": "tech",
-            "desc": "Key focus area for investments"
-          },
-          {
-            "label": "Corporate Venture Capital (CVC)",
-            "type": "entity",
-            "desc": "Model being employed by Toyota"
+            "label": "Crypto Market Sentiment",
+            "type": "risk",
+            "desc": "Likely to be negatively impacted"
           }
         ],
         "analysis": {
           "strategic": [
-            "The leadership change at Woven Capital indicates Toyota is formalizing and potentially accelerating its strategic bet on deep-tech ventures that could redefine transportation and adjacent sectors.",
-            "Toyota's focused investment themes (space, cyber, autonomy) reveal a strategy to build an integrated ecosystem for next-generation mobility, securing technology optionality outside traditional R&D."
+            "This hack represents a systemic risk event for the DeFi sector, likely triggering regulatory scrutiny, outflows from similar protocols, and a repricing of risk across the crypto asset class.",
+            "It reinforces the narrative that security remains the paramount challenge for decentralized finance adoption, potentially slowing institutional involvement and innovation capital flow into the space."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Toyota Motor Corp (TM) / Mobility & Autonomy Tech ETFs",
-          "risk": "LOW",
-          "thesis": "Toyota's disciplined, thematic venture investing through Woven Capital provides strategic hedging and growth exposure to disruptive technologies, enhancing its long-term competitive positioning."
+          "action": "SHORT",
+          "asset": "Broad DeFi Sector Tokens (e.g., AAVE, COMP, MKR)",
+          "risk": "HIGH",
+          "thesis": "Major hacks create contagion fear, leading to capital flight from the DeFi sector. Competing protocols will face sell pressure due to perceived systemic risk and increased regulatory threat, offering a short-term tactical short opportunity."
         },
         "confidence": 87,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1659462952028?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1655796411377?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Anthropic Incident Recurrence",
-        "fullTitle": "Anthropic Experiences Second Human Error Incident",
-        "classification": "CONFIDENTIAL",
+        "title": "Anthropic Retracts GitHub Takedowns",
+        "fullTitle": "Anthropic Accidentally Takedowns GitHub Repos Over Leaked Code",
+        "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "AI company Anthropic reportedly experienced a second significant operational incident caused by human error within a single week. The details of the 'borked' incident are unspecified but imply a disruption to services or internal systems. Recurring human errors at a leading AI firm highlight operational maturity and internal control challenges even at technologically advanced companies. Such incidents can impact service reliability, client trust, and operational risk assessments.",
+        "summary": "AI company Anthropic issued thousands of takedown notices to GitHub repositories allegedly containing its leaked source code, but later retracted the bulk of them, calling the action an accident. The incident reveals internal procedural failures and overreach in IP protection efforts. It also highlights the chaotic environment surrounding proprietary AI model security and leaks.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "AI company experiencing repeated incidents"
+            "desc": "AI company involved in takedown error"
           },
           {
-            "label": "Human Error",
+            "label": "GitHub",
+            "type": "entity",
+            "desc": "Platform targeted by mass takedown notices"
+          },
+          {
+            "label": "Source Code Leak",
             "type": "risk",
-            "desc": "Root cause of the operational failures"
+            "desc": "Intellectual property security incident"
           },
           {
-            "label": "Operational Risk",
+            "label": "IP Protection Overreach",
             "type": "risk",
-            "desc": "Category of risk highlighted by the events"
+            "desc": "Operational and reputational risk demonstrated"
           },
           {
-            "label": "AI Service Reliability",
+            "label": "AI Model Security",
             "type": "tech",
-            "desc": "Aspect potentially impacted by the incidents"
-          },
-          {
-            "label": "Claude AI",
-            "type": "tech",
-            "desc": "Anthropic's primary AI model/service potentially affected"
+            "desc": "Underlying concern for proprietary tech firms"
           }
         ],
         "analysis": {
           "strategic": [
-            "Repeated operational failures suggest potential scaling challenges at Anthropic, possibly related to rapid growth outpacing process and control implementation, a common risk for hyped AI startups.",
-            "The incidents may provide a competitive advantage to rivals with more mature operations (e.g., OpenAI, Google) in attracting enterprise clients for whom reliability and governance are paramount."
+            "The event exposes immaturity in the governance and crisis response protocols of leading AI firms, potentially affecting partner and investor confidence in their operational rigor.",
+            "It may accelerate calls for clearer standards and due process in tech IP enforcement, impacting how all major AI companies manage code leaks and open-source interactions."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (Private Market Valuation Proxy via AI ETF)",
+          "asset": "Anthropic (if publicly traded) / AI Governance ETFs",
           "risk": "HIGH",
-          "thesis": "Recurring operational missteps could damage Anthropic's reputation for reliability, a critical factor for enterprise adoption, potentially hindering its ability to capture market share versus more established peers."
+          "thesis": "Operational missteps and negative publicity around IP aggression can damage stakeholder trust and brand reputation in the competitive AI landscape, potentially affecting valuation in future funding rounds or IPO prospects."
         },
         "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1679828380426?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "YC Startup Delve Reputation Worsens",
+        "fullTitle": "Delve's Reputation Worsens Over New Open Source Violation Claims",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Troubled Y Combinator startup Delve faces escalating reputational damage due to new allegations of open source license violations. The company is accused of taking a customer's tool, Sim.ai's product, and presenting it as its own proprietary technology. This compounds existing troubles and raises serious questions about its business ethics and legal compliance.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "YC startup facing ethical/legal allegations"
+          },
+          {
+            "label": "Sim.ai",
+            "type": "entity",
+            "desc": "Customer and alleged IP victim"
+          },
+          {
+            "label": "Open Source License Violation",
+            "type": "risk",
+            "desc": "Legal and reputational risk event"
+          },
+          {
+            "label": "Business Ethics",
+            "type": "risk",
+            "desc": "Core concern damaging trust and brand"
+          },
+          {
+            "label": "Y Combinator",
+            "type": "entity",
+            "desc": "Accelerator associated with reputational fallout"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This incident highlights the growing strategic importance of rigorous IP and compliance frameworks for startups, as ethical lapses can rapidly destroy company value and investor confidence.",
+            "It may trigger increased due diligence from venture capital firms on portfolio companies' IP practices and ethical governance, raising the bar for early-stage funding."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Delve (private market secondary, if available)",
+          "risk": "HIGH",
+          "thesis": "Severe reputational damage and legal exposure from IP violation allegations significantly impair Delve's ability to attract customers, partners, and future funding, threatening its survival and making any equity holding highly risky."
+        },
+        "confidence": 85,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1635266542397?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1529918351936?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Indonesia eleva flotación pública",
-        "fullTitle": "Indonesia da plazo de 3 años para elevar flotación pública al 15%",
+        "title": "Advertencia de Trump sobre Irán genera volatilidad",
+        "fullTitle": "Advertencia renovada de Trump sobre Irán genera volatilidad en mercados",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Indonesia implementará reformas regulatorias que otorgan hasta tres años a empresas listadas para aumentar su flotación pública al 15% mínimo. Esta medida busca mejorar la transparencia y liquidez del mercado bursátil. Representa un cambio estructural en los requisitos de gobierno corporativo. Las empresas afectadas deberán ajustar sus estructuras de capital gradualmente.",
+        "impactLevel": "HIGH",
+        "summary": "Los mercados financieros reaccionaron con nerviosismo tras las declaraciones del presidente Trump sobre posibles acciones militares contra Irán en las próximas semanas. Las acciones cayeron y el dólar se fortaleció, decepcionando a los operadores que esperaban señales de desescalada. La incertidumbre geopolítica continúa presionando los activos de riesgo.",
         "relations": [
           {
-            "label": "Indonesia",
+            "label": "Donald Trump",
             "type": "entity",
-            "desc": "Regulador del mercado de valores"
+            "desc": "Presidente de EE.UU., emisor de la advertencia"
           },
           {
-            "label": "Flotación pública",
+            "label": "Irán",
+            "type": "entity",
+            "desc": "País objetivo de la amenaza militar"
+          },
+          {
+            "label": "Volatilidad del mercado",
+            "type": "risk",
+            "desc": "Riesgo financiero por tensión geopolítica"
+          },
+          {
+            "label": "Dólar estadounidense (USD)",
             "type": "resource",
-            "desc": "Porcentaje de acciones en manos públicas"
+            "desc": "Activo refugio que se fortaleció"
           },
           {
-            "label": "Empresas listadas",
-            "type": "entity",
-            "desc": "Compañías afectadas por la regulación"
-          },
-          {
-            "label": "Transparencia",
-            "type": "risk",
-            "desc": "Objetivo regulatorio principal"
-          },
-          {
-            "label": "Reformas bursátiles",
-            "type": "risk",
-            "desc": "Cambios en regulación financiera"
+            "label": "Acciones globales",
+            "type": "resource",
+            "desc": "Activos de riesgo que cayeron"
           }
         ],
         "analysis": {
           "strategic": [
-            "La medida podría aumentar la liquidez y atractivo del mercado indonesio para inversores internacionales",
-            "Presión regulatoria sobre empresas familiares o con estructuras de propiedad concentradas"
+            "La retórica de Trump mantiene la prima de riesgo geopolítico en los mercados energéticos y de divisas.",
+            "La falta de claridad en la política exterior estadounidense crea oportunidades para actores que busquen cobertura contra la volatilidad."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "IDX Composite Index",
+          "asset": "ETF de volatilidad (VIX) / Dólar estadounidense",
           "risk": "MEDIUM",
-          "thesis": "Mayor transparencia y liquidez deberían mejorar valoraciones a largo plazo"
+          "thesis": "La incertidumbre prolongada sobre Irán favorece activos defensivos y coberturas contra la volatilidad."
         },
-        "confidence": 85,
+        "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1652077634506?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1507291420915?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Chipmakers impulsan bolsa coreana",
-        "fullTitle": "Samsung y SK Hynix impulsan bolsa coreana con esperanzas sobre Irán",
+        "title": "Oro cae por señales mixtas sobre Irán",
+        "fullTitle": "El oro cae tras señales confusas de Trump sobre resolución en Irán",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Las acciones surcoreanas se recuperaron lideradas por fabricantes de chips ante expectativas de posible fin del conflicto en Irán. Samsung y SK Hynix fueron los principales impulsores del repunte. El renovado apetito por riesgo refleja sensibilidad geopolítica de los mercados. La industria tecnológica coreana muestra vulnerabilidad a tensiones en Medio Oriente.",
+        "impactLevel": "MEDIUM",
+        "summary": "El precio del oro retrocedió después de que el discurso del presidente Trump no ofreciera una hoja de ruta clara para resolver el conflicto con Irán. Los inversores redujeron parte de la prima de riesgo incorporada en el metal precioso. La falta de escalada inmediata alivió temporalmente la demanda de refugio seguro.",
         "relations": [
           {
-            "label": "Samsung",
-            "type": "entity",
-            "desc": "Principal fabricante de chips surcoreano"
-          },
-          {
-            "label": "SK Hynix",
-            "type": "entity",
-            "desc": "Segundo mayor fabricante de memoria"
-          },
-          {
-            "label": "Bolsa de Corea",
+            "label": "Oro (XAU)",
             "type": "resource",
-            "desc": "Mercado bursátil afectado"
+            "desc": "Activo refugio que perdió valor"
           },
           {
-            "label": "Conflicto Irán",
+            "label": "Geopolítica de Oriente Medio",
             "type": "risk",
-            "desc": "Factor geopolítico clave"
+            "desc": "Factor principal de la volatilidad"
           },
           {
-            "label": "Semiconductores",
-            "type": "tech",
-            "desc": "Sector impulsor del mercado"
+            "label": "Discurso presidencial",
+            "type": "entity",
+            "desc": "Evento catalizador del movimiento del mercado"
+          },
+          {
+            "label": "Inversores institucionales",
+            "type": "entity",
+            "desc": "Actores que ajustan posiciones de cobertura"
           }
         ],
         "analysis": {
           "strategic": [
-            "La resolución del conflicto iraní podría reducir primas de riesgo en mercados tecnológicos globales",
-            "Corea del Sur mantiene exposición significativa a shocks geopolíticos a través de su sector exportador"
+            "La reacción del oro subraya su sensibilidad a los cambios en la percepción del riesgo geopolítico inmediato.",
+            "Los mercados están operando con un alto grado de reactividad a las declaraciones de figuras políticas clave."
           ]
         },
         "investment": {
-          "action": "LONG",
-          "asset": "Samsung Electronics (005930 KS)",
-          "risk": "MEDIUM",
-          "thesis": "Alivio geopolítico beneficiaría a exportadores tecnológicos coreanos"
+          "action": "SHORT",
+          "asset": "Futuros de oro / ETF GLD",
+          "risk": "HIGH",
+          "thesis": "Si la tensión no escala en el corto plazo, el oro podría corregir parte de sus ganancias recientes por motivos geopolíticos."
         },
         "confidence": 82,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1603125368351?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1697814448193?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Actividad fabril china se desacelera",
-        "fullTitle": "Actividad fabril china se desacelera por costos de guerra para exportadores",
+        "title": "Pop Mart pierde $33 mil millones en venta masiva",
+        "fullTitle": "Pop Mart sufre venta masiva de $33 mil millones; moda Labubu se desinfla",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "La actividad manufacturera china se desaceleró en marzo para empresas exportadoras debido al aumento de costos vinculados al conflicto en Irán. Una encuesta privada contradice datos oficiales que mostraban mejora. Los exportadores enfrentan presión de costos en cadena de suministro. La divergencia de datos sugiere fragilidad en la recuperación económica.",
+        "summary": "Las acciones de Pop Mart International Group Ltd. continúan en una fuerte tendencia bajista, con pérdidas acumuladas que alcanzan los $33 mil millones. El escepticismo de los inversores sobre el modelo de crecimiento impulsado por la muñeca Labubu es cada vez mayor. La venta masiva no muestra signos claros de tocar fondo, presionando la valoración de la empresa.",
         "relations": [
           {
-            "label": "China",
+            "label": "Pop Mart International Group",
             "type": "entity",
-            "desc": "Economía manufacturera afectada"
+            "desc": "Fabricante de juguetes chino afectado"
           },
           {
-            "label": "Exportadores chinos",
+            "label": "Labubu",
             "type": "entity",
-            "desc": "Sector impactado por costos"
+            "desc": "Línea de productos cuya popularidad decae"
           },
           {
-            "label": "Conflicto Irán",
+            "label": "Crecimiento por modas (Fads)",
             "type": "risk",
-            "desc": "Causa del aumento de costos"
+            "desc": "Riesgo del modelo de negocio"
           },
           {
-            "label": "Cadena de suministro",
-            "type": "resource",
-            "desc": "Infraestructura logística afectada"
+            "label": "Mercado de valores de Hong Kong",
+            "type": "entity",
+            "desc": "Bolsa donde cotiza la empresa"
           },
           {
-            "label": "PMI manufacturero",
-            "type": "resource",
-            "desc": "Indicador económico clave"
+            "label": "Inversores minoristas",
+            "type": "entity",
+            "desc": "Poseedores afectados por la venta masiva"
           }
         ],
         "analysis": {
           "strategic": [
-            "La dependencia china de exportaciones la hace vulnerable a disrupciones geopolíticas en rutas comerciales",
-            "Divergencia entre datos oficiales y privados sugiere posible manipulación estadística o diferencias metodológicas"
+            "El caso expone la vulnerabilidad de los modelos de negocio dependientes de modas efímeras en el consumo masivo.",
+            "Podría generar un escrutinio regulatorio y de inversión más estricto sobre las valoraciones de empresas de 'cultura coleccionable'."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "iShares China Large-Cap ETF (FXI)",
-          "risk": "HIGH",
-          "thesis": "Presión sobre exportadores y datos contradictorios indican debilidad económica"
+          "asset": "Acciones de Pop Mart (9992.HK)",
+          "risk": "MEDIUM",
+          "thesis": "El agotamiento de la moda Labubu y la pérdida de confianza de los inversores pueden prolongar la corrección."
         },
-        "confidence": 84,
+        "confidence": 90,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1635937262700?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1577211396636?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Mercor sufre ciberataque por LiteLLM",
-        "fullTitle": "Mercor sufre ciberataque vinculado a compromiso de proyecto LiteLLM",
-        "classification": "TOP SECRET",
+        "title": "Plataforma DeFi Drift hackeada; robo millonario",
+        "fullTitle": "Plataforma DeFi Drift suspendida tras hackeo y robo de cientos de millones",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "CRITICAL",
-        "summary": "La startup de reclutamiento con IA Mercor confirmó un incidente de seguridad después de que un grupo hacker de extorsión se atribuyera el robo de datos. El ataque está vinculado al compromiso del proyecto de código abierto LiteLLM. Este caso expone vulnerabilidades en la cadena de suministro de software de IA. Representa un riesgo sistémico para empresas que dependen de bibliotecas de código abierto.",
+        "summary": "La plataforma de finanzas descentralizadas Drift suspendió depósitos y retiros después de sufrir un hackeo masivo. Rastreadores de blockchain estiman el robo en cientos de millones de dólares, posicionándolo como el mayor cripto-robo de 2026 hasta la fecha. El incidente genera dudas sobre la seguridad en el ecosistema DeFi.",
         "relations": [
           {
-            "label": "Mercor",
+            "label": "Drift Protocol",
             "type": "entity",
-            "desc": "Startup de reclutamiento con IA afectada"
+            "desc": "Plataforma DeFi hackeada"
           },
           {
-            "label": "LiteLLM",
-            "type": "tech",
-            "desc": "Proyecto de código abierto comprometido"
-          },
-          {
-            "label": "Ciberataque",
+            "label": "Cripto-robo",
             "type": "risk",
-            "desc": "Incidente de seguridad grave"
+            "desc": "Evento de seguridad crítico"
           },
           {
-            "label": "Cadena de suministro de software",
-            "type": "risk",
-            "desc": "Vector de ataque explotado"
-          },
-          {
-            "label": "IA",
+            "label": "Finanzas Descentralizadas (DeFi)",
             "type": "tech",
-            "desc": "Tecnología central de la empresa"
+            "desc": "Sector afectado por el incidente"
+          },
+          {
+            "label": "Contratos inteligentes",
+            "type": "tech",
+            "desc": "Tecnología subyacente potencialmente explotada"
+          },
+          {
+            "label": "Blockchain trackers",
+            "type": "entity",
+            "desc": "Entidades que cuantifican el robo"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los ataques a la cadena de suministro de código abierto representan una amenaza creciente para el ecosistema de IA",
-            "Este incidente podría acelerar regulaciones de seguridad para software de código abierto en aplicaciones empresariales"
+            "El hackeo refuerza la narrativa de riesgo de contraparte y seguridad como la mayor barrera para la adopción institucional de DeFi.",
+            "Podría acelerar los esfuerzos regulatorios globales para establecer estándares de seguridad y seguro para plataformas DeFi."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Empresas de IA con dependencia de código abierto",
+          "asset": "Tokens de gobernanza de protocolos DeFi similares / Criptomonedas del sector",
           "risk": "HIGH",
-          "thesis": "Mayor escrutinio de seguridad afectará valoraciones de startups de IA vulnerables"
+          "thesis": "El pánico y la desconfianza posteriores al hackeo pueden generar ventas generalizadas en el sector DeFi en el corto plazo."
         },
-        "confidence": 88,
+        "confidence": 92,
         "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1550983826490?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "image": "https://images.unsplash.com/photo-1596184188103?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Woven Capital nombra nuevos ejecutivos",
-        "fullTitle": "Woven Capital de Toyota nombra nuevo CIO y COO para movilidad futura",
+        "title": "Anthropic retira repos de GitHub por error",
+        "fullTitle": "Anthropic retira miles de repos de GitHub por código fuente filtrado, dice que fue error",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Woven Capital, el brazo de capital de riesgo de Toyota para etapas de crecimiento, designó nuevo Director de Inversiones y Director de Operaciones. La firma se enfoca en espacios, ciberseguridad y conducción autónoma. Los nombramientos reflejan impulso estratégico hacia la 'movilidad del futuro'. Toyota fortalece su apuesta por tecnologías de transporte avanzadas.",
-        "relations": [
-          {
-            "label": "Toyota",
-            "type": "entity",
-            "desc": "Fabricante automotriz matriz"
-          },
-          {
-            "label": "Woven Capital",
-            "type": "entity",
-            "desc": "Brazo de capital de riesgo"
-          },
-          {
-            "label": "Movilidad futura",
-            "type": "tech",
-            "desc": "Enfoque de inversión estratégica"
-          },
-          {
-            "label": "Conducción autónoma",
-            "type": "tech",
-            "desc": "Área de inversión clave"
-          },
-          {
-            "label": "Espacio",
-            "type": "tech",
-            "desc": "Sector emergente de inversión"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Toyota está diversificando su estrategia más allá de vehículos tradicionales hacia ecosistemas de movilidad integrales",
-            "Los cambios directivos indican aceleración en despliegue de capital hacia tecnologías disruptivas"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Toyota Motor Corp (7203 JT)",
-          "risk": "LOW",
-          "thesis": "Estrategia de inversión en tecnología posiciona bien para transición vehicular"
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1586819757928?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Problemas humanos en Anthropic",
-        "fullTitle": "Anthropic enfrenta problemas humanos por segunda vez en semana",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic experimentó su segundo incidente significativo causado por error humano esta semana. Los detalles específicos no fueron revelados pero sugieren vulnerabilidades operacionales. La repetición de incidentes plantea dudas sobre controles internos y resiliencia operativa. Empresas de IA enfrentan riesgos únicos de factor humano en operaciones críticas.",
+        "summary": "Anthropic, empresa de IA, emitió y luego retiró miles de avisos de retirada (takedown) a repositorios de GitHub que intentaban acceder a su código fuente filtrado. Los ejecutivos de la compañía afirmaron que la acción masiva fue un accidente. El incidente destaca la tensión entre la protección de la propiedad intelectual y la cultura de código abierto.",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "Empresa de IA afectada por incidentes"
+            "desc": "Empresa de IA que cometió el error"
           },
           {
-            "label": "Error humano",
-            "type": "risk",
-            "desc": "Causa raíz del problema"
+            "label": "GitHub",
+            "type": "entity",
+            "desc": "Plataforma donde se ejecutaron los takedowns"
           },
           {
-            "label": "Operaciones",
-            "type": "resource",
-            "desc": "Área afectada por incidentes"
-          },
-          {
-            "label": "IA",
+            "label": "Código fuente de IA",
             "type": "tech",
-            "desc": "Sector de la empresa"
+            "desc": "Propiedad intelectual en el centro del incidente"
           },
           {
-            "label": "Controles internos",
+            "label": "Takedown notices (DMCA)",
             "type": "risk",
-            "desc": "Área de posible deficiencia"
+            "desc": "Mecanismo legal utilizado erróneamente"
+          },
+          {
+            "label": "Comunidad de código abierto",
+            "type": "entity",
+            "desc": "Afectada por las retiradas"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los errores humanos repetidos en empresas de IA de élite sugieren desafíos de escalabilidad operacional",
-            "Este patrón podría afectar la percepción de madurez y confiabilidad de startups de IA frente a competidores establecidos"
+            "El incidente puede dañar la reputación de Anthropic entre desarrolladores y afectar su capacidad de reclutamiento en un mercado competitivo.",
+            "Expone los desafíos legales y operativos que enfrentan las empresas de IA para proteger sus activos en la era digital."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Competidores directos de Anthropic",
-          "risk": "HIGH",
-          "thesis": "Problemas operacionales recurrentes podrían erosionar ventaja competitiva"
+          "asset": "Posibles competidores de Anthropic en IA (evaluar capital privado)",
+          "risk": "LOW",
+          "thesis": "Un error de relaciones públicas y legales de esta magnitud podría crear una apertura competitiva temporal para rivales."
         },
-        "confidence": 83,
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1630773664684?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Reputación de startup Delve se deteriora más",
+        "fullTitle": "Reputación de la problemática startup YC Delve empeora por nueva acusación",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Delve, una startup con problemas de Y Combinator, enfrenta nuevas acusaciones de violar la licencia de código abierto de su cliente Sim.ai. Se alega que Delve tomó una herramienta del cliente y la hizo pasar como propia. Esto agrava significativamente sus problemas de reputación y legales.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Startup acusada de mala conducta"
+          },
+          {
+            "label": "Y Combinator (YC)",
+            "type": "entity",
+            "desc": "Aceleradora que respalda a Delve"
+          },
+          {
+            "label": "Sim.ai",
+            "type": "entity",
+            "desc": "Cliente y presunta víctima"
+          },
+          {
+            "label": "Licencia de código abierto",
+            "type": "tech",
+            "desc": "Marco legal supuestamente violado"
+          },
+          {
+            "label": "Propiedad intelectual",
+            "type": "risk",
+            "desc": "Área de riesgo para startups tecnológicas"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El caso puede llevar a Y Combinator y otros inversores a reevaluar su diligencia debida en materia de propiedad intelectual.",
+            "Aumenta el escrutinio sobre las prácticas éticas en el ecosistema de startups, especialmente respecto al uso del código de clientes/competidores."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Cualquier ronda de financiación futura para Delve / Exposición a fondos de VC muy concentrados en YC",
+          "risk": "HIGH",
+          "thesis": "El daño reputacional y el riesgo legal hacen que la startup sea casi inviable, amenazando cualquier valoración previa."
+        },
+        "confidence": 88,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1628059189084?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1506693260011?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
