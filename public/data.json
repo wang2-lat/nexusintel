@@ -1,863 +1,823 @@
 {
-  "generated_at": "2026-04-02T02:34:41.767138",
+  "generated_at": "2026-04-03T02:35:55.766384",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "特朗普伊朗警告引发市场波动",
-        "fullTitle": "特朗普重申伊朗警告，分析师称或引发更多市场波动",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "特朗普总统警告将在两到三周内“极其严厉”地打击伊朗，导致市场紧张情绪加剧。股市下跌，美元走强，因交易员对战争结束的明确信号感到失望。地缘政治不确定性持续影响全球风险资产定价。市场对中东局势的清晰度预期落空，避险情绪与风险规避行为并存。",
-        "relations": [
-          {
-            "label": "特朗普",
-            "type": "entity",
-            "desc": "美国总统，地缘政治风险主要来源"
-          },
-          {
-            "label": "伊朗",
-            "type": "entity",
-            "desc": "中东地缘政治冲突核心国家"
-          },
-          {
-            "label": "美元",
-            "type": "resource",
-            "desc": "避险情绪推动走强"
-          },
-          {
-            "label": "股市",
-            "type": "resource",
-            "desc": "风险资产，因地缘政治不确定性承压"
-          },
-          {
-            "label": "地缘政治风险",
-            "type": "risk",
-            "desc": "驱动市场波动的核心宏观风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "美国对伊朗政策的模糊性将持续为能源与金融市场注入波动性，影响全球资本流动。",
-            "地缘政治紧张局势的常态化可能促使部分主权基金与长期资本重新评估其在新兴市场的风险敞口。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "MSCI新兴市场指数相关ETF",
-          "risk": "MEDIUM",
-          "thesis": "地缘政治紧张局势升级将加剧新兴市场资本外流与风险溢价上升，尤其影响与中东关联度高的地区。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1639152040236?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "特朗普信号模糊致金价下跌",
-        "fullTitle": "特朗普就伊朗战争决议发出矛盾信号，黄金价格下跌",
+        "title": "中国服务业活动放缓",
+        "fullTitle": "中国服务业PMI在春节假期提振后放缓",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "美国总统特朗普就中东战争决议发表备受期待的讲话，但未提供明确解决方案，导致市场预期落空。黄金作为传统避险资产，因局势未出现急剧升级信号而承压下跌。讲话内容矛盾，既未承诺立即升级，也未给出和平路线图。市场短期避险需求减弱，但长期地缘政治风险溢价依然存在。",
+        "summary": "一项私人调查显示，中国服务业活动在3月份扩张步伐放缓。这表明在2月份长假带来的提振之后，消费需求依然疲软。该数据反映了国内消费复苏的持续性面临挑战。",
         "relations": [
           {
-            "label": "黄金",
-            "type": "resource",
-            "desc": "避险资产，对地缘政治消息敏感"
-          },
-          {
-            "label": "特朗普",
+            "label": "中国服务业",
             "type": "entity",
-            "desc": "政策信号发布者，影响市场预期"
+            "desc": "反映国内消费需求的关键经济部门"
           },
           {
-            "label": "中东战争",
+            "label": "消费者需求",
             "type": "risk",
-            "desc": "核心地缘政治事件"
+            "desc": "经济复苏的核心驱动力，目前表现疲软"
           },
           {
-            "label": "避险情绪",
-            "type": "risk",
-            "desc": "驱动黄金价格的关键市场情绪"
+            "label": "私人调查",
+            "type": "entity",
+            "desc": "衡量经济活动的重要先行指标"
           }
         ],
         "analysis": {
           "strategic": [
-            "黄金价格对地缘政治“事件驱动”的敏感性凸显，短期交易逻辑受新闻头条主导，与长期通胀对冲属性脱钩。",
-            "政策信号模糊化可能成为新常态，迫使算法交易与宏观基金调整其基于新闻情绪因子的模型。"
+            "中国内需复苏基础尚不稳固，可能影响依赖中国市场的全球消费品及服务企业。",
+            "政策制定者可能面临进一步刺激消费的压力，关注后续财政或货币政策动向。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "黄金期货/GLD",
-          "risk": "HIGH",
-          "thesis": "短期内地缘政治紧张局势未超预期升级，且美元走强，将压制黄金的避险需求，价格存在回调压力。"
+          "asset": "与中国消费高度相关的股票或ETF",
+          "risk": "MEDIUM",
+          "thesis": "服务业数据疲软表明消费复苏不及预期，可能对相关板块股价构成压力。"
         },
         "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1660472969789?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1577760514482?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "泡泡玛特股价暴跌330亿美元",
-        "fullTitle": "泡泡玛特因Labubu热潮退却，股价暴跌330亿美元",
+        "title": "印尼暂缓上调补贴燃油价",
+        "fullTitle": "印尼财长称将暂缓上调补贴燃油价以保增长",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "印尼财政部长表示，尽管伊朗战争导致油价冲击，但印尼将暂缓上调补贴燃油价格。他警告称，任何涨价都可能破坏经济增长并威胁社会稳定。此举旨在平衡财政压力与社会经济稳定。",
+        "relations": [
+          {
+            "label": "印尼财政部",
+            "type": "entity",
+            "desc": "政策制定与执行的关键政府部门"
+          },
+          {
+            "label": "补贴燃油价格",
+            "type": "resource",
+            "desc": "影响通胀、财政赤字及社会稳定的关键政策变量"
+          },
+          {
+            "label": "社会稳定性",
+            "type": "risk",
+            "desc": "新兴市场国家政策决策的核心考量因素"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "印尼选择牺牲部分财政纪律以换取短期社会稳定，凸显新兴市场在外部冲击下的脆弱性。",
+            "此举可能增加印尼的财政赤字压力，长期或影响其主权信用评级和市场信心。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "印尼盾或印尼国债",
+          "risk": "HIGH",
+          "thesis": "延迟改革以应对油价冲击，将增加财政负担和货币贬值压力，对本国资产构成利空。"
+        },
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1528826555935?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "日本电力零售商暂停新工业客户",
+        "fullTitle": "日本大型电力零售商因燃料风险暂停新工业客户",
         "classification": "RESTRICTED",
         "impactLevel": "HIGH",
-        "summary": "泡泡玛特国际集团有限公司股价持续抛售，未见触底迹象。市场对其以Labubu为主导的增长模式质疑加深。此次暴跌反映了市场对潮流玩具公司单一IP依赖性和增长可持续性的严重担忧。抛售压力可能引发对整体潮玩行业估值逻辑的重新评估。",
+        "summary": "由于中东战争导致燃料市场动荡，日本至少两家大型电力零售商已暂时停止接受新的工业客户。他们正在等待燃料市场前景更加明朗。这反映了地缘政治对能源供应链的直接影响。",
         "relations": [
           {
-            "label": "泡泡玛特",
+            "label": "日本电力零售商",
             "type": "entity",
-            "desc": "中国潮流玩具公司，增长模式受质疑"
+            "desc": "受能源供应安全直接冲击的企业"
           },
           {
-            "label": "Labubu",
-            "type": "entity",
-            "desc": "公司核心IP，增长驱动力"
-          },
-          {
-            "label": "潮流玩具行业",
+            "label": "燃料市场",
             "type": "resource",
-            "desc": "增长与估值逻辑面临考验"
+            "desc": "当前地缘政治冲突的核心扰动领域"
           },
           {
-            "label": "增长可持续性风险",
-            "type": "risk",
-            "desc": "核心投资逻辑风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此事件标志着市场对“IP驱动型消费公司”的估值从故事叙事转向盈利质量和IP生命周期管理。",
-            "可能引发连锁反应，促使投资者重新审视所有依赖单一爆款或短暂文化热潮的消费品牌。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "泡泡玛特(9992.HK)",
-          "risk": "MEDIUM",
-          "thesis": "市场情绪恶化、增长故事证伪、以及潜在的多头平仓压力，可能导致股价进一步下探。"
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1521397500785?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "DeFi平台Drift遭黑客攻击",
-        "fullTitle": "DeFi平台Drift遭黑客攻击，数百万加密货币被盗",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "去中心化金融平台Drift在遭遇黑客攻击后，暂停了存款和提款功能。区块链追踪数据显示，此次加密货币盗窃案涉及数亿美元，预计将成为2026年迄今为止最大的加密盗窃案。事件严重打击了投资者对DeFi平台安全性的信心。可能引发监管机构对DeFi领域更严格的审查。",
-        "relations": [
-          {
-            "label": "Drift",
+            "label": "工业客户",
             "type": "entity",
-            "desc": "遭黑客攻击的DeFi平台"
-          },
-          {
-            "label": "DeFi",
-            "type": "tech",
-            "desc": "去中心化金融，安全风险凸显"
-          },
-          {
-            "label": "加密货币盗窃",
-            "type": "risk",
-            "desc": "行业系统性风险"
-          },
-          {
-            "label": "智能合约安全",
-            "type": "risk",
-            "desc": "DeFi生态的核心脆弱点"
+            "desc": "电力需求大户，其生产可能因此受限"
           }
         ],
         "analysis": {
           "strategic": [
-            "大规模安全事件将加速DeFi领域的“机构化”和“合规化”进程，利好传统金融背景或安全审计严格的参与者。",
-            "此次事件可能成为监管介入的催化剂，全球主要司法管辖区可能出台针对DeFi协议和托管服务的新规。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "高杠杆、低审计透明度的小型DeFi协议代币",
-          "risk": "HIGH",
-          "thesis": "行业信任危机将导致资金从高风险、长尾DeFi协议流向更安全、更主流的中心化交易所或蓝筹DeFi协议，小市值代币承压。"
-        },
-        "confidence": 92,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1631107043677?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Anthropic误删数千GitHub仓库",
-        "fullTitle": "Anthropic误删数千试图获取其泄露源代码的GitHub仓库",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic公司撤下了数千个试图获取其泄露源代码的GitHub仓库。公司高管称此举是意外，并已撤回大部分删除通知。事件暴露了AI公司在保护核心知识产权（源代码）时面临的挑战和可能采取的激进措施。也反映了开源社区与商业公司之间在代码使用边界上的潜在冲突。",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "AI公司，源代码泄露事件方"
-          },
-          {
-            "label": "GitHub",
-            "type": "tech",
-            "desc": "代码托管平台，事件发生地"
-          },
-          {
-            "label": "源代码泄露",
-            "type": "risk",
-            "desc": "AI公司的核心知识产权风险"
-          },
-          {
-            "label": "开源协议合规",
-            "type": "risk",
-            "desc": "科技公司面临的普遍法律风险"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "顶级AI公司对核心模型代码的保护已上升到“军事级”戒备，未来围绕AI模型权属和访问控制的争议将增多。",
-            "此事件可能促使风险投资更仔细地评估AI初创公司的代码安全实践和知识产权保护体系。"
+            "此举表明关键基础设施运营商对能源供应安全的担忧加剧，可能引发产业链连锁反应。",
+            "日本工业活动可能因能源供应不确定性而受限，影响其制造业竞争力和经济产出。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专业的代码安全、知识产权保护及合规软件/服务公司",
-          "risk": "LOW",
-          "thesis": "AI与科技公司对源代码保护和开源合规的需求将激增，驱动相关安全与法律科技赛道增长。"
+          "asset": "液化天然气供应商或能源贸易公司股票",
+          "risk": "MEDIUM",
+          "thesis": "能源供应紧张和不确定性将推高能源价格，并使灵活的能源供应商受益。"
         },
-        "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1552587934670?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 87,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1573987072977?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "YC初创公司Delve声誉进一步恶化",
-        "fullTitle": "陷入困境的YC初创公司Delve声誉因开源许可违规指控恶化",
+        "title": "亚马逊向卖家征收燃油附加费",
+        "fullTitle": "亚马逊因伊朗战争向卖家征收临时燃油附加费",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "陷入困境的YC初创公司Delve面临新的指控，称其侵犯了客户Sim.ai的开源许可，将客户的工具冒充为自己的产品。这使其本已受损的声誉进一步恶化。事件凸显了初创公司在快速增长压力下可能忽视法律与伦理合规的风险。也可能影响投资者对YC及其孵化项目的尽职调查看法。",
+        "summary": "电子商务巨头亚马逊开始向卖家征收一项“燃油附加费”，原因是伊朗战争扰乱了全球能源市场。亚马逊称该附加费是“临时性的”，但未给出政策结束日期。这显示了地缘政治风险向消费端的传导。",
         "relations": [
           {
-            "label": "Delve",
+            "label": "亚马逊",
             "type": "entity",
-            "desc": "YC初创公司，陷入开源违规丑闻"
+            "desc": "全球电商与物流巨头，成本传导能力极强"
           },
           {
-            "label": "Sim.ai",
-            "type": "entity",
-            "desc": "Delve的客户，开源工具所有者"
-          },
-          {
-            "label": "YC",
-            "type": "entity",
-            "desc": "知名创业孵化器，项目声誉受损"
-          },
-          {
-            "label": "开源许可违规",
+            "label": "燃油附加费",
             "type": "risk",
-            "desc": "科技初创公司面临的重大法律与声誉风险"
+            "desc": "能源成本上涨向终端消费者传导的机制"
+          },
+          {
+            "label": "全球能源市场",
+            "type": "resource",
+            "desc": "地缘政治冲突的核心影响领域"
           }
         ],
         "analysis": {
           "strategic": [
-            "初创生态系统的“增长至上”文化可能掩盖了知识产权和合规风险，未来投资者将更加强调技术来源的尽职调查。",
-            "此类事件会加剧企业客户对采用初创公司技术，尤其是涉及核心流程工具的信任危机，利好成熟供应商。"
+            "亚马逊将成本压力转嫁给卖家，最终可能推高平台商品价格，加剧全球通胀压力。",
+            "此举揭示了大型科技公司在供应链中的定价权，但也可能引发卖家不满和监管关注。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "依赖单一、声誉受损初创公司提供关键技术的企业",
+          "asset": "依赖亚马逊平台的中小卖家或相关零售股",
           "risk": "HIGH",
-          "thesis": "供应商的合规丑闻可能导致其客户业务中断、法律纠纷及声誉受损，从而影响客户公司股价。"
+          "thesis": "附加费将直接侵蚀卖家利润，对利润率本已微薄的中小卖家冲击尤甚。"
         },
-        "confidence": 83,
+        "confidence": 86,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1588498941442?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Hims & Hers客户支持系统遭黑客攻击",
+        "fullTitle": "美国远程医疗巨头Hims & Hers客户支持系统遭黑客入侵",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "美国远程医疗巨头Hims & Hers表示其客户支持系统遭到黑客攻击。黑客在2月的几天内窃取了客户支持票证数据。事件涉及用户敏感信息，可能引发数据隐私和合规风险。",
+        "relations": [
+          {
+            "label": "Hims & Hers",
+            "type": "entity",
+            "desc": "美国知名远程医疗服务提供商"
+          },
+          {
+            "label": "数据泄露",
+            "type": "risk",
+            "desc": "涉及用户敏感信息，可能导致法律与声誉风险"
+          },
+          {
+            "label": "客户支持票证",
+            "type": "entity",
+            "desc": "可能包含用户健康咨询等隐私信息"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "医疗健康数据泄露事件频发，将加剧监管机构对该行业数据安全的审查和立法压力。",
+            "此类事件严重损害消费者信任，可能影响远程医疗行业的长期增长前景和用户采纳率。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Hims & Hers股票",
+          "risk": "MEDIUM",
+          "thesis": "数据泄露事件可能导致监管罚款、用户流失和声誉受损，短期内对公司股价构成压力。"
+        },
+        "confidence": 89,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1515596919634?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "NASA最后一次无硅谷参与的登月任务",
+        "fullTitle": "Artemis II是NASA最后一次无硅谷参与的登月任务",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Artemis II将是NASA最后一次在没有硅谷公司深度参与的情况下执行的月球任务。下一次任务，压力将落在SpaceX和蓝色起源等私营航天公司身上。这标志着太空探索主导权的转移。",
+        "relations": [
+          {
+            "label": "NASA",
+            "type": "entity",
+            "desc": "传统国家航天机构，主导权面临挑战"
+          },
+          {
+            "label": "SpaceX/蓝色起源",
+            "type": "entity",
+            "desc": "新兴私营航天巨头"
+          },
+          {
+            "label": "Artemis计划",
+            "type": "tech",
+            "desc": "美国重返月球的标志性航天计划"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "太空探索正从国家主导转向公私合营，私营公司的技术迭代和成本控制能力成为关键。",
+            "未来月球及深空探索的基础设施建设和运营，将日益由少数几家私营航天巨头主导。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "与SpaceX等领先私营航天公司相关的产业链公司",
+          "risk": "HIGH",
+          "thesis": "私营航天公司在未来太空经济中的主导地位日益明确，其核心供应商将长期受益。"
+        },
+        "confidence": 84,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1529753394215?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1698391419417?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Trump Iran Warning Sparks Volatility",
-        "fullTitle": "Trump's Renewed Iran Warning Risks More Market Volatility",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "President Trump's warning of a potential 'extremely hard' strike on Iran within weeks has increased geopolitical uncertainty. This has led to a risk-off sentiment, causing stock declines and a stronger US dollar as safe-haven flows emerge. The lack of clarity on conflict resolution has disappointed traders who anticipated de-escalation signals, prolonging market jitters.",
+        "title": "China Services Growth Slows",
+        "fullTitle": "China Services Gauge Slows After New Year Holiday Boost",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "China's services sector activity expanded at a weaker pace in March according to a private survey. The slowdown points to sluggish consumer demand following a temporary boost from the Lunar New Year holiday in February. This indicates underlying weakness in domestic consumption. The data is a key indicator for the health of China's economy, which is heavily reliant on services.",
         "relations": [
           {
-            "label": "Donald Trump",
+            "label": "China",
             "type": "entity",
-            "desc": "US President, source of geopolitical risk statement"
+            "desc": "Country experiencing services sector slowdown"
           },
           {
-            "label": "Iran",
+            "label": "Services Sector",
             "type": "entity",
-            "desc": "Geopolitical flashpoint, target of US warnings"
+            "desc": "Economic sector showing weakened expansion"
           },
           {
-            "label": "US Dollar",
-            "type": "resource",
-            "desc": "Safe-haven currency strengthening on risk aversion"
-          },
-          {
-            "label": "Equity Markets",
-            "type": "resource",
-            "desc": "Asset class facing sell-off due to heightened risk"
-          },
-          {
-            "label": "Geopolitical Risk",
+            "label": "Consumer Demand",
             "type": "risk",
-            "desc": "Primary driver of current market volatility"
+            "desc": "Key economic driver showing sluggishness"
+          },
+          {
+            "label": "Private Survey",
+            "type": "entity",
+            "desc": "Data source indicating economic activity"
           }
         ],
         "analysis": {
           "strategic": [
-            "US-Iran tensions are a persistent macro overlay that will continue to drive safe-haven flows and suppress risk assets until a clear resolution path emerges.",
-            "The market reaction underscores the sensitivity of global capital to US foreign policy rhetoric, creating recurring volatility windows around presidential statements."
+            "The slowdown suggests China's post-holiday economic momentum may be weaker than expected, potentially requiring further policy support.",
+            "Sluggish services activity could signal broader consumption headwinds, impacting multinational companies with significant China exposure."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Consumer Discretionary ETFs with China exposure (e.g., FXI, MCHI)",
+          "risk": "MEDIUM",
+          "thesis": "Weakening consumer demand in China's services sector suggests headwinds for consumer-facing companies and related equities."
+        },
+        "confidence": 85,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1519599617725?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Indonesia Holds Fuel Price",
+        "fullTitle": "Indonesia Holds Fuel Prices Despite Iran War Oil Shocks",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Indonesia's Finance Minister stated the country will hold off on raising subsidized fuel prices despite oil market volatility from the Iran war. Minister Purbaya Yudhi Sadewa warned that any price hike could undermine economic growth and threaten social stability. This decision highlights the government's priority on maintaining domestic calm over fiscal adjustments. It exposes the state budget to significant subsidy pressure if oil prices remain elevated.",
+        "relations": [
+          {
+            "label": "Indonesia",
+            "type": "entity",
+            "desc": "Country maintaining fuel subsidies"
+          },
+          {
+            "label": "Purbaya Yudhi Sadewa",
+            "type": "entity",
+            "desc": "Indonesian Finance Minister"
+          },
+          {
+            "label": "Subsidized Fuel",
+            "type": "resource",
+            "desc": "Policy tool being maintained"
+          },
+          {
+            "label": "Social Stability",
+            "type": "risk",
+            "desc": "Primary concern driving policy"
+          },
+          {
+            "label": "Iran War",
+            "type": "risk",
+            "desc": "Geopolitical event causing oil shocks"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Indonesia's choice to absorb oil price shocks via subsidies prioritizes short-term political stability over long-term fiscal health, increasing sovereign risk.",
+            "The policy creates a divergence between global energy markets and Indonesian domestic prices, distorting local demand and potentially worsening the trade deficit."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Indonesian Government Bonds (ID government debt)",
+          "risk": "HIGH",
+          "thesis": "The decision to maintain costly fuel subsidies amid rising oil prices will pressure the state budget, increase fiscal deficit, and could lead to credit rating concerns."
+        },
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1500135446264?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Japan Power Firms Halt Clients",
+        "fullTitle": "Japan Power Retailers Halt New Industrial Clients on Fuel Risks",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "At least two of Japan's largest power retailers have temporarily stopped accepting new industrial clients. The halt is due to uncertainty in fuel markets disrupted by the war in the Middle East. This move indicates severe supply chain and cost pressures in the energy sector. It could constrain industrial production and economic activity in Japan.",
+        "relations": [
+          {
+            "label": "Japan",
+            "type": "entity",
+            "desc": "Country where power firms are acting"
+          },
+          {
+            "label": "Power Retailers",
+            "type": "entity",
+            "desc": "Firms halting new industrial contracts"
+          },
+          {
+            "label": "Fuel Markets",
+            "type": "resource",
+            "desc": "Markets experiencing high volatility"
+          },
+          {
+            "label": "Middle East War",
+            "type": "risk",
+            "desc": "Geopolitical driver of market disruption"
+          },
+          {
+            "label": "Industrial Clients",
+            "type": "entity",
+            "desc": "Business customers being denied service"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The action signals that Japanese utilities view fuel supply security as a critical, immediate business risk, potentially leading to broader energy rationing.",
+            "This development threatens Japan's industrial competitiveness, as reliable and affordable power is a cornerstone for manufacturing sectors like automotive and electronics."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "USD, Treasury Bonds",
+          "asset": "Japanese Renewable Energy / LNG Infrastructure Stocks",
           "risk": "MEDIUM",
-          "thesis": "Geopolitical uncertainty favors traditional safe-haven assets. The dollar and US Treasuries are likely to see sustained bids as the situation remains unresolved, offering a hedge against equity market declines."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1680847648405?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Gold Falls on Mixed Trump Signals",
-        "fullTitle": "Gold Declines After Trump's Mixed Iran War Signals",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Gold prices retreated following President Trump's address on the Middle East conflict, which provided little concrete information on a resolution path. The lack of a clear escalation or de-escalation signal reduced immediate safe-haven demand for the precious metal. The price action reflects market digestion of ambiguous geopolitical rhetoric.",
-        "relations": [
-          {
-            "label": "Gold",
-            "type": "resource",
-            "desc": "Safe-haven asset reacting to geopolitical clarity"
-          },
-          {
-            "label": "Donald Trump",
-            "type": "entity",
-            "desc": "Source of ambiguous policy address"
-          },
-          {
-            "label": "Middle East Conflict",
-            "type": "risk",
-            "desc": "Geopolitical event driving asset flows"
-          },
-          {
-            "label": "Safe-Haven Demand",
-            "type": "risk",
-            "desc": "Market sentiment factor that diminished"
-          },
-          {
-            "label": "Geopolitical Rhetoric",
-            "type": "risk",
-            "desc": "Key price driver for gold"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Gold's sensitivity to geopolitical narrative clarity is high; ambiguous statements can trigger profit-taking as the 'fear premium' gets priced out.",
-            "The asset's role as a geopolitical barometer means its price will remain volatile, swinging between 'wait-and-see' selloffs and panic-driven rallies based on headline developments."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Gold Futures (GC)",
-          "risk": "HIGH",
-          "thesis": "In the short term, the absence of clear escalation signals reduces the immediate catalyst for gold rallies. A period of consolidation or decline is likely until the next definitive geopolitical trigger, presenting a tactical short opportunity."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1610567326361?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Pop Mart $33B Rout Deepens",
-        "fullTitle": "Pop Mart Suffers $33 Billion Rout as Labubu Craze Unravels",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Pop Mart International Group is experiencing a severe and sustained selloff, erasing billions in market value, with no clear bottom in sight. Investor skepticism is intensifying regarding the sustainability of its growth, which is heavily reliant on the popularity of its Labubu toy line. The decline reflects deep concerns over the company's business model dependence on a single product craze.",
-        "relations": [
-          {
-            "label": "Pop Mart International Group",
-            "type": "entity",
-            "desc": "Toymaker facing massive equity selloff"
-          },
-          {
-            "label": "Labubu",
-            "type": "resource",
-            "desc": "Flagship IP/product line driving growth"
-          },
-          {
-            "label": "Growth Sustainability",
-            "type": "risk",
-            "desc": "Core investor concern triggering selloff"
-          },
-          {
-            "label": "Fad/Collectible Risk",
-            "type": "risk",
-            "desc": "Business model risk associated with toy crazes"
-          },
-          {
-            "label": "Consumer Discretionary",
-            "type": "entity",
-            "desc": "Vulnerable sector for sentiment shifts"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The rout highlights the extreme valuation and single-product dependency risks inherent in 'hype-driven' consumer companies, signaling a broader market reassessment of such business models.",
-            "This may precipitate a sector-wide derating for companies reliant on transient cultural phenomena or collectible trends, as investors price in higher volatility and shorter product lifecycles."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Pop Mart International Group (9992.HK)",
-          "risk": "MEDIUM",
-          "thesis": "The unraveling of a core product craze combined with intense skepticism suggests the downward trend has momentum. With no visible catalyst for a turnaround and deepening model concerns, the stock is likely to face continued pressure."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1567584395677?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Drift Hacked, Loses Millions",
-        "fullTitle": "De-fi Platform Drift Hacked, Suspends Activity After Major Theft",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "The Drift decentralized finance platform has suspended all deposits and withdrawals following a major security breach. Blockchain trackers estimate the cryptocurrency theft to be in the hundreds of millions of dollars, potentially making it the largest crypto hack of 2026 so far. The incident underscores persistent critical vulnerabilities in the DeFi ecosystem.",
-        "relations": [
-          {
-            "label": "Drift",
-            "type": "entity",
-            "desc": "DeFi platform victim of a major hack"
-          },
-          {
-            "label": "Cryptocurrency Theft",
-            "type": "risk",
-            "desc": "Operational and security risk event"
-          },
-          {
-            "label": "DeFi Security",
-            "type": "risk",
-            "desc": "Systemic vulnerability highlighted by the hack"
-          },
-          {
-            "label": "Smart Contract Risk",
-            "type": "tech",
-            "desc": "Underlying technology risk potentially exploited"
-          },
-          {
-            "label": "Crypto Market Sentiment",
-            "type": "risk",
-            "desc": "Likely to be negatively impacted"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "This hack represents a systemic risk event for the DeFi sector, likely triggering regulatory scrutiny, outflows from similar protocols, and a repricing of risk across the crypto asset class.",
-            "It reinforces the narrative that security remains the paramount challenge for decentralized finance adoption, potentially slowing institutional involvement and innovation capital flow into the space."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Broad DeFi Sector Tokens (e.g., AAVE, COMP, MKR)",
-          "risk": "HIGH",
-          "thesis": "Major hacks create contagion fear, leading to capital flight from the DeFi sector. Competing protocols will face sell pressure due to perceived systemic risk and increased regulatory threat, offering a short-term tactical short opportunity."
+          "thesis": "Fuel supply insecurity will accelerate investment in alternative energy sources and secure LNG infrastructure to ensure baseload power stability."
         },
         "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1655796411377?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1592419659368?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Anthropic Retracts GitHub Takedowns",
-        "fullTitle": "Anthropic Accidentally Takedowns GitHub Repos Over Leaked Code",
+        "title": "Amazon Adds Fuel Surcharge",
+        "fullTitle": "Amazon Adds Fuel Surcharge as Iran War Roils Energy Markets",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "AI company Anthropic issued thousands of takedown notices to GitHub repositories allegedly containing its leaked source code, but later retracted the bulk of them, calling the action an accident. The incident reveals internal procedural failures and overreach in IP protection efforts. It also highlights the chaotic environment surrounding proprietary AI model security and leaks.",
+        "summary": "Amazon is imposing a 'fuel surcharge' on sellers using its fulfillment services. The e-commerce giant cited turmoil in global energy markets due to the Iran war. Amazon called the surcharge temporary but did not provide an end date. This move directly passes increased logistics costs downstream to merchants, potentially affecting consumer prices.",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "Amazon",
             "type": "entity",
-            "desc": "AI company involved in takedown error"
+            "desc": "E-commerce giant implementing surcharge"
           },
           {
-            "label": "GitHub",
+            "label": "Fuel Surcharge",
+            "type": "risk",
+            "desc": "New cost passed to sellers"
+          },
+          {
+            "label": "Sellers/Merchants",
             "type": "entity",
-            "desc": "Platform targeted by mass takedown notices"
+            "desc": "Entities bearing the new cost"
           },
           {
-            "label": "Source Code Leak",
+            "label": "Global Energy Markets",
+            "type": "resource",
+            "desc": "Markets experiencing volatility"
+          },
+          {
+            "label": "Logistics Costs",
             "type": "risk",
-            "desc": "Intellectual property security incident"
-          },
-          {
-            "label": "IP Protection Overreach",
-            "type": "risk",
-            "desc": "Operational and reputational risk demonstrated"
-          },
-          {
-            "label": "AI Model Security",
-            "type": "tech",
-            "desc": "Underlying concern for proprietary tech firms"
+            "desc": "Operational expense being hedged"
           }
         ],
         "analysis": {
           "strategic": [
-            "The event exposes immaturity in the governance and crisis response protocols of leading AI firms, potentially affecting partner and investor confidence in their operational rigor.",
-            "It may accelerate calls for clearer standards and due process in tech IP enforcement, impacting how all major AI companies manage code leaks and open-source interactions."
+            "Amazon's surcharge demonstrates how geopolitical energy shocks are rapidly transmitted through global supply chains, increasing costs for end consumers.",
+            "This action may pressure margins for small and medium-sized sellers on Amazon's platform, potentially leading to higher prices or reduced seller participation."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Anthropic (if publicly traded) / AI Governance ETFs",
-          "risk": "HIGH",
-          "thesis": "Operational missteps and negative publicity around IP aggression can damage stakeholder trust and brand reputation in the competitive AI landscape, potentially affecting valuation in future funding rounds or IPO prospects."
+          "asset": "Small-Cap E-commerce/Consumer Goods Companies",
+          "risk": "MEDIUM",
+          "thesis": "Increased fulfillment costs from giants like Amazon will disproportionately squeeze margins for smaller retailers and brands with less pricing power."
         },
         "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1679828380426?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1688603411220?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "YC Startup Delve Reputation Worsens",
-        "fullTitle": "Delve's Reputation Worsens Over New Open Source Violation Claims",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Troubled Y Combinator startup Delve faces escalating reputational damage due to new allegations of open source license violations. The company is accused of taking a customer's tool, Sim.ai's product, and presenting it as its own proprietary technology. This compounds existing troubles and raises serious questions about its business ethics and legal compliance.",
+        "title": "Hims & Hers Customer Data Hacked",
+        "fullTitle": "Telehealth Giant Hims & Hers Says Customer Support System Hacked",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "U.S. telehealth company Hims & Hers disclosed a hack of its customer support system. Hackers stole customer support ticket data over several days in February. The breach involves sensitive health-related communication data. This incident highlights cybersecurity vulnerabilities in the rapidly growing digital health sector.",
         "relations": [
           {
-            "label": "Delve",
+            "label": "Hims & Hers",
             "type": "entity",
-            "desc": "YC startup facing ethical/legal allegations"
+            "desc": "Telehealth company that was breached"
           },
           {
-            "label": "Sim.ai",
+            "label": "Hackers",
             "type": "entity",
-            "desc": "Customer and alleged IP victim"
+            "desc": "Perpetrators of the data theft"
           },
           {
-            "label": "Open Source License Violation",
+            "label": "Customer Support Data",
             "type": "risk",
-            "desc": "Legal and reputational risk event"
+            "desc": "Type of sensitive information stolen"
           },
           {
-            "label": "Business Ethics",
+            "label": "Cybersecurity",
             "type": "risk",
-            "desc": "Core concern damaging trust and brand"
+            "desc": "Core vulnerability exposed"
           },
           {
-            "label": "Y Combinator",
+            "label": "Telehealth Sector",
             "type": "entity",
-            "desc": "Accelerator associated with reputational fallout"
+            "desc": "Industry impacted by the breach"
           }
         ],
         "analysis": {
           "strategic": [
-            "This incident highlights the growing strategic importance of rigorous IP and compliance frameworks for startups, as ethical lapses can rapidly destroy company value and investor confidence.",
-            "It may trigger increased due diligence from venture capital firms on portfolio companies' IP practices and ethical governance, raising the bar for early-stage funding."
+            "The breach underscores the high-value target that health data represents and will likely trigger increased regulatory scrutiny on data security in telehealth.",
+            "This event may erode consumer trust in digital health platforms, potentially slowing adoption rates and increasing customer acquisition costs for the sector."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Delve (private market secondary, if available)",
+          "asset": "Hims & Hers (HIMS) Stock",
           "risk": "HIGH",
-          "thesis": "Severe reputational damage and legal exposure from IP violation allegations significantly impair Delve's ability to attract customers, partners, and future funding, threatening its survival and making any equity holding highly risky."
+          "thesis": "The data breach poses significant reputational, regulatory, and potential litigation risks, which could impact subscriber growth and investor sentiment."
         },
-        "confidence": 85,
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1628675608683?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "NASA's Last Non-Silicon Valley Moon Mission",
+        "fullTitle": "Artemis II is NASA's Last Moon Mission Without Silicon Valley",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The Artemis II mission will be NASA's final crewed moon mission not heavily reliant on Silicon Valley companies. Future missions, including Artemis III, will place significant responsibility on private firms like SpaceX and Blue Origin. This marks a pivotal shift in space exploration from a government-led to a public-private partnership model. Pressure will mount on these private entities to deliver critical components and systems.",
+        "relations": [
+          {
+            "label": "NASA",
+            "type": "entity",
+            "desc": "Government space agency"
+          },
+          {
+            "label": "Artemis Program",
+            "type": "entity",
+            "desc": "Moon exploration program"
+          },
+          {
+            "label": "SpaceX",
+            "type": "entity",
+            "desc": "Private space company led by Elon Musk"
+          },
+          {
+            "label": "Blue Origin",
+            "type": "entity",
+            "desc": "Private space company founded by Jeff Bezos"
+          },
+          {
+            "label": "Public-Private Partnership",
+            "type": "tech",
+            "desc": "New model for space exploration"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The transition signifies a permanent structural shift in the space industry, with private capital and innovation becoming the primary drivers of deep-space exploration.",
+            "This creates a high-stakes environment where the success of national space ambitions is now directly tied to the execution capabilities of a few private companies."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Space Industry ETFs (e.g., UFO, ROKT)",
+          "risk": "MEDIUM",
+          "thesis": "The increasing centrality of private companies like SpaceX and Blue Origin to national space goals will drive long-term growth and investment in the broader space economy."
+        },
+        "confidence": 82,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1529918351936?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1618401488682?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Advertencia de Trump sobre Irán genera volatilidad",
-        "fullTitle": "Advertencia renovada de Trump sobre Irán genera volatilidad en mercados",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Los mercados financieros reaccionaron con nerviosismo tras las declaraciones del presidente Trump sobre posibles acciones militares contra Irán en las próximas semanas. Las acciones cayeron y el dólar se fortaleció, decepcionando a los operadores que esperaban señales de desescalada. La incertidumbre geopolítica continúa presionando los activos de riesgo.",
+        "title": "Actividad servicios China se desacelera",
+        "fullTitle": "Indicador de servicios de China se desacelera tras impulso vacacional",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "La actividad del sector servicios de China se expandió a un ritmo más débil en marzo, según una encuesta privada. Esto apunta a una demanda de los consumidores débil tras el impulso del largo feriado nacional del mes anterior. El dato sugiere que la recuperación del consumo interno sigue siendo frágil y desigual.",
         "relations": [
           {
-            "label": "Donald Trump",
+            "label": "China",
             "type": "entity",
-            "desc": "Presidente de EE.UU., emisor de la advertencia"
+            "desc": "Economía clave, segunda mayor del mundo"
           },
           {
-            "label": "Irán",
-            "type": "entity",
-            "desc": "País objetivo de la amenaza militar"
+            "label": "Sector Servicios",
+            "type": "resource",
+            "desc": "Motor principal del crecimiento económico chino"
           },
           {
-            "label": "Volatilidad del mercado",
+            "label": "Demanda del Consumidor",
             "type": "risk",
-            "desc": "Riesgo financiero por tensión geopolítica"
+            "desc": "Indicador clave de salud económica interna"
           },
           {
-            "label": "Dólar estadounidense (USD)",
-            "type": "resource",
-            "desc": "Activo refugio que se fortaleció"
-          },
-          {
-            "label": "Acciones globales",
-            "type": "resource",
-            "desc": "Activos de riesgo que cayeron"
+            "label": "Recuperación Económica",
+            "type": "risk",
+            "desc": "Trayectoria post-pandemia y desafíos estructurales"
           }
         ],
         "analysis": {
           "strategic": [
-            "La retórica de Trump mantiene la prima de riesgo geopolítico en los mercados energéticos y de divisas.",
-            "La falta de claridad en la política exterior estadounidense crea oportunidades para actores que busquen cobertura contra la volatilidad."
+            "La desaceleración subraya los persistentes desafíos de demanda interna en China, lo que podría presionar a las autoridades para implementar más estímulos fiscales o monetarios.",
+            "La fragilidad del sector servicios, un gran empleador, plantea riesgos para la estabilidad social y los objetivos de crecimiento anual del PIB."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "ETF relacionado con consumo discrecional chino (ej. CHIQ)",
+          "risk": "MEDIUM",
+          "thesis": "La debilidad persistente en la demanda de servicios sugiere presión a la baja en los ingresos y márgenes de las empresas de consumo y retail en China."
+        },
+        "confidence": 82,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1587653699571?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+      },
+      {
+        "title": "Indonesia congela precios combustible subsidiado",
+        "fullTitle": "Indonesia pospone alza combustible subsidiado pese a guerra Irán",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Indonesia se abstendrá de aumentar los precios del combustible subsidiado a pesar de los shocks petroleros por la guerra en Irán. El Ministro de Finanzas, Purbaya Yudhi Sadewa, advirtió que cualquier aumento podría socavar el crecimiento económico y amenazar la estabilidad social. La decisión prioriza la estabilidad interna sobre la presión fiscal.",
+        "relations": [
+          {
+            "label": "Indonesia",
+            "type": "entity",
+            "desc": "Economía emergente importante, gran importador de petróleo"
+          },
+          {
+            "label": "Purbaya Yudhi Sadewa",
+            "type": "entity",
+            "desc": "Ministro de Finanzas de Indonesia"
+          },
+          {
+            "label": "Combustible Subsidiado",
+            "type": "resource",
+            "desc": "Política fiscal clave con alto costo presupuestario"
+          },
+          {
+            "label": "Estabilidad Social",
+            "type": "risk",
+            "desc": "Riesgo principal para gobiernos por inflación energética"
+          },
+          {
+            "label": "Guerra Irán",
+            "type": "risk",
+            "desc": "Evento geopolítico que impulsa precios energéticos globales"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La decisión expone el difícil equilibrio entre sostenibilidad fiscal y estabilidad política en economías emergentes importadoras de energía durante crisis geopolíticas.",
+            "Mantener los subsidios aumentará la presión sobre el déficit presupuestario y podría llevar a recortes en otros gastos o a un mayor endeudamiento."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Bono soberano de Indonesia (IDR)",
+          "risk": "HIGH",
+          "thesis": "La postergación del ajuste fiscal necesario para los subsidios energéticos deteriora las perspectivas de las finanzas públicas, aumentando la prima de riesgo."
+        },
+        "confidence": 87,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1658454264689?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Eléctricas Japón frenan clientes industriales",
+        "fullTitle": "Mayores eléctricas Japón frenan nuevos clientes industriales",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Al menos dos de las mayores empresas minoristas de electricidad de Japón han detenido temporalmente la aceptación de nuevos clientes industriales. La medida está pendiente de mayor claridad en los mercados de combustibles, alterados por la guerra en Medio Oriente. Esto refleja una aversión extrema al riesgo en el suministro energético.",
+        "relations": [
+          {
+            "label": "Japón",
+            "type": "entity",
+            "desc": "Tercera mayor economía, altamente dependiente de energía importada"
+          },
+          {
+            "label": "Empresas Eléctricas",
+            "type": "entity",
+            "desc": "Sector clave de infraestructura"
+          },
+          {
+            "label": "Mercados de Combustibles",
+            "type": "resource",
+            "desc": "Suministro y precios de LNG, carbón, petróleo"
+          },
+          {
+            "label": "Riesgo de Suministro",
+            "type": "risk",
+            "desc": "Interrupción en cadenas de abastecimiento energético"
+          },
+          {
+            "label": "Guerra Medio Oriente",
+            "type": "risk",
+            "desc": "Factor de disrupción geopolítica global"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La medida indica que las empresas japonesas anticipan una prolongada volatilidad y posibles escaseces en el mercado energético global, priorizando la seguridad del suministro existente.",
+            "Esta restricción podría ralentizar la actividad industrial y la inversión en Japón, creando un cuello de botella para el crecimiento económico."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF de volatilidad (VIX) / Dólar estadounidense",
+          "asset": "Acciones de empresas de energía renovable/alternativa japonesas",
           "risk": "MEDIUM",
-          "thesis": "La incertidumbre prolongada sobre Irán favorece activos defensivos y coberturas contra la volatilidad."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1507291420915?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Oro cae por señales mixtas sobre Irán",
-        "fullTitle": "El oro cae tras señales confusas de Trump sobre resolución en Irán",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "El precio del oro retrocedió después de que el discurso del presidente Trump no ofreciera una hoja de ruta clara para resolver el conflicto con Irán. Los inversores redujeron parte de la prima de riesgo incorporada en el metal precioso. La falta de escalada inmediata alivió temporalmente la demanda de refugio seguro.",
-        "relations": [
-          {
-            "label": "Oro (XAU)",
-            "type": "resource",
-            "desc": "Activo refugio que perdió valor"
-          },
-          {
-            "label": "Geopolítica de Oriente Medio",
-            "type": "risk",
-            "desc": "Factor principal de la volatilidad"
-          },
-          {
-            "label": "Discurso presidencial",
-            "type": "entity",
-            "desc": "Evento catalizador del movimiento del mercado"
-          },
-          {
-            "label": "Inversores institucionales",
-            "type": "entity",
-            "desc": "Actores que ajustan posiciones de cobertura"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La reacción del oro subraya su sensibilidad a los cambios en la percepción del riesgo geopolítico inmediato.",
-            "Los mercados están operando con un alto grado de reactividad a las declaraciones de figuras políticas clave."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Futuros de oro / ETF GLD",
-          "risk": "HIGH",
-          "thesis": "Si la tensión no escala en el corto plazo, el oro podría corregir parte de sus ganancias recientes por motivos geopolíticos."
-        },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1697814448193?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "Pop Mart pierde $33 mil millones en venta masiva",
-        "fullTitle": "Pop Mart sufre venta masiva de $33 mil millones; moda Labubu se desinfla",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Las acciones de Pop Mart International Group Ltd. continúan en una fuerte tendencia bajista, con pérdidas acumuladas que alcanzan los $33 mil millones. El escepticismo de los inversores sobre el modelo de crecimiento impulsado por la muñeca Labubu es cada vez mayor. La venta masiva no muestra signos claros de tocar fondo, presionando la valoración de la empresa.",
-        "relations": [
-          {
-            "label": "Pop Mart International Group",
-            "type": "entity",
-            "desc": "Fabricante de juguetes chino afectado"
-          },
-          {
-            "label": "Labubu",
-            "type": "entity",
-            "desc": "Línea de productos cuya popularidad decae"
-          },
-          {
-            "label": "Crecimiento por modas (Fads)",
-            "type": "risk",
-            "desc": "Riesgo del modelo de negocio"
-          },
-          {
-            "label": "Mercado de valores de Hong Kong",
-            "type": "entity",
-            "desc": "Bolsa donde cotiza la empresa"
-          },
-          {
-            "label": "Inversores minoristas",
-            "type": "entity",
-            "desc": "Poseedores afectados por la venta masiva"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El caso expone la vulnerabilidad de los modelos de negocio dependientes de modas efímeras en el consumo masivo.",
-            "Podría generar un escrutinio regulatorio y de inversión más estricto sobre las valoraciones de empresas de 'cultura coleccionable'."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Acciones de Pop Mart (9992.HK)",
-          "risk": "MEDIUM",
-          "thesis": "El agotamiento de la moda Labubu y la pérdida de confianza de los inversores pueden prolongar la corrección."
-        },
-        "confidence": 90,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1577211396636?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Plataforma DeFi Drift hackeada; robo millonario",
-        "fullTitle": "Plataforma DeFi Drift suspendida tras hackeo y robo de cientos de millones",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "La plataforma de finanzas descentralizadas Drift suspendió depósitos y retiros después de sufrir un hackeo masivo. Rastreadores de blockchain estiman el robo en cientos de millones de dólares, posicionándolo como el mayor cripto-robo de 2026 hasta la fecha. El incidente genera dudas sobre la seguridad en el ecosistema DeFi.",
-        "relations": [
-          {
-            "label": "Drift Protocol",
-            "type": "entity",
-            "desc": "Plataforma DeFi hackeada"
-          },
-          {
-            "label": "Cripto-robo",
-            "type": "risk",
-            "desc": "Evento de seguridad crítico"
-          },
-          {
-            "label": "Finanzas Descentralizadas (DeFi)",
-            "type": "tech",
-            "desc": "Sector afectado por el incidente"
-          },
-          {
-            "label": "Contratos inteligentes",
-            "type": "tech",
-            "desc": "Tecnología subyacente potencialmente explotada"
-          },
-          {
-            "label": "Blockchain trackers",
-            "type": "entity",
-            "desc": "Entidades que cuantifican el robo"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El hackeo refuerza la narrativa de riesgo de contraparte y seguridad como la mayor barrera para la adopción institucional de DeFi.",
-            "Podría acelerar los esfuerzos regulatorios globales para establecer estándares de seguridad y seguro para plataformas DeFi."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Tokens de gobernanza de protocolos DeFi similares / Criptomonedas del sector",
-          "risk": "HIGH",
-          "thesis": "El pánico y la desconfianza posteriores al hackeo pueden generar ventas generalizadas en el sector DeFi en el corto plazo."
-        },
-        "confidence": 92,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1596184188103?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Anthropic retira repos de GitHub por error",
-        "fullTitle": "Anthropic retira miles de repos de GitHub por código fuente filtrado, dice que fue error",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic, empresa de IA, emitió y luego retiró miles de avisos de retirada (takedown) a repositorios de GitHub que intentaban acceder a su código fuente filtrado. Los ejecutivos de la compañía afirmaron que la acción masiva fue un accidente. El incidente destaca la tensión entre la protección de la propiedad intelectual y la cultura de código abierto.",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "Empresa de IA que cometió el error"
-          },
-          {
-            "label": "GitHub",
-            "type": "entity",
-            "desc": "Plataforma donde se ejecutaron los takedowns"
-          },
-          {
-            "label": "Código fuente de IA",
-            "type": "tech",
-            "desc": "Propiedad intelectual en el centro del incidente"
-          },
-          {
-            "label": "Takedown notices (DMCA)",
-            "type": "risk",
-            "desc": "Mecanismo legal utilizado erróneamente"
-          },
-          {
-            "label": "Comunidad de código abierto",
-            "type": "entity",
-            "desc": "Afectada por las retiradas"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El incidente puede dañar la reputación de Anthropic entre desarrolladores y afectar su capacidad de reclutamiento en un mercado competitivo.",
-            "Expone los desafíos legales y operativos que enfrentan las empresas de IA para proteger sus activos en la era digital."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Posibles competidores de Anthropic en IA (evaluar capital privado)",
-          "risk": "LOW",
-          "thesis": "Un error de relaciones públicas y legales de esta magnitud podría crear una apertura competitiva temporal para rivales."
+          "thesis": "La inseguridad en el suministro de combustibles fósiles acelerará las inversiones en diversificación energética y fuentes locales/renovables en Japón."
         },
         "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1630773664684?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1602729736471?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Reputación de startup Delve se deteriora más",
-        "fullTitle": "Reputación de la problemática startup YC Delve empeora por nueva acusación",
+        "title": "Amazon impone recargo combustible por guerra Irán",
+        "fullTitle": "Amazon impone recargo combustible temporal por guerra Irán",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Delve, una startup con problemas de Y Combinator, enfrenta nuevas acusaciones de violar la licencia de código abierto de su cliente Sim.ai. Se alega que Delve tomó una herramienta del cliente y la hizo pasar como propia. Esto agrava significativamente sus problemas de reputación y legales.",
+        "summary": "Amazon está aplicando un 'recargo por combustible' a sus vendedores debido a la turbulencia en los mercados globales de energía por la guerra en Irán. El gigante del comercio electrónico calificó el recargo como 'temporal', pero no pudo dar una fecha para su eliminación. Esto transfiere directamente el costo del riesgo geopolítico a las PYMEs en su plataforma.",
         "relations": [
           {
-            "label": "Delve",
+            "label": "Amazon",
             "type": "entity",
-            "desc": "Startup acusada de mala conducta"
+            "desc": "Gigante global del comercio electrónico y logística"
           },
           {
-            "label": "Y Combinator (YC)",
+            "label": "Vendedores/3P Sellers",
             "type": "entity",
-            "desc": "Aceleradora que respalda a Delve"
+            "desc": "Base de la plataforma marketplace de Amazon"
           },
           {
-            "label": "Sim.ai",
-            "type": "entity",
-            "desc": "Cliente y presunta víctima"
-          },
-          {
-            "label": "Licencia de código abierto",
-            "type": "tech",
-            "desc": "Marco legal supuestamente violado"
-          },
-          {
-            "label": "Propiedad intelectual",
+            "label": "Recargo por Combustible",
             "type": "risk",
-            "desc": "Área de riesgo para startups tecnológicas"
+            "desc": "Mecanismo de transferencia de costos logísticos"
+          },
+          {
+            "label": "Mercados Energéticos Globales",
+            "type": "resource",
+            "desc": "Precios del petróleo y costos de transporte"
+          },
+          {
+            "label": "Guerra Irán",
+            "type": "risk",
+            "desc": "Disruptor geopolítico clave"
           }
         ],
         "analysis": {
           "strategic": [
-            "El caso puede llevar a Y Combinator y otros inversores a reevaluar su diligencia debida en materia de propiedad intelectual.",
-            "Aumenta el escrutinio sobre las prácticas éticas en el ecosistema de startups, especialmente respecto al uso del código de clientes/competidores."
+            "La acción de Amazon demuestra cómo las crisis geopolíticas se transmiten rápidamente a través de las cadenas de suministro globales y se convierten en presión inflacionaria para los bienes de consumo.",
+            "La imposición de recargos 'temporales' indefinidos erosiona la previsibilidad de costos para los vendedores, pudiendo afectar su rentabilidad y los precios finales al consumidor."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Cualquier ronda de financiación futura para Delve / Exposición a fondos de VC muy concentrados en YC",
+          "asset": "Pequeñas empresas dependientes de logística de terceros (ej. ciertos retailers online)",
           "risk": "HIGH",
-          "thesis": "El daño reputacional y el riesgo legal hacen que la startup sea casi inviable, amenazando cualquier valoración previa."
+          "thesis": "Los márgenes de las empresas más pequeñas, sin poder de negociación, serán comprimidos por estos recargos impuestos por gigantes logísticos como Amazon."
+        },
+        "confidence": 83,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1612202281834?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Hims & Hers sufre hackeo sistema soporte",
+        "fullTitle": "Gigante telehealth Hims & Hers hackeado, robo datos tickets",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "El gigante estadounidense de telehealth Hims & Hers anunció que su sistema de soporte al cliente fue hackeado. Los atacantes robaron datos de tickets de soporte durante varios días en febrero. El incidente compromete información sensible de comunicación cliente-empresa en el sector salud digital.",
+        "relations": [
+          {
+            "label": "Hims & Hers",
+            "type": "entity",
+            "desc": "Compañía líder de telehealth y salud digital"
+          },
+          {
+            "label": "Ciberseguridad",
+            "type": "risk",
+            "desc": "Riesgo operativo crítico para empresas digitales"
+          },
+          {
+            "label": "Datos de Salud",
+            "type": "resource",
+            "desc": "Información sensible y altamente regulada (HIPAA)"
+          },
+          {
+            "label": "Soporte al Cliente",
+            "type": "tech",
+            "desc": "Sistema objetivo para ataques de exfiltración de datos"
+          },
+          {
+            "label": "Telehealth",
+            "type": "tech",
+            "desc": "Sector en crecimiento con alto riesgo de datos"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El ataque resalta la vulnerabilidad de los sistemas periféricos (como soporte) en empresas de salud, que a menudo tienen protecciones más débiles que los núcleos clínicos, pero contienen datos sensibles.",
+            "Este incidente podría provocar un escrutinio regulatorio más estricto (HIPAA, FTC) sobre las prácticas de seguridad de datos en toda la industria del telehealth, aumentando los costos de cumplimiento."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Acciones de Hims & Hers (HIMS)",
+          "risk": "MEDIUM",
+          "thesis": "El hackeo conlleva riesgo de multas regulatorias, costos de remediación, pérdida de confianza del cliente y posibles litigios, impactando negativamente en la valoración."
         },
         "confidence": 88,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1590524718102?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Artemis II última misión NASA sin Silicon Valley",
+        "fullTitle": "Artemis II última misión lunar NASA sin SpaceX/Blue Origin",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Artemis II será la última misión lunar de la NASA sin una participación central de empresas del Silicon Valley. Para la próxima misión, la presión y responsabilidad recaerán en contratistas privados como SpaceX y Blue Origin. Esto marca un punto de inflexión en la exploración espacial liderada por el sector comercial.",
+        "relations": [
+          {
+            "label": "NASA",
+            "type": "entity",
+            "desc": "Agencia espacial gubernamental estadounidense"
+          },
+          {
+            "label": "SpaceX",
+            "type": "entity",
+            "desc": "Contratista espacial comercial líder"
+          },
+          {
+            "label": "Blue Origin",
+            "type": "entity",
+            "desc": "Contratista espacial comercial fundado por Bezos"
+          },
+          {
+            "label": "Artemis Program",
+            "type": "tech",
+            "desc": "Programa de retorno a la Luna de la NASA"
+          },
+          {
+            "label": "Sector Espacial Comercial",
+            "type": "tech",
+            "desc": "Industria en crecimiento con actores privados"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La transición confirma el cambio de paradigma de la NASA de operador principal a cliente de servicios de lanzamiento y sistemas, externalizando el riesgo tecnológico y de desarrollo.",
+            "Este modelo incrementa la dependencia de un puñado de empresas privadas para objetivos nacionales críticos, creando nuevos riesgos de concentración y de cadena de suministro."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF del sector aeroespacial y defensa con exposición espacial (ej. ITA, XAR)",
+          "risk": "LOW",
+          "thesis": "La creciente dependencia de contratistas comerculares para misiones de alto perfil asegura flujos de ingresos gubernamentales estables y de largo plazo para los líderes del sector espacial privado."
+        },
+        "confidence": 90,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1506693260011?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1584557706659?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
