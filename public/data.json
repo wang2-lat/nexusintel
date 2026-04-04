@@ -1,823 +1,803 @@
 {
-  "generated_at": "2026-04-03T02:35:55.766384",
+  "generated_at": "2026-04-04T02:27:13.953860",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "中国服务业活动放缓",
-        "fullTitle": "中国服务业PMI在春节假期提振后放缓",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "一项私人调查显示，中国服务业活动在3月份扩张步伐放缓。这表明在2月份长假带来的提振之后，消费需求依然疲软。该数据反映了国内消费复苏的持续性面临挑战。",
-        "relations": [
-          {
-            "label": "中国服务业",
-            "type": "entity",
-            "desc": "反映国内消费需求的关键经济部门"
-          },
-          {
-            "label": "消费者需求",
-            "type": "risk",
-            "desc": "经济复苏的核心驱动力，目前表现疲软"
-          },
-          {
-            "label": "私人调查",
-            "type": "entity",
-            "desc": "衡量经济活动的重要先行指标"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "中国内需复苏基础尚不稳固，可能影响依赖中国市场的全球消费品及服务企业。",
-            "政策制定者可能面临进一步刺激消费的压力，关注后续财政或货币政策动向。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "与中国消费高度相关的股票或ETF",
-          "risk": "MEDIUM",
-          "thesis": "服务业数据疲软表明消费复苏不及预期，可能对相关板块股价构成压力。"
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1577760514482?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "印尼暂缓上调补贴燃油价",
-        "fullTitle": "印尼财长称将暂缓上调补贴燃油价以保增长",
+        "title": "越南经济增速放缓",
+        "fullTitle": "能源成本上升拖累越南一季度经济增长",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "印尼财政部长表示，尽管伊朗战争导致油价冲击，但印尼将暂缓上调补贴燃油价格。他警告称，任何涨价都可能破坏经济增长并威胁社会稳定。此举旨在平衡财政压力与社会经济稳定。",
+        "summary": "越南第一季度经济增长势头因中东紧张局势升级而放缓。能源成本上涨和全球贸易路线中断，给越共总书记杜梅推动的两位数增长目标带来复杂性。地缘政治风险正通过大宗商品渠道影响新兴市场经济体。",
         "relations": [
           {
-            "label": "印尼财政部",
+            "label": "越南",
             "type": "entity",
-            "desc": "政策制定与执行的关键政府部门"
+            "desc": "受能源成本冲击的新兴经济体"
           },
           {
-            "label": "补贴燃油价格",
-            "type": "resource",
-            "desc": "影响通胀、财政赤字及社会稳定的关键政策变量"
-          },
-          {
-            "label": "社会稳定性",
+            "label": "中东紧张局势",
             "type": "risk",
-            "desc": "新兴市场国家政策决策的核心考量因素"
+            "desc": "推高全球能源价格的地缘政治风险"
+          },
+          {
+            "label": "能源成本",
+            "type": "resource",
+            "desc": "影响经济增长的关键输入成本"
+          },
+          {
+            "label": "全球贸易路线",
+            "type": "risk",
+            "desc": "受地缘政治影响的供应链通道"
           }
         ],
         "analysis": {
           "strategic": [
-            "印尼选择牺牲部分财政纪律以换取短期社会稳定，凸显新兴市场在外部冲击下的脆弱性。",
-            "此举可能增加印尼的财政赤字压力，长期或影响其主权信用评级和市场信心。"
+            "地缘政治冲突正通过能源渠道对依赖制造业出口的新兴经济体（如越南）产生实质性冲击，可能重塑区域供应链格局。",
+            "越南政府的高增长目标面临外部输入性通胀和贸易流中断的双重挑战，政策制定空间受到挤压。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "印尼盾或印尼国债",
-          "risk": "HIGH",
-          "thesis": "延迟改革以应对油价冲击，将增加财政负担和货币贬值压力，对本国资产构成利空。"
+          "asset": "越南股市ETF (如 VNM) 或越南盾相关资产",
+          "risk": "MEDIUM",
+          "thesis": "经济增长放缓、输入性通胀压力以及外部需求不确定性，可能对越南资产估值和货币汇率构成短期压力。"
         },
         "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1528826555935?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1634729764254?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "日本电力零售商暂停新工业客户",
-        "fullTitle": "日本大型电力零售商因燃料风险暂停新工业客户",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "由于中东战争导致燃料市场动荡，日本至少两家大型电力零售商已暂时停止接受新的工业客户。他们正在等待燃料市场前景更加明朗。这反映了地缘政治对能源供应链的直接影响。",
-        "relations": [
-          {
-            "label": "日本电力零售商",
-            "type": "entity",
-            "desc": "受能源供应安全直接冲击的企业"
-          },
-          {
-            "label": "燃料市场",
-            "type": "resource",
-            "desc": "当前地缘政治冲突的核心扰动领域"
-          },
-          {
-            "label": "工业客户",
-            "type": "entity",
-            "desc": "电力需求大户，其生产可能因此受限"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "此举表明关键基础设施运营商对能源供应安全的担忧加剧，可能引发产业链连锁反应。",
-            "日本工业活动可能因能源供应不确定性而受限，影响其制造业竞争力和经济产出。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "液化天然气供应商或能源贸易公司股票",
-          "risk": "MEDIUM",
-          "thesis": "能源供应紧张和不确定性将推高能源价格，并使灵活的能源供应商受益。"
-        },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1573987072977?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "亚马逊向卖家征收燃油附加费",
-        "fullTitle": "亚马逊因伊朗战争向卖家征收临时燃油附加费",
+        "title": "法日船只首穿霍尔木兹海峡",
+        "fullTitle": "法国和日本船只首次穿越重启的霍尔木兹海峡",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "电子商务巨头亚马逊开始向卖家征收一项“燃油附加费”，原因是伊朗战争扰乱了全球能源市场。亚马逊称该附加费是“临时性的”，但未给出政策结束日期。这显示了地缘政治风险向消费端的传导。",
+        "summary": "一艘法国集装箱船和一艘日本拥有的油轮穿越了霍尔木兹海峡。这似乎是自伊朗战争导致该关键水道关闭以来的首次此类过境。此举可能标志着该地区航运活动尝试性恢复的开端。",
         "relations": [
           {
-            "label": "亚马逊",
-            "type": "entity",
-            "desc": "全球电商与物流巨头，成本传导能力极强"
-          },
-          {
-            "label": "燃油附加费",
-            "type": "risk",
-            "desc": "能源成本上涨向终端消费者传导的机制"
-          },
-          {
-            "label": "全球能源市场",
+            "label": "霍尔木兹海峡",
             "type": "resource",
-            "desc": "地缘政治冲突的核心影响领域"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "亚马逊将成本压力转嫁给卖家，最终可能推高平台商品价格，加剧全球通胀压力。",
-            "此举揭示了大型科技公司在供应链中的定价权，但也可能引发卖家不满和监管关注。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "依赖亚马逊平台的中小卖家或相关零售股",
-          "risk": "HIGH",
-          "thesis": "附加费将直接侵蚀卖家利润，对利润率本已微薄的中小卖家冲击尤甚。"
-        },
-        "confidence": 86,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1588498941442?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Hims & Hers客户支持系统遭黑客攻击",
-        "fullTitle": "美国远程医疗巨头Hims & Hers客户支持系统遭黑客入侵",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "美国远程医疗巨头Hims & Hers表示其客户支持系统遭到黑客攻击。黑客在2月的几天内窃取了客户支持票证数据。事件涉及用户敏感信息，可能引发数据隐私和合规风险。",
-        "relations": [
-          {
-            "label": "Hims & Hers",
-            "type": "entity",
-            "desc": "美国知名远程医疗服务提供商"
+            "desc": "全球石油运输关键咽喉要道"
           },
           {
-            "label": "数据泄露",
+            "label": "法国",
+            "type": "entity",
+            "desc": "参与关键航道恢复的欧洲国家"
+          },
+          {
+            "label": "日本",
+            "type": "entity",
+            "desc": "能源进口依赖国，关注航道安全"
+          },
+          {
+            "label": "伊朗战争",
             "type": "risk",
-            "desc": "涉及用户敏感信息，可能导致法律与声誉风险"
-          },
-          {
-            "label": "客户支持票证",
-            "type": "entity",
-            "desc": "可能包含用户健康咨询等隐私信息"
+            "desc": "导致海峡关闭的地区冲突"
           }
         ],
         "analysis": {
           "strategic": [
-            "医疗健康数据泄露事件频发，将加剧监管机构对该行业数据安全的审查和立法压力。",
-            "此类事件严重损害消费者信任，可能影响远程医疗行业的长期增长前景和用户采纳率。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Hims & Hers股票",
-          "risk": "MEDIUM",
-          "thesis": "数据泄露事件可能导致监管罚款、用户流失和声誉受损，短期内对公司股价构成压力。"
-        },
-        "confidence": 89,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1515596919634?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "NASA最后一次无硅谷参与的登月任务",
-        "fullTitle": "Artemis II是NASA最后一次无硅谷参与的登月任务",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Artemis II将是NASA最后一次在没有硅谷公司深度参与的情况下执行的月球任务。下一次任务，压力将落在SpaceX和蓝色起源等私营航天公司身上。这标志着太空探索主导权的转移。",
-        "relations": [
-          {
-            "label": "NASA",
-            "type": "entity",
-            "desc": "传统国家航天机构，主导权面临挑战"
-          },
-          {
-            "label": "SpaceX/蓝色起源",
-            "type": "entity",
-            "desc": "新兴私营航天巨头"
-          },
-          {
-            "label": "Artemis计划",
-            "type": "tech",
-            "desc": "美国重返月球的标志性航天计划"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "太空探索正从国家主导转向公私合营，私营公司的技术迭代和成本控制能力成为关键。",
-            "未来月球及深空探索的基础设施建设和运营，将日益由少数几家私营航天巨头主导。"
+            "关键航运通道的有限恢复可能缓解全球能源供应链的部分压力，但安全风险依然高企，恢复进程脆弱。",
+            "法日船只的率先行动可能具有试探和象征意义，反映了主要能源消费国和贸易国对恢复该通道稳定的迫切需求。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "与SpaceX等领先私营航天公司相关的产业链公司",
+          "asset": "国际油轮运输公司 (如 EURONAV, FRO) 或原油期货",
           "risk": "HIGH",
-          "thesis": "私营航天公司在未来太空经济中的主导地位日益明确，其核心供应商将长期受益。"
+          "thesis": "关键航道若出现持续、稳定的恢复迹象，将降低航运风险溢价，提振油轮运输需求预期，并可能平抑原油的地缘政治溢价。"
+        },
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1503413670808?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "美法官驳回司法部动议",
+        "fullTitle": "美法官驳回司法部重启美联储调查的动议",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "美国司法部未能成功继续其对美联储大楼翻修成本超支的调查。法官驳回了其动议。此案为上诉铺平了道路，最终可能上诉至最高法院。这涉及对美联储独立性的法律挑战。",
+        "relations": [
+          {
+            "label": "美国司法部",
+            "type": "entity",
+            "desc": "试图调查美联储的行政部门"
+          },
+          {
+            "label": "美联储",
+            "type": "entity",
+            "desc": "被调查的中央银行，独立性受关注"
+          },
+          {
+            "label": "最高法院",
+            "type": "entity",
+            "desc": "潜在最终裁决机构"
+          },
+          {
+            "label": "机构独立性",
+            "type": "risk",
+            "desc": "本案涉及的核心制度风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "此案凸显了美国行政与准独立央行机构之间的潜在张力，任何削弱美联储独立性的裁决都可能影响其政策信誉和市场信心。",
+            "法律纠纷若升级至最高法院，将引发关于央行问责制与操作独立性边界的重大宪法讨论，增加政策不确定性。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "短期美国国债或美元指数",
+          "risk": "MEDIUM",
+          "thesis": "围绕美联储独立性的法律不确定性短期内可能削弱市场对美元制度和美国金融监管稳定性的信心，增加避险情绪。"
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1666158931917?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Anthropic受热捧，SpaceX或搅局",
+        "fullTitle": "私募市场Anthropic受热捧，SpaceX的IPO可能改变格局",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Rainmaker Securities总裁表示，私募股权二级市场异常活跃，Anthropic成为最热交易，OpenAI失势。同时，SpaceX即将到来的IPO可能重塑整个私募市场格局，吸引大量资金和关注。",
+        "relations": [
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "当前私募二级市场最热门的AI公司"
+          },
+          {
+            "label": "SpaceX",
+            "type": "entity",
+            "desc": "即将IPO，可能吸走市场流动性的巨头"
+          },
+          {
+            "label": "OpenAI",
+            "type": "entity",
+            "desc": "在私募二级市场失势的AI领军者"
+          },
+          {
+            "label": "私募股权二级市场",
+            "type": "tech",
+            "desc": "当前异常活跃的非公开股权交易市场"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "私募市场资金正在AI巨头之间快速轮动，表明投资者在重新评估AI赛道内的相对价值和风险，市场偏好发生微妙变化。",
+            "SpaceX的IPO作为一个巨型流动性事件，可能从整个科技私募市场（包括AI）抽走大量资金和注意力，引发板块估值重估。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "与SpaceX供应链相关的上市公司 (如航空航天、材料板块)",
+          "risk": "MEDIUM",
+          "thesis": "SpaceX的IPO将极大提升市场对商业航天产业的关注度和估值水平，其庞大的供应链生态将直接受益。"
+        },
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1529749337306?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Lucid将Q1销售下滑归咎供应商",
+        "fullTitle": "Lucid将第一季度销售下滑归咎于座椅供应商问题",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "电动汽车制造商Lucid将其第一季度销量下滑归咎于座椅供应商问题。公司表示问题已解决，并且没有改变其2026年的业绩指引。这表明下滑被管理层视为短期、可解决的供应链扰动。",
+        "relations": [
+          {
+            "label": "Lucid",
+            "type": "entity",
+            "desc": "遭遇供应链问题的美国电动汽车制造商"
+          },
+          {
+            "label": "供应链问题",
+            "type": "risk",
+            "desc": "导致产量和销售下滑的具体运营风险"
+          },
+          {
+            "label": "座椅供应商",
+            "type": "entity",
+            "desc": "导致生产瓶颈的单一零部件供应商"
+          },
+          {
+            "label": "2026年指引",
+            "type": "entity",
+            "desc": "公司维持的长期财务目标"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Lucid暴露出对单一供应商的过度依赖风险，这在电动汽车行业追求轻资产和快速扩张的背景下是一个普遍但关键的脆弱点。",
+            "公司维持长期指引旨在向市场传递信心，将短期挫折定性为孤立事件，但其供应链管理能力将受到更密切审视。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Lucid Motors (LCID) 股票",
+          "risk": "HIGH",
+          "thesis": "尽管问题声称已解决，但暴露出公司供应链的脆弱性和执行风险，在竞争激烈的电动车市场，此类生产中断可能持续影响交付能力和投资者信心。"
         },
         "confidence": 84,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1616477755963?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "匿名社交应用Fizz试水沙特",
+        "fullTitle": "匿名社交应用Fizz在沙特阿拉伯意外获得成功",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "匿名社交应用Fizz在沙特阿拉伯低调上线后，其受欢迎程度超出了创始人兼CEO Teddy Solomon的预期。这表明在监管和社会环境独特的沙特，匿名社交产品可能存在未充分开发的市场需求。",
+        "relations": [
+          {
+            "label": "Fizz",
+            "type": "tech",
+            "desc": "在沙特取得意外成功的匿名社交应用"
+          },
+          {
+            "label": "沙特阿拉伯",
+            "type": "entity",
+            "desc": "拥有独特社交环境的新兴市场"
+          },
+          {
+            "label": "匿名社交",
+            "type": "tech",
+            "desc": "在特定市场具有吸引力的社交产品模式"
+          },
+          {
+            "label": "Teddy Solomon",
+            "type": "entity",
+            "desc": "Fizz的创始人兼CEO"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "沙特阿拉伯的社交媒体市场存在结构性空白，匿名社交应用的成功反映了当地年轻用户对有别于传统公开社交平台的需求。",
+            "Fizz在沙特的初步成功为社交科技公司提供了一个案例：在严格的社会规范与数字一代的表达需求之间，可能存在创新的产品市场契合点。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "专注于中东或新兴市场社交/社区产品的科技基金或私募股权",
+          "risk": "HIGH",
+          "thesis": "沙特等中东市场数字渗透率高、年轻人口多，但本土化社交产品供给不足，Fizz的案例表明该区域存在未被满足的细分社交需求，具备早期投资机会。"
+        },
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1698391419417?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1591759648948?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "China Services Growth Slows",
-        "fullTitle": "China Services Gauge Slows After New Year Holiday Boost",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "China's services sector activity expanded at a weaker pace in March according to a private survey. The slowdown points to sluggish consumer demand following a temporary boost from the Lunar New Year holiday in February. This indicates underlying weakness in domestic consumption. The data is a key indicator for the health of China's economy, which is heavily reliant on services.",
-        "relations": [
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Country experiencing services sector slowdown"
-          },
-          {
-            "label": "Services Sector",
-            "type": "entity",
-            "desc": "Economic sector showing weakened expansion"
-          },
-          {
-            "label": "Consumer Demand",
-            "type": "risk",
-            "desc": "Key economic driver showing sluggishness"
-          },
-          {
-            "label": "Private Survey",
-            "type": "entity",
-            "desc": "Data source indicating economic activity"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The slowdown suggests China's post-holiday economic momentum may be weaker than expected, potentially requiring further policy support.",
-            "Sluggish services activity could signal broader consumption headwinds, impacting multinational companies with significant China exposure."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Consumer Discretionary ETFs with China exposure (e.g., FXI, MCHI)",
-          "risk": "MEDIUM",
-          "thesis": "Weakening consumer demand in China's services sector suggests headwinds for consumer-facing companies and related equities."
-        },
-        "confidence": 85,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1519599617725?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Indonesia Holds Fuel Price",
-        "fullTitle": "Indonesia Holds Fuel Prices Despite Iran War Oil Shocks",
+        "title": "Vietnam Growth Slows",
+        "fullTitle": "Vietnam Growth Slows as Energy Costs Rise",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Indonesia's Finance Minister stated the country will hold off on raising subsidized fuel prices despite oil market volatility from the Iran war. Minister Purbaya Yudhi Sadewa warned that any price hike could undermine economic growth and threaten social stability. This decision highlights the government's priority on maintaining domestic calm over fiscal adjustments. It exposes the state budget to significant subsidy pressure if oil prices remain elevated.",
+        "summary": "Vietnam's Q1 economic growth has decelerated due to rising energy costs fueled by Middle East tensions. This disrupts global trade and complicates the government's target for double-digit growth. The situation introduces significant uncertainty for the regional economic outlook and supply chains.",
         "relations": [
           {
-            "label": "Indonesia",
+            "label": "Vietnam",
             "type": "entity",
-            "desc": "Country maintaining fuel subsidies"
+            "desc": "Southeast Asian nation experiencing economic slowdown"
           },
           {
-            "label": "Purbaya Yudhi Sadewa",
-            "type": "entity",
-            "desc": "Indonesian Finance Minister"
+            "label": "Middle East Tensions",
+            "type": "risk",
+            "desc": "Geopolitical conflict driving energy price volatility"
           },
           {
-            "label": "Subsidized Fuel",
+            "label": "Energy Costs",
             "type": "resource",
-            "desc": "Policy tool being maintained"
+            "desc": "Key input cost impacting global manufacturing and trade"
           },
           {
-            "label": "Social Stability",
-            "type": "risk",
-            "desc": "Primary concern driving policy"
-          },
-          {
-            "label": "Iran War",
-            "type": "risk",
-            "desc": "Geopolitical event causing oil shocks"
+            "label": "General Secretary To Lam",
+            "type": "entity",
+            "desc": "Vietnamese leader pushing ambitious growth agenda"
           }
         ],
         "analysis": {
           "strategic": [
-            "Indonesia's choice to absorb oil price shocks via subsidies prioritizes short-term political stability over long-term fiscal health, increasing sovereign risk.",
-            "The policy creates a divergence between global energy markets and Indonesian domestic prices, distorting local demand and potentially worsening the trade deficit."
+            "Rising input costs threaten Vietnam's position as a low-cost manufacturing hub, potentially accelerating supply chain diversification elsewhere.",
+            "Persistent energy volatility could force ASEAN nations to reconsider energy security and trade dependencies, altering regional economic alliances."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Indonesian Government Bonds (ID government debt)",
-          "risk": "HIGH",
-          "thesis": "The decision to maintain costly fuel subsidies amid rising oil prices will pressure the state budget, increase fiscal deficit, and could lead to credit rating concerns."
+          "asset": "Vietnam ETF (VNM) / Vietnamese equities",
+          "risk": "MEDIUM",
+          "thesis": "Short-term headwinds from energy costs and trade disruption are likely to pressure growth-dependent Vietnamese assets, contradicting optimistic government targets."
         },
         "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1500135446264?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1521725767075?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Japan Power Firms Halt Clients",
-        "fullTitle": "Japan Power Retailers Halt New Industrial Clients on Fuel Risks",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "At least two of Japan's largest power retailers have temporarily stopped accepting new industrial clients. The halt is due to uncertainty in fuel markets disrupted by the war in the Middle East. This move indicates severe supply chain and cost pressures in the energy sector. It could constrain industrial production and economic activity in Japan.",
+        "title": "First Hormuz Crossings Post-War",
+        "fullTitle": "French, Japanese Ships Make First Hormuz Crossings",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "A French container ship and a Japanese-owned tanker have transited the Strait of Hormuz. These are reportedly the first crossings since the recent war in Iran closed this critical chokepoint. The movement suggests a tentative, possibly coordinated, reopening of the waterway for select international shipping.",
         "relations": [
           {
-            "label": "Japan",
-            "type": "entity",
-            "desc": "Country where power firms are acting"
-          },
-          {
-            "label": "Power Retailers",
-            "type": "entity",
-            "desc": "Firms halting new industrial contracts"
-          },
-          {
-            "label": "Fuel Markets",
+            "label": "Strait of Hormuz",
             "type": "resource",
-            "desc": "Markets experiencing high volatility"
+            "desc": "Critical global oil transit chokepoint"
           },
           {
-            "label": "Middle East War",
-            "type": "risk",
-            "desc": "Geopolitical driver of market disruption"
-          },
-          {
-            "label": "Industrial Clients",
+            "label": "Iran",
             "type": "entity",
-            "desc": "Business customers being denied service"
+            "desc": "Nation whose conflict previously closed the strait"
+          },
+          {
+            "label": "French Container Ship",
+            "type": "entity",
+            "desc": "Vessel involved in first post-war transit"
+          },
+          {
+            "label": "Japanese-owned Tanker",
+            "type": "entity",
+            "desc": "Vessel involved in first post-war transit"
           }
         ],
         "analysis": {
           "strategic": [
-            "The action signals that Japanese utilities view fuel supply security as a critical, immediate business risk, potentially leading to broader energy rationing.",
-            "This development threatens Japan's industrial competitiveness, as reliable and affordable power is a cornerstone for manufacturing sectors like automotive and electronics."
+            "Selective reopening indicates potential back-channel agreements or de-escalation, reducing immediate risk of a severe global energy supply shock.",
+            "The involvement of French and Japanese assets, not just regional players, signals international pressure to normalize trade, but full security remains uncertain."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Japanese Renewable Energy / LNG Infrastructure Stocks",
-          "risk": "MEDIUM",
-          "thesis": "Fuel supply insecurity will accelerate investment in alternative energy sources and secure LNG infrastructure to ensure baseload power stability."
+          "asset": "Global Shipping ETFs (SEA, BDRY) / Major Tanker Companies",
+          "risk": "HIGH",
+          "thesis": "Initial reopening of Hormuz could lead to a surge in pent-up shipping demand and lower risk premiums, benefiting global shipping rates and related equities."
         },
-        "confidence": 87,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1592419659368?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1534957408994?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Amazon Adds Fuel Surcharge",
-        "fullTitle": "Amazon Adds Fuel Surcharge as Iran War Roils Energy Markets",
+        "title": "US Judge Denies Fed Probe Revival",
+        "fullTitle": "Judge Denies Bid to Revive Quashed Fed Subpoenas",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "A US judge has denied the Justice Department's motion to revive subpoenas related to a Federal Reserve building renovation cost-overrun investigation. This loss sets the stage for a potential appeal that could reach the Supreme Court. The ruling temporarily shields the Fed from this specific investigative pressure.",
+        "relations": [
+          {
+            "label": "US Justice Department",
+            "type": "entity",
+            "desc": "Agency seeking to continue Fed investigation"
+          },
+          {
+            "label": "Federal Reserve",
+            "type": "entity",
+            "desc": "Central bank subject to cost-overrun probe"
+          },
+          {
+            "label": "US Supreme Court",
+            "type": "entity",
+            "desc": "Potential final destination for legal appeal"
+          },
+          {
+            "label": "Judicial Oversight",
+            "type": "risk",
+            "desc": "Risk of legal challenges impacting institutional autonomy"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The judicial pushback limits executive branch scrutiny of the Fed's internal operations, potentially reinforcing its perceived political independence ahead of a contentious election cycle.",
+            "A prolonged legal battle could become a political flashpoint, used to question the Fed's accountability and management of public funds."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "US Treasury Bonds (TLT)",
+          "risk": "LOW",
+          "thesis": "A ruling that protects the Fed from immediate political/legal pressure supports market perception of its operational independence, a positive for long-term bond stability."
+        },
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1607722985683?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Anthropic Hot, SpaceX IPO Looms",
+        "fullTitle": "Anthropic Hot in Private Markets; SpaceX IPO Looms",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Amazon is imposing a 'fuel surcharge' on sellers using its fulfillment services. The e-commerce giant cited turmoil in global energy markets due to the Iran war. Amazon called the surcharge temporary but did not provide an end date. This move directly passes increased logistics costs downstream to merchants, potentially affecting consumer prices.",
+        "summary": "The secondary market for private shares is highly active, with Anthropic as the hottest trade and OpenAI losing ground. SpaceX's anticipated IPO is poised to significantly reshape the private market landscape. This indicates shifting investor sentiment and valuation dynamics within the high-growth tech sector.",
         "relations": [
           {
-            "label": "Amazon",
+            "label": "Anthropic",
             "type": "entity",
-            "desc": "E-commerce giant implementing surcharge"
-          },
-          {
-            "label": "Fuel Surcharge",
-            "type": "risk",
-            "desc": "New cost passed to sellers"
-          },
-          {
-            "label": "Sellers/Merchants",
-            "type": "entity",
-            "desc": "Entities bearing the new cost"
-          },
-          {
-            "label": "Global Energy Markets",
-            "type": "resource",
-            "desc": "Markets experiencing volatility"
-          },
-          {
-            "label": "Logistics Costs",
-            "type": "risk",
-            "desc": "Operational expense being hedged"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Amazon's surcharge demonstrates how geopolitical energy shocks are rapidly transmitted through global supply chains, increasing costs for end consumers.",
-            "This action may pressure margins for small and medium-sized sellers on Amazon's platform, potentially leading to higher prices or reduced seller participation."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Small-Cap E-commerce/Consumer Goods Companies",
-          "risk": "MEDIUM",
-          "thesis": "Increased fulfillment costs from giants like Amazon will disproportionately squeeze margins for smaller retailers and brands with less pricing power."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1688603411220?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Hims & Hers Customer Data Hacked",
-        "fullTitle": "Telehealth Giant Hims & Hers Says Customer Support System Hacked",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "U.S. telehealth company Hims & Hers disclosed a hack of its customer support system. Hackers stole customer support ticket data over several days in February. The breach involves sensitive health-related communication data. This incident highlights cybersecurity vulnerabilities in the rapidly growing digital health sector.",
-        "relations": [
-          {
-            "label": "Hims & Hers",
-            "type": "entity",
-            "desc": "Telehealth company that was breached"
-          },
-          {
-            "label": "Hackers",
-            "type": "entity",
-            "desc": "Perpetrators of the data theft"
-          },
-          {
-            "label": "Customer Support Data",
-            "type": "risk",
-            "desc": "Type of sensitive information stolen"
-          },
-          {
-            "label": "Cybersecurity",
-            "type": "risk",
-            "desc": "Core vulnerability exposed"
-          },
-          {
-            "label": "Telehealth Sector",
-            "type": "entity",
-            "desc": "Industry impacted by the breach"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The breach underscores the high-value target that health data represents and will likely trigger increased regulatory scrutiny on data security in telehealth.",
-            "This event may erode consumer trust in digital health platforms, potentially slowing adoption rates and increasing customer acquisition costs for the sector."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Hims & Hers (HIMS) Stock",
-          "risk": "HIGH",
-          "thesis": "The data breach poses significant reputational, regulatory, and potential litigation risks, which could impact subscriber growth and investor sentiment."
-        },
-        "confidence": 86,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1628675608683?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "NASA's Last Non-Silicon Valley Moon Mission",
-        "fullTitle": "Artemis II is NASA's Last Moon Mission Without Silicon Valley",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "The Artemis II mission will be NASA's final crewed moon mission not heavily reliant on Silicon Valley companies. Future missions, including Artemis III, will place significant responsibility on private firms like SpaceX and Blue Origin. This marks a pivotal shift in space exploration from a government-led to a public-private partnership model. Pressure will mount on these private entities to deliver critical components and systems.",
-        "relations": [
-          {
-            "label": "NASA",
-            "type": "entity",
-            "desc": "Government space agency"
-          },
-          {
-            "label": "Artemis Program",
-            "type": "entity",
-            "desc": "Moon exploration program"
+            "desc": "AI company currently favored in secondary markets"
           },
           {
             "label": "SpaceX",
             "type": "entity",
-            "desc": "Private space company led by Elon Musk"
+            "desc": "Aerospace company with looming IPO"
           },
           {
-            "label": "Blue Origin",
+            "label": "OpenAI",
             "type": "entity",
-            "desc": "Private space company founded by Jeff Bezos"
+            "desc": "AI company reportedly losing ground in secondary markets"
           },
           {
-            "label": "Public-Private Partnership",
+            "label": "Private Secondary Markets",
             "type": "tech",
-            "desc": "New model for space exploration"
+            "desc": "Market for trading shares of pre-IPO companies"
           }
         ],
         "analysis": {
           "strategic": [
-            "The transition signifies a permanent structural shift in the space industry, with private capital and innovation becoming the primary drivers of deep-space exploration.",
-            "This creates a high-stakes environment where the success of national space ambitions is now directly tied to the execution capabilities of a few private companies."
+            "Market leadership in AI is highly fluid, with investor favor shifting rapidly between players like Anthropic and OpenAI, indicating a non-winner-take-all early market.",
+            "SpaceX's IPO will act as a massive liquidity event, potentially draining capital and attention from other private tech holdings, repricing the entire sector."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Space Industry ETFs (e.g., UFO, ROKT)",
-          "risk": "MEDIUM",
-          "thesis": "The increasing centrality of private companies like SpaceX and Blue Origin to national space goals will drive long-term growth and investment in the broader space economy."
+          "asset": "AI-focused ETFs (AIQ, BOTZ) / Pre-IPO funds with SpaceX exposure",
+          "risk": "HIGH",
+          "thesis": "The intense activity and looming SpaceX IPO signal robust, albeit volatile, demand for cutting-edge tech. Gaining exposure to the sector's momentum and the SpaceX liquidity event offers asymmetric upside."
         },
-        "confidence": 82,
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1529555678728?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Lucid Sales Dip from Supplier Issue",
+        "fullTitle": "Lucid Blames Q1 Sales Dip on Seat Supplier",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Lucid Motors attributed a dip in its Q1 sales to an issue with a seat supplier. The company states the problem has been resolved and it is not changing its long-term guidance for 2026. This suggests a temporary, operational bottleneck rather than a fundamental demand problem.",
+        "relations": [
+          {
+            "label": "Lucid Motors",
+            "type": "entity",
+            "desc": "Electric vehicle manufacturer"
+          },
+          {
+            "label": "Supply Chain",
+            "type": "risk",
+            "desc": "Operational risk from component suppliers"
+          },
+          {
+            "label": "EV Market",
+            "type": "entity",
+            "desc": "Competitive electric vehicle industry"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "The incident highlights the persistent vulnerability of EV startups to single-point failures in complex supply chains, a structural disadvantage versus integrated legacy automakers.",
+            "Maintaining 2026 guidance despite a Q1 setback indicates management confidence in recovery, but also raises execution risk if further disruptions occur."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Lucid Group (LCID)",
+          "risk": "HIGH",
+          "thesis": "Supply chain fragility and the need to explain away a sales miss reinforce concerns about execution risk and cash burn, pressuring the stock against a backdrop of intense EV competition."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1625923969037?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anonymous App Fizz Tests Saudi Market",
+        "fullTitle": "Anonymous App Fizz Tests Market in Saudi Arabia",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "The anonymous social app Fizz has launched in Saudi Arabia, exceeding founder expectations for user adoption. The app's performance in a market with distinct cultural and regulatory norms is being tested. Its success or failure will provide insights into the global scalability of anonymous social platforms.",
+        "relations": [
+          {
+            "label": "Fizz",
+            "type": "tech",
+            "desc": "Anonymous social media application"
+          },
+          {
+            "label": "Saudi Arabia",
+            "type": "entity",
+            "desc": "Key Middle Eastern market for tech adoption"
+          },
+          {
+            "label": "Teddy Solomon",
+            "type": "entity",
+            "desc": "Founder and CEO of Fizz"
+          },
+          {
+            "label": "Social Media Regulation",
+            "type": "risk",
+            "desc": "Risk of regulatory scrutiny in new markets"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Strong initial uptake in Saudi Arabia suggests unmet demand for alternative social platforms in regulated digital environments, potentially revealing a new growth vector for social tech.",
+            "The app's anonymous nature presents a significant regulatory risk in markets with strict content and surveillance laws, which could limit its long-term viability or force adaptation."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Private Tech/Social Media Venture Funds",
+          "risk": "HIGH",
+          "thesis": "Fizz's unexpected traction in a difficult market identifies a niche for anonymous/semi-anonymous social interaction, representing a high-risk, high-reward thematic investment in evolving social media."
+        },
+        "confidence": 80,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1618401488682?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1517718760346?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Actividad servicios China se desacelera",
-        "fullTitle": "Indicador de servicios de China se desacelera tras impulso vacacional",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "La actividad del sector servicios de China se expandió a un ritmo más débil en marzo, según una encuesta privada. Esto apunta a una demanda de los consumidores débil tras el impulso del largo feriado nacional del mes anterior. El dato sugiere que la recuperación del consumo interno sigue siendo frágil y desigual.",
-        "relations": [
-          {
-            "label": "China",
-            "type": "entity",
-            "desc": "Economía clave, segunda mayor del mundo"
-          },
-          {
-            "label": "Sector Servicios",
-            "type": "resource",
-            "desc": "Motor principal del crecimiento económico chino"
-          },
-          {
-            "label": "Demanda del Consumidor",
-            "type": "risk",
-            "desc": "Indicador clave de salud económica interna"
-          },
-          {
-            "label": "Recuperación Económica",
-            "type": "risk",
-            "desc": "Trayectoria post-pandemia y desafíos estructurales"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La desaceleración subraya los persistentes desafíos de demanda interna en China, lo que podría presionar a las autoridades para implementar más estímulos fiscales o monetarios.",
-            "La fragilidad del sector servicios, un gran empleador, plantea riesgos para la estabilidad social y los objetivos de crecimiento anual del PIB."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETF relacionado con consumo discrecional chino (ej. CHIQ)",
-          "risk": "MEDIUM",
-          "thesis": "La debilidad persistente en la demanda de servicios sugiere presión a la baja en los ingresos y márgenes de las empresas de consumo y retail en China."
-        },
-        "confidence": 82,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1587653699571?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Indonesia congela precios combustible subsidiado",
-        "fullTitle": "Indonesia pospone alza combustible subsidiado pese a guerra Irán",
+        "title": "Vietnam crecimiento se ralentiza",
+        "fullTitle": "Crecimiento de Vietnam se desacelera por costos energéticos",
         "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "Indonesia se abstendrá de aumentar los precios del combustible subsidiado a pesar de los shocks petroleros por la guerra en Irán. El Ministro de Finanzas, Purbaya Yudhi Sadewa, advirtió que cualquier aumento podría socavar el crecimiento económico y amenazar la estabilidad social. La decisión prioriza la estabilidad interna sobre la presión fiscal.",
+        "summary": "El impulso económico de Vietnam se desaceleró en el primer trimestre. Las crecientes tensiones en Oriente Medio elevan los costos de la energía y perturban las rutas comerciales globales. Esto complica el objetivo del Secretario General To Lam de lograr un crecimiento de dos dígitos. La incertidumbre geopolítica impacta directamente en las perspectivas de crecimiento de economías emergentes dependientes del comercio.",
         "relations": [
           {
-            "label": "Indonesia",
+            "label": "Vietnam",
             "type": "entity",
-            "desc": "Economía emergente importante, gran importador de petróleo"
+            "desc": "Economía emergente del sudeste asiático, objetivo de crecimiento de dos dígitos."
           },
           {
-            "label": "Purbaya Yudhi Sadewa",
+            "label": "To Lam",
             "type": "entity",
-            "desc": "Ministro de Finanzas de Indonesia"
+            "desc": "Secretario General de Vietnam, impulsor de la agenda de crecimiento económico."
           },
           {
-            "label": "Combustible Subsidiado",
+            "label": "Costo Energético",
             "type": "resource",
-            "desc": "Política fiscal clave con alto costo presupuestario"
+            "desc": "Factor clave de presión inflacionaria e incertidumbre económica."
           },
           {
-            "label": "Estabilidad Social",
+            "label": "Estrecho de Ormuz",
             "type": "risk",
-            "desc": "Riesgo principal para gobiernos por inflación energética"
-          },
-          {
-            "label": "Guerra Irán",
-            "type": "risk",
-            "desc": "Evento geopolítico que impulsa precios energéticos globales"
+            "desc": "Punto de estrangulamiento crítico para el transporte de energía, fuente de disrupción."
           }
         ],
         "analysis": {
           "strategic": [
-            "La decisión expone el difícil equilibrio entre sostenibilidad fiscal y estabilidad política en economías emergentes importadoras de energía durante crisis geopolíticas.",
-            "Mantener los subsidios aumentará la presión sobre el déficit presupuestario y podría llevar a recortes en otros gastos o a un mayor endeudamiento."
+            "La desaceleración en Vietnam señala vulnerabilidad de cadenas de suministro y manufactura a shocks energéticos.",
+            "Las ambiciones de crecimiento de alto nivel enfrentan riesgos crecientes por geopolítica, requiriendo reevaluación de proyecciones para la región ASEAN."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Bono soberano de Indonesia (IDR)",
-          "risk": "HIGH",
-          "thesis": "La postergación del ajuste fiscal necesario para los subsidios energéticos deteriora las perspectivas de las finanzas públicas, aumentando la prima de riesgo."
+          "asset": "ETF VNM (Vietnam)",
+          "risk": "MEDIUM",
+          "thesis": "Presión a la baja por desaceleración del crecimiento, márgenes corporativos comprimidos por costos energéticos y riesgos en cadenas de suministro."
         },
-        "confidence": 87,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1658454264689?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1649575493896?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Eléctricas Japón frenan clientes industriales",
-        "fullTitle": "Mayores eléctricas Japón frenan nuevos clientes industriales",
+        "title": "Primeros cruces en Ormuz",
+        "fullTitle": "Barcos francés y japonés cruzan el Estrecho de Ormuz",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Al menos dos de las mayores empresas minoristas de electricidad de Japón han detenido temporalmente la aceptación de nuevos clientes industriales. La medida está pendiente de mayor claridad en los mercados de combustibles, alterados por la guerra en Medio Oriente. Esto refleja una aversión extrema al riesgo en el suministro energético.",
+        "summary": "Un portacontenedores francés y un petrolero de propiedad japonesa han cruzado el Estrecho de Ormuz. Estos parecen ser los primeros tránsitos desde que la guerra en Irán cerró esta vía fluvial crucial. El movimiento sugiere posibles esfuerzos iniciales para reabrir o probar la seguridad del corredor. La reapertura tendría implicaciones significativas para los flujos globales de energía y los costos de flete.",
         "relations": [
           {
-            "label": "Japón",
-            "type": "entity",
-            "desc": "Tercera mayor economía, altamente dependiente de energía importada"
-          },
-          {
-            "label": "Empresas Eléctricas",
-            "type": "entity",
-            "desc": "Sector clave de infraestructura"
-          },
-          {
-            "label": "Mercados de Combustibles",
+            "label": "Estrecho de Ormuz",
             "type": "resource",
-            "desc": "Suministro y precios de LNG, carbón, petróleo"
+            "desc": "Punto de estrangulamiento crítico para el transporte mundial de petróleo."
           },
           {
-            "label": "Riesgo de Suministro",
-            "type": "risk",
-            "desc": "Interrupción en cadenas de abastecimiento energético"
+            "label": "Irán",
+            "type": "entity",
+            "desc": "País clave en la región, conflicto reciente causó el cierre."
           },
           {
-            "label": "Guerra Medio Oriente",
+            "label": "CMA CGM / Naviera Francesa",
+            "type": "entity",
+            "desc": "Posible operador del portacontenedores, indicando evaluación de riesgo."
+          },
+          {
+            "label": "Seguridad Marítima",
             "type": "risk",
-            "desc": "Factor de disrupción geopolítica global"
+            "desc": "Riesgo operativo clave para navieras y aseguradoras."
           }
         ],
         "analysis": {
           "strategic": [
-            "La medida indica que las empresas japonesas anticipan una prolongada volatilidad y posibles escaseces en el mercado energético global, priorizando la seguridad del suministro existente.",
-            "Esta restricción podría ralentizar la actividad industrial y la inversión en Japón, creando un cuello de botella para el crecimiento económico."
+            "Los cruces de prueba indican una posible normalización gradual del tráfico, reduciendo la prima de riesgo en los precios del petróleo.",
+            "Las navieras están evaluando activamente el riesgo, lo que podría preceder a un aumento del tráfico si se confirma la seguridad."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Acciones de empresas de energía renovable/alternativa japonesas",
-          "risk": "MEDIUM",
-          "thesis": "La inseguridad en el suministro de combustibles fósiles acelerará las inversiones en diversificación energética y fuentes locales/renovables en Japón."
+          "asset": "Petróleo Brent (Futuros)",
+          "risk": "HIGH",
+          "thesis": "Posible presión bajista a corto plazo por expectativas de mayor oferta, pero volatilidad alta persistirá hasta confirmar reapertura estable."
+        },
+        "confidence": 82,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1611382686739?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "Juez EE.UU. niega apelación Fed",
+        "fullTitle": "Juez de EE.UU. niega revivir investigación sobre costos de la Fed",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "El Departamento de Justicia perdió su intento de continuar una investigación sobre sobrecostos en la renovación de edificios de la Reserva Federal. El juez denegó la moción para revivir los citatorios anulados. Esto prepara el escenario para una apelación que podría eventualmente llegar a la Corte Suprema. El caso toca la supervisión y transparencia del gasto interno de una institución clave.",
+        "relations": [
+          {
+            "label": "Reserva Federal (Fed)",
+            "type": "entity",
+            "desc": "Banco central de EE.UU., sujeto a investigación por gastos."
+          },
+          {
+            "label": "Departamento de Justicia (DOJ)",
+            "type": "entity",
+            "desc": "Entidad que busca investigar, enfrenta obstáculos legales."
+          },
+          {
+            "label": "Corte Suprema de EE.UU.",
+            "type": "entity",
+            "desc": "Posible destino final de la apelación, implicaciones para supervisión."
+          },
+          {
+            "label": "Riesgo Legal/Regulatorio",
+            "type": "risk",
+            "desc": "Incertidumbre procedimental que afecta a instituciones gubernamentales."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El fallo limita temporalmente la capacidad de escrutinio externo sobre operaciones internas de la Fed, posiblemente preservando su independencia operativa en el corto plazo.",
+            "Un eventual caso en la Corte Suprema podría establecer un precedente importante sobre los límites de la supervisión congresional/judicial sobre agencias independientes."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "USD (Dólar Index - DXY)",
+          "risk": "LOW",
+          "thesis": "El resultado reduce la incertidumbre regulatoria inmediata sobre la Fed, un factor marginalmente positivo para la confianza institucional y la moneda."
         },
         "confidence": 85,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1602729736471?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1697128482392?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Amazon impone recargo combustible por guerra Irán",
-        "fullTitle": "Amazon impone recargo combustible temporal por guerra Irán",
+        "title": "Mercado secundario activo: Anthropic, SpaceX",
+        "fullTitle": "Anthropic es tendencia; SpaceX podría cambiar el panorama",
         "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Amazon está aplicando un 'recargo por combustible' a sus vendedores debido a la turbulencia en los mercados globales de energía por la guerra en Irán. El gigante del comercio electrónico calificó el recargo como 'temporal', pero no pudo dar una fecha para su eliminación. Esto transfiere directamente el costo del riesgo geopolítico a las PYMEs en su plataforma.",
-        "relations": [
-          {
-            "label": "Amazon",
-            "type": "entity",
-            "desc": "Gigante global del comercio electrónico y logística"
-          },
-          {
-            "label": "Vendedores/3P Sellers",
-            "type": "entity",
-            "desc": "Base de la plataforma marketplace de Amazon"
-          },
-          {
-            "label": "Recargo por Combustible",
-            "type": "risk",
-            "desc": "Mecanismo de transferencia de costos logísticos"
-          },
-          {
-            "label": "Mercados Energéticos Globales",
-            "type": "resource",
-            "desc": "Precios del petróleo y costos de transporte"
-          },
-          {
-            "label": "Guerra Irán",
-            "type": "risk",
-            "desc": "Disruptor geopolítico clave"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La acción de Amazon demuestra cómo las crisis geopolíticas se transmiten rápidamente a través de las cadenas de suministro globales y se convierten en presión inflacionaria para los bienes de consumo.",
-            "La imposición de recargos 'temporales' indefinidos erosiona la previsibilidad de costos para los vendedores, pudiendo afectar su rentabilidad y los precios finales al consumidor."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Pequeñas empresas dependientes de logística de terceros (ej. ciertos retailers online)",
-          "risk": "HIGH",
-          "thesis": "Los márgenes de las empresas más pequeñas, sin poder de negociación, serán comprimidos por estos recargos impuestos por gigantes logísticos como Amazon."
-        },
-        "confidence": 83,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1612202281834?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Hims & Hers sufre hackeo sistema soporte",
-        "fullTitle": "Gigante telehealth Hims & Hers hackeado, robo datos tickets",
-        "classification": "CONFIDENTIAL",
         "impactLevel": "HIGH",
-        "summary": "El gigante estadounidense de telehealth Hims & Hers anunció que su sistema de soporte al cliente fue hackeado. Los atacantes robaron datos de tickets de soporte durante varios días en febrero. El incidente compromete información sensible de comunicación cliente-empresa en el sector salud digital.",
+        "summary": "El mercado secundario de acciones privadas está extremadamente activo, según Rainmaker Securities. Anthropic es la operación más caliente, mientras OpenAI pierde terreno. La próxima OPI de SpaceX está preparada para remodelar el panorama para todos. Esto refleja un cambio dinámico en la valoración y el interés de los inversores dentro del sector tecnológico privado.",
         "relations": [
           {
-            "label": "Hims & Hers",
-            "type": "entity",
-            "desc": "Compañía líder de telehealth y salud digital"
-          },
-          {
-            "label": "Ciberseguridad",
-            "type": "risk",
-            "desc": "Riesgo operativo crítico para empresas digitales"
-          },
-          {
-            "label": "Datos de Salud",
-            "type": "resource",
-            "desc": "Información sensible y altamente regulada (HIPAA)"
-          },
-          {
-            "label": "Soporte al Cliente",
+            "label": "Anthropic",
             "type": "tech",
-            "desc": "Sistema objetivo para ataques de exfiltración de datos"
-          },
-          {
-            "label": "Telehealth",
-            "type": "tech",
-            "desc": "Sector en crecimiento con alto riesgo de datos"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El ataque resalta la vulnerabilidad de los sistemas periféricos (como soporte) en empresas de salud, que a menudo tienen protecciones más débiles que los núcleos clínicos, pero contienen datos sensibles.",
-            "Este incidente podría provocar un escrutinio regulatorio más estricto (HIPAA, FTC) sobre las prácticas de seguridad de datos en toda la industria del telehealth, aumentando los costos de cumplimiento."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Acciones de Hims & Hers (HIMS)",
-          "risk": "MEDIUM",
-          "thesis": "El hackeo conlleva riesgo de multas regulatorias, costos de remediación, pérdida de confianza del cliente y posibles litigios, impactando negativamente en la valoración."
-        },
-        "confidence": 88,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1590524718102?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "Artemis II última misión NASA sin Silicon Valley",
-        "fullTitle": "Artemis II última misión lunar NASA sin SpaceX/Blue Origin",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Artemis II será la última misión lunar de la NASA sin una participación central de empresas del Silicon Valley. Para la próxima misión, la presión y responsabilidad recaerán en contratistas privados como SpaceX y Blue Origin. Esto marca un punto de inflexión en la exploración espacial liderada por el sector comercial.",
-        "relations": [
-          {
-            "label": "NASA",
-            "type": "entity",
-            "desc": "Agencia espacial gubernamental estadounidense"
+            "desc": "Empresa de IA, actual 'comercio más caliente' en el mercado secundario."
           },
           {
             "label": "SpaceX",
-            "type": "entity",
-            "desc": "Contratista espacial comercial líder"
-          },
-          {
-            "label": "Blue Origin",
-            "type": "entity",
-            "desc": "Contratista espacial comercial fundado por Bezos"
-          },
-          {
-            "label": "Artemis Program",
             "type": "tech",
-            "desc": "Programa de retorno a la Luna de la NASA"
+            "desc": "Empresa aeroespacial, OPI inminente con potencial de cambiar el mercado."
           },
           {
-            "label": "Sector Espacial Comercial",
+            "label": "OpenAI",
             "type": "tech",
-            "desc": "Industria en crecimiento con actores privados"
+            "desc": "Empresa de IA, perdiendo terreno en interés del mercado secundario."
+          },
+          {
+            "label": "Mercado Secundario Privado",
+            "type": "entity",
+            "desc": "Mercado de acciones privadas, experimentando alta actividad."
+          },
+          {
+            "label": "Rainmaker Securities",
+            "type": "entity",
+            "desc": "Firma que comenta sobre la actividad del mercado."
           }
         ],
         "analysis": {
           "strategic": [
-            "La transición confirma el cambio de paradigma de la NASA de operador principal a cliente de servicios de lanzamiento y sistemas, externalizando el riesgo tecnológico y de desarrollo.",
-            "Este modelo incrementa la dependencia de un puñado de empresas privadas para objetivos nacionales críticos, creando nuevos riesgos de concentración y de cadena de suministro."
+            "El capital privado está reasignándose rápidamente dentro del ecosistema de IA, mostrando preferencia por Anthropic sobre OpenAI en esta fase.",
+            "La OPI de SpaceX actuará como un 'evento de liquidez' masivo, posiblemente absorbiendo capital y redefiniendo los múltiplos de valoración para todo el sector espacial/tecnológico."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "ETF del sector aeroespacial y defensa con exposición espacial (ej. ITA, XAR)",
-          "risk": "LOW",
-          "thesis": "La creciente dependencia de contratistas comerculares para misiones de alto perfil asegura flujos de ingresos gubernamentales estables y de largo plazo para los líderes del sector espacial privado."
+          "asset": "Fondos de Capital Privado/VC con exposición a IA y Espacio",
+          "risk": "HIGH",
+          "thesis": "Acceso a revalorización previa a la OPI en sectores calientes (IA) y ganancias potenciales del evento de liquidez de SpaceX."
         },
         "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1699503363609?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Lucid culpa a proveedor por ventas",
+        "fullTitle": "Lucid atribuye caída de ventas Q1 a problema de proveedor de asientos",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Lucid Motors atribuyó la caída en las ventas del primer trimestre a un problema con un proveedor de asientos. La compañía afirma haber resuelto el problema. No está cambiando su guía para el año 2026. Esto indica que la empresa ve el problema como un obstáculo transitorio de la cadena de suministro, no estructural.",
+        "relations": [
+          {
+            "label": "Lucid Motors",
+            "type": "entity",
+            "desc": "Fabricante de vehículos eléctricos de lujo."
+          },
+          {
+            "label": "Proveedor de Asientos",
+            "type": "entity",
+            "desc": "Proveedor no nombrado, causante de cuello de botella en producción."
+          },
+          {
+            "label": "Cadena de Suministro VE",
+            "type": "risk",
+            "desc": "Riesgo operativo persistente para fabricantes de vehículos eléctricos."
+          },
+          {
+            "label": "Guía 2026",
+            "type": "entity",
+            "desc": "Objetivos financieros a medio plazo de Lucid, mantenidos."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El incidente subraya la continua fragilidad de las cadenas de suministro en la industria de los vehículos eléctricos, incluso para problemas aparentemente menores.",
+            "El mantenimiento de la guía para 2026 sugiere que la dirección tiene confianza en su capacidad de recuperación y en sus planes de producción a largo plazo, a pesar de los contratiempos trimestrales."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "LCID (Lucid Group)",
+          "risk": "HIGH",
+          "thesis": "Posible recuperación si se confirma que el problema del proveedor está resuelto y se retoma el ritmo de producción, manteniendo objetivos a largo plazo."
+        },
+        "confidence": 83,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1505697616753?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "App anónima Fizz prueba mercado saudí",
+        "fullTitle": "App social anónima Fizz tiene éxito inesperado en Arabia Saudita",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "La aplicación social anónima Fizz se lanzó silenciosamente en Arabia Saudita. El fundador y CEO Teddy Solomon no esperaba que la aplicación tuviera tanto éxito como lo tuvo. El caso prueba la viabilidad de modelos de redes sociales anónimas en mercados con contextos culturales y regulatorios específicos. Muestra una demanda no satisfecha en el panorama digital saudí.",
+        "relations": [
+          {
+            "label": "Fizz",
+            "type": "tech",
+            "desc": "Aplicación de redes sociales anónimas."
+          },
+          {
+            "label": "Teddy Solomon",
+            "type": "entity",
+            "desc": "Fundador y CEO de Fizz."
+          },
+          {
+            "label": "Arabia Saudita",
+            "type": "entity",
+            "desc": "Mercado de prueba para Fizz, con éxito inesperado."
+          },
+          {
+            "label": "Redes Sociales Anónimas",
+            "type": "tech",
+            "desc": "Categoría de aplicaciones con dinámicas de crecimiento únicas y riesgos regulatorios."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El éxito inicial de Fizz en Arabia Saudita revela un apetito por plataformas de expresión anónima en mercados con normas sociales más restrictivas, abriendo un nuevo vector de crecimiento.",
+            "La adopción plantea futuros desafíos regulatorios y de moderación de contenido, ya que las plataformas anónimas pueden enfrentar un escrutinio más intenso por parte de las autoridades."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Capital de Riesgo en Tecnología Social/Consumer Tech",
+          "risk": "HIGH",
+          "thesis": "Exposición a startups que abordan nichos de redes sociales en mercados emergentes de alto crecimiento con dinámicas culturales únicas."
+        },
+        "confidence": 80,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1584557706659?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1670924081438?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
