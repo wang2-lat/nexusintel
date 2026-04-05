@@ -1,803 +1,863 @@
 {
-  "generated_at": "2026-04-04T02:27:13.953860",
+  "generated_at": "2026-04-05T02:42:36.807489",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "越南经济增速放缓",
-        "fullTitle": "能源成本上升拖累越南一季度经济增长",
+        "title": "科威特石油总部遭伊朗无人机袭击",
+        "fullTitle": "伊朗无人机袭击导致科威特石油公司总部起火",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "越南第一季度经济增长势头因中东紧张局势升级而放缓。能源成本上涨和全球贸易路线中断，给越共总书记杜梅推动的两位数增长目标带来复杂性。地缘政治风险正通过大宗商品渠道影响新兴市场经济体。",
+        "impactLevel": "CRITICAL",
+        "summary": "伊朗无人机袭击了科威特石油公司总部并引发火灾。这是伊朗对波斯湾邻国的最新一次攻击。事件直接威胁关键能源基础设施。可能加剧地区紧张局势并影响石油供应安全。",
         "relations": [
           {
-            "label": "越南",
+            "label": "科威特石油公司",
             "type": "entity",
-            "desc": "受能源成本冲击的新兴经济体"
+            "desc": "科威特国有石油公司，关键能源生产商"
           },
           {
-            "label": "中东紧张局势",
+            "label": "伊朗",
+            "type": "entity",
+            "desc": "袭击发起方，地区主要地缘政治行为体"
+          },
+          {
+            "label": "无人机袭击",
             "type": "risk",
-            "desc": "推高全球能源价格的地缘政治风险"
+            "desc": "针对关键基础设施的非对称攻击手段"
           },
           {
-            "label": "能源成本",
+            "label": "波斯湾",
             "type": "resource",
-            "desc": "影响经济增长的关键输入成本"
-          },
-          {
-            "label": "全球贸易路线",
-            "type": "risk",
-            "desc": "受地缘政治影响的供应链通道"
+            "desc": "全球关键石油运输通道与产区"
           }
         ],
         "analysis": {
           "strategic": [
-            "地缘政治冲突正通过能源渠道对依赖制造业出口的新兴经济体（如越南）产生实质性冲击，可能重塑区域供应链格局。",
-            "越南政府的高增长目标面临外部输入性通胀和贸易流中断的双重挑战，政策制定空间受到挤压。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "越南股市ETF (如 VNM) 或越南盾相关资产",
-          "risk": "MEDIUM",
-          "thesis": "经济增长放缓、输入性通胀压力以及外部需求不确定性，可能对越南资产估值和货币汇率构成短期压力。"
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1634729764254?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "法日船只首穿霍尔木兹海峡",
-        "fullTitle": "法国和日本船只首次穿越重启的霍尔木兹海峡",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "一艘法国集装箱船和一艘日本拥有的油轮穿越了霍尔木兹海峡。这似乎是自伊朗战争导致该关键水道关闭以来的首次此类过境。此举可能标志着该地区航运活动尝试性恢复的开端。",
-        "relations": [
-          {
-            "label": "霍尔木兹海峡",
-            "type": "resource",
-            "desc": "全球石油运输关键咽喉要道"
-          },
-          {
-            "label": "法国",
-            "type": "entity",
-            "desc": "参与关键航道恢复的欧洲国家"
-          },
-          {
-            "label": "日本",
-            "type": "entity",
-            "desc": "能源进口依赖国，关注航道安全"
-          },
-          {
-            "label": "伊朗战争",
-            "type": "risk",
-            "desc": "导致海峡关闭的地区冲突"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "关键航运通道的有限恢复可能缓解全球能源供应链的部分压力，但安全风险依然高企，恢复进程脆弱。",
-            "法日船只的率先行动可能具有试探和象征意义，反映了主要能源消费国和贸易国对恢复该通道稳定的迫切需求。"
+            "事件标志着伊朗与海湾阿拉伯国家间代理人冲突可能升级为直接攻击，显著提升地区战争风险。",
+            "针对能源基础设施的袭击可能引发石油供应中断预期，为油价注入地缘政治风险溢价。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "国际油轮运输公司 (如 EURONAV, FRO) 或原油期货",
+          "asset": "原油期货、能源股、国防安全板块",
           "risk": "HIGH",
-          "thesis": "关键航道若出现持续、稳定的恢复迹象，将降低航运风险溢价，提振油轮运输需求预期，并可能平抑原油的地缘政治溢价。"
+          "thesis": "地缘政治紧张局势升级将推高油价，并增加能源安全和国防相关领域的需求与关注度。"
         },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1503413670808?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1638402266470?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "美法官驳回司法部动议",
-        "fullTitle": "美法官驳回司法部重启美联储调查的动议",
+        "title": "伊战后首份美国通胀数据或飙升",
+        "fullTitle": "伊朗战争后首份美国通胀数据预计将因汽油价格飙升",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "美国司法部未能成功继续其对美联储大楼翻修成本超支的调查。法官驳回了其动议。此案为上诉铺平了道路，最终可能上诉至最高法院。这涉及对美联储独立性的法律挑战。",
+        "impactLevel": "HIGH",
+        "summary": "受伊朗战争影响，美国汽油价格突然上涨。即将公布的关键通胀数据将充分反映这一影响。这将是冲突爆发后的首份通胀报告。数据可能影响美联储的货币政策路径。",
         "relations": [
           {
-            "label": "美国司法部",
-            "type": "entity",
-            "desc": "试图调查美联储的行政部门"
+            "label": "美国通胀",
+            "type": "risk",
+            "desc": "关键宏观经济指标，影响货币政策"
+          },
+          {
+            "label": "汽油价格",
+            "type": "resource",
+            "desc": "受地缘政治冲击敏感的能源价格组成部分"
           },
           {
             "label": "美联储",
             "type": "entity",
-            "desc": "被调查的中央银行，独立性受关注"
+            "desc": "美国中央银行，货币政策制定者"
           },
           {
-            "label": "最高法院",
-            "type": "entity",
-            "desc": "潜在最终裁决机构"
-          },
-          {
-            "label": "机构独立性",
+            "label": "伊朗战争",
             "type": "risk",
-            "desc": "本案涉及的核心制度风险"
+            "desc": "引发能源价格冲击的地缘政治事件"
           }
         ],
         "analysis": {
           "strategic": [
-            "此案凸显了美国行政与准独立央行机构之间的潜在张力，任何削弱美联储独立性的裁决都可能影响其政策信誉和市场信心。",
-            "法律纠纷若升级至最高法院，将引发关于央行问责制与操作独立性边界的重大宪法讨论，增加政策不确定性。"
+            "地缘政治冲突通过能源渠道快速传导至美国核心通胀，考验美联储在‘抗通胀’与‘防衰退’间的平衡能力。",
+            "若通胀数据持续超预期，可能迫使美联储维持更长时间的高利率，压制经济增长并增加金融市场波动。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "短期美国国债或美元指数",
+          "asset": "对利率敏感的高估值科技股、长期国债",
           "risk": "MEDIUM",
-          "thesis": "围绕美联储独立性的法律不确定性短期内可能削弱市场对美元制度和美国金融监管稳定性的信心，增加避险情绪。"
+          "thesis": "高于预期的通胀数据将强化‘higher for longer’的利率预期，利空成长股和债券价格。"
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1666158931917?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1624316817003?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Anthropic受热捧，SpaceX或搅局",
-        "fullTitle": "私募市场Anthropic受热捧，SpaceX的IPO可能改变格局",
+        "title": "欧央行官员称下次讨论加息或按兵不动",
+        "fullTitle": "欧央行管委称下次政策讨论将在加息与按兵不动间选择",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Rainmaker Securities总裁表示，私募股权二级市场异常活跃，Anthropic成为最热交易，OpenAI失势。同时，SpaceX即将到来的IPO可能重塑整个私募市场格局，吸引大量资金和关注。",
+        "impactLevel": "MEDIUM",
+        "summary": "欧洲央行管委斯莱彭表示，欧央行下次政策讨论将在加息与维持利率不变之间进行选择。这表明欧央行内部对下一步行动存在分歧。货币政策路径的不确定性增加。",
+        "relations": [
+          {
+            "label": "欧洲央行",
+            "type": "entity",
+            "desc": "欧元区货币政策制定机构"
+          },
+          {
+            "label": "奥拉夫·斯莱彭",
+            "type": "entity",
+            "desc": "欧洲央行管理委员会成员"
+          },
+          {
+            "label": "利率决策",
+            "type": "risk",
+            "desc": "影响欧元区融资成本与资产价格的关键政策"
+          },
+          {
+            "label": "货币政策分歧",
+            "type": "risk",
+            "desc": "央行内部对政策路径的不同看法"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "欧央行政策信号从‘是否紧缩’转向‘何时暂停’，标志着加息周期可能接近尾声，市场焦点转向利率峰值维持时长。",
+            "内部意见分歧公开化，增加了政策路径的不可预测性，可能导致欧元汇率和欧债市场波动加剧。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "欧元",
+          "risk": "MEDIUM",
+          "thesis": "相比美联储，欧央行更早出现政策转向讨论，可能削弱欧元的利差优势。"
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1559234009526?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "彼得·蒂尔重金投资太阳能牛颈圈",
+        "fullTitle": "创始人基金2.2亿美元投资牲畜管理初创公司Halter",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "彼得·蒂尔旗下的创始人基金向牲畜管理初创公司Halter投资了2.2亿美元。Halter主要产品是太阳能驱动的智能牛颈圈。该投资是农业科技领域的一笔重大融资。",
+        "relations": [
+          {
+            "label": "创始人基金",
+            "type": "entity",
+            "desc": "彼得·蒂尔创立的知名风险投资机构"
+          },
+          {
+            "label": "Halter",
+            "type": "entity",
+            "desc": "专注于牲畜管理的农业科技初创公司"
+          },
+          {
+            "label": "太阳能牛颈圈",
+            "type": "tech",
+            "desc": "利用太阳能和GPS等技术管理牧群的智能设备"
+          },
+          {
+            "label": "农业科技",
+            "type": "tech",
+            "desc": "技术应用于农业以提高效率的领域"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "顶级风投大额押注农业科技，表明‘气候科技’与‘粮食安全’赛道正获得前所未有的资本关注，可能引领新一轮投资趋势。",
+            "将太空/国防领域常见的自主系统与新能源技术应用于传统畜牧业，是技术跨界融合提升传统产业效率的典型案例。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "精准农业、智能畜牧、可再生能源相关板块",
+          "risk": "MEDIUM",
+          "thesis": "标志性投资事件将提升市场对农业科技赛道的关注度，可能带动相关板块估值。"
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1649560931866?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "争议初创公司Delve与YC分道扬镳",
+        "fullTitle": "合规初创公司Delve因争议与Y Combinator终止关系",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "陷入争议的合规初创公司Delve已与知名创业加速器Y Combinator分道扬镳。争议似乎导致了双方关系的破裂。这对初创公司的声誉和发展可能造成打击。",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "陷入争议的合规技术初创公司"
+          },
+          {
+            "label": "Y Combinator",
+            "type": "entity",
+            "desc": "全球顶级创业加速器与投资机构"
+          },
+          {
+            "label": "创业加速器",
+            "type": "entity",
+            "desc": "为早期初创公司提供资金与指导的机构"
+          },
+          {
+            "label": "声誉风险",
+            "type": "risk",
+            "desc": "因负面事件导致企业形象受损的风险"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "顶级加速器与portfolio公司切割，反映了投资机构对ESG（环境、社会、治理）和声誉风险管理的重视程度日益提高。",
+            "初创公司早期若陷入重大争议，可能面临被核心生态伙伴抛弃的风险，融资和发展路径将变得异常艰难。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Delve（若未来上市或可交易）",
+          "risk": "HIGH",
+          "thesis": "失去YC等重要背书和支持，极大增加了公司的失败风险，对其估值构成严重压力。"
+        },
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1646791351244?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anthropic对Claude Code订阅者收取OpenClaw附加费",
+        "fullTitle": "Anthropic宣布Claude Code订阅者使用OpenClaw需额外付费",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Anthropic公司宣布，其Claude Code的订阅者若想使用OpenClaw等第三方工具，将需要支付额外费用。这使得使用其编码助手的成本变得更高。这反映了AI公司寻求多元化盈利模式的趋势。",
         "relations": [
           {
             "label": "Anthropic",
             "type": "entity",
-            "desc": "当前私募二级市场最热门的AI公司"
+            "desc": "开发Claude AI模型的知名人工智能公司"
           },
           {
-            "label": "SpaceX",
-            "type": "entity",
-            "desc": "即将IPO，可能吸走市场流动性的巨头"
-          },
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "在私募二级市场失势的AI领军者"
-          },
-          {
-            "label": "私募股权二级市场",
+            "label": "Claude Code",
             "type": "tech",
-            "desc": "当前异常活跃的非公开股权交易市场"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "私募市场资金正在AI巨头之间快速轮动，表明投资者在重新评估AI赛道内的相对价值和风险，市场偏好发生微妙变化。",
-            "SpaceX的IPO作为一个巨型流动性事件，可能从整个科技私募市场（包括AI）抽走大量资金和注意力，引发板块估值重估。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "与SpaceX供应链相关的上市公司 (如航空航天、材料板块)",
-          "risk": "MEDIUM",
-          "thesis": "SpaceX的IPO将极大提升市场对商业航天产业的关注度和估值水平，其庞大的供应链生态将直接受益。"
-        },
-        "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1529749337306?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Lucid将Q1销售下滑归咎供应商",
-        "fullTitle": "Lucid将第一季度销售下滑归咎于座椅供应商问题",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "电动汽车制造商Lucid将其第一季度销量下滑归咎于座椅供应商问题。公司表示问题已解决，并且没有改变其2026年的业绩指引。这表明下滑被管理层视为短期、可解决的供应链扰动。",
-        "relations": [
-          {
-            "label": "Lucid",
-            "type": "entity",
-            "desc": "遭遇供应链问题的美国电动汽车制造商"
+            "desc": "专注于代码生成的AI助手订阅服务"
           },
           {
-            "label": "供应链问题",
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "需要额外付费连接的第三方工具（推测为开发工具）"
+          },
+          {
+            "label": "SaaS分层定价",
             "type": "risk",
-            "desc": "导致产量和销售下滑的具体运营风险"
-          },
-          {
-            "label": "座椅供应商",
-            "type": "entity",
-            "desc": "导致生产瓶颈的单一零部件供应商"
-          },
-          {
-            "label": "2026年指引",
-            "type": "entity",
-            "desc": "公司维持的长期财务目标"
+            "desc": "软件即服务的分层收费策略，可能增加用户成本"
           }
         ],
         "analysis": {
           "strategic": [
-            "Lucid暴露出对单一供应商的过度依赖风险，这在电动汽车行业追求轻资产和快速扩张的背景下是一个普遍但关键的脆弱点。",
-            "公司维持长期指引旨在向市场传递信心，将短期挫折定性为孤立事件，但其供应链管理能力将受到更密切审视。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Lucid Motors (LCID) 股票",
-          "risk": "HIGH",
-          "thesis": "尽管问题声称已解决，但暴露出公司供应链的脆弱性和执行风险，在竞争激烈的电动车市场，此类生产中断可能持续影响交付能力和投资者信心。"
-        },
-        "confidence": 84,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1616477755963?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "匿名社交应用Fizz试水沙特",
-        "fullTitle": "匿名社交应用Fizz在沙特阿拉伯意外获得成功",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "匿名社交应用Fizz在沙特阿拉伯低调上线后，其受欢迎程度超出了创始人兼CEO Teddy Solomon的预期。这表明在监管和社会环境独特的沙特，匿名社交产品可能存在未充分开发的市场需求。",
-        "relations": [
-          {
-            "label": "Fizz",
-            "type": "tech",
-            "desc": "在沙特取得意外成功的匿名社交应用"
-          },
-          {
-            "label": "沙特阿拉伯",
-            "type": "entity",
-            "desc": "拥有独特社交环境的新兴市场"
-          },
-          {
-            "label": "匿名社交",
-            "type": "tech",
-            "desc": "在特定市场具有吸引力的社交产品模式"
-          },
-          {
-            "label": "Teddy Solomon",
-            "type": "entity",
-            "desc": "Fizz的创始人兼CEO"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "沙特阿拉伯的社交媒体市场存在结构性空白，匿名社交应用的成功反映了当地年轻用户对有别于传统公开社交平台的需求。",
-            "Fizz在沙特的初步成功为社交科技公司提供了一个案例：在严格的社会规范与数字一代的表达需求之间，可能存在创新的产品市场契合点。"
+            "AI公司从提供基础模型服务转向精细化、分层化的产品与定价策略，旨在提升单位用户收入（ARPU）和盈利能力。",
+            "此举可能引发用户对‘付费墙’和生态封闭的担忧，但也为专注于工具集成和平台化的第三方公司创造了机会。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "专注于中东或新兴市场社交/社区产品的科技基金或私募股权",
-          "risk": "HIGH",
-          "thesis": "沙特等中东市场数字渗透率高、年轻人口多，但本土化社交产品供给不足，Fizz的案例表明该区域存在未被满足的细分社交需求，具备早期投资机会。"
+          "asset": "拥有成熟分层定价和生态系统的SaaS公司",
+          "risk": "LOW",
+          "thesis": "AI巨头验证了高级功能与生态接入的附加收费模式，利好已掌握该模式的传统企业级软件公司。"
         },
         "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1591759648948?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1634390415009?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Vietnam Growth Slows",
-        "fullTitle": "Vietnam Growth Slows as Energy Costs Rise",
+        "title": "Iran Drone Strikes Kuwait Oil HQ",
+        "fullTitle": "Kuwaiti Oil Headquarters Set Ablaze by Iranian Drone Strike",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "Vietnam's Q1 economic growth has decelerated due to rising energy costs fueled by Middle East tensions. This disrupts global trade and complicates the government's target for double-digit growth. The situation introduces significant uncertainty for the regional economic outlook and supply chains.",
+        "impactLevel": "CRITICAL",
+        "summary": "Kuwait Petroleum Corp.'s headquarters was set on fire following a strike by unmanned drones, identified as the latest in a series of Iranian attacks on Persian Gulf neighbors. This direct attack on critical energy infrastructure represents a significant escalation in regional tensions. The incident threatens to disrupt oil supply chains and logistics from a key OPEC member. It introduces immediate geopolitical risk premium into global energy markets.",
         "relations": [
           {
-            "label": "Vietnam",
+            "label": "Kuwait Petroleum Corp.",
             "type": "entity",
-            "desc": "Southeast Asian nation experiencing economic slowdown"
-          },
-          {
-            "label": "Middle East Tensions",
-            "type": "risk",
-            "desc": "Geopolitical conflict driving energy price volatility"
-          },
-          {
-            "label": "Energy Costs",
-            "type": "resource",
-            "desc": "Key input cost impacting global manufacturing and trade"
-          },
-          {
-            "label": "General Secretary To Lam",
-            "type": "entity",
-            "desc": "Vietnamese leader pushing ambitious growth agenda"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Rising input costs threaten Vietnam's position as a low-cost manufacturing hub, potentially accelerating supply chain diversification elsewhere.",
-            "Persistent energy volatility could force ASEAN nations to reconsider energy security and trade dependencies, altering regional economic alliances."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Vietnam ETF (VNM) / Vietnamese equities",
-          "risk": "MEDIUM",
-          "thesis": "Short-term headwinds from energy costs and trade disruption are likely to pressure growth-dependent Vietnamese assets, contradicting optimistic government targets."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1521725767075?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "First Hormuz Crossings Post-War",
-        "fullTitle": "French, Japanese Ships Make First Hormuz Crossings",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "A French container ship and a Japanese-owned tanker have transited the Strait of Hormuz. These are reportedly the first crossings since the recent war in Iran closed this critical chokepoint. The movement suggests a tentative, possibly coordinated, reopening of the waterway for select international shipping.",
-        "relations": [
-          {
-            "label": "Strait of Hormuz",
-            "type": "resource",
-            "desc": "Critical global oil transit chokepoint"
+            "desc": "State-owned oil company, critical energy infrastructure target."
           },
           {
             "label": "Iran",
             "type": "entity",
-            "desc": "Nation whose conflict previously closed the strait"
+            "desc": "State actor conducting drone strikes, escalating regional conflict."
           },
           {
-            "label": "French Container Ship",
-            "type": "entity",
-            "desc": "Vessel involved in first post-war transit"
+            "label": "Persian Gulf",
+            "type": "resource",
+            "desc": "Geopolitical flashpoint and critical global oil transit route."
           },
           {
-            "label": "Japanese-owned Tanker",
-            "type": "entity",
-            "desc": "Vessel involved in first post-war transit"
+            "label": "Drone Warfare",
+            "type": "tech",
+            "desc": "Asymmetric attack method threatening infrastructure security."
+          },
+          {
+            "label": "Oil Supply Disruption",
+            "type": "risk",
+            "desc": "Immediate risk to physical supply and market stability."
           }
         ],
         "analysis": {
           "strategic": [
-            "Selective reopening indicates potential back-channel agreements or de-escalation, reducing immediate risk of a severe global energy supply shock.",
-            "The involvement of French and Japanese assets, not just regional players, signals international pressure to normalize trade, but full security remains uncertain."
+            "Attack demonstrates Iran's willingness to target core energy assets of neighboring US allies, directly challenging regional security architecture.",
+            "Incident creates immediate supply-side shock, forcing market recalibration of risk premia for Gulf Cooperation Council (GCC) producers beyond just Iran's direct adversaries."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Global Shipping ETFs (SEA, BDRY) / Major Tanker Companies",
+          "asset": "Brent Crude Oil Futures, Energy Sector ETFs (XLE), GCC Sovereign Credit Default Swaps (for hedging)",
           "risk": "HIGH",
-          "thesis": "Initial reopening of Hormuz could lead to a surge in pent-up shipping demand and lower risk premiums, benefiting global shipping rates and related equities."
+          "thesis": "Direct attack on OPEC member's HQ introduces unprecedented physical supply risk and geopolitical premium. Expect sustained upward pressure on oil prices and volatility, benefiting energy equities and commodities, while regional sovereign debt risk increases."
         },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1534957408994?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 92,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1647821905789?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "US Judge Denies Fed Probe Revival",
-        "fullTitle": "Judge Denies Bid to Revive Quashed Fed Subpoenas",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "A US judge has denied the Justice Department's motion to revive subpoenas related to a Federal Reserve building renovation cost-overrun investigation. This loss sets the stage for a potential appeal that could reach the Supreme Court. The ruling temporarily shields the Fed from this specific investigative pressure.",
+        "title": "US Inflation to Spike Post-Iran War",
+        "fullTitle": "US Inflation Seen Spiking in First Snapshot Since Iran War",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Upcoming US inflation data is anticipated to show a sharp increase, primarily driven by a sudden surge in gasoline prices following the outbreak of the Iran conflict. This represents the first major economic data point capturing the war's impact on consumer prices. The spike complicates the Federal Reserve's monetary policy trajectory, potentially delaying expected rate cuts. Market focus will shift from growth to stagflation risks.",
         "relations": [
           {
-            "label": "US Justice Department",
+            "label": "US Inflation (CPI)",
             "type": "entity",
-            "desc": "Agency seeking to continue Fed investigation"
+            "desc": "Key macroeconomic indicator, immediate focus for Fed policy."
           },
           {
             "label": "Federal Reserve",
             "type": "entity",
-            "desc": "Central bank subject to cost-overrun probe"
+            "desc": "Central bank facing policy dilemma from energy-driven inflation."
           },
           {
-            "label": "US Supreme Court",
-            "type": "entity",
-            "desc": "Potential final destination for legal appeal"
+            "label": "Gasoline Prices",
+            "type": "resource",
+            "desc": "Direct transmission channel of oil shock to consumer inflation."
           },
           {
-            "label": "Judicial Oversight",
+            "label": "Monetary Policy",
             "type": "risk",
-            "desc": "Risk of legal challenges impacting institutional autonomy"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "The judicial pushback limits executive branch scrutiny of the Fed's internal operations, potentially reinforcing its perceived political independence ahead of a contentious election cycle.",
-            "A prolonged legal battle could become a political flashpoint, used to question the Fed's accountability and management of public funds."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "US Treasury Bonds (TLT)",
-          "risk": "LOW",
-          "thesis": "A ruling that protects the Fed from immediate political/legal pressure supports market perception of its operational independence, a positive for long-term bond stability."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1607722985683?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Anthropic Hot, SpaceX IPO Looms",
-        "fullTitle": "Anthropic Hot in Private Markets; SpaceX IPO Looms",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "The secondary market for private shares is highly active, with Anthropic as the hottest trade and OpenAI losing ground. SpaceX's anticipated IPO is poised to significantly reshape the private market landscape. This indicates shifting investor sentiment and valuation dynamics within the high-growth tech sector.",
-        "relations": [
-          {
-            "label": "Anthropic",
-            "type": "entity",
-            "desc": "AI company currently favored in secondary markets"
+            "desc": "Risk of prolonged higher interest rates due to persistent inflation."
           },
           {
-            "label": "SpaceX",
-            "type": "entity",
-            "desc": "Aerospace company with looming IPO"
-          },
-          {
-            "label": "OpenAI",
-            "type": "entity",
-            "desc": "AI company reportedly losing ground in secondary markets"
-          },
-          {
-            "label": "Private Secondary Markets",
-            "type": "tech",
-            "desc": "Market for trading shares of pre-IPO companies"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Market leadership in AI is highly fluid, with investor favor shifting rapidly between players like Anthropic and OpenAI, indicating a non-winner-take-all early market.",
-            "SpaceX's IPO will act as a massive liquidity event, potentially draining capital and attention from other private tech holdings, repricing the entire sector."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AI-focused ETFs (AIQ, BOTZ) / Pre-IPO funds with SpaceX exposure",
-          "risk": "HIGH",
-          "thesis": "The intense activity and looming SpaceX IPO signal robust, albeit volatile, demand for cutting-edge tech. Gaining exposure to the sector's momentum and the SpaceX liquidity event offers asymmetric upside."
-        },
-        "confidence": 87,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1529555678728?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Lucid Sales Dip from Supplier Issue",
-        "fullTitle": "Lucid Blames Q1 Sales Dip on Seat Supplier",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Lucid Motors attributed a dip in its Q1 sales to an issue with a seat supplier. The company states the problem has been resolved and it is not changing its long-term guidance for 2026. This suggests a temporary, operational bottleneck rather than a fundamental demand problem.",
-        "relations": [
-          {
-            "label": "Lucid Motors",
-            "type": "entity",
-            "desc": "Electric vehicle manufacturer"
-          },
-          {
-            "label": "Supply Chain",
+            "label": "Stagflation",
             "type": "risk",
-            "desc": "Operational risk from component suppliers"
-          },
-          {
-            "label": "EV Market",
-            "type": "entity",
-            "desc": "Competitive electric vehicle industry"
+            "desc": "Macro risk scenario combining high inflation with slowing growth."
           }
         ],
         "analysis": {
           "strategic": [
-            "The incident highlights the persistent vulnerability of EV startups to single-point failures in complex supply chains, a structural disadvantage versus integrated legacy automakers.",
-            "Maintaining 2026 guidance despite a Q1 setback indicates management confidence in recovery, but also raises execution risk if further disruptions occur."
+            "Energy price shock directly challenges the 'last mile' of the Fed's inflation fight, forcing a reevaluation of the timing and pace of monetary easing.",
+            "Data will test market resilience, potentially triggering a repricing of rate-sensitive assets (tech, bonds) and a flight to inflation hedges (commodities, TIPS)."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Lucid Group (LCID)",
-          "risk": "HIGH",
-          "thesis": "Supply chain fragility and the need to explain away a sales miss reinforce concerns about execution risk and cash burn, pressuring the stock against a backdrop of intense EV competition."
+          "asset": "Long-duration US Treasuries (TLT), Growth-heavy Tech Indices (NASDAQ)",
+          "risk": "MEDIUM",
+          "thesis": "Hot inflation print will force markets to price out near-term Fed rate cuts, leading to higher yields and pressure on long-duration assets. Growth stocks, particularly tech, are vulnerable to rising discount rates and a 'higher-for-longer' narrative."
         },
-        "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1625923969037?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 88,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1604444242656?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Anonymous App Fizz Tests Saudi Market",
-        "fullTitle": "Anonymous App Fizz Tests Market in Saudi Arabia",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "The anonymous social app Fizz has launched in Saudi Arabia, exceeding founder expectations for user adoption. The app's performance in a market with distinct cultural and regulatory norms is being tested. Its success or failure will provide insights into the global scalability of anonymous social platforms.",
+        "title": "ECB Debate: Hike or Hold Rates",
+        "fullTitle": "Sleijpen Says ECB Discussion Will Be Rate Hike or Hold",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "ECB Governing Council member Olaf Sleijpen indicates the next policy discussion will center on whether to increase interest rates or hold them steady, ruling out an immediate cut. This highlights persistent hawkish sentiment within the ECB council despite growing economic headwinds in Europe. The commentary suggests the ECB remains focused on inflation containment, even as the Fed's path diverges. It signals continued monetary tightening risk for the Eurozone.",
         "relations": [
           {
-            "label": "Fizz",
-            "type": "tech",
-            "desc": "Anonymous social media application"
-          },
-          {
-            "label": "Saudi Arabia",
+            "label": "European Central Bank (ECB)",
             "type": "entity",
-            "desc": "Key Middle Eastern market for tech adoption"
+            "desc": "Monetary authority for Eurozone, maintaining hawkish policy stance."
           },
           {
-            "label": "Teddy Solomon",
+            "label": "Olaf Sleijpen",
             "type": "entity",
-            "desc": "Founder and CEO of Fizz"
+            "desc": "ECB Governing Council member, signaling policy direction."
           },
           {
-            "label": "Social Media Regulation",
+            "label": "Interest Rates",
+            "type": "resource",
+            "desc": "Primary monetary policy tool under debate."
+          },
+          {
+            "label": "Policy Divergence",
             "type": "risk",
-            "desc": "Risk of regulatory scrutiny in new markets"
+            "desc": "Risk of ECB and Fed moving in different directions, impacting EUR/USD."
+          },
+          {
+            "label": "Eurozone Economy",
+            "type": "risk",
+            "desc": "Faces headwinds from high rates and potential energy inflation spillover."
           }
         ],
         "analysis": {
           "strategic": [
-            "Strong initial uptake in Saudi Arabia suggests unmet demand for alternative social platforms in regulated digital environments, potentially revealing a new growth vector for social tech.",
-            "The app's anonymous nature presents a significant regulatory risk in markets with strict content and surveillance laws, which could limit its long-term viability or force adaptation."
+            "ECB's commitment to 'hike or hold' narrative, while the Fed may pause, creates a rare window of potential policy divergence, strengthening the Euro against the Dollar in the near term.",
+            "Hawkish stance increases recession risks for the fragile Eurozone economy, potentially leading to a sharper growth slowdown and later, more aggressive policy reversal."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Private Tech/Social Media Venture Funds",
-          "risk": "HIGH",
-          "thesis": "Fizz's unexpected traction in a difficult market identifies a niche for anonymous/semi-anonymous social interaction, representing a high-risk, high-reward thematic investment in evolving social media."
+          "asset": "EUR/USD Forex Pair, Eurozone Bank Stocks (EUFN)",
+          "risk": "MEDIUM",
+          "thesis": "Relative hawkishness from the ECB vs. a potentially paused Fed provides fundamental support for the Euro. Higher-for-longer rates in Europe also benefit net interest margins for Eurozone banks."
         },
-        "confidence": 80,
+        "confidence": 85,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1551741211037?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Thiel Bets $220M on Solar Cow Collars",
+        "fullTitle": "Peter Thiel's Big Bet on Solar-Powered Cow Collars",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Founders Fund, led by Peter Thiel, has invested $220 million in Halter, a New Zealand-based startup producing solar-powered cow collars for herd management. This represents a massive venture bet on agricultural technology (AgriTech) and precision livestock farming. The technology aims to automate grazing, improve animal health, and reduce labor costs. The investment highlights VC interest in scalable solutions for resource-intensive industries.",
+        "relations": [
+          {
+            "label": "Founders Fund / Peter Thiel",
+            "type": "entity",
+            "desc": "Prominent VC firm making a large-scale AgriTech bet."
+          },
+          {
+            "label": "Halter",
+            "type": "entity",
+            "desc": "Livestock management startup, recipient of major funding."
+          },
+          {
+            "label": "Precision Livestock Farming",
+            "type": "tech",
+            "desc": "Technology sector applying IoT and automation to agriculture."
+          },
+          {
+            "label": "AgriTech",
+            "type": "tech",
+            "desc": "High-growth investment sector focused on food production innovation."
+          },
+          {
+            "label": "Solar-Powered IoT",
+            "type": "tech",
+            "desc": "Enabling technology for remote, off-grid asset management."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Mega-round signals institutional VC conviction in AgriTech's potential for massive efficiency gains and ROI in traditional industries, likely attracting further capital to the sector.",
+            "Investment in livestock management tech addresses ESG pressures (methane, land use) and supply chain resilience, aligning with broader themes of sustainable intensification of agriculture."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "AgriTech & Precision Agriculture ETFs (VEGI, related themes), IoT and Sensor Companies",
+          "risk": "HIGH",
+          "thesis": "Founders Fund's large bet validates the AgriTech thesis and may catalyze sector-wide interest. Early exposure to the ecosystem through thematic ETFs or enabling technology providers offers diversified play on this trend, though individual startup risk remains high."
+        },
+        "confidence": 82,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1552890839792?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Delve Parts Ways with Y Combinator",
+        "fullTitle": "Embattled Startup Delve Has 'Parted Ways' with Y Combinator",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Compliance startup Delve has ended its relationship with the prestigious accelerator Y Combinator amidst ongoing controversy. The separation likely results from reputational damage or governance issues surrounding the startup. Losing Y Combinator's backing severely impacts Delve's credibility, network access, and future fundraising prospects. This highlights the increasing importance of governance and compliance for startups themselves.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Compliance startup facing controversy and reputational damage."
+          },
+          {
+            "label": "Y Combinator",
+            "type": "entity",
+            "desc": "Top-tier startup accelerator, severed ties with Delve."
+          },
+          {
+            "label": "Startup Governance",
+            "type": "risk",
+            "desc": "Critical risk factor for early-stage company survival and backing."
+          },
+          {
+            "label": "Compliance Tech (RegTech)",
+            "type": "tech",
+            "desc": "Sector in which Delve operates, facing heightened scrutiny."
+          },
+          {
+            "label": "Reputational Risk",
+            "type": "risk",
+            "desc": "Key vulnerability for startups, especially in trust-based sectors like compliance."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "YC's public dissociation acts as a severe market signal, effectively blacklisting Delve and serving as a warning to other portfolio companies about governance standards.",
+            "Incident may trigger increased due diligence by VCs on founder conduct and internal compliance, particularly for startups selling governance/security solutions ('the cobbler's children')."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Private Market Exposure to Delve (if possible), Caution on late-stage RegTech with governance questions",
+          "risk": "HIGH",
+          "thesis": "Loss of top-tier accelerator support is often a leading indicator of startup failure. For investors in private markets or later-stage rounds, this event flags extreme company-specific risk. It suggests avoiding any further capital exposure to Delve and scrutinizing similar companies."
+        },
+        "confidence": 90,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1606964233593?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Claude Code Raises Price for OpenClaw",
+        "fullTitle": "Anthropic to Charge Claude Code Subscribers Extra for OpenClaw",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Anthropic will increase costs for Claude Code subscribers by charging extra for usage of its coding assistant with OpenClaw and other third-party tools. This move represents a strategy to monetize high-value, heavy-usage enterprise and developer customers more effectively. It signals a shift in the AI-as-a-Service business model from flat-rate subscriptions towards usage-based or tiered pricing for advanced features. This may pressure margins for heavy users but improve profitability for Anthropic.",
+        "relations": [
+          {
+            "label": "Anthropic",
+            "type": "entity",
+            "desc": "AI company (Claude developer) implementing new pricing strategy."
+          },
+          {
+            "label": "Claude Code",
+            "type": "tech",
+            "desc": "AI-powered coding assistant product, target of price change."
+          },
+          {
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "Third-party tool integration now behind a paywall."
+          },
+          {
+            "label": "AI Monetization",
+            "type": "risk",
+            "desc": "Business model risk and evolution for AI service providers."
+          },
+          {
+            "label": "Developer Tools",
+            "type": "tech",
+            "desc": "Competitive market where pricing changes affect adoption."
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Pricing change reflects the high compute costs of advanced AI features and a strategic pivot to capture more value from power users, a trend likely to be adopted by competitors.",
+            "This may fragment the developer AI tool market, creating opportunities for lower-cost or open-source alternatives while solidifying Anthropic's focus on the premium, enterprise segment."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Companies with Robust AI Infrastructure/Compute (e.g., Cloud Providers - MSFT, AMZN), Open-Source AI Tooling",
+          "risk": "MEDIUM",
+          "thesis": "Anthropic's move validates the high cost of serving advanced AI models, benefiting underlying compute and infrastructure providers. It may also drive demand for cost-effective alternatives, benefiting open-source ecosystems and companies that lower the barrier to AI tool integration."
+        },
+        "confidence": 86,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1517718760346?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1692278935553?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Vietnam crecimiento se ralentiza",
-        "fullTitle": "Crecimiento de Vietnam se desacelera por costos energéticos",
+        "title": "Ataque con drones a sede petrolera kuwaití",
+        "fullTitle": "Sede de Kuwait Petroleum incendiada por ataque con drones iraníes",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "El impulso económico de Vietnam se desaceleró en el primer trimestre. Las crecientes tensiones en Oriente Medio elevan los costos de la energía y perturban las rutas comerciales globales. Esto complica el objetivo del Secretario General To Lam de lograr un crecimiento de dos dígitos. La incertidumbre geopolítica impacta directamente en las perspectivas de crecimiento de economías emergentes dependientes del comercio.",
+        "impactLevel": "CRITICAL",
+        "summary": "La sede corporativa de Kuwait Petroleum Corporation fue incendiada tras un ataque con drones no tripulados atribuido a Irán. Este incidente representa una escalada en las tensiones regionales en el Golfo Pérsico. La infraestructura energética crítica ha sido dañada, lo que podría interrumpir las operaciones. El ataque forma parte de una serie de acciones hostiles contra los vecinos de Irán.",
         "relations": [
           {
-            "label": "Vietnam",
+            "label": "Kuwait Petroleum Corp.",
             "type": "entity",
-            "desc": "Economía emergente del sudeste asiático, objetivo de crecimiento de dos dígitos."
-          },
-          {
-            "label": "To Lam",
-            "type": "entity",
-            "desc": "Secretario General de Vietnam, impulsor de la agenda de crecimiento económico."
-          },
-          {
-            "label": "Costo Energético",
-            "type": "resource",
-            "desc": "Factor clave de presión inflacionaria e incertidumbre económica."
-          },
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "risk",
-            "desc": "Punto de estrangulamiento crítico para el transporte de energía, fuente de disrupción."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "La desaceleración en Vietnam señala vulnerabilidad de cadenas de suministro y manufactura a shocks energéticos.",
-            "Las ambiciones de crecimiento de alto nivel enfrentan riesgos crecientes por geopolítica, requiriendo reevaluación de proyecciones para la región ASEAN."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "ETF VNM (Vietnam)",
-          "risk": "MEDIUM",
-          "thesis": "Presión a la baja por desaceleración del crecimiento, márgenes corporativos comprimidos por costos energéticos y riesgos en cadenas de suministro."
-        },
-        "confidence": 88,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1649575493896?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "Primeros cruces en Ormuz",
-        "fullTitle": "Barcos francés y japonés cruzan el Estrecho de Ormuz",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Un portacontenedores francés y un petrolero de propiedad japonesa han cruzado el Estrecho de Ormuz. Estos parecen ser los primeros tránsitos desde que la guerra en Irán cerró esta vía fluvial crucial. El movimiento sugiere posibles esfuerzos iniciales para reabrir o probar la seguridad del corredor. La reapertura tendría implicaciones significativas para los flujos globales de energía y los costos de flete.",
-        "relations": [
-          {
-            "label": "Estrecho de Ormuz",
-            "type": "resource",
-            "desc": "Punto de estrangulamiento crítico para el transporte mundial de petróleo."
+            "desc": "Empresa petrolera estatal de Kuwait"
           },
           {
             "label": "Irán",
             "type": "entity",
-            "desc": "País clave en la región, conflicto reciente causó el cierre."
+            "desc": "Estado actor del ataque con drones"
           },
           {
-            "label": "CMA CGM / Naviera Francesa",
-            "type": "entity",
-            "desc": "Posible operador del portacontenedores, indicando evaluación de riesgo."
+            "label": "Golfo Pérsico",
+            "type": "resource",
+            "desc": "Región geopolítica crítica para la energía"
           },
           {
-            "label": "Seguridad Marítima",
+            "label": "Infraestructura energética",
+            "type": "resource",
+            "desc": "Activo estratégico objetivo"
+          },
+          {
+            "label": "Tensión geopolítica",
             "type": "risk",
-            "desc": "Riesgo operativo clave para navieras y aseguradoras."
+            "desc": "Riesgo de escalada regional"
           }
         ],
         "analysis": {
           "strategic": [
-            "Los cruces de prueba indican una posible normalización gradual del tráfico, reduciendo la prima de riesgo en los precios del petróleo.",
-            "Las navieras están evaluando activamente el riesgo, lo que podría preceder a un aumento del tráfico si se confirma la seguridad."
+            "La vulnerabilidad de la infraestructura energógica en la región aumenta el riesgo prima por geopolítica.",
+            "Los ataques directos a instalaciones estatales representan una nueva fase de confrontación proxy."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Petróleo Brent (Futuros)",
+          "asset": "Futuros de petróleo Brent / ETF de energía (XLE)",
           "risk": "HIGH",
-          "thesis": "Posible presión bajista a corto plazo por expectativas de mayor oferta, pero volatilidad alta persistirá hasta confirmar reapertura estable."
+          "thesis": "Las interrupciones en la infraestructura y el aumento del riesgo geopolítico en el Golfo impulsarán los precios del crudo a corto plazo."
         },
-        "confidence": 82,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1611382686739?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "confidence": 88,
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1544068928401?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Juez EE.UU. niega apelación Fed",
-        "fullTitle": "Juez de EE.UU. niega revivir investigación sobre costos de la Fed",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "MEDIUM",
-        "summary": "El Departamento de Justicia perdió su intento de continuar una investigación sobre sobrecostos en la renovación de edificios de la Reserva Federal. El juez denegó la moción para revivir los citatorios anulados. Esto prepara el escenario para una apelación que podría eventualmente llegar a la Corte Suprema. El caso toca la supervisión y transparencia del gasto interno de una institución clave.",
-        "relations": [
-          {
-            "label": "Reserva Federal (Fed)",
-            "type": "entity",
-            "desc": "Banco central de EE.UU., sujeto a investigación por gastos."
-          },
-          {
-            "label": "Departamento de Justicia (DOJ)",
-            "type": "entity",
-            "desc": "Entidad que busca investigar, enfrenta obstáculos legales."
-          },
-          {
-            "label": "Corte Suprema de EE.UU.",
-            "type": "entity",
-            "desc": "Posible destino final de la apelación, implicaciones para supervisión."
-          },
-          {
-            "label": "Riesgo Legal/Regulatorio",
-            "type": "risk",
-            "desc": "Incertidumbre procedimental que afecta a instituciones gubernamentales."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El fallo limita temporalmente la capacidad de escrutinio externo sobre operaciones internas de la Fed, posiblemente preservando su independencia operativa en el corto plazo.",
-            "Un eventual caso en la Corte Suprema podría establecer un precedente importante sobre los límites de la supervisión congresional/judicial sobre agencias independientes."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "USD (Dólar Index - DXY)",
-          "risk": "LOW",
-          "thesis": "El resultado reduce la incertidumbre regulatoria inmediata sobre la Fed, un factor marginalmente positivo para la confianza institucional y la moneda."
-        },
-        "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1697128482392?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
-      },
-      {
-        "title": "Mercado secundario activo: Anthropic, SpaceX",
-        "fullTitle": "Anthropic es tendencia; SpaceX podría cambiar el panorama",
+        "title": "Inflación de EEUU se dispara tras guerra",
+        "fullTitle": "Inflación de EEUU repunta en primer dato desde guerra con Irán",
         "classification": "RESTRICTED",
         "impactLevel": "HIGH",
-        "summary": "El mercado secundario de acciones privadas está extremadamente activo, según Rainmaker Securities. Anthropic es la operación más caliente, mientras OpenAI pierde terreno. La próxima OPI de SpaceX está preparada para remodelar el panorama para todos. Esto refleja un cambio dinámico en la valoración y el interés de los inversores dentro del sector tecnológico privado.",
+        "summary": "Se espera que los datos de inflación clave de Estados Unidos de la próxima semana muestren un fuerte repunte. El aumento repentino en los precios de la gasolina al consumidor será un factor principal. Este es el primer indicador macroeconómico importante desde el inicio del conflicto con Irán. La presión inflacionaria podría influir en la política de la Reserva Federal.",
+        "relations": [
+          {
+            "label": "Inflación de EEUU",
+            "type": "risk",
+            "desc": "Indicador macroeconómico clave"
+          },
+          {
+            "label": "Precios de la gasolina",
+            "type": "resource",
+            "desc": "Componente principal del CPI"
+          },
+          {
+            "label": "Reserva Federal",
+            "type": "entity",
+            "desc": "Banco central de Estados Unidos"
+          },
+          {
+            "label": "Conflicto Irán-EEUU",
+            "type": "risk",
+            "desc": "Causa geopolítica del shock"
+          },
+          {
+            "label": "Datos CPI",
+            "type": "resource",
+            "desc": "Indicador de inflación al consumidor"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Un repunte inflacionario sostenido limitará el espacio de la Fed para recortar tasas, endureciendo las condiciones financieras.",
+            "Los shocks de precios de la energía están reacoplando las expectativas de inflación a medio plazo."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Bonos del Tesoro a largo plazo (TLT) / Empresas altamente endeudadas",
+          "risk": "MEDIUM",
+          "thesis": "Las expectativas de tasas de interés más altas por más tiempo presionarán los precios de los bonos y aumentarán el costo de la deuda."
+        },
+        "confidence": 85,
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1505382966790?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+      },
+      {
+        "title": "ECB debate subir o mantener tasas",
+        "fullTitle": "Sleijpen: discusión del BCE será subir tasas o mantener",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Olaf Sleijpen, miembro del Consejo de Gobierno del BCE, indicó que el próximo debate de política monetaria se centrará en subir las tasas de interés o mantenerlas estables. Esto refleja la continua preocupación del banco central por la inflación persistente en la zona euro. La comunicación sugiere que una pausa no está completamente descartada, pero la opción de un aumento sigue viva. El contexto geopolítico y de precios de energía influirá en la decisión.",
+        "relations": [
+          {
+            "label": "Banco Central Europeo (BCE)",
+            "type": "entity",
+            "desc": "Autoridad monetaria de la zona euro"
+          },
+          {
+            "label": "Olaf Sleijpen",
+            "type": "entity",
+            "desc": "Miembro del Consejo de Gobierno del BCE"
+          },
+          {
+            "label": "Tasas de interés",
+            "type": "resource",
+            "desc": "Herramienta de política monetaria"
+          },
+          {
+            "label": "Inflación zona euro",
+            "type": "risk",
+            "desc": "Riesgo macroeconómico principal"
+          },
+          {
+            "label": "Política monetaria",
+            "type": "risk",
+            "desc": "Riesgo de ajuste financiero"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El BCE mantiene una postura hawkish, priorizando el control de la inflación sobre el apoyo al crecimiento, lo que diverge de otros bancos centrales.",
+            "La incertidumbre en la comunicación aumenta la volatilidad en los mercados de renta fija europeos."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Euro Stoxx 50 / Bonos periféricos europeos (ej. Italia)",
+          "risk": "MEDIUM",
+          "thesis": "Un entorno de tipos más altos por más tiempo en Europa pesará sobre la valoración de acciones y sobre la deuda de países con alta carga."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1609060307549?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Thiel apuesta por collares solares para ganado",
+        "fullTitle": "La gran apuesta de Peter Thiel en collares solares para vacas",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Founders Fund, el fondo de capital riesgo cofundado por Peter Thiel, ha invertido 220 millones de dólares en Halter, una startup de gestión ganadera. Halter desarrolla collares inteligentes con energía solar para vacas, permitiendo el pastoreo virtual y la monitorización. La inversión representa una apuesta significativa en agtech y soluciones de sostenibilidad para la agricultura. El monto sugiere una fuerte convicción en el escalado de esta tecnología de nicho.",
+        "relations": [
+          {
+            "label": "Founders Fund",
+            "type": "entity",
+            "desc": "Fondo de capital riesgo de Peter Thiel"
+          },
+          {
+            "label": "Halter",
+            "type": "entity",
+            "desc": "Startup de gestión ganadera con tecnología"
+          },
+          {
+            "label": "Agtech / Agricultura de precisión",
+            "type": "tech",
+            "desc": "Sector tecnológico de la inversión"
+          },
+          {
+            "label": "Energía solar",
+            "type": "tech",
+            "desc": "Fuente de energía de la solución"
+          },
+          {
+            "label": "Sostenibilidad agrícola",
+            "type": "resource",
+            "desc": "Tema de inversión subyacente"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "El capital riesgo está asignando grandes sumas a soluciones climáticas aplicadas a industrias tradicionales como la ganadería.",
+            "La inversión señala una tendencia hacia la 'descarbonización' de la cadena de suministro de alimentos."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "ETF de Agtech & Food Innovation (VEGI) / Empresas de agricultura de precisión",
+          "risk": "HIGH",
+          "thesis": "Las grandes rondas de financiación en agtech validan el sector y podrían catalizar un mayor interés de los inversores en soluciones de eficiencia agrícola."
+        },
+        "confidence": 80,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1529147118884?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Startup Delve se separa de Y Combinator",
+        "fullTitle": "Delve, startup en problemas, 'se separa' de Y Combinator",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Delve, una startup de software de cumplimiento normativo, ha terminado su relación con la prestigiosa aceleradora Y Combinator. La separación se produce en medio de una controversia no especificada que rodea a la empresa. Perder el apoyo de YC es un revés significativo para una startup en etapa temprana. El incidente subraya los riesgos reputacionales en el ecosistema de startups.",
+        "relations": [
+          {
+            "label": "Delve",
+            "type": "entity",
+            "desc": "Startup de software de cumplimiento (compliance)"
+          },
+          {
+            "label": "Y Combinator",
+            "type": "entity",
+            "desc": "Aceleradora de startups de renombre"
+          },
+          {
+            "label": "Controversia",
+            "type": "risk",
+            "desc": "Riesgo reputacional no especificado"
+          },
+          {
+            "label": "Ecosistema startup",
+            "type": "risk",
+            "desc": "Riesgo de desapalancamiento de red"
+          },
+          {
+            "label": "Software de cumplimiento",
+            "type": "tech",
+            "desc": "Sector de la startup"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "Los aceleradores de primer nivel como YC están dispuestos a cortar lazos para proteger su marca ante startups problemáticas.",
+            "Este caso puede aumentar el escrutinio del due diligence por parte de futuros inversores en rondas de la startup."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Posición especulativa en futura ronda de Delve (si existe)",
+          "risk": "HIGH",
+          "thesis": "La pérdida del sello YC y la controversia dañan severamente la capacidad de la startup para levantar capital futuro a buenas valoraciones, aumentando el riesgo de fracaso."
+        },
+        "confidence": 85,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1621452453642?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Anthropic sube precio por OpenClaw en Claude",
+        "fullTitle": "Anthropic cobrará extra por uso de OpenClaw en Claude Code",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "MEDIUM",
+        "summary": "Anthropic anunció que los suscriptores de Claude Code deberán pagar una tarifa adicional para usar el asistente de codificación con OpenClaw y otras herramientas de terceros. Este cambio refleja una estrategia de monetización más granular para sus productos de IA. Podría aumentar el costo total de propiedad para desarrolladores profesionales. La medida sigue la tendencia de las empresas de IA de segmentar funciones premium.",
         "relations": [
           {
             "label": "Anthropic",
-            "type": "tech",
-            "desc": "Empresa de IA, actual 'comercio más caliente' en el mercado secundario."
-          },
-          {
-            "label": "SpaceX",
-            "type": "tech",
-            "desc": "Empresa aeroespacial, OPI inminente con potencial de cambiar el mercado."
-          },
-          {
-            "label": "OpenAI",
-            "type": "tech",
-            "desc": "Empresa de IA, perdiendo terreno en interés del mercado secundario."
-          },
-          {
-            "label": "Mercado Secundario Privado",
             "type": "entity",
-            "desc": "Mercado de acciones privadas, experimentando alta actividad."
+            "desc": "Empresa de IA creadora de Claude"
           },
           {
-            "label": "Rainmaker Securities",
+            "label": "Claude Code",
+            "type": "tech",
+            "desc": "Asistente de codificación basado en IA"
+          },
+          {
+            "label": "OpenClaw",
+            "type": "tech",
+            "desc": "Herramienta de terceros para desarrollo"
+          },
+          {
+            "label": "Monetización de IA",
+            "type": "resource",
+            "desc": "Estrategia de negocio"
+          },
+          {
+            "label": "Ecosistema de desarrolladores",
             "type": "entity",
-            "desc": "Firma que comenta sobre la actividad del mercado."
+            "desc": "Base de clientes afectada"
           }
         ],
         "analysis": {
           "strategic": [
-            "El capital privado está reasignándose rápidamente dentro del ecosistema de IA, mostrando preferencia por Anthropic sobre OpenAI en esta fase.",
-            "La OPI de SpaceX actuará como un 'evento de liquidez' masivo, posiblemente absorbiendo capital y redefiniendo los múltiplos de valoración para todo el sector espacial/tecnológico."
+            "Las empresas líderes en IA están pasando de modelos de suscripción plana a modelos de 'pago por uso' o por funcionalidad para maximizar ingresos.",
+            "Esto podría fragmentar el mercado, creando espacio para competidores con modelos de precios más simples."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Fondos de Capital Privado/VC con exposición a IA y Espacio",
-          "risk": "HIGH",
-          "thesis": "Acceso a revalorización previa a la OPI en sectores calientes (IA) y ganancias potenciales del evento de liquidez de SpaceX."
-        },
-        "confidence": 90,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1699503363609?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Lucid culpa a proveedor por ventas",
-        "fullTitle": "Lucid atribuye caída de ventas Q1 a problema de proveedor de asientos",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Lucid Motors atribuyó la caída en las ventas del primer trimestre a un problema con un proveedor de asientos. La compañía afirma haber resuelto el problema. No está cambiando su guía para el año 2026. Esto indica que la empresa ve el problema como un obstáculo transitorio de la cadena de suministro, no estructural.",
-        "relations": [
-          {
-            "label": "Lucid Motors",
-            "type": "entity",
-            "desc": "Fabricante de vehículos eléctricos de lujo."
-          },
-          {
-            "label": "Proveedor de Asientos",
-            "type": "entity",
-            "desc": "Proveedor no nombrado, causante de cuello de botella en producción."
-          },
-          {
-            "label": "Cadena de Suministro VE",
-            "type": "risk",
-            "desc": "Riesgo operativo persistente para fabricantes de vehículos eléctricos."
-          },
-          {
-            "label": "Guía 2026",
-            "type": "entity",
-            "desc": "Objetivos financieros a medio plazo de Lucid, mantenidos."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El incidente subraya la continua fragilidad de las cadenas de suministro en la industria de los vehículos eléctricos, incluso para problemas aparentemente menores.",
-            "El mantenimiento de la guía para 2026 sugiere que la dirección tiene confianza en su capacidad de recuperación y en sus planes de producción a largo plazo, a pesar de los contratiempos trimestrales."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "LCID (Lucid Group)",
-          "risk": "HIGH",
-          "thesis": "Posible recuperación si se confirma que el problema del proveedor está resuelto y se retoma el ritmo de producción, manteniendo objetivos a largo plazo."
+          "asset": "Empresas con modelos de monetización de IA claros y escalables (ej. software tradicional que incorpora IA)",
+          "risk": "MEDIUM",
+          "thesis": "La validación de modelos de precios premium para IA específica por función es positiva para el margen de toda la industria, beneficiando a empresas con estrategias de precios bien definidas."
         },
         "confidence": 83,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1505697616753?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
-      },
-      {
-        "title": "App anónima Fizz prueba mercado saudí",
-        "fullTitle": "App social anónima Fizz tiene éxito inesperado en Arabia Saudita",
-        "classification": "RESTRICTED",
-        "impactLevel": "INFO",
-        "summary": "La aplicación social anónima Fizz se lanzó silenciosamente en Arabia Saudita. El fundador y CEO Teddy Solomon no esperaba que la aplicación tuviera tanto éxito como lo tuvo. El caso prueba la viabilidad de modelos de redes sociales anónimas en mercados con contextos culturales y regulatorios específicos. Muestra una demanda no satisfecha en el panorama digital saudí.",
-        "relations": [
-          {
-            "label": "Fizz",
-            "type": "tech",
-            "desc": "Aplicación de redes sociales anónimas."
-          },
-          {
-            "label": "Teddy Solomon",
-            "type": "entity",
-            "desc": "Fundador y CEO de Fizz."
-          },
-          {
-            "label": "Arabia Saudita",
-            "type": "entity",
-            "desc": "Mercado de prueba para Fizz, con éxito inesperado."
-          },
-          {
-            "label": "Redes Sociales Anónimas",
-            "type": "tech",
-            "desc": "Categoría de aplicaciones con dinámicas de crecimiento únicas y riesgos regulatorios."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "El éxito inicial de Fizz en Arabia Saudita revela un apetito por plataformas de expresión anónima en mercados con normas sociales más restrictivas, abriendo un nuevo vector de crecimiento.",
-            "La adopción plantea futuros desafíos regulatorios y de moderación de contenido, ya que las plataformas anónimas pueden enfrentar un escrutinio más intenso por parte de las autoridades."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "Capital de Riesgo en Tecnología Social/Consumer Tech",
-          "risk": "HIGH",
-          "thesis": "Exposición a startups que abordan nichos de redes sociales en mercados emergentes de alto crecimiento con dinámicas culturales únicas."
-        },
-        "confidence": 80,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1670924081438?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1530689324978?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
