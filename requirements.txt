@@ -1,10 +1,10 @@
-# NexusIntel 自动更新脚本依赖
+# NexusIntel v2 依赖
 
-# 核心依赖
+# 核心
 requests>=2.31.0
-google-generativeai>=0.3.0
+openai>=1.0.0
 
-# RSS 解析（可选，用于免费新闻源）
+# RSS 解析
 feedparser>=6.0.10
 
 # 网页爬虫（可选）

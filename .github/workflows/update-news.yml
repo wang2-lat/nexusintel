@@ -2,40 +2,50 @@ name: Update NexusIntel News Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 00:00
-  workflow_dispatch:  # 支持手动触发
+    - cron: '30 1 * * *'   # UTC 01:30 (北京 09:30 早盘前)
+    - cron: '0 14 * * *'   # UTC 14:00 (北京 22:00 晚间)
+  workflow_dispatch:  # 手动触发
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: 📦 Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      
-      - name: 🐍 Setup Python
+
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
-      - name: 📚 Install Dependencies
+
+      - name: Install Dependencies
         run: |
-          pip install openai feedparser requests
-      
-      - name: 🔮 Run News Update Script (DeepSeek)
+          pip install openai feedparser requests beautifulsoup4 lxml
+
+      - name: Run News Update Script
         env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python update_news_deepseek.py
-      
-      - name: 📝 Commit Changes
+
+      - name: Commit Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add public/data.json
           git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M UTC')"
-      
-      - name: 🚀 Push Changes
+
+      - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
