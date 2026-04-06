@@ -1,863 +1,893 @@
 {
-  "generated_at": "2026-04-05T02:42:36.807489",
+  "generated_at": "2026-04-06T02:43:54.412546",
   "version": "1.0",
   "languages": {
     "zh": [
       {
-        "title": "科威特石油总部遭伊朗无人机袭击",
-        "fullTitle": "伊朗无人机袭击导致科威特石油公司总部起火",
+        "title": "地缘风险缓和，股市反弹",
+        "fullTitle": "美伊谈判传闻提振市场，股市上涨油价涨幅收窄",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "伊朗无人机袭击了科威特石油公司总部并引发火灾。这是伊朗对波斯湾邻国的最新一次攻击。事件直接威胁关键能源基础设施。可能加剧地区紧张局势并影响石油供应安全。",
+        "impactLevel": "HIGH",
+        "summary": "市场传闻美伊可能进行谈判以防止冲突升级，提振了市场风险偏好。股市延续涨势，抄底资金入场。受此影响，油价回吐了部分涨幅。地缘政治紧张局势的潜在缓和是市场情绪转变的关键驱动因素。",
         "relations": [
-          {
-            "label": "科威特石油公司",
-            "type": "entity",
-            "desc": "科威特国有石油公司，关键能源生产商"
-          },
           {
             "label": "伊朗",
             "type": "entity",
-            "desc": "袭击发起方，地区主要地缘政治行为体"
+            "desc": "中东地缘政治冲突主要参与方"
           },
           {
-            "label": "无人机袭击",
-            "type": "risk",
-            "desc": "针对关键基础设施的非对称攻击手段"
+            "label": "美国",
+            "type": "entity",
+            "desc": "中东地缘政治冲突主要参与方"
           },
           {
-            "label": "波斯湾",
+            "label": "股市",
+            "type": "asset",
+            "desc": "风险资产，对地缘政治消息敏感"
+          },
+          {
+            "label": "原油",
             "type": "resource",
-            "desc": "全球关键石油运输通道与产区"
+            "desc": "受地缘政治影响最大的大宗商品之一"
+          },
+          {
+            "label": "地缘政治风险",
+            "type": "risk",
+            "desc": "影响全球市场情绪和资产价格的核心风险"
           }
         ],
         "analysis": {
           "strategic": [
-            "事件标志着伊朗与海湾阿拉伯国家间代理人冲突可能升级为直接攻击，显著提升地区战争风险。",
-            "针对能源基础设施的袭击可能引发石油供应中断预期，为油价注入地缘政治风险溢价。"
+            "美伊关系走向是短期内全球市场波动的核心变量，任何缓和信号都将迅速被市场定价。",
+            "该事件凸显了地缘政治风险对全球资本流动和资产配置的即时性影响，投资者需保持高度警惕。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "原油期货、能源股、国防安全板块",
-          "risk": "HIGH",
-          "thesis": "地缘政治紧张局势升级将推高油价，并增加能源安全和国防相关领域的需求与关注度。"
+          "asset": "MSCI全球指数ETF",
+          "risk": "MEDIUM",
+          "thesis": "若地缘政治紧张局势确认缓和，全球风险资产将迎来普遍的估值修复行情。"
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1638402266470?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1643402181665?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "伊战后首份美国通胀数据或飙升",
-        "fullTitle": "伊朗战争后首份美国通胀数据预计将因汽油价格飙升",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "HIGH",
-        "summary": "受伊朗战争影响，美国汽油价格突然上涨。即将公布的关键通胀数据将充分反映这一影响。这将是冲突爆发后的首份通胀报告。数据可能影响美联储的货币政策路径。",
-        "relations": [
-          {
-            "label": "美国通胀",
-            "type": "risk",
-            "desc": "关键宏观经济指标，影响货币政策"
-          },
-          {
-            "label": "汽油价格",
-            "type": "resource",
-            "desc": "受地缘政治冲击敏感的能源价格组成部分"
-          },
-          {
-            "label": "美联储",
-            "type": "entity",
-            "desc": "美国中央银行，货币政策制定者"
-          },
-          {
-            "label": "伊朗战争",
-            "type": "risk",
-            "desc": "引发能源价格冲击的地缘政治事件"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "地缘政治冲突通过能源渠道快速传导至美国核心通胀，考验美联储在‘抗通胀’与‘防衰退’间的平衡能力。",
-            "若通胀数据持续超预期，可能迫使美联储维持更长时间的高利率，压制经济增长并增加金融市场波动。"
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "对利率敏感的高估值科技股、长期国债",
-          "risk": "MEDIUM",
-          "thesis": "高于预期的通胀数据将强化‘higher for longer’的利率预期，利空成长股和债券价格。"
-        },
-        "confidence": 85,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1624316817003?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
-      },
-      {
-        "title": "欧央行官员称下次讨论加息或按兵不动",
-        "fullTitle": "欧央行管委称下次政策讨论将在加息与按兵不动间选择",
+        "title": "印尼主权基金推动资管合并",
+        "fullTitle": "印尼主权财富基金推进国有银行资管部门合并",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "欧洲央行管委斯莱彭表示，欧央行下次政策讨论将在加息与维持利率不变之间进行选择。这表明欧央行内部对下一步行动存在分歧。货币政策路径的不确定性增加。",
+        "summary": "印度尼西亚主权财富基金Danantara正推进一项计划，旨在合并国有银行的资产管理子公司。此举旨在通过整合资源、扩大规模来提升这些资管机构的区域竞争力。交易价值约1.59亿美元，反映了印尼政府加强国内金融体系、打造区域金融中心的战略意图。",
         "relations": [
           {
-            "label": "欧洲央行",
+            "label": "Danantara",
             "type": "entity",
-            "desc": "欧元区货币政策制定机构"
+            "desc": "印度尼西亚主权财富基金"
           },
           {
-            "label": "奥拉夫·斯莱彭",
+            "label": "印尼",
             "type": "entity",
-            "desc": "欧洲央行管理委员会成员"
+            "desc": "东南亚重要新兴经济体"
           },
           {
-            "label": "利率决策",
-            "type": "risk",
-            "desc": "影响欧元区融资成本与资产价格的关键政策"
+            "label": "资产管理",
+            "type": "entity",
+            "desc": "金融服务业关键领域"
           },
           {
-            "label": "货币政策分歧",
+            "label": "国有银行",
+            "type": "entity",
+            "desc": "印尼金融体系的主导力量"
+          },
+          {
+            "label": "区域竞争力",
             "type": "risk",
-            "desc": "央行内部对政策路径的不同看法"
+            "desc": "新兴市场金融机构面临的战略挑战"
           }
         ],
         "analysis": {
           "strategic": [
-            "欧央行政策信号从‘是否紧缩’转向‘何时暂停’，标志着加息周期可能接近尾声，市场焦点转向利率峰值维持时长。",
-            "内部意见分歧公开化，增加了政策路径的不可预测性，可能导致欧元汇率和欧债市场波动加剧。"
+            "此举是新兴市场国家通过整合国有金融资源以应对外部竞争压力的典型案例。",
+            "合并可能重塑印尼国内资管行业格局，并可能吸引更多区域资本流入，影响东南亚金融生态。"
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "欧元",
-          "risk": "MEDIUM",
-          "thesis": "相比美联储，欧央行更早出现政策转向讨论，可能削弱欧元的利差优势。"
+          "action": "LONG",
+          "asset": "印尼雅加达综合指数相关ETF",
+          "risk": "HIGH",
+          "thesis": "金融业整合长期利好市场效率和竞争力，但执行风险和短期阵痛需关注。"
         },
         "confidence": 82,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1559234009526?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1563051747696?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "彼得·蒂尔重金投资太阳能牛颈圈",
-        "fullTitle": "创始人基金2.2亿美元投资牲畜管理初创公司Halter",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "彼得·蒂尔旗下的创始人基金向牲畜管理初创公司Halter投资了2.2亿美元。Halter主要产品是太阳能驱动的智能牛颈圈。该投资是农业科技领域的一笔重大融资。",
+        "title": "日企财报季开启，表现分化",
+        "fullTitle": "迅销利润增长，7-11母公司业绩喜忧参半",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "日本财报季开启，零售巨头迅销（优衣库母公司）和7&i控股（7-11母公司）公布业绩。迅销利润实现增长，而7&i业绩表现喜忧参半。中东冲突带来的不确定性笼罩着这些公司的前景展望。这为整个日本消费板块的季度表现定下了基调。",
         "relations": [
           {
-            "label": "创始人基金",
+            "label": "迅销",
             "type": "entity",
-            "desc": "彼得·蒂尔创立的知名风险投资机构"
+            "desc": "优衣库母公司，全球服装零售巨头"
           },
           {
-            "label": "Halter",
+            "label": "7&i控股",
             "type": "entity",
-            "desc": "专注于牲畜管理的农业科技初创公司"
+            "desc": "7-11便利店母公司，零售与便利店巨头"
           },
           {
-            "label": "太阳能牛颈圈",
-            "type": "tech",
-            "desc": "利用太阳能和GPS等技术管理牧群的智能设备"
-          },
-          {
-            "label": "农业科技",
-            "type": "tech",
-            "desc": "技术应用于农业以提高效率的领域"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "顶级风投大额押注农业科技，表明‘气候科技’与‘粮食安全’赛道正获得前所未有的资本关注，可能引领新一轮投资趋势。",
-            "将太空/国防领域常见的自主系统与新能源技术应用于传统畜牧业，是技术跨界融合提升传统产业效率的典型案例。"
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "精准农业、智能畜牧、可再生能源相关板块",
-          "risk": "MEDIUM",
-          "thesis": "标志性投资事件将提升市场对农业科技赛道的关注度，可能带动相关板块估值。"
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1649560931866?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "争议初创公司Delve与YC分道扬镳",
-        "fullTitle": "合规初创公司Delve因争议与Y Combinator终止关系",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "陷入争议的合规初创公司Delve已与知名创业加速器Y Combinator分道扬镳。争议似乎导致了双方关系的破裂。这对初创公司的声誉和发展可能造成打击。",
-        "relations": [
-          {
-            "label": "Delve",
+            "label": "日本消费",
             "type": "entity",
-            "desc": "陷入争议的合规技术初创公司"
+            "desc": "反映日本内需和经济活力的关键领域"
           },
           {
-            "label": "Y Combinator",
-            "type": "entity",
-            "desc": "全球顶级创业加速器与投资机构"
-          },
-          {
-            "label": "创业加速器",
-            "type": "entity",
-            "desc": "为早期初创公司提供资金与指导的机构"
-          },
-          {
-            "label": "声誉风险",
+            "label": "中东冲突",
             "type": "risk",
-            "desc": "因负面事件导致企业形象受损的风险"
+            "desc": "影响全球供应链和消费者信心的外部风险"
+          },
+          {
+            "label": "财报季",
+            "type": "risk",
+            "desc": "市场重新评估公司基本面和估值的关键时期"
           }
         ],
         "analysis": {
           "strategic": [
-            "顶级加速器与portfolio公司切割，反映了投资机构对ESG（环境、社会、治理）和声誉风险管理的重视程度日益提高。",
-            "初创公司早期若陷入重大争议，可能面临被核心生态伙伴抛弃的风险，融资和发展路径将变得异常艰难。"
+            "龙头零售商业绩分化，反映了不同商业模式对宏观环境和地缘风险的抵御能力差异。",
+            "日本作为重要消费市场，其头部企业的财报是全球观察消费趋势和通胀传导的重要窗口。"
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Delve（若未来上市或可交易）",
-          "risk": "HIGH",
-          "thesis": "失去YC等重要背书和支持，极大增加了公司的失败风险，对其估值构成严重压力。"
+          "asset": "7&i控股",
+          "risk": "MEDIUM",
+          "thesis": "在不确定环境下，其业绩表现弱于同行，且前景展望可能承压。"
         },
         "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1646791351244?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1563577088620?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Anthropic对Claude Code订阅者收取OpenClaw附加费",
-        "fullTitle": "Anthropic宣布Claude Code订阅者使用OpenClaw需额外付费",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic公司宣布，其Claude Code的订阅者若想使用OpenClaw等第三方工具，将需要支付额外费用。这使得使用其编码助手的成本变得更高。这反映了AI公司寻求多元化盈利模式的趋势。",
+        "title": "预测市场下架涉军救援赌约",
+        "fullTitle": "美议员批评预测市场Polymarket涉军救援赌约",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "去中心化预测市场Polymarket因允许用户对美军在伊朗被击落人员的救援确认日期进行投注而受到美国国会议员的严厉批评。该平台随后下架了相关赌约。这一事件凸显了预测市场在涉及国家安全和敏感事件时面临的巨大监管与道德风险。",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "Polymarket",
             "type": "entity",
-            "desc": "开发Claude AI模型的知名人工智能公司"
+            "desc": "基于加密货币的去中心化预测市场"
           },
           {
-            "label": "Claude Code",
+            "label": "美国国会",
+            "type": "entity",
+            "desc": "美国立法与监管机构"
+          },
+          {
+            "label": "预测市场",
             "type": "tech",
-            "desc": "专注于代码生成的AI助手订阅服务"
+            "desc": "利用群体智慧预测事件的金融/信息工具"
           },
           {
-            "label": "OpenClaw",
-            "type": "tech",
-            "desc": "需要额外付费连接的第三方工具（推测为开发工具）"
-          },
-          {
-            "label": "SaaS分层定价",
+            "label": "监管风险",
             "type": "risk",
-            "desc": "软件即服务的分层收费策略，可能增加用户成本"
+            "desc": "加密及预测市场面临的最大不确定性之一"
+          },
+          {
+            "label": "信息战",
+            "type": "risk",
+            "desc": "敏感事件预测可能被用于影响舆论或获取情报"
           }
         ],
         "analysis": {
           "strategic": [
-            "AI公司从提供基础模型服务转向精细化、分层化的产品与定价策略，旨在提升单位用户收入（ARPU）和盈利能力。",
-            "此举可能引发用户对‘付费墙’和生态封闭的担忧，但也为专注于工具集成和平台化的第三方公司创造了机会。"
+            "事件表明，去中心化金融（DeFi）和预测市场应用正日益触及传统主权和国家安全红线。",
+            "这可能导致全球监管机构对类似平台采取更严厉的审查和打击，加速“加密世界”与“现实世界”规则的碰撞。"
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "去中心化预测市场赛道代币",
+          "risk": "HIGH",
+          "thesis": "监管压力骤增，此类平台商业模式和代币价值面临严峻挑战。"
+        },
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1637636539979?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "微软称Copilot仅供娱乐",
+        "fullTitle": "微软服务条款声明AI助手Copilot仅供娱乐",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "微软在其AI助手Copilot的服务条款中明确声明，该产品输出“仅用于娱乐目的”。这反映了AI公司自身也在法律层面限制其模型输出的责任。此举不仅是对AI怀疑论者警告的回应，也是行业为规避潜在法律风险而采取的标准化免责措施。",
+        "relations": [
+          {
+            "label": "微软",
+            "type": "entity",
+            "desc": "全球科技巨头，AI领域主要参与者"
+          },
+          {
+            "label": "Copilot",
+            "type": "tech",
+            "desc": "微软推出的AI助手产品"
+          },
+          {
+            "label": "AI责任",
+            "type": "risk",
+            "desc": "AI生成内容准确性、可靠性引发的法律与道德问题"
+          },
+          {
+            "label": "服务条款",
+            "type": "risk",
+            "desc": "科技公司规避产品风险的法律工具"
+          },
+          {
+            "label": "生成式AI",
+            "type": "tech",
+            "desc": "当前AI发展的核心方向"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "头部AI公司通过条款明确产品边界，是为大规模商业化铺路的同时进行风险隔离的关键步骤。",
+            "这预示着AI产品的实际应用将长期处于“辅助”和“参考”定位，完全依赖AI进行关键决策的模式短期内难以被法律和市场接受。"
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "拥有成熟分层定价和生态系统的SaaS公司",
+          "asset": "微软",
           "risk": "LOW",
-          "thesis": "AI巨头验证了高级功能与生态接入的附加收费模式，利好已掌握该模式的传统企业级软件公司。"
+          "thesis": "公司展现出成熟的风险管理能力，为其AI业务的稳健发展提供了法律保障。"
         },
-        "confidence": 83,
+        "confidence": 92,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1607183014035?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "交友应用市场兴起",
+        "fullTitle": "寻找新朋友需求催生多样化交友应用",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "随着人们对拓展社交圈、结交新朋友的需求增长，一系列专注于友谊建立的移动应用应运而生。这些应用包括像BFF这样的朋友发现平台，以及像Timeleft这样以活动为核心的平台。这反映了一个细分社交市场的崛起，其商业模式区别于传统的约会应用。",
+        "relations": [
+          {
+            "label": "BFF",
+            "type": "entity",
+            "desc": "专注于朋友发现的社交应用"
+          },
+          {
+            "label": "Timeleft",
+            "type": "entity",
+            "desc": "以线下活动为核心的社交应用"
+          },
+          {
+            "label": "社交应用",
+            "type": "tech",
+            "desc": "移动互联网时代的关键应用类别"
+          },
+          {
+            "label": "孤独经济",
+            "type": "entity",
+            "desc": "现代都市社会催生的特定消费与社交需求"
+          },
+          {
+            "label": "细分市场",
+            "type": "risk",
+            "desc": "创业公司寻找增长机会的领域，但面临规模天花板"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "“交友”细分市场的兴起，表明数字社交正在从“泛连接”向“深度、垂直连接”演进。",
+            "这类应用的成功关键在于构建真实、安全的线下连接场景，其商业模式和用户粘性是对传统社交巨头的补充而非替代。"
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "头部社交平台（如Meta）",
+          "risk": "LOW",
+          "thesis": "细分社交应用的创新可能被巨头观察、模仿或收购，最终巩固巨头的生态优势。"
+        },
+        "confidence": 85,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1634390415009?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1554123161038?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "en": [
       {
-        "title": "Iran Drone Strikes Kuwait Oil HQ",
-        "fullTitle": "Kuwaiti Oil Headquarters Set Ablaze by Iranian Drone Strike",
-        "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "Kuwait Petroleum Corp.'s headquarters was set on fire following a strike by unmanned drones, identified as the latest in a series of Iranian attacks on Persian Gulf neighbors. This direct attack on critical energy infrastructure represents a significant escalation in regional tensions. The incident threatens to disrupt oil supply chains and logistics from a key OPEC member. It introduces immediate geopolitical risk premium into global energy markets.",
+        "title": "Markets Rise on Iran Talks",
+        "fullTitle": "Stocks Rise, Oil Pares Gain After Report of Talks",
+        "classification": "RESTRICTED",
+        "impactLevel": "HIGH",
+        "summary": "Equity markets extended gains as dip buyers emerged on optimism that Iran and the US may prevent further conflict escalation. This sentiment led to a paring of earlier gains in oil prices. The market reaction highlights the sensitivity of global financial assets to geopolitical tensions in the Middle East. The development suggests a potential de-escalation, which is being priced into risk assets.",
         "relations": [
-          {
-            "label": "Kuwait Petroleum Corp.",
-            "type": "entity",
-            "desc": "State-owned oil company, critical energy infrastructure target."
-          },
           {
             "label": "Iran",
             "type": "entity",
-            "desc": "State actor conducting drone strikes, escalating regional conflict."
+            "desc": "Geopolitical actor in Middle East conflict"
           },
           {
-            "label": "Persian Gulf",
+            "label": "United States",
+            "type": "entity",
+            "desc": "Geopolitical actor in Middle East conflict"
+          },
+          {
+            "label": "Equity Markets",
             "type": "resource",
-            "desc": "Geopolitical flashpoint and critical global oil transit route."
+            "desc": "Global stock indices reacting to geopolitical news"
           },
           {
-            "label": "Drone Warfare",
-            "type": "tech",
-            "desc": "Asymmetric attack method threatening infrastructure security."
+            "label": "Crude Oil",
+            "type": "resource",
+            "desc": "Commodity sensitive to Middle East supply risks"
           },
           {
-            "label": "Oil Supply Disruption",
+            "label": "Geopolitical Risk",
             "type": "risk",
-            "desc": "Immediate risk to physical supply and market stability."
+            "desc": "Primary market driver from potential conflict"
           }
         ],
         "analysis": {
           "strategic": [
-            "Attack demonstrates Iran's willingness to target core energy assets of neighboring US allies, directly challenging regional security architecture.",
-            "Incident creates immediate supply-side shock, forcing market recalibration of risk premia for Gulf Cooperation Council (GCC) producers beyond just Iran's direct adversaries."
+            "Market sentiment is highly reactive to diplomatic developments between the US and Iran, indicating fragile risk appetite.",
+            "A sustained de-escalation could trigger a broader rotation from safe-haven assets back into equities and emerging markets."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Brent Crude Oil Futures, Energy Sector ETFs (XLE), GCC Sovereign Credit Default Swaps (for hedging)",
-          "risk": "HIGH",
-          "thesis": "Direct attack on OPEC member's HQ introduces unprecedented physical supply risk and geopolitical premium. Expect sustained upward pressure on oil prices and volatility, benefiting energy equities and commodities, while regional sovereign debt risk increases."
-        },
-        "confidence": 92,
-        "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1647821905789?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
-      },
-      {
-        "title": "US Inflation to Spike Post-Iran War",
-        "fullTitle": "US Inflation Seen Spiking in First Snapshot Since Iran War",
-        "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Upcoming US inflation data is anticipated to show a sharp increase, primarily driven by a sudden surge in gasoline prices following the outbreak of the Iran conflict. This represents the first major economic data point capturing the war's impact on consumer prices. The spike complicates the Federal Reserve's monetary policy trajectory, potentially delaying expected rate cuts. Market focus will shift from growth to stagflation risks.",
-        "relations": [
-          {
-            "label": "US Inflation (CPI)",
-            "type": "entity",
-            "desc": "Key macroeconomic indicator, immediate focus for Fed policy."
-          },
-          {
-            "label": "Federal Reserve",
-            "type": "entity",
-            "desc": "Central bank facing policy dilemma from energy-driven inflation."
-          },
-          {
-            "label": "Gasoline Prices",
-            "type": "resource",
-            "desc": "Direct transmission channel of oil shock to consumer inflation."
-          },
-          {
-            "label": "Monetary Policy",
-            "type": "risk",
-            "desc": "Risk of prolonged higher interest rates due to persistent inflation."
-          },
-          {
-            "label": "Stagflation",
-            "type": "risk",
-            "desc": "Macro risk scenario combining high inflation with slowing growth."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Energy price shock directly challenges the 'last mile' of the Fed's inflation fight, forcing a reevaluation of the timing and pace of monetary easing.",
-            "Data will test market resilience, potentially triggering a repricing of rate-sensitive assets (tech, bonds) and a flight to inflation hedges (commodities, TIPS)."
-          ]
-        },
-        "investment": {
-          "action": "SHORT",
-          "asset": "Long-duration US Treasuries (TLT), Growth-heavy Tech Indices (NASDAQ)",
+          "asset": "Global Equity ETFs (e.g., VT, ACWI)",
           "risk": "MEDIUM",
-          "thesis": "Hot inflation print will force markets to price out near-term Fed rate cuts, leading to higher yields and pressure on long-duration assets. Growth stocks, particularly tech, are vulnerable to rising discount rates and a 'higher-for-longer' narrative."
+          "thesis": "Potential for a relief rally and reduced risk premium if diplomatic talks progress, favoring broad equity exposure."
         },
         "confidence": 88,
-        "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1604444242656?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "id": "NEX-8820",
+        "image": "https://images.unsplash.com/photo-1675140057667?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "ECB Debate: Hike or Hold Rates",
-        "fullTitle": "Sleijpen Says ECB Discussion Will Be Rate Hike or Hold",
-        "classification": "RESTRICTED",
+        "title": "Indonesia Merges Asset Managers",
+        "fullTitle": "Danantara Pushes Asset Manager Merger With $159M Deal",
+        "classification": "CONFIDENTIAL",
         "impactLevel": "MEDIUM",
-        "summary": "ECB Governing Council member Olaf Sleijpen indicates the next policy discussion will center on whether to increase interest rates or hold them steady, ruling out an immediate cut. This highlights persistent hawkish sentiment within the ECB council despite growing economic headwinds in Europe. The commentary suggests the ECB remains focused on inflation containment, even as the Fed's path diverges. It signals continued monetary tightening risk for the Eurozone.",
+        "summary": "Indonesia's sovereign wealth fund, Danantara, is advancing a plan to merge the asset management units of state-owned lenders. The $159 million deal aims to create a larger, more competitive entity to boost regional competitiveness. This consolidation reflects a strategic move to pool resources and expertise within the Indonesian financial sector. It signals increased state-directed capital market development in Southeast Asia.",
         "relations": [
           {
-            "label": "European Central Bank (ECB)",
+            "label": "Danantara",
             "type": "entity",
-            "desc": "Monetary authority for Eurozone, maintaining hawkish policy stance."
+            "desc": "Indonesian sovereign wealth fund driving consolidation"
           },
           {
-            "label": "Olaf Sleijpen",
+            "label": "Indonesia",
             "type": "entity",
-            "desc": "ECB Governing Council member, signaling policy direction."
+            "desc": "Sovereign state pursuing financial sector reform"
           },
           {
-            "label": "Interest Rates",
+            "label": "Asset Management",
             "type": "resource",
-            "desc": "Primary monetary policy tool under debate."
+            "desc": "Financial sector segment being consolidated"
           },
           {
-            "label": "Policy Divergence",
-            "type": "risk",
-            "desc": "Risk of ECB and Fed moving in different directions, impacting EUR/USD."
+            "label": "State-Owned Lenders",
+            "type": "entity",
+            "desc": "State banks whose units are being merged"
           },
           {
-            "label": "Eurozone Economy",
-            "type": "risk",
-            "desc": "Faces headwinds from high rates and potential energy inflation spillover."
+            "label": "Southeast Asia",
+            "type": "entity",
+            "desc": "Regional competitive landscape target"
           }
         ],
         "analysis": {
           "strategic": [
-            "ECB's commitment to 'hike or hold' narrative, while the Fed may pause, creates a rare window of potential policy divergence, strengthening the Euro against the Dollar in the near term.",
-            "Hawkish stance increases recession risks for the fragile Eurozone economy, potentially leading to a sharper growth slowdown and later, more aggressive policy reversal."
+            "This state-led consolidation aims to create a national champion in asset management to capture more regional capital flows.",
+            "It indicates a trend of financial sector rationalization in emerging markets to compete with larger global firms."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "EUR/USD Forex Pair, Eurozone Bank Stocks (EUFN)",
+          "asset": "Indonesian Financial Sector Stocks / IDX Finance Index",
           "risk": "MEDIUM",
-          "thesis": "Relative hawkishness from the ECB vs. a potentially paused Fed provides fundamental support for the Euro. Higher-for-longer rates in Europe also benefit net interest margins for Eurozone banks."
+          "thesis": "Sector consolidation should improve efficiency, scale, and profitability for the leading merged entity and its parent banks."
         },
         "confidence": 85,
-        "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1551741211037?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "id": "NEX-8821",
+        "image": "https://images.unsplash.com/photo-1622288759722?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "Thiel Bets $220M on Solar Cow Collars",
-        "fullTitle": "Peter Thiel's Big Bet on Solar-Powered Cow Collars",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Founders Fund, led by Peter Thiel, has invested $220 million in Halter, a New Zealand-based startup producing solar-powered cow collars for herd management. This represents a massive venture bet on agricultural technology (AgriTech) and precision livestock farming. The technology aims to automate grazing, improve animal health, and reduce labor costs. The investment highlights VC interest in scalable solutions for resource-intensive industries.",
+        "title": "Japan Retail Earnings Mixed",
+        "fullTitle": "Japan's Fast Retailing Profit Grows, Seven & i Mixed",
+        "classification": "RESTRICTED",
+        "impactLevel": "MEDIUM",
+        "summary": "Japan's earnings season begins with mixed results from retail giants Fast Retailing (Uniqlo) and Seven & i Holdings (7-Eleven). Fast Retailing showed profit growth, while Seven & i's results were mixed. The outlook for both companies remains uncertain due to the economic impact of the Middle East conflict. These results serve as a bellwether for Japanese consumer sentiment and global retail operations.",
         "relations": [
           {
-            "label": "Founders Fund / Peter Thiel",
+            "label": "Fast Retailing",
             "type": "entity",
-            "desc": "Prominent VC firm making a large-scale AgriTech bet."
+            "desc": "Owner of Uniqlo, reported profit growth"
           },
           {
-            "label": "Halter",
+            "label": "Seven & i Holdings",
             "type": "entity",
-            "desc": "Livestock management startup, recipient of major funding."
+            "desc": "Owner of 7-Eleven, reported mixed earnings"
           },
           {
-            "label": "Precision Livestock Farming",
-            "type": "tech",
-            "desc": "Technology sector applying IoT and automation to agriculture."
+            "label": "Japan",
+            "type": "entity",
+            "desc": "Market for earnings season kick-off"
           },
           {
-            "label": "AgriTech",
-            "type": "tech",
-            "desc": "High-growth investment sector focused on food production innovation."
+            "label": "Retail Sector",
+            "type": "resource",
+            "desc": "Sector under performance scrutiny"
           },
           {
-            "label": "Solar-Powered IoT",
-            "type": "tech",
-            "desc": "Enabling technology for remote, off-grid asset management."
+            "label": "Consumer Sentiment",
+            "type": "risk",
+            "desc": "Key uncertainty factor for outlook"
           }
         ],
         "analysis": {
           "strategic": [
-            "Mega-round signals institutional VC conviction in AgriTech's potential for massive efficiency gains and ROI in traditional industries, likely attracting further capital to the sector.",
-            "Investment in livestock management tech addresses ESG pressures (methane, land use) and supply chain resilience, aligning with broader themes of sustainable intensification of agriculture."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "AgriTech & Precision Agriculture ETFs (VEGI, related themes), IoT and Sensor Companies",
-          "risk": "HIGH",
-          "thesis": "Founders Fund's large bet validates the AgriTech thesis and may catalyze sector-wide interest. Early exposure to the ecosystem through thematic ETFs or enabling technology providers offers diversified play on this trend, though individual startup risk remains high."
-        },
-        "confidence": 82,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1552890839792?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Delve Parts Ways with Y Combinator",
-        "fullTitle": "Embattled Startup Delve Has 'Parted Ways' with Y Combinator",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Compliance startup Delve has ended its relationship with the prestigious accelerator Y Combinator amidst ongoing controversy. The separation likely results from reputational damage or governance issues surrounding the startup. Losing Y Combinator's backing severely impacts Delve's credibility, network access, and future fundraising prospects. This highlights the increasing importance of governance and compliance for startups themselves.",
-        "relations": [
-          {
-            "label": "Delve",
-            "type": "entity",
-            "desc": "Compliance startup facing controversy and reputational damage."
-          },
-          {
-            "label": "Y Combinator",
-            "type": "entity",
-            "desc": "Top-tier startup accelerator, severed ties with Delve."
-          },
-          {
-            "label": "Startup Governance",
-            "type": "risk",
-            "desc": "Critical risk factor for early-stage company survival and backing."
-          },
-          {
-            "label": "Compliance Tech (RegTech)",
-            "type": "tech",
-            "desc": "Sector in which Delve operates, facing heightened scrutiny."
-          },
-          {
-            "label": "Reputational Risk",
-            "type": "risk",
-            "desc": "Key vulnerability for startups, especially in trust-based sectors like compliance."
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "YC's public dissociation acts as a severe market signal, effectively blacklisting Delve and serving as a warning to other portfolio companies about governance standards.",
-            "Incident may trigger increased due diligence by VCs on founder conduct and internal compliance, particularly for startups selling governance/security solutions ('the cobbler's children')."
+            "Diverging performance within Japanese retail highlights company-specific execution over broad sector trends.",
+            "Geopolitical uncertainty is a cited headwind, showing how global conflicts directly impact corporate guidance in Asia."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Private Market Exposure to Delve (if possible), Caution on late-stage RegTech with governance questions",
+          "asset": "Seven & i Holdings (SVNDY / 3382.T)",
           "risk": "HIGH",
-          "thesis": "Loss of top-tier accelerator support is often a leading indicator of startup failure. For investors in private markets or later-stage rounds, this event flags extreme company-specific risk. It suggests avoiding any further capital exposure to Delve and scrutinizing similar companies."
+          "thesis": "Mixed results and uncertain outlook, particularly for its international convenience store operations, may lead to underperformance versus clearer growth stories like Fast Retailing."
+        },
+        "confidence": 82,
+        "id": "NEX-8822",
+        "image": "https://images.unsplash.com/photo-1503217074700?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+      },
+      {
+        "title": "Polymarket Halts Rescue Bets",
+        "fullTitle": "Polymarket Took Down Wagers Tied to Rescue of Officer",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "MEDIUM",
+        "summary": "Prediction market Polymarket removed wagering contracts tied to the rescue date of a downed U.S. Air Force officer. A Democratic congressman harshly criticized the platform for allowing bets on such a sensitive military event. This incident highlights the regulatory and ethical gray areas surrounding prediction markets. It raises questions about the boundaries of permissible speculation on real-world events.",
+        "relations": [
+          {
+            "label": "Polymarket",
+            "type": "entity",
+            "desc": "Prediction market platform facing criticism"
+          },
+          {
+            "label": "U.S. Congress",
+            "type": "entity",
+            "desc": "Source of regulatory and political scrutiny"
+          },
+          {
+            "label": "Prediction Markets",
+            "type": "tech",
+            "desc": "Technology platform for event speculation"
+          },
+          {
+            "label": "Regulatory Risk",
+            "type": "risk",
+            "desc": "Primary threat to prediction market business models"
+          },
+          {
+            "label": "Information Integrity",
+            "type": "risk",
+            "desc": "Risk of markets influencing or profiting from sensitive events"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This event significantly increases regulatory scrutiny risk for the entire prediction market/crypto-based betting sector.",
+            "It forces a strategic dilemma for platforms: censor sensitive topics for survival or uphold permissionless principles and face backlash."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Cryptocurrencies associated with prediction markets / DeFi governance tokens",
+          "risk": "HIGH",
+          "thesis": "Increased regulatory and political headwinds following high-profile controversies could depress valuations and limit growth for platforms in this niche."
+        },
+        "confidence": 87,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1568581304802?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
+      },
+      {
+        "title": "Microsoft Limits Copilot Liability",
+        "fullTitle": "Copilot is 'For Entertainment Only,' Says Microsoft Terms",
+        "classification": "RESTRICTED",
+        "impactLevel": "INFO",
+        "summary": "Microsoft's terms of use for its AI Copilot state it is 'for entertainment purposes only,' warning users not to unthinkingly trust its outputs. This mirrors similar disclaimers from other AI companies in their terms of service. The move is a legal strategy to limit liability for potential inaccuracies or harms caused by the AI. It highlights the gap between marketing promises and the legal safeguards employed by developers.",
+        "relations": [
+          {
+            "label": "Microsoft",
+            "type": "entity",
+            "desc": "AI developer limiting liability via terms of use"
+          },
+          {
+            "label": "Copilot",
+            "type": "tech",
+            "desc": "Generative AI product subject to disclaimer"
+          },
+          {
+            "label": "AI Hallucination",
+            "type": "risk",
+            "desc": "Core technical risk the disclaimer addresses"
+          },
+          {
+            "label": "Liability Management",
+            "type": "risk",
+            "desc": "Corporate legal strategy for emerging tech"
+          },
+          {
+            "label": "Terms of Service",
+            "type": "tech",
+            "desc": "Legal instrument for risk transfer"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "This is a standard but critical risk-mitigation tactic for AI firms, creating a legal moat against misuse claims.",
+            "It establishes a low legal standard for output reliability, which may slow enterprise adoption for high-stakes applications until accuracy improves."
+          ]
+        },
+        "investment": {
+          "action": "LONG",
+          "asset": "Microsoft (MSFT)",
+          "risk": "LOW",
+          "thesis": "Proactive liability management demonstrates mature risk governance, reducing long-tail legal risks associated with generative AI deployment and protecting the core enterprise business."
         },
         "confidence": 90,
         "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1606964233593?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "image": "https://images.unsplash.com/photo-1673672186497?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
       },
       {
-        "title": "Claude Code Raises Price for OpenClaw",
-        "fullTitle": "Anthropic to Charge Claude Code Subscribers Extra for OpenClaw",
-        "classification": "RESTRICTED",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic will increase costs for Claude Code subscribers by charging extra for usage of its coding assistant with OpenClaw and other third-party tools. This move represents a strategy to monetize high-value, heavy-usage enterprise and developer customers more effectively. It signals a shift in the AI-as-a-Service business model from flat-rate subscriptions towards usage-based or tiered pricing for advanced features. This may pressure margins for heavy users but improve profitability for Anthropic.",
+        "title": "Friendship Apps Gain Popularity",
+        "fullTitle": "Apps Promise to Help People Make New Friends",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "A growing number of mobile applications are targeting the market for platonic friendship formation. These range from friend discovery platforms like BFF to event-focused apps like Timeleft. The trend responds to increasing social fragmentation and demand for new connection methods post-pandemic. It represents a niche but growing segment within the broader social networking and wellness technology sector.",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "BFF",
             "type": "entity",
-            "desc": "AI company (Claude developer) implementing new pricing strategy."
+            "desc": "Friend discovery platform"
           },
           {
-            "label": "Claude Code",
+            "label": "Timeleft",
+            "type": "entity",
+            "desc": "Event-focused friendship app"
+          },
+          {
+            "label": "Social Networking",
             "type": "tech",
-            "desc": "AI-powered coding assistant product, target of price change."
+            "desc": "Broader technology sector"
           },
           {
-            "label": "OpenClaw",
-            "type": "tech",
-            "desc": "Third-party tool integration now behind a paywall."
-          },
-          {
-            "label": "AI Monetization",
+            "label": "Social Fragmentation",
             "type": "risk",
-            "desc": "Business model risk and evolution for AI service providers."
+            "desc": "Societal trend driving demand"
           },
           {
-            "label": "Developer Tools",
-            "type": "tech",
-            "desc": "Competitive market where pricing changes affect adoption."
+            "label": "Digital Wellness",
+            "type": "resource",
+            "desc": "Market segment for connection apps"
           }
         ],
         "analysis": {
           "strategic": [
-            "Pricing change reflects the high compute costs of advanced AI features and a strategic pivot to capture more value from power users, a trend likely to be adopted by competitors.",
-            "This may fragment the developer AI tool market, creating opportunities for lower-cost or open-source alternatives while solidifying Anthropic's focus on the premium, enterprise segment."
+            "This represents a market segmentation within social tech, targeting unmet needs not fully served by dating or professional networks.",
+            "Successful apps in this space may become acquisition targets for larger social media companies seeking to diversify and address wellness trends."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Companies with Robust AI Infrastructure/Compute (e.g., Cloud Providers - MSFT, AMZN), Open-Source AI Tooling",
-          "risk": "MEDIUM",
-          "thesis": "Anthropic's move validates the high cost of serving advanced AI models, benefiting underlying compute and infrastructure providers. It may also drive demand for cost-effective alternatives, benefiting open-source ecosystems and companies that lower the barrier to AI tool integration."
+          "asset": "Social Media & Networking ETF (e.g., SOCL) / Venture Capital in social tech",
+          "risk": "HIGH",
+          "thesis": "Early exposure to a nascent but growing trend in social technology focused on genuine connection, which could see high growth rates and eventual M&A activity."
         },
-        "confidence": 86,
+        "confidence": 83,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1692278935553?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1669427262489?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ],
     "es": [
       {
-        "title": "Ataque con drones a sede petrolera kuwaití",
-        "fullTitle": "Sede de Kuwait Petroleum incendiada por ataque con drones iraníes",
+        "title": "Mercados suben por posible diálogo Irán-EEUU",
+        "fullTitle": "Acciones suben, petróleo modera ganancias tras noticias de diálogo",
         "classification": "CONFIDENTIAL",
-        "impactLevel": "CRITICAL",
-        "summary": "La sede corporativa de Kuwait Petroleum Corporation fue incendiada tras un ataque con drones no tripulados atribuido a Irán. Este incidente representa una escalada en las tensiones regionales en el Golfo Pérsico. La infraestructura energética crítica ha sido dañada, lo que podría interrumpir las operaciones. El ataque forma parte de una serie de acciones hostiles contra los vecinos de Irán.",
+        "impactLevel": "HIGH",
+        "summary": "Los mercados de renta variable extendieron sus ganancias ante el optimismo de que Irán y Estados Unidos puedan evitar una mayor escalada del conflicto. Los compradores en correcciones emergieron, impulsando las acciones. El petróleo recortó parte de sus ganancias iniciales tras el informe sobre posibles conversaciones. La percepción de reducción del riesgo geopolítico está influyendo en los flujos de capital.",
         "relations": [
           {
-            "label": "Kuwait Petroleum Corp.",
+            "label": "Mercados de renta variable",
             "type": "entity",
-            "desc": "Empresa petrolera estatal de Kuwait"
+            "desc": "Índices bursátiles globales"
+          },
+          {
+            "label": "Petróleo (WTI/Brent)",
+            "type": "resource",
+            "desc": "Commodity energético clave"
+          },
+          {
+            "label": "Riesgo geopolítico",
+            "type": "risk",
+            "desc": "Factor de incertidumbre en mercados"
           },
           {
             "label": "Irán",
             "type": "entity",
-            "desc": "Estado actor del ataque con drones"
+            "desc": "Actor geopolítico clave"
           },
           {
-            "label": "Golfo Pérsico",
-            "type": "resource",
-            "desc": "Región geopolítica crítica para la energía"
-          },
-          {
-            "label": "Infraestructura energética",
-            "type": "resource",
-            "desc": "Activo estratégico objetivo"
-          },
-          {
-            "label": "Tensión geopolítica",
-            "type": "risk",
-            "desc": "Riesgo de escalada regional"
+            "label": "Estados Unidos",
+            "type": "entity",
+            "desc": "Principal economía y actor global"
           }
         ],
         "analysis": {
           "strategic": [
-            "La vulnerabilidad de la infraestructura energógica en la región aumenta el riesgo prima por geopolítica.",
-            "Los ataques directos a instalaciones estatales representan una nueva fase de confrontación proxy."
+            "La desescalada retórica entre Irán y EEUU podría estabilizar temporalmente los mercados, pero la volatilidad sigue latente.",
+            "Los inversores están utilizando cualquier señal de distensión para cubrir posiciones o entrar en mercados sobrevendidos, mostrando sensibilidad extrema a las noticias."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Futuros de petróleo Brent / ETF de energía (XLE)",
-          "risk": "HIGH",
-          "thesis": "Las interrupciones en la infraestructura y el aumento del riesgo geopolítico en el Golfo impulsarán los precios del crudo a corto plazo."
+          "asset": "Índices bursátiles globales (ej. S&P 500, MSCI World)",
+          "risk": "MEDIUM",
+          "thesis": "Reducción percibida del premio por riesgo geopolítico en el corto plazo, con flujos hacia activos de riesgo si se confirma la distensión."
         },
         "confidence": 88,
         "id": "NEX-8820",
-        "image": "https://images.unsplash.com/photo-1544068928401?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
+        "image": "https://images.unsplash.com/photo-1547833807309?q=80&w=800&auto=format&fit=crop&keyword=quantum%20computing"
       },
       {
-        "title": "Inflación de EEUU se dispara tras guerra",
-        "fullTitle": "Inflación de EEUU repunta en primer dato desde guerra con Irán",
+        "title": "Danantara fusiona gestores con acuerdo de $159M",
+        "fullTitle": "Fondo soberano indonesio impulsa fusión de gestoras de activos",
         "classification": "RESTRICTED",
-        "impactLevel": "HIGH",
-        "summary": "Se espera que los datos de inflación clave de Estados Unidos de la próxima semana muestren un fuerte repunte. El aumento repentino en los precios de la gasolina al consumidor será un factor principal. Este es el primer indicador macroeconómico importante desde el inicio del conflicto con Irán. La presión inflacionaria podría influir en la política de la Reserva Federal.",
+        "impactLevel": "MEDIUM",
+        "summary": "El fondo soberano de riqueza de Indonesia, Danantara, está avanzando en un plan para fusionar las unidades de gestión de activos de los bancos estatales. El acuerdo valorado en 159 millones de dólares busca crear una entidad más grande y competitiva a nivel regional. El objetivo es consolidar recursos y experiencia para competir mejor con gestores internacionales. Esta consolidación refleja una tendencia más amplia en los mercados emergentes de crear campeones nacionales en servicios financieros.",
         "relations": [
           {
-            "label": "Inflación de EEUU",
-            "type": "risk",
-            "desc": "Indicador macroeconómico clave"
-          },
-          {
-            "label": "Precios de la gasolina",
-            "type": "resource",
-            "desc": "Componente principal del CPI"
-          },
-          {
-            "label": "Reserva Federal",
+            "label": "Danantara",
             "type": "entity",
-            "desc": "Banco central de Estados Unidos"
+            "desc": "Fondo soberano de riqueza de Indonesia"
           },
           {
-            "label": "Conflicto Irán-EEUU",
+            "label": "Gestión de activos",
+            "type": "entity",
+            "desc": "Sector de servicios financieros"
+          },
+          {
+            "label": "Bancos estatales indonesios",
+            "type": "entity",
+            "desc": "Entidades financieras de propiedad gubernamental"
+          },
+          {
+            "label": "Competitividad regional",
             "type": "risk",
-            "desc": "Causa geopolítica del shock"
+            "desc": "Factor estratégico para crecimiento"
           },
           {
-            "label": "Datos CPI",
-            "type": "resource",
-            "desc": "Indicador de inflación al consumidor"
+            "label": "Consolidación financiera",
+            "type": "risk",
+            "desc": "Tendencia del mercado"
           }
         ],
         "analysis": {
           "strategic": [
-            "Un repunte inflacionario sostenido limitará el espacio de la Fed para recortar tasas, endureciendo las condiciones financieras.",
-            "Los shocks de precios de la energía están reacoplando las expectativas de inflación a medio plazo."
+            "La consolidación impulsada por el estado busca crear un actor financiero dominante en el sudeste asiático, alterando el panorama competitivo.",
+            "Esta movida podría presionar a los gestores de activos extranjeros en la región y desencadenar más fusiones y adquisiciones defensivas."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Bonos del Tesoro a largo plazo (TLT) / Empresas altamente endeudadas",
+          "action": "LONG",
+          "asset": "Sector financiero indonesio / Fondos de mercados emergentes ASEAN",
           "risk": "MEDIUM",
-          "thesis": "Las expectativas de tasas de interés más altas por más tiempo presionarán los precios de los bonos y aumentarán el costo de la deuda."
+          "thesis": "Racionalización y fortalecimiento del sector financiero local respaldado por el estado, con potencial de mejorar eficiencias y rentabilidad."
         },
         "confidence": 85,
         "id": "NEX-8821",
-        "image": "https://images.unsplash.com/photo-1505382966790?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
+        "image": "https://images.unsplash.com/photo-1539960892312?q=80&w=800&auto=format&fit=crop&keyword=cryptocurrency"
       },
       {
-        "title": "ECB debate subir o mantener tasas",
-        "fullTitle": "Sleijpen: discusión del BCE será subir tasas o mantener",
+        "title": "Resultados mixtos de Uniqlo y 7-Eleven",
+        "fullTitle": "Ganancias de Fast Retailing crecen, resultados mixtos para Seven & i",
         "classification": "RESTRICTED",
         "impactLevel": "MEDIUM",
-        "summary": "Olaf Sleijpen, miembro del Consejo de Gobierno del BCE, indicó que el próximo debate de política monetaria se centrará en subir las tasas de interés o mantenerlas estables. Esto refleja la continua preocupación del banco central por la inflación persistente en la zona euro. La comunicación sugiere que una pausa no está completamente descartada, pero la opción de un aumento sigue viva. El contexto geopolítico y de precios de energía influirá en la decisión.",
+        "summary": "Japón inicia su temporada de resultados con cifras de los dueños de Uniqlo y las tiendas 7-Eleven. Fast Retailing, propietaria de Uniqlo, reportó crecimiento en sus ganancias. Por otro lado, se espera que los resultados de Seven & i Holdings sean mixtos. La incertidumbre sobre el panorama económico, agravada por el conflicto en Medio Oriente, pesa sobre las perspectivas del sector minorista.",
         "relations": [
           {
-            "label": "Banco Central Europeo (BCE)",
+            "label": "Fast Retailing",
             "type": "entity",
-            "desc": "Autoridad monetaria de la zona euro"
+            "desc": "Empresa matriz de Uniqlo"
           },
           {
-            "label": "Olaf Sleijpen",
+            "label": "Seven & i Holdings",
             "type": "entity",
-            "desc": "Miembro del Consejo de Gobierno del BCE"
+            "desc": "Conglomerado dueño de 7-Eleven"
           },
           {
-            "label": "Tasas de interés",
-            "type": "resource",
-            "desc": "Herramienta de política monetaria"
+            "label": "Sector minorista japonés",
+            "type": "entity",
+            "desc": "Industria de venta al por menor"
           },
           {
-            "label": "Inflación zona euro",
+            "label": "Conflicto en Medio Oriente",
             "type": "risk",
-            "desc": "Riesgo macroeconómico principal"
+            "desc": "Factor de riesgo geopolítico"
           },
           {
-            "label": "Política monetaria",
+            "label": "Temporada de resultados",
             "type": "risk",
-            "desc": "Riesgo de ajuste financiero"
+            "desc": "Período de divulgación de ganancias"
           }
         ],
         "analysis": {
           "strategic": [
-            "El BCE mantiene una postura hawkish, priorizando el control de la inflación sobre el apoyo al crecimiento, lo que diverge de otros bancos centrales.",
-            "La incertidumbre en la comunicación aumenta la volatilidad en los mercados de renta fija europeos."
+            "El desempeño divergente dentro del retail japonés subraya la resistencia de ciertos modelos de negocio (moda básica) frente a otros (conveniencia) en el entorno actual.",
+            "La incertidumbre geopolítica está llevando a una cautela generalizada en las previsiones de las empresas, lo que podría limitar el optimismo del mercado."
           ]
         },
         "investment": {
-          "action": "SHORT",
-          "asset": "Euro Stoxx 50 / Bonos periféricos europeos (ej. Italia)",
-          "risk": "MEDIUM",
-          "thesis": "Un entorno de tipos más altos por más tiempo en Europa pesará sobre la valoración de acciones y sobre la deuda de países con alta carga."
+          "action": "LONG",
+          "asset": "Fast Retailing (9983.T)",
+          "risk": "LOW",
+          "thesis": "Modelo de negocio resistente (ropa básica) mostrando fortaleza en ganancias, potencialmente menos afectado por volatilidad geopolítica que el retail de conveniencia."
         },
         "confidence": 82,
         "id": "NEX-8822",
-        "image": "https://images.unsplash.com/photo-1609060307549?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
+        "image": "https://images.unsplash.com/photo-1634964078526?q=80&w=800&auto=format&fit=crop&keyword=satellite%20space"
       },
       {
-        "title": "Thiel apuesta por collares solares para ganado",
-        "fullTitle": "La gran apuesta de Peter Thiel en collares solares para vacas",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Founders Fund, el fondo de capital riesgo cofundado por Peter Thiel, ha invertido 220 millones de dólares en Halter, una startup de gestión ganadera. Halter desarrolla collares inteligentes con energía solar para vacas, permitiendo el pastoreo virtual y la monitorización. La inversión representa una apuesta significativa en agtech y soluciones de sostenibilidad para la agricultura. El monto sugiere una fuerte convicción en el escalado de esta tecnología de nicho.",
+        "title": "Polymarket retira apuestas sobre rescate militar",
+        "fullTitle": "Mercado de predicciones retira apuestas sobre rescate de oficial",
+        "classification": "CONFIDENTIAL",
+        "impactLevel": "HIGH",
+        "summary": "Polymarket, una plataforma de mercados de predicción, retiró las apuestas relacionadas con la fecha en que Estados Unidos confirmaría el rescate de miembros del servicio de la Fuerza Aérea derribados sobre Irán. Un congresista demócrata criticó duramente a la plataforma por permitir este tipo de apuestas. El incidente destaca los riesgos regulatorios y éticos de los mercados de predicción sobre eventos sensibles. La presión política podría acelerar la regulación de este sector emergente.",
         "relations": [
           {
-            "label": "Founders Fund",
+            "label": "Polymarket",
             "type": "entity",
-            "desc": "Fondo de capital riesgo de Peter Thiel"
+            "desc": "Plataforma de mercados de predicción descentralizados"
           },
           {
-            "label": "Halter",
+            "label": "Mercados de predicción",
+            "type": "tech",
+            "desc": "Plataformas para apostar sobre resultados de eventos"
+          },
+          {
+            "label": "Riesgo regulatorio",
+            "type": "risk",
+            "desc": "Amenaza de intervención gubernamental"
+          },
+          {
+            "label": "Eventos geopolíticos sensibles",
+            "type": "risk",
+            "desc": "Temática de alto riesgo para apuestas"
+          },
+          {
+            "label": "Congreso de EEUU",
             "type": "entity",
-            "desc": "Startup de gestión ganadera con tecnología"
-          },
-          {
-            "label": "Agtech / Agricultura de precisión",
-            "type": "tech",
-            "desc": "Sector tecnológico de la inversión"
-          },
-          {
-            "label": "Energía solar",
-            "type": "tech",
-            "desc": "Fuente de energía de la solución"
-          },
-          {
-            "label": "Sostenibilidad agrícola",
-            "type": "resource",
-            "desc": "Tema de inversión subyacente"
+            "desc": "Órgano legislativo con poder de regulación"
           }
         ],
         "analysis": {
           "strategic": [
-            "El capital riesgo está asignando grandes sumas a soluciones climáticas aplicadas a industrias tradicionales como la ganadería.",
-            "La inversión señala una tendencia hacia la 'descarbonización' de la cadena de suministro de alimentos."
-          ]
-        },
-        "investment": {
-          "action": "LONG",
-          "asset": "ETF de Agtech & Food Innovation (VEGI) / Empresas de agricultura de precisión",
-          "risk": "HIGH",
-          "thesis": "Las grandes rondas de financiación en agtech validan el sector y podrían catalizar un mayor interés de los inversores en soluciones de eficiencia agrícola."
-        },
-        "confidence": 80,
-        "id": "NEX-8823",
-        "image": "https://images.unsplash.com/photo-1529147118884?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
-      },
-      {
-        "title": "Startup Delve se separa de Y Combinator",
-        "fullTitle": "Delve, startup en problemas, 'se separa' de Y Combinator",
-        "classification": "UNCLASSIFIED",
-        "impactLevel": "INFO",
-        "summary": "Delve, una startup de software de cumplimiento normativo, ha terminado su relación con la prestigiosa aceleradora Y Combinator. La separación se produce en medio de una controversia no especificada que rodea a la empresa. Perder el apoyo de YC es un revés significativo para una startup en etapa temprana. El incidente subraya los riesgos reputacionales en el ecosistema de startups.",
-        "relations": [
-          {
-            "label": "Delve",
-            "type": "entity",
-            "desc": "Startup de software de cumplimiento (compliance)"
-          },
-          {
-            "label": "Y Combinator",
-            "type": "entity",
-            "desc": "Aceleradora de startups de renombre"
-          },
-          {
-            "label": "Controversia",
-            "type": "risk",
-            "desc": "Riesgo reputacional no especificado"
-          },
-          {
-            "label": "Ecosistema startup",
-            "type": "risk",
-            "desc": "Riesgo de desapalancamiento de red"
-          },
-          {
-            "label": "Software de cumplimiento",
-            "type": "tech",
-            "desc": "Sector de la startup"
-          }
-        ],
-        "analysis": {
-          "strategic": [
-            "Los aceleradores de primer nivel como YC están dispuestos a cortar lazos para proteger su marca ante startups problemáticas.",
-            "Este caso puede aumentar el escrutinio del due diligence por parte de futuros inversores en rondas de la startup."
+            "El escrutinio sobre apuestas relacionadas con seguridad nacional podría llevar a una represión regulatoria contra los mercados de predicción, limitando su crecimiento.",
+            "Este caso establece un precedente sobre los límites éticos y legales de la 'wisdom of crowds' aplicada a información clasificada o eventos trágicos."
           ]
         },
         "investment": {
           "action": "SHORT",
-          "asset": "Posición especulativa en futura ronda de Delve (si existe)",
+          "asset": "Sector de mercados de predicción / Cripto (si está vinculado)",
           "risk": "HIGH",
-          "thesis": "La pérdida del sello YC y la controversia dañan severamente la capacidad de la startup para levantar capital futuro a buenas valoraciones, aumentando el riesgo de fracaso."
+          "thesis": "Mayor riesgo regulatorio y de reputación para plataformas de predicción, con potencial de prohibiciones o restricciones severas tras la controversia."
         },
-        "confidence": 85,
-        "id": "NEX-8824",
-        "image": "https://images.unsplash.com/photo-1621452453642?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+        "confidence": 90,
+        "id": "NEX-8823",
+        "image": "https://images.unsplash.com/photo-1582010320633?q=80&w=800&auto=format&fit=crop&keyword=nuclear%20fusion"
       },
       {
-        "title": "Anthropic sube precio por OpenClaw en Claude",
-        "fullTitle": "Anthropic cobrará extra por uso de OpenClaw en Claude Code",
+        "title": "Términos de Microsoft: Copilot es 'solo entretenimiento'",
+        "fullTitle": "Microsoft advierte que Copilot es 'solo para entretenimiento'",
         "classification": "UNCLASSIFIED",
-        "impactLevel": "MEDIUM",
-        "summary": "Anthropic anunció que los suscriptores de Claude Code deberán pagar una tarifa adicional para usar el asistente de codificación con OpenClaw y otras herramientas de terceros. Este cambio refleja una estrategia de monetización más granular para sus productos de IA. Podría aumentar el costo total de propiedad para desarrolladores profesionales. La medida sigue la tendencia de las empresas de IA de segmentar funciones premium.",
+        "impactLevel": "INFO",
+        "summary": "Los términos de uso de Microsoft establecen que su herramienta de IA Copilot es 'solo para fines de entretenimiento'. Esta advertencia refleja la postura de las propias compañías de IA, que instan a los usuarios a no confiar ciegamente en los resultados de los modelos. Los escépticos de la IA han señalado durante mucho tiempo los riesgos de depender de estas herramientas para información crítica. Los descargos de responsabilidad buscan limitar la responsabilidad legal de las empresas.",
         "relations": [
           {
-            "label": "Anthropic",
+            "label": "Microsoft",
             "type": "entity",
-            "desc": "Empresa de IA creadora de Claude"
+            "desc": "Gigante tecnológico desarrollador de Copilot"
           },
           {
-            "label": "Claude Code",
+            "label": "Copilot (IA)",
             "type": "tech",
-            "desc": "Asistente de codificación basado en IA"
+            "desc": "Asistente de IA generativa de Microsoft"
           },
           {
-            "label": "OpenClaw",
+            "label": "Responsabilidad legal",
+            "type": "risk",
+            "desc": "Riesgo de litigios por resultados de IA"
+          },
+          {
+            "label": "Términos de uso",
+            "type": "risk",
+            "desc": "Contrato que limita la responsabilidad"
+          },
+          {
+            "label": "IA Generativa",
             "type": "tech",
-            "desc": "Herramienta de terceros para desarrollo"
-          },
-          {
-            "label": "Monetización de IA",
-            "type": "resource",
-            "desc": "Estrategia de negocio"
-          },
-          {
-            "label": "Ecosistema de desarrolladores",
-            "type": "entity",
-            "desc": "Base de clientes afectada"
+            "desc": "Tecnología de modelos de lenguaje"
           }
         ],
         "analysis": {
           "strategic": [
-            "Las empresas líderes en IA están pasando de modelos de suscripción plana a modelos de 'pago por uso' o por funcionalidad para maximizar ingresos.",
-            "Esto podría fragmentar el mercado, creando espacio para competidores con modelos de precios más simples."
+            "Las advertencias en los términos de uso son una estrategia defensiva para mitigar el riesgo legal ante resultados erróneos o dañinos de la IA.",
+            "Esta discrepancia entre el marketing ('aumenta la productividad') y los términos legales ('solo entretenimiento') podría erosionar la confianza del usuario y ralentizar la adopción empresarial."
+          ]
+        },
+        "investment": {
+          "action": "SHORT",
+          "asset": "Empresas con alta dependencia de IA generativa para funciones críticas",
+          "risk": "MEDIUM",
+          "thesis": "Mayor conciencia de los límites y riesgos legales de la IA generativa podría moderar las expectativas de crecimiento y adopción a corto plazo."
+        },
+        "confidence": 86,
+        "id": "NEX-8824",
+        "image": "https://images.unsplash.com/photo-1512096162790?q=80&w=800&auto=format&fit=crop&keyword=AI%20artificial%20intelligence"
+      },
+      {
+        "title": "Apps para hacer amigos ganan popularidad",
+        "fullTitle": "Aplicaciones para hacer amigos prometen combatir la soledad",
+        "classification": "UNCLASSIFIED",
+        "impactLevel": "INFO",
+        "summary": "Ante la creciente búsqueda de formas de hacer nuevos amigos, han surgido aplicaciones dedicadas a este fin. La lista incluye desde plataformas de descubrimiento de amigos como BFF hasta aplicaciones centradas en eventos como Timeleft. Este fenómeno refleja tendencias sociales más amplias como el aislamiento post-pandemia y la digitalización de las relaciones. El nicho de 'friendship tech' está atrayendo atención de inversores y usuarios.",
+        "relations": [
+          {
+            "label": "Aplicaciones de amistad (BFF)",
+            "type": "tech",
+            "desc": "Plataformas para conectar personas y hacer amigos"
+          },
+          {
+            "label": "Timeleft",
+            "type": "entity",
+            "desc": "App centrada en eventos sociales"
+          },
+          {
+            "label": "Soledad / Aislamiento social",
+            "type": "risk",
+            "desc": "Tendencia social que impulsa la demanda"
+          },
+          {
+            "label": "Friendship Tech",
+            "type": "tech",
+            "desc": "Nicho tecnológico emergente"
+          },
+          {
+            "label": "Comportamiento del consumidor",
+            "type": "risk",
+            "desc": "Factor de mercado para apps sociales"
+          }
+        ],
+        "analysis": {
+          "strategic": [
+            "La monetización de la amistad y la conexión social representa una nueva frontera para las apps, pero enfrenta desafíos únicos de engagement y seguridad.",
+            "El éxito de este nicho depende de resolver problemas de confianza y calidad de las conexiones, algo históricamente difícil de escalar."
           ]
         },
         "investment": {
           "action": "LONG",
-          "asset": "Empresas con modelos de monetización de IA claros y escalables (ej. software tradicional que incorpora IA)",
-          "risk": "MEDIUM",
-          "thesis": "La validación de modelos de precios premium para IA específica por función es positiva para el margen de toda la industria, beneficiando a empresas con estrategias de precios bien definidas."
+          "asset": "Empresas de tecnología social con modelos de suscripción sólidos",
+          "risk": "HIGH",
+          "thesis": "Demanda social genuina por conexión, con potencial de crecimiento en un nicho menos saturado que las apps de citas tradicionales, aunque con alto riesgo de adopción."
         },
-        "confidence": 83,
+        "confidence": 81,
         "id": "NEX-8825",
-        "image": "https://images.unsplash.com/photo-1530689324978?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
+        "image": "https://images.unsplash.com/photo-1518061539129?q=80&w=800&auto=format&fit=crop&keyword=cybersecurity"
       }
     ]
   }
