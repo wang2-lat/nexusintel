@@ -315,6 +315,10 @@ class LLMAnalyzer:
                 item["id"] = f"NEX-{random.randint(1000, 9999)}"
                 item["category"] = cat
                 item["category_label"] = articles[i].get("category_label", "") if i < len(articles) else ""
+                # Keep the original article link so the site can show a source link.
+                if i < len(articles):
+                    item["url"] = articles[i].get("url", "")
+                    item["source"] = articles[i].get("source", "")
                 keywords = IMAGE_KEYWORDS.get(cat, IMAGE_KEYWORDS["market"])
                 item["image"] = self._get_unsplash_image(random.choice(keywords))
 
