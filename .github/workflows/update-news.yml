@@ -25,7 +25,9 @@ jobs:
 
       - name: Run News Update Script
         env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          # 未设置 LLM_API_KEY 时使用仓库现有的 DEEPSEEK_API_KEY
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY || secrets.DEEPSEEK_API_KEY }}
+          # 留空时脚本默认 https://api.deepseek.com + deepseek-flash
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
