@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 NexusIntel 新闻自动更新脚本 v2
-多源抓取 + 分类 + GPT-5.2 分析 + Gmail/Telegram 推送
+多源抓取 + 分类 + DeepSeek（OpenAI 兼容）分析 + Gmail/Telegram 推送
 """
 
 import os
+import sys
 import json
 import random
 import re
@@ -18,10 +19,15 @@ from typing import List, Dict, Any
 from openai import OpenAI
 
 # ============== 配置 ==============
-# LLM API (bobdong.cn - OpenAI 兼容)
-LLM_API_KEY = os.environ.get("LLM_API_KEY", "")
-LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://bobdong.cn/v1")
-LLM_MODEL = os.environ.get("LLM_MODEL", "gpt-5.2")
+# LLM API (OpenAI 兼容)。默认使用 DeepSeek 官方接口。
+# 优先读取 LLM_API_KEY，未设置时回退到 DEEPSEEK_API_KEY（仓库现有的 Secret）。
+# 注意：GitHub Actions 中未设置的 secret 会以空字符串传入，所以用 `or` 而不是 get 的默认值。
+LLM_API_KEY = os.environ.get("LLM_API_KEY") or os.environ.get("DEEPSEEK_API_KEY") or ""
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL") or "https://api.deepseek.com"
+LLM_MODEL = os.environ.get("LLM_MODEL") or "deepseek-flash"
+# DeepSeek 默认开启“思考模式”，会额外消耗 token 并占用 max_tokens，导致 JSON 被截断。
+# 对 DeepSeek 接口默认关闭；设置 LLM_THINKING=enabled 可重新开启。
+LLM_THINKING = os.environ.get("LLM_THINKING") or "disabled"
 
 # 新闻源 API
 GNEWS_API_KEY = os.environ.get("GNEWS_API_KEY", "")
@@ -292,7 +298,11 @@ class LLMAnalyzer:
         prompt = self._build_prompt(articles, lang)
         try:
             print(f"  🤖 {self.model} 分析 {len(articles)} 条 ({lang})...")
+            extra = {}
+            if "deepseek.com" in str(self.client.base_url):
+                extra["extra_body"] = {"thinking": {"type": LLM_THINKING}}
             response = self.client.chat.completions.create(
+                **extra,
                 model=self.model,
                 messages=[
                     {"role": "system", "content": "你是 NEXUS-9，顶级金融情报分析系统。严格按要求输出 JSON。"},
@@ -523,8 +533,8 @@ def main():
     print("=" * 60)
 
     if not LLM_API_KEY:
-        print("❌ LLM_API_KEY 未设置")
-        return
+        print("❌ LLM_API_KEY / DEEPSEEK_API_KEY 均未设置")
+        return 1
 
     # 1. 多源抓取
     print("\n📡 Step 1: 多源新闻抓取")
@@ -533,7 +543,7 @@ def main():
 
     if not articles:
         print("❌ 无法获取任何新闻")
-        return
+        return 1
 
     # 2. LLM 多语言分析
     print(f"\n🧠 Step 2: {LLM_MODEL} AI 分析")
@@ -546,7 +556,19 @@ def main():
 
     if not any(all_data.values()):
         print("❌ 所有语言分析失败")
-        return
+        return 1
+
+    # 部分语言失败时，保留该语言上一次的数据，避免网站上该语言变成空白
+    failed = [lang for lang, items in all_data.items() if not items]
+    if failed:
+        print(f"⚠️  以下语言分析失败，沿用旧数据: {failed}")
+        try:
+            with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+                old_langs = json.load(f).get("languages", {})
+            for lang in failed:
+                all_data[lang] = old_langs.get(lang, [])
+        except (OSError, ValueError) as e:
+            print(f"  无法读取旧数据: {e}")
 
     # 3. 保存
     print("\n💾 Step 3: 保存数据")
@@ -594,7 +616,8 @@ def main():
     print("\n" + "=" * 60)
     print(f"✨ 完成！{len(articles)} 条情报，{len(cat_stats)} 个板块")
     print("=" * 60)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
